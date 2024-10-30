@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domänenmodell Versicherung L2 Kern und Querschnitt"
+    id="id-b7d90fc7ce3d4458a7771e99ded56296"
+    documentation="Domänen werden als Capabilites abgebildet, sie sind nicht mit Prozessen oder Anwendungen gleichzusetzen&#xA;Domänenmodell Level 2 (spartenneutral)&#xA;">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8b6e089b29084805ba41e96fe6b88e7d"
+      textAlignment="1">
+    <features
+        name="labelExpression"
+        value="$vfolder{name} - $view{name}"/>
+    <bounds
+        x="36"
+        y="864"
+        width="327"
+        height="31"/>
+  </children>
+</archimate:ArchimateDiagramModel>

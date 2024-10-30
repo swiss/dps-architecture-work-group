@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intervention &amp; Rules"
+    id="id-0dd7cab0dc004a27baac9087edaea132"
+    documentation="channel i Interventionen &amp; Regeln">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-e64150cd64a342d0b65737912d016fe4.xml#id-e64150cd64a342d0b65737912d016fe4"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-5b9d84150c414b7bba84c956251baef6.xml#id-5b9d84150c414b7bba84c956251baef6"/>
+</archimate:AssociationRelationship>

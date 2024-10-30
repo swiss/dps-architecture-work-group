@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="inspect &amp; adapt"
+    id="id-0b2a3bfdcd5b4ce7ba6554e10dbad968"
+    documentation="channel vi&#xA;Sporadic-Audits">
+  <properties
+      key="Referenz"
+      value="https://en.wikipedia.org/wiki/Viable_system_model Graphic"/>
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-e86e5ed76f6044d9bbafebce3abb0ec7.xml#id-e86e5ed76f6044d9bbafebce3abb0ec7"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-d4b768eb53e94c2a8503d6811e41dc8e.xml#id-d4b768eb53e94c2a8503d6811e41dc8e"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metapublikation"
+    id="id-2eab443c13fa4845a55982953e8e4faf">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-ebf586b3b5f54a709e4ce7a5fd28d3fb.xml#id-ebf586b3b5f54a709e4ce7a5fd28d3fb"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-f701582ca9334ca59d53f408fa55004f.xml#id-f701582ca9334ca59d53f408fa55004f"/>
+</archimate:AssociationRelationship>

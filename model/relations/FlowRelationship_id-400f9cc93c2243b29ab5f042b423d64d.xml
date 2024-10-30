@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Value Delivery"
+    id="id-400f9cc93c2243b29ab5f042b423d64d">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-4989d54ec8364271a4ea5e8e2afde648.xml#id-4989d54ec8364271a4ea5e8e2afde648"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-eef67589d8b14df6b7af0843f0afcb0c.xml#id-eef67589d8b14df6b7af0843f0afcb0c"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="package identifier"
+    id="id-b2f79212bfb04571a8d756c8eadfed8f"
+    documentation="SPDX2.3&#xA;Linking advisory: https://spdx.github.io/spdx-spec/v2.3/how-to-use/#k1-including-security-information-in-a-spdx-document&#xA;Linking packages: https://spdx.github.io/spdx-spec/v2.3/external-repository-identifiers/#f2-security&#xA;- CPE&#xA;- GitBOM (gitoid)&#xA;- PURL&#xA;- SWID&#xA;&#xA;CycloneDX &#xA;Linking advisories in vulnerabilites https://cyclonedx.org/docs/1.6/json/#vulnerabilities_items_advisories&#xA;Linking packages https://cyclonedx.org/docs/1.6/json/#components_items_purl&#xA;- cpe&#xA;- purl&#xA;- omniboard (gitoid)&#xA;- swhid&#xA;- swid">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-adf157f3cd42471398c9653d881d8d42.xml#id-adf157f3cd42471398c9653d881d8d42"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-123262f7d0724ddbaebe28ac4aaea2ac.xml#id-123262f7d0724ddbaebe28ac4aaea2ac"/>
+</archimate:AssociationRelationship>

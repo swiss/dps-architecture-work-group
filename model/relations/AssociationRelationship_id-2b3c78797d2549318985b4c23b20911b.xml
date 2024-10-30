@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="inspect &amp; adapt"
+    id="id-2b3c78797d2549318985b4c23b20911b"
+    documentation="channel vi&#xA;Sporadic-Audits">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-a264b32431ed4839abb3fca0d10ae6f5.xml#id-a264b32431ed4839abb3fca0d10ae6f5"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-04ba7e045c294aa58228fd0150f80bdf.xml#id-04ba7e045c294aa58228fd0150f80bdf"/>
+</archimate:AssociationRelationship>

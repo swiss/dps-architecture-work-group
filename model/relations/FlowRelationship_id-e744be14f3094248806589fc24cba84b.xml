@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Priorities"
+    id="id-e744be14f3094248806589fc24cba84b">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-a264b32431ed4839abb3fca0d10ae6f5.xml#id-a264b32431ed4839abb3fca0d10ae6f5"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-70541301c30c4fa8bb7e999021526495.xml#id-70541301c30c4fa8bb7e999021526495"/>
+</archimate:FlowRelationship>

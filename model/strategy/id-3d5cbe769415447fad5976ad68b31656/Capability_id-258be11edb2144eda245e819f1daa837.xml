@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capability"
+    id="id-258be11edb2144eda245e819f1daa837"
+    documentation="An ability that an organization, person, or system possesses.&#xA;&#xA;Note:&#xA;    This a general-purpose definition. See Business Capability for how this concept is refined for usage in Business Architecture. ">
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+  <properties
+      key="TOGAF Enterprise Metamodel Attributes"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_05"/>
+</archimate:Capability>

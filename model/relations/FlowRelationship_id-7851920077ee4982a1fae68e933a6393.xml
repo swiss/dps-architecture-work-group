@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operational Model Data"
+    id="id-7851920077ee4982a1fae68e933a6393">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-a264b32431ed4839abb3fca0d10ae6f5.xml#id-a264b32431ed4839abb3fca0d10ae6f5"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-6892e9fbff304260a50a27e7473c059e.xml#id-6892e9fbff304260a50a27e7473c059e"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voraussetzungen bereitstellen"
+    id="id-536703b56bc54568b1c93d3c3619154f"
+    documentation="once only&#xA;etc.">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-04ba7e045c294aa58228fd0150f80bdf.xml#id-04ba7e045c294aa58228fd0150f80bdf"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-3144ace834554faeb514279e46f80083.xml#id-3144ace834554faeb514279e46f80083"/>
+</archimate:FlowRelationship>

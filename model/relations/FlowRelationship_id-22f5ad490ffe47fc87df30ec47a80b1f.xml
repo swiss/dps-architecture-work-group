@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ressourcen beschaffen"
+    id="id-22f5ad490ffe47fc87df30ec47a80b1f">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-5e2e1c151fbc47409325f50b9fc1a258.xml#id-5e2e1c151fbc47409325f50b9fc1a258"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-3144ace834554faeb514279e46f80083.xml#id-3144ace834554faeb514279e46f80083"/>
+</archimate:FlowRelationship>

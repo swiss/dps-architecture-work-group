@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Belief Value"
+    id="id-186c95d4cade4280bcccf0c432de936a"
+    documentation="For me personally, this is the most sensitive system, since I see myself as an atheist (cf. my premises). Nevertheless, an institutionalized system of beliefs has an influence on the economic scope and affects social norms. An example of this is the conflict in which an oil producing company wants to build pipelines through an area that Native Americans claim as holy land.">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-e64150cd64a342d0b65737912d016fe4.xml#id-e64150cd64a342d0b65737912d016fe4"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-7f9acd75e6474e4b9a64f189b9809552.xml#id-7f9acd75e6474e4b9a64f189b9809552"/>
+</archimate:AssociationRelationship>

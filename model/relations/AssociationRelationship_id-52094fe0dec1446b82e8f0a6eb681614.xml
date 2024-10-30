@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Value"
+    id="id-52094fe0dec1446b82e8f0a6eb681614"
+    documentation="Which customer’s problem is solved? This formula could be used to reduce the value for the customer. This relationship is certainly the most critical, because without customers no company will exist. At this point I refer to the next chapter and the section on Service Dominant Logic, which looks at the “value of a product in use” and which calls for radical customer centricity.">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-8248eb04703e4764a66de7e7ed174f45.xml#id-8248eb04703e4764a66de7e7ed174f45"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-083468b86ce64d3e901d9d10cce76fe0.xml#id-083468b86ce64d3e901d9d10cce76fe0"/>
+</archimate:AssociationRelationship>

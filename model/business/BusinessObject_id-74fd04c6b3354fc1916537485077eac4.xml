@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VexJustifications"
+    id="id-74fd04c6b3354fc1916537485077eac4"
+    documentation="component not present&#xA;inline mitigations already exist&#xA;vulnerable code cannot be controlled by adversary&#xA;vulnerable code not in execute path&#xA;vulnerable code not present&#xA;">
+  <properties
+      key="Referenz"
+      value="https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf"/>
+</archimate:BusinessObject>

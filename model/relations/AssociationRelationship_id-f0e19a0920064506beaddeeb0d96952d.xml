@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shareholder Value"
+    id="id-f0e19a0920064506beaddeeb0d96952d">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-e64150cd64a342d0b65737912d016fe4.xml#id-e64150cd64a342d0b65737912d016fe4"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-706874a30da54b3ab68182c1204c3066.xml#id-706874a30da54b3ab68182c1204c3066"/>
+</archimate:AssociationRelationship>

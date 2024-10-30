@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fluss"
+    id="id-e93c9dcceac24ffa92cce7609510d116"
+    documentation="Informations- Personen- oder Geld-Flüsse">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-078cdffcb46a4ef8b1dabd8a20cd6f2e.xml#id-078cdffcb46a4ef8b1dabd8a20cd6f2e"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-7cf0bd5a3f5c41ac8b5d1d8a29b6909c.xml#id-7cf0bd5a3f5c41ac8b5d1d8a29b6909c"/>
+</archimate:FlowRelationship>

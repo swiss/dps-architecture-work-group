@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Well beeing Value"
+    id="id-0192724f433d4eb2b98a4e20f35ba6a3"
+    documentation="It is not wrong to say that health is the most important thing in life. In today’s times, this means not only physical but also psychological well-being. In a world that is becoming more and more complex, this topic is becoming the focus of attention in the context of people-friendly companies. Key question: Which services can the company use to support its employees (including management) in their individual health care?">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-cb2d5482dcd64d99a995973699af883e.xml#id-cb2d5482dcd64d99a995973699af883e"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-e86179b66c704327a43aabbdfd04671c.xml#id-e86179b66c704327a43aabbdfd04671c"/>
+</archimate:AssociationRelationship>

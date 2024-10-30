@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KPI &amp; Target Achievement"
+    id="id-580876754abd405bae765d11feee8c90">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-6a7c42097ac5472c9c0db11b7989b4bf.xml#id-6a7c42097ac5472c9c0db11b7989b4bf"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-70541301c30c4fa8bb7e999021526495.xml#id-70541301c30c4fa8bb7e999021526495"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Value"
+    id="id-30a641ddcb664183b88dd6b5190b0825"
+    documentation="B2S: Biz2Society: This is intended to remind us of the social responsibility of the entrepreneur and can be reduced to the question: is the (planned) economic action in the sense of the Public Value?&#xA;G2S: Gov2Society: This is intended to remind us of the social responsibility of the &quot;Behörde&quot; and can be reduced to the question: is the (planned) govermental action in the sense of the Public Value?">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-c1c47269b04e4ceba2c894df5a3c6152.xml#id-c1c47269b04e4ceba2c894df5a3c6152"/>
+  <target
+      xsi:type="archimate:Meaning"
+      href="Meaning_id-757ab95092b74398809c0f2087f09d6a.xml#id-757ab95092b74398809c0f2087f09d6a"/>
+</archimate:AssociationRelationship>

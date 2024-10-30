@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zugehörigkeit"
+    id="id-d5bc01cc95e343f6ad90d636a170d0ce">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3488fa8512b240f59385b782bb6a5b40.xml#id-3488fa8512b240f59385b782bb6a5b40"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-91edad028ed040e7aad6d20da03c8640.xml#id-91edad028ed040e7aad6d20da03c8640"/>
+</archimate:AssignmentRelationship>

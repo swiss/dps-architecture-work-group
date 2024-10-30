@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sales Value"
+    id="id-bb5023c2ad08412cbe037b44b908f1b3"
+    documentation="As the name suggests, this is about the value added by sales for an organization. What is the quality of the relationship with the prospective customer? Is the sale made by a column of pushers, or is there appropriate advice that leaves a happy customer behind, who will recommend? What promises are made that have to be kept afterwards at the customer?">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-358b1797eea249919b6239c3af51b917.xml#id-358b1797eea249919b6239c3af51b917"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-22b381e8b2784bbaaa3eb290fe15cb15.xml#id-22b381e8b2784bbaaa3eb290fe15cb15"/>
+</archimate:AssociationRelationship>

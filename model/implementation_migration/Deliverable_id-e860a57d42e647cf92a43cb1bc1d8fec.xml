@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implementation Factor Catalog"
+    id="id-e860a57d42e647cf92a43cb1bc1d8fec"
+    documentation="https://pubs.opengroup.org/togaf-standard/adm-techniques/chap06.html#tag_06_01&#xA;&#xA;The technique of creating an Implementation Factor catalog can be used to document factors impacting the architecture Implementation and Migration Plan.&#xA;&#xA;The catalog should include a list of the factors to be considered, their descriptions, and the deductions that indicate the actions or constraints that have to be taken into consideration when formulating the plans.&#xA;&#xA;Factors typically include:&#xA;&#xA;    Risks (ADM Risks https://pubs.opengroup.org/togaf-standard/adm-techniques/chap09.html)&#xA;    Issues (=Constraints)&#xA;    Assumptions&#xA;    Dependencies (=Constraints)&#xA;    Actions (=Course of Action)&#xA;    Impacts (=Objective)&#xA;"/>

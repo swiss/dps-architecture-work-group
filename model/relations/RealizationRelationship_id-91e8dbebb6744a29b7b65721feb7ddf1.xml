@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realization"
+    id="id-91e8dbebb6744a29b7b65721feb7ddf1">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-af2ca05de942414db601fc92f73e1848.xml#id-af2ca05de942414db601fc92f73e1848"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-56fe90589163498faceda069fbb94230.xml#id-56fe90589163498faceda069fbb94230"/>
+</archimate:RealizationRelationship>

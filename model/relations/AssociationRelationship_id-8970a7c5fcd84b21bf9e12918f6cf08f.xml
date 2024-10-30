@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cooperation Value"
+    id="id-8970a7c5fcd84b21bf9e12918f6cf08f"
+    documentation="B2B: How interesting is the company as a cooperation partner? Are there real partnerships, or is the cooperation characterized by a customer-supplier relationship? If so, then it is more of an activity in the procurement market, but don’t make me believe in cooperation.&#xA;G2B: Gov2Biz How interesting is the governmental agency as a cooperation partner? Are there real partnerships, or is the cooperation characterized by a customer-supplier relationship? If so, then it is more of an activity in the procurement market, but don’t make me believe in cooperation.&#xA;EMBAG Opensource wants to transform customer-supplier to cooperation partnership">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-0a5eea667bb244dfab0111523c17e210.xml#id-0a5eea667bb244dfab0111523c17e210"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-1e7c6ec761d24a178063322b334f314f.xml#id-1e7c6ec761d24a178063322b334f314f"/>
+</archimate:AssociationRelationship>

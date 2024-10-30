@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Service"
+    id="id-d5e8ed6585a44009ab9dbe15f0c7ae74"
+    documentation="Supports the business by encapsulating a unique element of business behavior; a service offered external to the enterprise may be supported by business services.">
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+  <properties
+      key="TOGAF Enterprise Metamodel Attributes"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_05"/>
+</archimate:BusinessService>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ressource Negotiations"
+    id="id-e64c6643f5b14facbf2eeabcb85477c7">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-4989d54ec8364271a4ea5e8e2afde648.xml#id-4989d54ec8364271a4ea5e8e2afde648"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-d4b768eb53e94c2a8503d6811e41dc8e.xml#id-d4b768eb53e94c2a8503d6811e41dc8e"/>
+</archimate:AssociationRelationship>

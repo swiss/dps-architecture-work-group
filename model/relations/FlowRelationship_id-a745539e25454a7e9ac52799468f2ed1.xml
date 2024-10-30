@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lead Generation"
+    id="id-a745539e25454a7e9ac52799468f2ed1">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-538ac4a4f418426b8cb33e449ba5d367.xml#id-538ac4a4f418426b8cb33e449ba5d367"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-eef67589d8b14df6b7af0843f0afcb0c.xml#id-eef67589d8b14df6b7af0843f0afcb0c"/>
+</archimate:FlowRelationship>

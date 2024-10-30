@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mitigation"
+    id="id-fa24ed32c65047f085049d7bdcb25191">
+  <source
+      xsi:type="archimate:ImplementationEvent"
+      href="ImplementationEvent_id-27c198481049483db1f17ffd17cad604.xml#id-27c198481049483db1f17ffd17cad604"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7a1f55c843fa44418d5231718c243519.xml#id-7a1f55c843fa44418d5231718c243519"/>
+</archimate:AssociationRelationship>

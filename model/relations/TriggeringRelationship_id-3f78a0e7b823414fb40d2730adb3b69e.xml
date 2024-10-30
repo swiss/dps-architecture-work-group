@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External system initiated action"
+    id="id-3f78a0e7b823414fb40d2730adb3b69e">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-168e92f4b37b4da783cbc055469e8a49.xml#id-168e92f4b37b4da783cbc055469e8a49"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-64c50821330a4a7b87543c64c0d9ab78.xml#id-64c50821330a4a7b87543c64c0d9ab78"/>
+</archimate:TriggeringRelationship>

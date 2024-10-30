@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eGov-Plattform"
+    id="id-5563702532f347a3828f6fc48a7c37ec">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-4dad1151b8e74798a911a4964e53ce24.xml#id-4dad1151b8e74798a911a4964e53ce24"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-0564f3b7745645569630954c9b37373d.xml#id-0564f3b7745645569630954c9b37373d"/>
+</archimate:AssociationRelationship>

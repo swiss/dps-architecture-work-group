@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cooperation Value"
+    id="id-608004a5dfbb4389a998313c3bc09343"
+    documentation="How interesting is the company as a cooperation partner? Are there real partnerships, or is the cooperation characterized by a customer-supplier relationship? If so, then it is more of an activity in the procurement market, but don’t make me believe in cooperation.">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-cb2d5482dcd64d99a995973699af883e.xml#id-cb2d5482dcd64d99a995973699af883e"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-1e7c6ec761d24a178063322b334f314f.xml#id-1e7c6ec761d24a178063322b334f314f"/>
+</archimate:AssociationRelationship>

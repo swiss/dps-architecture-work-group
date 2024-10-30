@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inspiration Value"
+    id="id-bd41017b4fdc479fa5ceb8181e5b8d71"
+    documentation="Especially for economically active organizations it can be very inspiring to look beyond one’s economic horizons and not to leave it with a pompous sculpture in front of the main entrance of the headquarters as an “art measure”. The art system with its own rules and truths offers companies a lot of potential to adopt new perspectives. Particularly in the field of communication and innovation, the examination of artistic concepts is proving fruitful. Even if it’s just that someone constructively interferes with the system and wakes it up.">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-cb2d5482dcd64d99a995973699af883e.xml#id-cb2d5482dcd64d99a995973699af883e"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-51512742f0594ae9932d2a8126bad487.xml#id-51512742f0594ae9932d2a8126bad487"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auslöser"
+    id="id-319dc4d674324205ba9b48d9ecb22637">
+  <source
+      xsi:type="archimate:TechnologyEvent"
+      href="TechnologyEvent_id-f351db9edd884e8e9684a5aaa783f160.xml#id-f351db9edd884e8e9684a5aaa783f160"/>
+  <target
+      xsi:type="archimate:TechnologyProcess"
+      href="TechnologyProcess_id-2f66bc12c7d04199a57e40d1e77d7693.xml#id-2f66bc12c7d04199a57e40d1e77d7693"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Targets &amp; Budgets"
+    id="id-32601412c693437c97768be4841cf398">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-e86e5ed76f6044d9bbafebce3abb0ec7.xml#id-e86e5ed76f6044d9bbafebce3abb0ec7"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-538ac4a4f418426b8cb33e449ba5d367.xml#id-538ac4a4f418426b8cb33e449ba5d367"/>
+</archimate:AssociationRelationship>

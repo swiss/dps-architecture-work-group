@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Build Environment Requirements V3"
+    id="id-41e41e004c774a11aa1cd68a987e4218"
+    documentation="Software build pipelines may consist of source code repositories, package repositories, continuous integration and delivery processes, and test procedures, along with the network infrastructure and services that enable these capabilities. Every system in the pipeline may provide an entry-point in which flaws, failures, and misconfigurations can compromise the software supply chain. Hardening the systems involved and implementing best practices reduces the likelihood of compromise.">
+  <properties
+      key="Referenz"
+      value="OWASP_SCVS-1.0-en.pdf"/>
+</archimate:Goal>

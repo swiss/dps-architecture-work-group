@@ -1,0 +1,9 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control"
+    id="id-d154b29112be42c9b6e83f1b03bd2eb7"
+    documentation="A decision-making step with accompanying decision logic used to determine execution approach for a process or to ensure that a process complies with governance criteria. For example, a sign-off control on the purchase request processing process that checks whether the total value of the request is within the sign-off limits of the requester, or whether it needs escalating to higher authority.">
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:Constraint>

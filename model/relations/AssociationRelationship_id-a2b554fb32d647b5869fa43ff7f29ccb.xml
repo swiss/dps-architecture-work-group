@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Task Regulation"
+    id="id-a2b554fb32d647b5869fa43ff7f29ccb">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-70541301c30c4fa8bb7e999021526495.xml#id-70541301c30c4fa8bb7e999021526495"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-ab61ff62ee164abda610ad4d7af8ce23.xml#id-ab61ff62ee164abda610ad4d7af8ce23"/>
+</archimate:AssociationRelationship>

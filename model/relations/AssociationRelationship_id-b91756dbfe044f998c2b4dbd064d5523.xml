@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ressource &amp; OpsRequirements"
+    id="id-b91756dbfe044f998c2b4dbd064d5523">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-5adc19c1411e4751ba83b242dae05200.xml#id-5adc19c1411e4751ba83b242dae05200"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-a264b32431ed4839abb3fca0d10ae6f5.xml#id-a264b32431ed4839abb3fca0d10ae6f5"/>
+</archimate:AssociationRelationship>

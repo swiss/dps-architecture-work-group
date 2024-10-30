@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Koordinieren"
+    id="id-bc8ac617878b44d1b8bac0d5404de4cc"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-1547c8ad405f4612817fdad8ec93c222.xml#id-1547c8ad405f4612817fdad8ec93c222"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-6892e9fbff304260a50a27e7473c059e.xml#id-6892e9fbff304260a50a27e7473c059e"/>
+</archimate:AssociationRelationship>

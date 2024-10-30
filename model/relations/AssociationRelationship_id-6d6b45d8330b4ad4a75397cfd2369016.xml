@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliance Value"
+    id="id-6d6b45d8330b4ad4a75397cfd2369016"
+    documentation="The relationship takes care of the legal and fiscal requirements, often related to the location of the company and the local applicable laws. This is definitely a must-have relationship that you can’t choose, at least not in peaceful locations.">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-e64150cd64a342d0b65737912d016fe4.xml#id-e64150cd64a342d0b65737912d016fe4"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-f8712d7d8ffc4e08995a94257436c687.xml#id-f8712d7d8ffc4e08995a94257436c687"/>
+</archimate:AssociationRelationship>

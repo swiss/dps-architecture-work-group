@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External Probing"
+    id="id-f4a04d3506524a329d7b6fd674936bba">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-c1c47269b04e4ceba2c894df5a3c6152.xml#id-c1c47269b04e4ceba2c894df5a3c6152"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-a60d6efa338e4a7e9e1026c168711efc.xml#id-a60d6efa338e4a7e9e1026c168711efc"/>
+</archimate:FlowRelationship>

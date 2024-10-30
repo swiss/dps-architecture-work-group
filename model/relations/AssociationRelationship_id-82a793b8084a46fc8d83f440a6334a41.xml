@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brand Value"
+    id="id-82a793b8084a46fc8d83f440a6334a41"
+    documentation="What does the company stand for as a brand? Which identity is represented externally? These questions are mainly transported to the outside world in this context. In practice, this aspect is difficult to separate from the following story value.">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-da1cb1fb9e7e44c5afe2699ccc29d028.xml#id-da1cb1fb9e7e44c5afe2699ccc29d028"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-b3c3286cb6bc4bdaba2af55be8679db0.xml#id-b3c3286cb6bc4bdaba2af55be8679db0"/>
+</archimate:AssociationRelationship>

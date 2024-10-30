@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employer Value"
+    id="id-7814ca1ba9694465b43431a5abef0ffa"
+    documentation="How relevant is the company as an employer for potential employees? Is there a sustainable attractiveness? Is it possible to find suitable colleagues? What do potential employees actually expect from the company?">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-d4b768eb53e94c2a8503d6811e41dc8e.xml#id-d4b768eb53e94c2a8503d6811e41dc8e"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-c6b88fa7d2c84462aedf88794eda8f23.xml#id-c6b88fa7d2c84462aedf88794eda8f23"/>
+</archimate:AssociationRelationship>

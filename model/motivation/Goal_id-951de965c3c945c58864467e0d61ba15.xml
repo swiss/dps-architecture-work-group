@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pedigree and Provenance Requirements V6"
+    id="id-951de965c3c945c58864467e0d61ba15"
+    documentation="Identify point of origin and chain of custody in order to manage system risk if either point of origin or chain of custody is compromised. For internal package managers and repositories it is important to maintain pedigree and provenance data for imported components.">
+  <properties
+      key="Referenz"
+      value="OWASP_SCVS-1.0-en.pdf"/>
+</archimate:Goal>

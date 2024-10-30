@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Purchaser Value"
+    id="id-2eccc4865ee54cd498bbbdee9d0c2a2e"
+    documentation="There is also the possibility of maintaining a “slim” relationship when it comes to purchasing materials that are usually only about volume discounts. Here it is often possible to optimize procurement processes and achieve advantages for buyers and sellers in a business with tight margins.">
+  <source
+      xsi:type="archimate:Value"
+      href="Value_id-8463854828f64d4ab4b141e08cce4d98.xml#id-8463854828f64d4ab4b141e08cce4d98"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-3e396d4c5eb648a3a028d9d7e6805b77.xml#id-3e396d4c5eb648a3a028d9d7e6805b77"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alignment with Purpose &amp; Vision"
+    id="id-a2a0d84d00fd46399cff1bdff2487cb3">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-27efb6131276447fbc6f014561671c96.xml#id-27efb6131276447fbc6f014561671c96"/>
+  <target
+      xsi:type="archimate:FlowRelationship"
+      href="FlowRelationship_id-cb72b400221c431b8b337df0675d3055.xml#id-cb72b400221c431b8b337df0675d3055"/>
+</archimate:AssociationRelationship>

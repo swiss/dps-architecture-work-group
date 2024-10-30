@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="motivates"
+    id="id-ff97995a11a5429496bbe3d4a7a770ee">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-d064cc713ca64d89aa82c1b240abe71c.xml#id-d064cc713ca64d89aa82c1b240abe71c"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-459bd44c1d1c4e5f8291997d84f8a781.xml#id-459bd44c1d1c4e5f8291997d84f8a781"/>
+</archimate:AssociationRelationship>

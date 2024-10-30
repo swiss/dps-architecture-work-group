@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inventory V1"
+    id="id-f0e31adbb9e545c58147733581fae090"
+    documentation="An accurate inventory of all components used in the creation of software is a foundational requirement for further analysis. The following controls incorporate single application inventories, organizational inventories, and approaches to enable software transparency when procuring new software or systems.&#xA;Component identification varies based on the ecosystem the component is part of. Therefore, for all inventory purposes, the use of identifiers, such as Package URL, may be used to standardize and normalize naming conventions for managed dependencies.&#xA;An organization-wide inventory of all first-party and third-party (including open source) components allows for greater transparency within the organization, promotes software standardization and reuse, and allows for rapid impact analysis.">
+  <properties
+      key="Referenz"
+      value="OWASP_SCVS-1.0-en.pdf"/>
+</archimate:Goal>

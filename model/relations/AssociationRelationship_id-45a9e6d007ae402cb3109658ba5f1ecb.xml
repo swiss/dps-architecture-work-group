@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Health Value"
+    id="id-45a9e6d007ae402cb3109658ba5f1ecb">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-e64150cd64a342d0b65737912d016fe4.xml#id-e64150cd64a342d0b65737912d016fe4"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-bb60c0734f024ddfb702650f925896ea.xml#id-bb60c0734f024ddfb702650f925896ea"/>
+</archimate:AssociationRelationship>

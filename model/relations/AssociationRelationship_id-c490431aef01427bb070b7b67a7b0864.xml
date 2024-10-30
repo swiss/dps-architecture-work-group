@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Attenuator (w)"
+    id="id-c490431aef01427bb070b7b67a7b0864"
+    documentation="https://www.researchgate.net/publication/225863384_The_Viable_System_Model&#xA;Anti-Oscillation">
+  <source
+      xsi:type="archimate:Value"
+      href="Value_id-e81a7e1ccc034a74ba7d721448945765.xml#id-e81a7e1ccc034a74ba7d721448945765"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-44718877ee524dc68b6a0a815ec16d3f.xml#id-44718877ee524dc68b6a0a815ec16d3f"/>
+</archimate:AssociationRelationship>

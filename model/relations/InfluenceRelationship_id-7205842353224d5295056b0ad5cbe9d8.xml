@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cooperation Value"
+    id="id-7205842353224d5295056b0ad5cbe9d8"
+    strength="+">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-6a2ac824ad8645de8f935922d210f3fb.xml#id-6a2ac824ad8645de8f935922d210f3fb"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-1e7c6ec761d24a178063322b334f314f.xml#id-1e7c6ec761d24a178063322b334f314f"/>
+</archimate:InfluenceRelationship>

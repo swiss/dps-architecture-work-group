@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Component Analysis Requirements V5"
+    id="id-ce7872959dda454a8763e3db5fc92591"
+    documentation="Component Analysis is the process of identifying potential areas of risk from the use of third-party and open-source software components. Every component, direct or transitive, is a candidate for analysis. Risk inherited through the use of third-party software may directly affect the application or systems that rely on them.&#xA;- Known Vulnerabilities&#xA;- Component Version Currency&#xA;- Component Type&#xA;- Component Function&#xA;- Component Quantity&#xA;- License">
+  <properties
+      key="Referenz"
+      value="OWASP_SCVS-1.0-en.pdf"/>
+</archimate:Goal>

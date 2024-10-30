@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Herausfordern"
+    id="id-946d3584285b40e5a6398b51574ebe0b"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-72c72c114c9240539dbfdd30bf02f6fd.xml#id-72c72c114c9240539dbfdd30bf02f6fd"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-6892e9fbff304260a50a27e7473c059e.xml#id-6892e9fbff304260a50a27e7473c059e"/>
+</archimate:AssociationRelationship>

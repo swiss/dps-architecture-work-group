@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Habits &amp; Traits"
+    id="id-7c8731cd7b8149848b971c3f7ebf7aa1">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-e64150cd64a342d0b65737912d016fe4.xml#id-e64150cd64a342d0b65737912d016fe4"/>
+  <target
+      xsi:type="archimate:FlowRelationship"
+      href="FlowRelationship_id-ee9bf99614b74f71b7d1c05eee630548.xml#id-ee9bf99614b74f71b7d1c05eee630548"/>
+</archimate:AssociationRelationship>

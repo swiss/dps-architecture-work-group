@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Story Value"
+    id="id-43d6f6fa34934dcf891beb1782f51bfd"
+    documentation="Current buzzwords such as Content Marketing or Storytelling indicate, that even the last marketing man has now understood that penetrating, flat advertising doesn’t work in the long term. Customers expect stories and entertainment when they pay attention to an advertising message. Some stories are very simple (“Buy now”) and others deal with a complex topic (“Investing in sustainable funds”) – the client is looking for plausibility so that he can “save” the company as a brand. It’s about to pass the relevance filter of the client.">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-00553a70dae44a39be521672c9fe07b9.xml#id-00553a70dae44a39be521672c9fe07b9"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-b3c3286cb6bc4bdaba2af55be8679db0.xml#id-b3c3286cb6bc4bdaba2af55be8679db0"/>
+</archimate:AssociationRelationship>

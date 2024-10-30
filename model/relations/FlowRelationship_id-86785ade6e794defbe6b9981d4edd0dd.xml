@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employ People"
+    id="id-86785ade6e794defbe6b9981d4edd0dd">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-d4b768eb53e94c2a8503d6811e41dc8e.xml#id-d4b768eb53e94c2a8503d6811e41dc8e"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-eef67589d8b14df6b7af0843f0afcb0c.xml#id-eef67589d8b14df6b7af0843f0afcb0c"/>
+</archimate:FlowRelationship>

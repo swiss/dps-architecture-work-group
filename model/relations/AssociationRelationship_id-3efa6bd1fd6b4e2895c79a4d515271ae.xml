@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Health Value"
+    id="id-3efa6bd1fd6b4e2895c79a4d515271ae"
+    documentation="missing in http://intelligente-organisationen.de/io-environment-model-official-release">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-012b55344bf54659a416ebace03e435b.xml#id-012b55344bf54659a416ebace03e435b"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-bb60c0734f024ddfb702650f925896ea.xml#id-bb60c0734f024ddfb702650f925896ea"/>
+</archimate:AssociationRelationship>

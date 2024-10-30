@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="activates a Policy"
+    id="id-207c9d60b6dc40f0939626db60854b89">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-64c50821330a4a7b87543c64c0d9ab78.xml#id-64c50821330a4a7b87543c64c0d9ab78"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-f7c46f4ca56049eeb038978d6a7a8bf3.xml#id-f7c46f4ca56049eeb038978d6a7a8bf3"/>
+</archimate:AssociationRelationship>

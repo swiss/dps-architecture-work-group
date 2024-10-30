@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Amplifier (&lt;)"
+    id="id-e636e7a6a3d74cd791c2c62b9a218007">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-2c89576299ae42628d3ac3c3b1ffbf4d.xml#id-2c89576299ae42628d3ac3c3b1ffbf4d"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-44718877ee524dc68b6a0a815ec16d3f.xml#id-44718877ee524dc68b6a0a815ec16d3f"/>
+</archimate:FlowRelationship>

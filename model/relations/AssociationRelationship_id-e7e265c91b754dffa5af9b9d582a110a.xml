@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Political Value"
+    id="id-e7e265c91b754dffa5af9b9d582a110a"
+    documentation="Values in this respect can be provided by the company by joining associations or federations and trying to place its interests. The borderline to dirty lobbying is quickly crossed when it comes to influencing the legislative process, for example.">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-871ae8669d684ccdb748e636c813cdef.xml#id-871ae8669d684ccdb748e636c813cdef"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-35b9ba0640984741aae1f6471d72fd20.xml#id-35b9ba0640984741aae1f6471d72fd20"/>
+</archimate:AssociationRelationship>

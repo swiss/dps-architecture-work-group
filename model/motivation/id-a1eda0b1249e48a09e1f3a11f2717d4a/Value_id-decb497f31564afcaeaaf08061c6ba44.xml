@@ -1,0 +1,5 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Building Block characteristics"
+    id="id-decb497f31564afcaeaaf08061c6ba44"
+    documentation="https://pubs.opengroup.org/togaf-standard/architecture-content/chap05.html#tag_05_02&#xA;&#xA;Building blocks have generic characteristics as follows:&#xA;&#xA;    A building block is a package of functionality defined to meet the business needs across an organization&#xA;    A building block normally has a type that corresponds to the metamodel (such as actor, business service, application, or data entity)&#xA;    A building block has a defined boundary and is generally recognizable as &quot;a thing&quot; by domain experts&#xA;    A building block may interoperate with other, inter-dependent building blocks.&#xA;    A good building block has the following characteristics:&#xA;        It considers implementation and usage, and evolves to exploit technology and standards&#xA;        It may be assembled from other building blocks&#xA;        It may be a subassembly of other building blocks&#xA;        Ideally a building block is re-usable and replaceable, and well specified&#xA;"/>

@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Default View (ti&amp;m-Readme)"
+    id="id-cbf1a8a4ff0e4810995261bc24e88c96">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7cf37abbc7174b9a9aee671b4593b369"
+      textAlignment="1"
+      content="Hints for using this Repository as base for a ADM Process&#xA;&#xA;Clone this repo&#xA;Change Root Elements and filename&#xA;Duplicate Views for your Use Case don't change them&#xA;Duplicate Elements for your Use Case don't change them&#xA;So you can update your Repo with a new version of the BlueSea template with &#xA; - import -> Another model into selected model, don't overwrite root folder&#xA;&#xA;">
+    <bounds
+        x="122"
+        y="31"
+        width="275"
+        height="138"/>
+  </children>
+</archimate:ArchimateDiagramModel>

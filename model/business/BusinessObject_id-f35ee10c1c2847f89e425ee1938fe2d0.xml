@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ProductStatus"
+    id="id-f35ee10c1c2847f89e425ee1938fe2d0"
+    documentation="known not affected -> impact statement [VexJustifications]&#xA;known affected -> action statement&#xA;fixed&#xA;under investigation&#xA;">
+  <properties
+      key="Referenz"
+      value="https://www.cisa.gov/sites/default/files/publications/VEX_Use_Cases_Aprill2022.pdf"/>
+</archimate:BusinessObject>

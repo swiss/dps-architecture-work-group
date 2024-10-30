@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Reliabilty Value"
+    id="id-c5a086ae630545f1a231154fe1313254"
+    documentation="This typically describes the relationship with the bank or other financial institutions. Cash flow and liquidity issues need to be settled here, so that companies always have sufficient capital at their disposal in particularly volatile environments. Every managing director knows the importance of this relationship.">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-4dfa59e5c0564aa6ae8343c06c9c2736.xml#id-4dfa59e5c0564aa6ae8343c06c9c2736"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-86f5e55863944b0892a6e012256846c6.xml#id-86f5e55863944b0892a6e012256846c6"/>
+</archimate:AssociationRelationship>

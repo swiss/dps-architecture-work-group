@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External Insights"
+    id="id-823283dee0934182bf3798e979bab05f">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-a60d6efa338e4a7e9e1026c168711efc.xml#id-a60d6efa338e4a7e9e1026c168711efc"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-cb2d5482dcd64d99a995973699af883e.xml#id-cb2d5482dcd64d99a995973699af883e"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anti-Oscillation, autonomous"
+    id="id-4f56d70d27e2457aa14bee9b92c335f5"
+    documentation="channel v Anti-Oszillation, autonom">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-47dcca454265466f920e29f264cca77b.xml#id-47dcca454265466f920e29f264cca77b"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-47dcca454265466f920e29f264cca77b.xml#id-47dcca454265466f920e29f264cca77b"/>
+</archimate:AssociationRelationship>

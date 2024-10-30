@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="cannot control"
+    id="id-a31b2410a60943af80a41b33e3b5579d">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-bc466579a82a4c048a9b6e538229fabf.xml#id-bc466579a82a4c048a9b6e538229fabf"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4e66901cd43749d9a0a6f5a7d0fe3b63.xml#id-4e66901cd43749d9a0a6f5a7d0fe3b63"/>
+</archimate:FlowRelationship>

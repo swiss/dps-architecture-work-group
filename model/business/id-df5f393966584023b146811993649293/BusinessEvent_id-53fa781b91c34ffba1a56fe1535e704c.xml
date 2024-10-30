@@ -1,0 +1,9 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Event"
+    id="id-53fa781b91c34ffba1a56fe1535e704c"
+    documentation="An organizational state change that triggers processing events; may originate from inside or outside the organization and may be resolved inside or outside the organization.">
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:BusinessEvent>

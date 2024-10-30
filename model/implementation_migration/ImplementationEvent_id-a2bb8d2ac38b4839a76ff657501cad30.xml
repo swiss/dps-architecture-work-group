@@ -1,0 +1,9 @@
+<archimate:ImplementationEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request for Architecture Work"
+    id="id-a2bb8d2ac38b4839a76ff657501cad30"
+    documentation="Purpose&#xA;&#xA;This is a document that is sent from the sponsoring organization to the architecture organization to trigger the start of an architecture development cycle. Requests for Architecture Work can be created as an output of the Preliminary Phase, a result of approved architecture Change Requests, or terms of reference for architecture work originating from migration planning.&#xA;&#xA;In general, all the information in this document should be at a high level.&#xA;&#xA;Content&#xA;&#xA;Requests for Architecture Work typically include:&#xA;&#xA;    Organization sponsors&#xA;    Organization's mission statement&#xA;    Business goals (and changes)&#xA;    Strategic plans of the business&#xA;    Time limits&#xA;    Changes in the business environment&#xA;    Organizational constraints&#xA;    Budget information, financial constraints&#xA;    External constraints, business constraints&#xA;    Current business system description&#xA;    Current architecture/IT system description&#xA;    Description of developing organization&#xA;    Description of resources available to developing organization&#xA;">
+  <properties
+      key="Referenz"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap04.html#tag_04_02_17"/>
+</archimate:ImplementationEvent>

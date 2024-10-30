@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Package Management Requirements V4"
+    id="id-c27c5deb12b548f18208d03b36a2df2b"
+    documentation="Open source components intended for reuse are often published to ecosystem-specific package repositories. Centralized repositories exist for many build systems including Maven, .NET, NPM and Python. Repositories internal to an organization may additionally provide reuse of first-party components as well as access to trusted third-party components.&#xA;Package managers are often invoked during the build process and are responsible for resolving component versions and retrieving components from repositories.&#xA;While there are tremendous business, technical, and security benefits to using package managers and centralized repositories, they are often targets for adversaries. Implementing best practices can dramatically reduce risk of compromise in the software supply chain.">
+  <properties
+      key="Referenz"
+      value="OWASP_SCVS-1.0-en.pdf"/>
+</archimate:Goal>

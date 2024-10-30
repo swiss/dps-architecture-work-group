@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scientific Value"
+    id="id-76aab63eb9f34acea5a51d2422aa9a41"
+    documentation="In industries such as the chemical and pharmaceutical industries, for example, there are pronounced links with research (sometimes they are even too close). Every research-based company maintains relations with the academic world – ideally, this involves more than just exchanging research results for money (see Public Value).">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-cb2d5482dcd64d99a995973699af883e.xml#id-cb2d5482dcd64d99a995973699af883e"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-ac0c08f5f709491c811298c023ef2421.xml#id-ac0c08f5f709491c811298c023ef2421"/>
+</archimate:AssociationRelationship>
