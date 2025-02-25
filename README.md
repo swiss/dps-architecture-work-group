@@ -1,7 +1,11 @@
 # dvs-architektur
 DVS Arbeitsgruppe Architektur Archimate Repository 
 
-Anleitung für Collaboration mit Archimate
+How to collaborate with Archimate
+
+Install the recent version of Archi: https://www.archimatetool.com/download/
+
+Install the collaboration plugin
 
 https://github.com/archimatetool/archi-modelrepository-plugin/wiki/Setup-and-Configuration
 
@@ -19,3 +23,5 @@ credentials depends if using ssh or https with personal access token
 
 After succesful import you should see this
 ![archimate start screen](archi-collab.png)
+
+Collaboration, ask for access are create a pull-request
