@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Society involvement"
+    id="id-312ab1df83134ceaa8424d431788b26e">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-9b5ef375301f4128926692d9212f12c5.xml#id-9b5ef375301f4128926692d9212f12c5"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-aff289ac367a497c966f91da95f233bf.xml#id-aff289ac367a497c966f91da95f233bf"/>
+</archimate:AggregationRelationship>

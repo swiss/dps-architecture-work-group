@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DVS Architektur Gremien (Box)"
+    name="DVS Architektur Gremien"
     id="id-4261ce040bb3419ab0c497a913adfd2b">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -469,7 +469,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-9e6de5e546d34ab681522e08d64e002a">
+      id="id-9e6de5e546d34ab681522e08d64e002a"
+      targetConnections="id-7678b04bbde3497e9bf4fe7738377b70">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a48effb507034f3b954e0498d895d898"
@@ -517,14 +518,9 @@
         source="id-9e6de5e546d34ab681522e08d64e002a"
         target="id-1a42f954628a48f8ac8ec7b1a69d4c3b">
       <bendpoints
-          startX="78"
-          startY="27"
-          endX="-384"
-          endY="188"/>
-      <bendpoints
-          startX="78"
+          startX="66"
           startY="159"
-          endX="-384"
+          endX="-396"
           endY="320"/>
       <bendpoints
           startX="402"
@@ -832,6 +828,25 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-62aa88f1c91d4879a303b72e5d3c4209"
       targetConnections="id-07d31c1c8c694f81aa6106593d644c18 id-7810923f0fe842a5abd108c63c7e746b">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7678b04bbde3497e9bf4fe7738377b70"
+        source="id-62aa88f1c91d4879a303b72e5d3c4209"
+        target="id-9e6de5e546d34ab681522e08d64e002a">
+      <bendpoints
+          startX="-13"
+          startY="33"
+          endX="294"
+          endY="147"/>
+      <bendpoints
+          startX="-241"
+          startY="33"
+          endX="66"
+          endY="147"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-31da7f26c7e644e080900fc3ad847ff3.xml#id-31da7f26c7e644e080900fc3ad847ff3"/>
+    </sourceConnections>
     <bounds
         x="565"
         y="555"

@@ -1696,7 +1696,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d4a24198848343248c7bd3fc8fab5545">
+      id="id-d4a24198848343248c7bd3fc8fab5545"
+      targetConnections="id-513ed93e15124cfcbfeb1a081a5b6553">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-decc28aed77c48f59553d908dcb68dc8"
@@ -1972,6 +1973,25 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7efc166fce294526b28addfe1af5f2ec"
       targetConnections="id-7e096244c3324df0b22b29719f4ac802 id-b3dcca78a83a46308237e821b12e73c0">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-513ed93e15124cfcbfeb1a081a5b6553"
+        source="id-7efc166fce294526b28addfe1af5f2ec"
+        target="id-d4a24198848343248c7bd3fc8fab5545">
+      <bendpoints
+          startX="-1"
+          startY="27"
+          endX="306"
+          endY="141"/>
+      <bendpoints
+          startX="-241"
+          startY="27"
+          endX="66"
+          endY="141"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-31da7f26c7e644e080900fc3ad847ff3.xml#id-31da7f26c7e644e080900fc3ad847ff3"/>
+    </sourceConnections>
     <bounds
         x="925"
         y="969"

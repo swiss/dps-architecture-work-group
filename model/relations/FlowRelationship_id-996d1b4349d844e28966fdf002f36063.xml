@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leistung"
+    id="id-996d1b4349d844e28966fdf002f36063">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-61dd925ebe4945969f2485b02b307d2c.xml#id-61dd925ebe4945969f2485b02b307d2c"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-fa93676579814a26a19f3447122cc935.xml#id-fa93676579814a26a19f3447122cc935"/>
+</archimate:FlowRelationship>

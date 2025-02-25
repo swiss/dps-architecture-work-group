@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="amtliche Register"
+    id="id-1c45946d6cc545fc8b11309b87364b00">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-fa93676579814a26a19f3447122cc935.xml#id-fa93676579814a26a19f3447122cc935"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-18c313e7f9a64001b0175af86460f9aa.xml#id-18c313e7f9a64001b0175af86460f9aa"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sourcing"
+    id="id-1597edd03a864404bf49acd748419aa4">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-5e2e1c151fbc47409325f50b9fc1a258.xml#id-5e2e1c151fbc47409325f50b9fc1a258"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-2d1bb61e6c1a46b0945385860b6382ef.xml#id-2d1bb61e6c1a46b0945385860b6382ef"/>
+</archimate:AssociationRelationship>

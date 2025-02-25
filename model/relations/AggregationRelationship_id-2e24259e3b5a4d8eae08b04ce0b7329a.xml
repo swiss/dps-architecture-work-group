@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sounding"
+    id="id-2e24259e3b5a4d8eae08b04ce0b7329a">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-1547c8ad405f4612817fdad8ec93c222.xml#id-1547c8ad405f4612817fdad8ec93c222"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-8087da1bcf9744d79e981bdf681912fa.xml#id-8087da1bcf9744d79e981bdf681912fa"/>
+</archimate:AggregationRelationship>

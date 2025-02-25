@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architektur"
+    id="id-4faf1221ba91435ab5f56ce2ad435fc2">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-72a6c698a99047c6bd1d2cdd58ed3d0c.xml#id-72a6c698a99047c6bd1d2cdd58ed3d0c"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-d33fd7c6b5af402f9a082d94042cc6e8.xml#id-d33fd7c6b5af402f9a082d94042cc6e8"/>
+</archimate:AssociationRelationship>

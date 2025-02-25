@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zuweisungsbedingung"
+    id="id-119fb250dc70451896e9c6d3e440f866">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-469880bf68974456b67fa6c433c801d5.xml#id-469880bf68974456b67fa6c433c801d5"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-6786c68137f54a0196c14e579d137883.xml#id-6786c68137f54a0196c14e579d137883"/>
+</archimate:AggregationRelationship>

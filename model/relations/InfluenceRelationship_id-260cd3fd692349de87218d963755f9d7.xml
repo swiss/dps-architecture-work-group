@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="discover unknown unknows"
+    id="id-260cd3fd692349de87218d963755f9d7"
+    strength="+">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-aff289ac367a497c966f91da95f233bf.xml#id-aff289ac367a497c966f91da95f233bf"/>
+  <target
+      xsi:type="archimate:Meaning"
+      href="Meaning_id-b30963fb8de04e968609d094ea2584ad.xml#id-b30963fb8de04e968609d094ea2584ad"/>
+</archimate:InfluenceRelationship>

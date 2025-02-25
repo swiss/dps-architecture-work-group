@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Einzelne Messgrössen DCH sind auf SDG gemappt"
+    id="id-1e1a70ed589a4396845f5335cc475b36">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-965333cc68714308922f2d3a6cb5057c.xml#id-965333cc68714308922f2d3a6cb5057c"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-5e6d5b3f47734f7c923a3d2a8ed52f6a.xml#id-5e6d5b3f47734f7c923a3d2a8ed52f6a"/>
+</archimate:AssociationRelationship>
