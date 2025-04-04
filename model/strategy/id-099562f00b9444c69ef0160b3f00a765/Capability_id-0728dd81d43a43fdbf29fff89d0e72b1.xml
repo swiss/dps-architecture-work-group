@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EAB10 - Monitoring &amp; Event Management"
+    id="id-0728dd81d43a43fdbf29fff89d0e72b1"
+    documentation="Die Fähigkeit zur Überwachung der Systeme, Services und Anwendungen und frühzeitige Feststellung betriebsrelevanter Ereignisse wie Störungen.&#xA;&#xA;Die Fähigkeit umfasst einerseits die Überwachung von Systemen, Services und Anwendungen mittels geeigneter Monitoring-Tools sowie das Erkennen von betrieblich relevanter Statusänderungen (Events), deren Dokumentation und Bearbeitung anhand definierter Funktionsbeschreibungen und Handlungsanweisungen bzw. Weiterleitung an definierte Funktionseinheiten. Es müssen Regeln definiert werden, welche Ereignisse nur informativ, Warnungen oder Ausnahmen (Ereignisse welche einen Fehler oder eine Ausnahmesituation anzeigen) sind. Diese Fähigkeit ermöglicht, dass nur dann Supportpersonal aufgeboten wird, wenn dies auch tatsächlich erforderlich ist.&#xA;&#xA;"/>
