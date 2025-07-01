@@ -24,4 +24,4 @@ credentials depends if using ssh or https with personal access token
 After succesful import you should see this
 ![archimate start screen](archi-collab.png)
 
-Collaboration, ask for access are create a pull-request
+Collaboration, ask for access or create a pull-request
