@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beispiel"
-    id="id-20481a0647de45caa7b147e3954becf0">
+    id="id-3ca92a2613134046b7935ea8b735b46c">
   <source
       xsi:type="archimate:CourseOfAction"
-      href="CourseOfAction_id-5e0a8cbb64f8432e836e8ff1a2c13359.xml#id-5e0a8cbb64f8432e836e8ff1a2c13359"/>
+      href="CourseOfAction_id-e3277e33af13457a8bad374cdf4b4d7d.xml#id-e3277e33af13457a8bad374cdf4b4d7d"/>
   <target
       xsi:type="archimate:Capability"
-      href="Capability_id-afd9e3186c614f19988cab23878e32a9.xml#id-afd9e3186c614f19988cab23878e32a9"/>
+      href="Capability_id-ebeb9ced6fe44eb5836ac412d73e1e44.xml#id-ebeb9ced6fe44eb5836ac412d73e1e44"/>
 </archimate:AssociationRelationship>
