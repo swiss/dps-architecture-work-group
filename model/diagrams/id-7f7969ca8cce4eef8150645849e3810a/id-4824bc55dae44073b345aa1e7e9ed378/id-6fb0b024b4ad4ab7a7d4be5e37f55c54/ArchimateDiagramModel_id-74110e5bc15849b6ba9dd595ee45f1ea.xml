@@ -1261,18 +1261,13 @@
         id="id-23c58da0f2c04fc98532cd7451afc50e"
         source="id-5af92da7b8cd445c86d2ba5c40f48694"
         target="id-a910d06e0ea14413a45b6f7e1852ec7f">
-      <bendpoints
-          startX="12"
-          startY="30"
-          endX="-108"
-          endY="-162"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-6327ba335e194c52b162e25128ca0b00.xml#id-6327ba335e194c52b162e25128ca0b00"/>
     </sourceConnections>
     <bounds
-        x="468"
-        y="156"
+        x="360"
+        y="160"
         width="145"
         height="33"/>
     <archimateElement
