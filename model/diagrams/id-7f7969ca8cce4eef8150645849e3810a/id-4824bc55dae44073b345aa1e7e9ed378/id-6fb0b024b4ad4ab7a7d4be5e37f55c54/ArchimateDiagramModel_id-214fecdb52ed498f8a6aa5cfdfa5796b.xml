@@ -158,15 +158,20 @@
         id="id-24e389d841544a7d935aa81e3f82e5d5"
         source="id-44fabaa113b64e61951bb44ea9b5d1f4"
         target="id-5df0b26290e7462a8271749f134d8929">
+      <bendpoints
+          startX="162"
+          startY="-3"
+          endX="-48"
+          endY="-108"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-7c389215c77d48fa8783eb38adc25e26.xml#id-7c389215c77d48fa8783eb38adc25e26"/>
     </sourceConnections>
     <bounds
-        x="757"
-        y="90"
-        width="120"
-        height="55"/>
+        x="720"
+        y="102"
+        width="157"
+        height="31"/>
     <archimateElement
         xsi:type="archimate:WorkPackage"
         href="WorkPackage_id-0a448bad96ba4e9eb404bcbdf6bd8732.xml#id-0a448bad96ba4e9eb404bcbdf6bd8732"/>
