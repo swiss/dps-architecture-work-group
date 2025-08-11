@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LeanUX Government-Architektur befähigen"
+    name="LBCC Government-Architektur befähigen"
     id="id-510c4d98516a4aa69b2b4f0862a5dff0"
     documentation="https://confluence.bit.admin.ch/pages/viewpage.action?pageId=777867825">
   <children
@@ -17,7 +17,7 @@
         x="264"
         y="504"
         width="429"
-        height="20"/>
+        height="49"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -33,9 +33,9 @@
         value="${content}$view{name}"/>
     <bounds
         x="692"
-        y="21"
+        y="12"
         width="373"
-        height="20"/>
+        height="29"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -44,7 +44,7 @@
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Lean UX Canvas (v2)">
+      content="Lean Business Case Canvas">
     <bounds
         x="264"
         y="12"

@@ -3,17 +3,91 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Requirements Metamodel und Lean Business Case Canvas"
     id="id-cdb3ace83b634f29b671a7933a4dd279"
-    documentation="https://learning.oreilly.com/library/view/agile-software-requirements/9780321685438/apd.xhtml#:-:text=Figure%20D-1.%20Requirements%20,meta-model">
+    documentation="https://learning.oreilly.com/library/view/agile-software-requirements/9780321685438/apd.xhtml#:-:text=Figure%20D-1.%20Requirements%20,meta-model&#xA;Mapping auf das Holistic ArchiMate Full Meta Model&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1332dc462ea740478d620cf347cf1d85"
       targetConnections="id-da3cee39b6514801905942cf95fd38ff id-665c511283b7433d95e87228b3a15513"
       textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-3580e22a70ce4f508890ca71944f6a21"
+        source="id-1332dc462ea740478d620cf347cf1d85"
+        target="id-e0de322660f64f638c8f2dcf7d8ee846">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-7fc05f381cda4aaa99fd5eb03a48120a.xml#id-7fc05f381cda4aaa99fd5eb03a48120a"/>
+    </sourceConnections>
     <bounds
         x="12"
         y="48"
         width="985"
         height="385"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-e0de322660f64f638c8f2dcf7d8ee846"
+        targetConnections="id-3580e22a70ce4f508890ca71944f6a21 id-f4cc2f6559d64abc986a80988d13fca0">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-ad61ef4d852547b9a9b29f38d9ebe6d1"
+          source="id-e0de322660f64f638c8f2dcf7d8ee846"
+          target="id-1affc879f1f34742aa424f1818764e85">
+        <bendpoints
+            startX="36"
+            startY="-137"
+            endX="-126"
+            endY="69"/>
+        <bendpoints
+            startX="132"
+            startY="-137"
+            endX="-30"
+            endY="69"/>
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-af097db2e88149fba1e4a3f50a0cd2e3.xml#id-af097db2e88149fba1e4a3f50a0cd2e3"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-055568c111c14c4ba2d35f5709e04e50"
+          source="id-e0de322660f64f638c8f2dcf7d8ee846"
+          target="id-fb127c981ed7413eb6ebe545cce91e49">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-cf50757361d24c7693c9da9188664412.xml#id-cf50757361d24c7693c9da9188664412"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-bf0b8a19e1a140ec9b81f7b22fe495da"
+          source="id-e0de322660f64f638c8f2dcf7d8ee846"
+          target="id-2c7819ebc52c484585ae3ace98bc2bf2">
+        <bendpoints
+            startX="48"
+            startY="103"
+            endX="-456"
+            endY="-195"/>
+        <bendpoints
+            startX="384"
+            startY="103"
+            endX="-120"
+            endY="-195"/>
+        <bendpoints
+            startX="384"
+            startY="307"
+            endX="-120"
+            endY="9"/>
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-91e8dbebb6744a29b7b65721feb7ddf1.xml#id-91e8dbebb6744a29b7b65721feb7ddf1"/>
+      </sourceConnections>
+      <bounds
+          x="180"
+          y="276"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Plateau"
+          href="Plateau_id-dd2878da44624c189df6e011d8237dd1.xml#id-dd2878da44624c189df6e011d8237dd1"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-3e746f7b376a49e984e0513b041047d6.xml#id-3e746f7b376a49e984e0513b041047d6"/>
@@ -34,7 +108,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1affc879f1f34742aa424f1818764e85"
-      targetConnections="id-ad61ef4d852547b9a9b29f38d9ebe6d1 id-b98aaec3173b4b05a27d658376f6d5fa id-74afeb3346724f5083b077523a975408">
+      targetConnections="id-b98aaec3173b4b05a27d658376f6d5fa id-74afeb3346724f5083b077523a975408 id-ad61ef4d852547b9a9b29f38d9ebe6d1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-809454d1f3b44e7e9ad30686352847f3"
@@ -107,15 +181,6 @@
       id="id-adcaa07ae74942cc8ef440617eb4e836">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-f4cc2f6559d64abc986a80988d13fca0"
-        source="id-adcaa07ae74942cc8ef440617eb4e836"
-        target="id-2223aab2c0c7402ea19b8dc13bc96a0c">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-ead0814707a74b07b9288e48337dff01.xml#id-ead0814707a74b07b9288e48337dff01"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a8de0d35dd0f4cdb810d9d123751ea01"
         source="id-adcaa07ae74942cc8ef440617eb4e836"
         target="id-364ffbc817184ad1875e6f444563348c">
@@ -133,6 +198,15 @@
           xsi:type="archimate:SpecializationRelationship"
           href="SpecializationRelationship_id-27af6b006bda451c98119b2fdf8786b9.xml#id-27af6b006bda451c98119b2fdf8786b9"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f4cc2f6559d64abc986a80988d13fca0"
+        source="id-adcaa07ae74942cc8ef440617eb4e836"
+        target="id-e0de322660f64f638c8f2dcf7d8ee846">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-ead0814707a74b07b9288e48337dff01.xml#id-ead0814707a74b07b9288e48337dff01"/>
+    </sourceConnections>
     <bounds
         x="24"
         y="326"
@@ -141,71 +215,6 @@
     <archimateElement
         xsi:type="archimate:CourseOfAction"
         href="CourseOfAction_id-5f7ee7220cd6424697f28a9b3a03bc0f.xml#id-5f7ee7220cd6424697f28a9b3a03bc0f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2223aab2c0c7402ea19b8dc13bc96a0c"
-      targetConnections="id-f4cc2f6559d64abc986a80988d13fca0">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-ad61ef4d852547b9a9b29f38d9ebe6d1"
-        source="id-2223aab2c0c7402ea19b8dc13bc96a0c"
-        target="id-1affc879f1f34742aa424f1818764e85">
-      <bendpoints
-          startX="36"
-          startY="-137"
-          endX="-126"
-          endY="69"/>
-      <bendpoints
-          startX="132"
-          startY="-137"
-          endX="-30"
-          endY="69"/>
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-af097db2e88149fba1e4a3f50a0cd2e3.xml#id-af097db2e88149fba1e4a3f50a0cd2e3"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-055568c111c14c4ba2d35f5709e04e50"
-        source="id-2223aab2c0c7402ea19b8dc13bc96a0c"
-        target="id-fb127c981ed7413eb6ebe545cce91e49">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-cf50757361d24c7693c9da9188664412.xml#id-cf50757361d24c7693c9da9188664412"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-bf0b8a19e1a140ec9b81f7b22fe495da"
-        source="id-2223aab2c0c7402ea19b8dc13bc96a0c"
-        target="id-2c7819ebc52c484585ae3ace98bc2bf2">
-      <bendpoints
-          startX="48"
-          startY="103"
-          endX="-456"
-          endY="-195"/>
-      <bendpoints
-          startX="384"
-          startY="103"
-          endX="-120"
-          endY="-195"/>
-      <bendpoints
-          startX="384"
-          startY="307"
-          endX="-120"
-          endY="9"/>
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-91e8dbebb6744a29b7b65721feb7ddf1.xml#id-91e8dbebb6744a29b7b65721feb7ddf1"/>
-    </sourceConnections>
-    <bounds
-        x="204"
-        y="326"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Plateau"
-        href="Plateau_id-af2ca05de942414db601fc92f73e1848.xml#id-af2ca05de942414db601fc92f73e1848"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -296,7 +305,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a486b25a23a84732adba90c1c4043b97"
       textAlignment="1"
-      content="Archimate fokussiert auf das Geschäft&#xA;SAFe fokussiert auf das Portfolio Mgmt, den Change im Geschäft.&#xA;Der LBC muss ein Investement Thema begründen können. &#xA;LBC ist in SAFe dem EPIC zugeordnet.&#xA;LeanUX verlangt einen Canvas pro Feature/Investment Thema.">
+      content="Archimate fokussiert auf das Geschäft&#xA;SAFe fokussiert auf das Portfolio Mgmt, den Change im Geschäft.&#xA;Der LBCC muss ein Investement Thema begründen können. &#xA;LBCC ist in SAFe dem EPIC zugeordnet.&#xA;LeanUX verlangt einen Canvas pro Feature/Investment Thema.">
     <sourceConnections
         id="id-da3cee39b6514801905942cf95fd38ff"
         source="id-a486b25a23a84732adba90c1c4043b97"
@@ -310,6 +319,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1b6bc12939d04438abf8fc3d4c939fdf"
+      targetConnections="id-80219de146804f8cb4189a4807452182"
       textAlignment="1">
     <bounds
         x="12"
@@ -743,10 +753,10 @@
       fillColor="#ffffff"
       content="Title of initiative: Lean Business Case Canvas">
     <bounds
-        x="440"
-        y="1101"
+        x="432"
+        y="1092"
         width="373"
-        height="20"/>
+        height="28"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -755,12 +765,15 @@
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Lean UX Canvas (v2)">
+      content="Lean Business Case Canvas">
+    <features
+        name="labelExpression"
+        value="$view{name}"/>
     <bounds
         x="12"
         y="1092"
-        width="334"
-        height="37"/>
+        width="373"
+        height="73"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -770,7 +783,7 @@
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Date: 11.10.24 StSutter&#xA;Iteration: I1">
+      content="Date: 11.8.25 StSutter&#xA;Iteration: I2">
     <bounds
         x="872"
         y="1092"
@@ -781,11 +794,27 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-c3d62fb6f3c0425cb475c086d2b18f3c"
       textAlignment="1"
-      content="Das big picture für einen Lean Business Case sieht nun so aus:&#xA;- Lean UX Canvas v2 https://jeffgothelf.com/blog/leanuxcanvas-v2/ ausfüllen&#xA;  - Blog von Jeff Gothelf: https://jeffgothelf.com/blog/how-i-convinced-a-leadership-team-to-implement-lean-ux/&#xA;- Wenn es der Akzeptanz dient, wird Lean UX Canvas auf Lean Business Case Canvas umbenannt werden, siehe auch Blog oben">
+      content="Das big picture für einen Lean Business Case sieht nun so aus:&#xA;- Lean UX Canvas v2 wurde auf Lean Business Case Canvas umbenannt &#xA;- Lean UX Canvas v2 https://jeffgothelf.com/blog/leanuxcanvas-v2/ ausfüllen&#xA;  - Blog von Jeff Gothelf: https://jeffgothelf.com/blog/how-i-convinced-a-leadership-team-to-implement-lean-ux/&#xA;">
     <bounds
-        x="1120"
+        x="433"
         y="1140"
         width="381"
         height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-1acd6a9734384e8a85aabbf6efe738a5">
+    <sourceConnections
+        id="id-80219de146804f8cb4189a4807452182"
+        source="id-1acd6a9734384e8a85aabbf6efe738a5"
+        target="id-1b6bc12939d04438abf8fc3d4c939fdf"/>
+    <bounds
+        x="1044"
+        y="996"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-6afcb40e257e40ed815ff09f25a56832.xml#id-6afcb40e257e40ed815ff09f25a56832"/>
   </children>
 </archimate:ArchimateDiagramModel>
