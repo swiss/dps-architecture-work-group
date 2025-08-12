@@ -26,7 +26,7 @@ credentials depends if using ssh or https with personal access token
 After succesful import you should see this
 ![archimate start screen](archi-collab.png)
 
-The default fonts need to be adapted from default to Arial 8 for Mac and Arial 7 for Windows
+The default fonts need to be adapted from default to Arial 7 for Mac and Arial 7 for Windows
 ![archimate preferences mac](arch-5-6-fonts-preferences-mac.png)
 ![archimate preferences win](arch-5-6-fonts-preferences-win.png)
 
