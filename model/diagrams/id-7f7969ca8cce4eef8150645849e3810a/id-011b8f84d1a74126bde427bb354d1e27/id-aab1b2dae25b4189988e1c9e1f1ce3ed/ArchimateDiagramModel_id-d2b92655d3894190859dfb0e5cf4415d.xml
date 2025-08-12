@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Archimate Metamodel in German"
-    id="id-d2b92655d3894190859dfb0e5cf4415d">
+    id="id-d2b92655d3894190859dfb0e5cf4415d"
+    documentation="Ist die Übersetzung von View &quot;Holistic ArchiMate Full Meta Model&quot; mit einem Übersetzungstool&#xA;Links und Detail siehe dort">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-683bf4214f7b49128def1877346daa22"
@@ -1015,7 +1016,7 @@
               href="RealizationRelationship_id-89eb7cafb1e44e9984c22c153183cacf.xml#id-89eb7cafb1e44e9984c22c153183cacf"/>
         </sourceConnections>
         <bounds
-            x="24"
+            x="12"
             y="24"
             width="120"
             height="55"/>
@@ -1046,7 +1047,7 @@
               href="ServingRelationship_id-0e0a5519cd9f416097c19690e62bcf11.xml#id-0e0a5519cd9f416097c19690e62bcf11"/>
         </sourceConnections>
         <bounds
-            x="24"
+            x="12"
             y="108"
             width="120"
             height="55"/>
@@ -1073,7 +1074,7 @@
               href="RealizationRelationship_id-17a8f62ec94e4a168a5070956dcfe81b.xml#id-17a8f62ec94e4a168a5070956dcfe81b"/>
         </sourceConnections>
         <bounds
-            x="180"
+            x="168"
             y="108"
             width="133"
             height="55"/>
@@ -1094,7 +1095,7 @@
               href="AssignmentRelationship_id-df6d43d1b05549cc97217444b1ed4149.xml#id-df6d43d1b05549cc97217444b1ed4149"/>
         </sourceConnections>
         <bounds
-            x="24"
+            x="12"
             y="192"
             width="120"
             height="55"/>
@@ -1522,5 +1523,17 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-72391d9b703841399840c94de90e3c89.xml#id-72391d9b703841399840c94de90e3c89"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-f1be69b051a44d36b8c33c0c311b5f48">
+    <bounds
+        x="1104"
+        y="956"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-6afcb40e257e40ed815ff09f25a56832.xml#id-6afcb40e257e40ed815ff09f25a56832"/>
   </children>
 </archimate:ArchimateDiagramModel>
