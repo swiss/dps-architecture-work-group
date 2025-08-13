@@ -3,3 +3,7 @@
 
 # Ignore environment files
 .env
+
+# Ignore Archi Credentials
+primary_key
+secure_ssh_credentials
