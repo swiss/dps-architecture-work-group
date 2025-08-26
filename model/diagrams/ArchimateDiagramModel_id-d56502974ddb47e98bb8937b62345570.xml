@@ -16,7 +16,7 @@
         x="1124"
         y="36"
         width="281"
-        height="433"/>
+        height="481"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -698,7 +698,7 @@
       id="id-30948b0e71fe4248a0fc2f2a003343df">
     <bounds
         x="1140"
-        y="195"
+        y="249"
         width="120"
         height="55"/>
     <referencedModel
@@ -710,7 +710,7 @@
       id="id-3696e31e23d4449286e39d4ae2592768">
     <bounds
         x="1140"
-        y="261"
+        y="315"
         width="120"
         height="55"/>
     <referencedModel
@@ -722,7 +722,7 @@
       id="id-2d082219fde341be8502aa87aad30657">
     <bounds
         x="1140"
-        y="329"
+        y="383"
         width="120"
         height="55"/>
     <referencedModel
@@ -734,7 +734,7 @@
       id="id-889a49a76ee644a287ed86da925db3f7">
     <bounds
         x="1140"
-        y="396"
+        y="450"
         width="120"
         height="55"/>
     <referencedModel
@@ -746,7 +746,7 @@
       id="id-8e3b0c79e5244b53b08ca5bbec91b007">
     <bounds
         x="1272"
-        y="195"
+        y="249"
         width="120"
         height="55"/>
     <referencedModel
@@ -758,7 +758,7 @@
       id="id-9c6c4e38214d486f98f74d7116bad156">
     <bounds
         x="1272"
-        y="261"
+        y="315"
         width="120"
         height="55"/>
     <referencedModel
@@ -770,11 +770,23 @@
       id="id-dee626bffd5b4608b8fb1a707e71ec69">
     <bounds
         x="1272"
-        y="329"
+        y="383"
         width="120"
         height="55"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-28a28de42b58499ba4619a9625edc23a.xml#id-28a28de42b58499ba4619a9625edc23a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-338655dcc46d485cb6a3fc8976fd9876">
+    <bounds
+        x="1136"
+        y="180"
+        width="256"
+        height="37"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-60332934388f448db8262b203145ea96.xml#id-60332934388f448db8262b203145ea96"/>
   </children>
 </archimate:ArchimateDiagramModel>
