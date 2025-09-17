@@ -1175,19 +1175,6 @@
         href="Stakeholder_id-70065c7097824f7d889ec0ec63a022ce.xml#id-70065c7097824f7d889ec0ec63a022ce"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-a65866c34ac04433920d82b54a768953"
-      textAlignment="1">
-    <features
-        name="labelExpression"
-        value="$connection:target{documentation}"/>
-    <bounds
-        x="1356"
-        y="432"
-        width="325"
-        height="145"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4720daed69a844c49165da22444629f6"
       targetConnections="id-aee9f2ee33064ba1a82e6c923ca68863"
