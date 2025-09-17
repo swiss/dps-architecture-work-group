@@ -1497,7 +1497,7 @@
         target="id-3cf2d87abb404555826d34ba9aeddd76"/>
     <bounds
         x="1368"
-        y="169"
+        y="216"
         width="185"
         height="31"/>
   </children>
@@ -1577,5 +1577,124 @@
         y="588"
         width="133"
         height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-17f9711748f148dc8724ac7976f42a9e">
+    <bounds
+        x="1380"
+        y="21"
+        width="133"
+        height="25"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-c52cc5334bce4ae5b61931287c6822b5.xml#id-c52cc5334bce4ae5b61931287c6822b5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c7a16193c87d4760b17637f17c0a411a">
+    <bounds
+        x="1380"
+        y="57"
+        width="133"
+        height="25"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-b191fd8605f14d15b6a8a70717983071.xml#id-b191fd8605f14d15b6a8a70717983071"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1e9d5771c1fb4ab7a12ec2d0825e772a">
+    <bounds
+        x="1530"
+        y="21"
+        width="133"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-005ccc5c6fdb48a9883d178bb2be66b2.xml#id-005ccc5c6fdb48a9883d178bb2be66b2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4cb88737f9dd464ea937fb0c1d0ac07e">
+    <bounds
+        x="1380"
+        y="87"
+        width="133"
+        height="34"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-1cc748b9335442018e1b0696fd0f38e0.xml#id-1cc748b9335442018e1b0696fd0f38e0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fd63ebd60b7e4ca3aa547722f01ee576">
+    <bounds
+        x="1380"
+        y="129"
+        width="133"
+        height="25"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-66971c002a3d4997b7ff2981e75f778f.xml#id-66971c002a3d4997b7ff2981e75f778f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-adf2cfc297ff424aa28b086cf4167d56">
+    <bounds
+        x="1530"
+        y="63"
+        width="133"
+        height="25"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-3453aaf59c0f483b994bff84e88a8804.xml#id-3453aaf59c0f483b994bff84e88a8804"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b0570cf2cf8342ecb76adad43d7f41a2">
+    <bounds
+        x="1380"
+        y="159"
+        width="133"
+        height="25"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-94b4e4d111404dd2b88e993fc59545f3.xml#id-94b4e4d111404dd2b88e993fc59545f3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-22b1cfa3861f4943b577d477b9a629a2">
+    <bounds
+        x="1530"
+        y="99"
+        width="133"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-66d79632cae949c19381edb39897e121.xml#id-66d79632cae949c19381edb39897e121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b614c1cbc324416c99e209ede85400bb">
+    <bounds
+        x="1530"
+        y="147"
+        width="133"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-6356727c75174e6fa993ce61529cdbfb.xml#id-6356727c75174e6fa993ce61529cdbfb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b6450dfb4f76428b9df71da791951ca9"
+      textAlignment="1"
+      content="Ziele Digitale Schweiz auf die Architektur Vision Natürliche Person beträgt">
+    <bounds
+        x="1385"
+        y="-12"
+        width="278"
+        height="34"/>
   </children>
 </archimate:ArchimateDiagramModel>
