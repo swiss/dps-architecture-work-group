@@ -1092,4 +1092,16 @@
         width="133"
         height="61"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a6154706a17d45b19a9a2f417fe0bd57">
+    <bounds
+        x="1416"
+        y="487"
+        width="120"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-2e939eaa87f74de9a8dc37351548c335.xml#id-2e939eaa87f74de9a8dc37351548c335"/>
+  </children>
 </archimate:ArchimateDiagramModel>
