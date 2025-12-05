@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Quadruple Helix"
     id="id-c769e0302d184702838119bff5e85ceb"
-    documentation="Paper from Fraunhofer: https://publica-rest.fraunhofer.de/server/api/core/bitstreams/7ac7390e-6fdf-4452-a0c8-4dff64f39544/content&#xA;Ausführliche Version jedoch mit 10 anderen Typen: https://publica.fraunhofer.de/entities/publication/d49fdeab-cc2f-4130-a638-079bd34450b9 ">
+    documentation="Paper from Fraunhofer: https://publica.fraunhofer.de/entities/publication/8adcf150-ec56-4a2c-b550-7412cba147c1&#xA;Ausführliche Version jedoch mit 10 anderen Typen: https://publica.fraunhofer.de/entities/publication/d49fdeab-cc2f-4130-a638-079bd34450b9 ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9de7976e9374478aa57cb639f697ff3b"
@@ -1624,4 +1624,7 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-72a6c698a99047c6bd1d2cdd58ed3d0c.xml#id-72a6c698a99047c6bd1d2cdd58ed3d0c"/>
   </children>
+  <properties
+      key="DOI"
+      value="https://doi.org/10.1016/j.sheji.2019.04.002"/>
 </archimate:ArchimateDiagramModel>
