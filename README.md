@@ -1,7 +1,13 @@
 # dvs-architektur
-DVS Arbeitsgruppe Architektur Archimate Repository 
+DVS Arbeitsgruppe Architektur - DPS architecture working group - Archimate Repository 
 
-How to collaborate with Archimate
+## How to use this Archimate Repository
+
+The models are built by the working group or derived from open documentations, binding standards are the publications not the models e.g. https://www.ech.ch/de/ech/ech-0279/1.0.0
+
+Remember, all models are wrong but some are useful (https://www.linkedin.com/posts/ghohpe_the-secret-to-software-architecture-is-knowing-activity-7401255011059625984-_fv0/ https://archive.learnwardleymapping.com/book.html)
+
+## How to collaborate with Archimate
 
 Install the recent version of Archi: https://www.archimatetool.com/download/
 
@@ -14,11 +20,11 @@ https://github.com/archimatetool/archi-modelrepository-plugin/wiki/Understand-th
 the access with ssh works well with gitlab and github, if you only want to read the repository, no need to make the push setup
 https://github.com/archimatetool/archi-modelrepository-plugin/wiki/SSH-Authentication
 
-For push setup, an account with active MFA is needed, make shure the E-Mail adress of the github account and the ssh key match.
+### For push setup, an account with active MFA is needed, make shure the E-Mail adress of the github account and the ssh key match.
 
 There are two passwords, the identity password for the ssh key to be set in the field in the preferences and one for the archi-credentials witch are requested from archi dialog and can be set with change primary password.
 
-Import a model 
+### Import a model 
 https://github.com/archimatetool/archi-modelrepository-plugin/wiki/Manage-Workspace
 
 ![clone code](clone.png)
@@ -32,4 +38,4 @@ The default fonts need to be adapted from default to Arial 7 for Mac and Arial 7
 ![archimate preferences mac](arch-5-6-fonts-preferences-mac.png)
 ![archimate preferences win](arch-5-6-fonts-preferences-win.png)
 
-Collaboration, please ask for access or create a pull-request
+## Collaboration, please ask for access, fork or create a pull-request
