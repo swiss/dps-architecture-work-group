@@ -5,7 +5,7 @@ DVS Arbeitsgruppe Architektur - DPS architecture working group - Archimate Repos
 
 The models are built by the working group or derived from open documentations, binding standards are the publications not the models e.g. https://www.ech.ch/de/ech/ech-0279/1.0.0
 
-Remember, all models are wrong but some are useful (https://www.linkedin.com/posts/ghohpe_the-secret-to-software-architecture-is-knowing-activity-7401255011059625984-_fv0/ https://archive.learnwardleymapping.com/book.html)
+:rotating_light: **Remember, all models are wrong but some are useful** (https://www.linkedin.com/posts/ghohpe_the-secret-to-software-architecture-is-knowing-activity-7401255011059625984-_fv0/ https://archive.learnwardleymapping.com/book.html)
 
 ## How to collaborate with Archimate
 
