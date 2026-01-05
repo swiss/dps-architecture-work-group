@@ -10,7 +10,7 @@
       textAlignment="1">
     <features
         name="labelExpression"
-        value="$vfolder{name} - $view{name}"/>
+        value="$vfolder{name} - $view{property:$model{property:ISO639}:Name}"/>
     <bounds
         x="372"
         y="720"
@@ -1290,4 +1290,41 @@
         xsi:type="archimate:Capability"
         href="Capability_id-0fe816a809e0431094d9486f97eb8ff2.xml#id-0fe816a809e0431094d9486f97eb8ff2"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f7aa12e88adc4d0c9b0b5ebcb007b43d"
+      textAlignment="1">
+    <features
+        name="labelExpression"
+        value="Test Label mit if, die zuerst einen Fix in Archimate brauchen, dass sie verwendet werden können: &#xA;https://github.com/swiss/ech-0122-modelling-work-group/issues/1&#xA;&#xA;vfolder&#xA;$vfolder{property:$model{property:ISO639}:Name}&#xA;${if:$vfolder{property:$model{property:ISO639}:Name}:$vfolder{property:$model{property:ISO639}:Name}:$vfolder{name}}&#xA;$vfolder{name}&#xA;&#xA;Name&#xA;$view{property:$model{property:ISO639}:Name}&#xA;${if:$view{property:$model{property:ISO639}:Name}:$view{property:$model{property:ISO639}:Name}:$view{name}}&#xA;$view{name}&#xA;&#xA;Documentation&#xA;$view{property:$model{property:ISO639}:Documentation}&#xA;${if:$view{property:$model{property:ISO639}:Documentation}:$view{documentation}}&#xA;$view{documentation}&#xA;&#xA;"/>
+    <bounds
+        x="372"
+        y="768"
+        width="517"
+        height="121"/>
+  </children>
+  <properties
+      key="eCH-0279-Architekturvision-2050"
+      value="Kap 6.1, Abb. 5"/>
+  <properties
+      key="ISO639_de:Name"
+      value="Abbildung 5: Strukturelles Gesamtbild der Architektur"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Figure 5 : Vue d’ensemble structurelle globale de l’architecture"/>
+  <properties
+      key="ISO639_de:Documentation-Link"
+      value="https://github.com/swiss/dps-architecture-work-group/wiki/WIPA_d_DEF_2024-04-12_eCH-0279_V1.0.0_Architekturvision_2050#gesamtbild-der-architektur-2050"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"
+      value="https://github.com/swiss/dps-architecture-work-group/wiki/WIPA_f_DEF_2024-04-12_eCH-0279_V1.0.0_Vision-de-l%E2%80%99architecture-2050#vue-densemble-de-larchitecture-2050"/>
+  <properties
+      key="ISO639_de:Documentation"
+      value="hier kopiert jArchi, wenn sinnvoll, den Text aus dem Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"
+      value="ici, jArchi copie, si desirable, le texte du Documentation-Link"/>
+  <properties
+      key="Version"
+      value="eCH-0279-1-0-0"/>
 </archimate:ArchimateDiagramModel>
