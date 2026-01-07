@@ -1,0 +1,24 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Value Stream"
+    id="id-eef67589d8b14df6b7af0843f0afcb0c"
+    documentation="A Value Stream represents a sequence of activities that create an overall result for a customer, stakeholder, or end user.">
+  <properties
+      key="BizArchMetaModelV3"
+      value="Value Stream"/>
+  <properties
+      key="BizArchMetaModelV3-Definition"
+      value="An end-to-end collection of activites that create a result for a customer, who may be the ultimate customer or an internal end-user of the value stream."/>
+  <properties
+      key="BizBOK"
+      value="https://www.omg.org/cgi-bin/doc?basig/2019-11-01#22"/>
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="Value Stream"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="A representation of an end-to-end collection of activities that create an overall result for a customer, stakeholder, or end-user."/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:ValueStream>

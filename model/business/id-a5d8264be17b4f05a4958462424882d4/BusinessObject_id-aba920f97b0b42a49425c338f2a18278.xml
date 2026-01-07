@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Object"
+    id="id-aba920f97b0b42a49425c338f2a18278"
+    documentation="In BizBOK Business Object is an explicit instance of an information concept&#xD;&#xA;In TOGAF Business Object is the Information Concept of BizBOK (Annahme StSutter 2.8.25)&#xA;In Archimate A Business Object represents a concept used within a particular business domain.">
+  <properties
+      key="BizArchMetaModelV3"
+      value="Information Concept primary"/>
+  <properties
+      key="BizArchMetaModelV3-Definition"
+      value="The way to represent business terms and semantics within the context of business architecture."/>
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="Business Information"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="Represents a concept and its semantics used within the business."/>
+</archimate:BusinessObject>

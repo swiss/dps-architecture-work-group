@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Role"
+    id="id-c3288ba952704191934325cc3eab4e7e"
+    documentation="A Business Role represents the responsibility for performing specific behavior, to which an actor can be assigned, or the part an actor plays in a particular action or event.">
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="(Business) Role"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="The usual or expected behavior of an actor, or the part somebody or something plays in a particular process or event. An actor may have a number of roles."/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:BusinessRole>

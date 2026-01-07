@@ -1,0 +1,21 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Principle"
+    id="id-f68d75ce4ec14ac5bb62a050a3941fdf"
+    documentation="A Principle represents a statement of intent defining a general property that applies to any system in a certain context in the architecture.">
+  <properties
+      key="BizArchMetaModelV3"
+      value="Policy"/>
+  <properties
+      key="BizArchMetaModelV3-Definition"
+      value="A course of principle of action adopted or proposed by a government, party, business, or individual."/>
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="Principle"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="A qualitative statement of intent that should be met by the architecture. It has at least a supporting rationale and a measure of importance."/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:Principle>

@@ -1,0 +1,14 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assumption"
+    id="id-f98877bf12d54ab0a6db811c41d76f96">
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="Assumption"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="A statement of probable fact that has not been fully validated at this stage, due to external constraints. For example, it may be assumed that an existing application will support a certain set of functional requirements, although those requirements may not yet have been individually validated."/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:Constraint>

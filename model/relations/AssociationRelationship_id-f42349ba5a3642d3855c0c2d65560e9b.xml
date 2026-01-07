@@ -3,6 +3,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="influences"
     id="id-f42349ba5a3642d3855c0c2d65560e9b">
+  <properties
+      key="TOGAF Enterprise Metamodel"/>
+  <properties
+      key="TOGAF Enterprise Metamodel Attributes"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
   <source
       xsi:type="archimate:CourseOfAction"
       href="CourseOfAction_id-a6eaea19e023482d881e306174e05096.xml#id-a6eaea19e023482d881e306174e05096"/>

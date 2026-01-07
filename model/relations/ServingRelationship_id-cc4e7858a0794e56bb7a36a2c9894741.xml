@@ -3,6 +3,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="serves"
     id="id-cc4e7858a0794e56bb7a36a2c9894741">
+  <properties
+      key="TOGAF Enterprise Metamodel"/>
+  <properties
+      key="TOGAF Enterprise Metamodel Attributes"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
   <source
       xsi:type="archimate:TechnologyFunction"
       href="TechnologyFunction_id-3932504dfdba4f65b5f191210477b67b.xml#id-3932504dfdba4f65b5f191210477b67b"/>

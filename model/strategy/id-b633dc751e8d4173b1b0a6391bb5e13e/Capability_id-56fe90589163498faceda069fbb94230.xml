@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Capability"
+    id="id-56fe90589163498faceda069fbb94230"
+    documentation="A Capability represents an ability that an active structure element, such as an organization, person, or system, possesses.">
+  <properties
+      key="BizArchMetaModelV3"
+      value="Capability Level 1"/>
+  <properties
+      key="BizArchMetaModelV3-Definition"
+      value="A particular ability or capacity that a business may possess or exchange to achieve a specific purpose or outcome."/>
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="Business Capability"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="A particular ability that a business may possess or exchange to achieve a particular purpose."/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:Capability>

@@ -3,10 +3,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="delivers"
     id="id-89549bb87be74967b6bc9db3396febb0">
+  <properties
+      key="TOGAF Enterprise Metamodel"/>
+  <properties
+      key="TOGAF Enterprise Metamodel Attributes"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
   <source
       xsi:type="archimate:BusinessFunction"
       href="BusinessFunction_id-a470eb33492b4b3386e8b4e5eaa6b567.xml#id-a470eb33492b4b3386e8b4e5eaa6b567"/>
   <target
       xsi:type="archimate:Capability"
-      href="Capability_id-b962358ed33d43c39e14b2a928050803.xml#id-b962358ed33d43c39e14b2a928050803"/>
+      href="Capability_id-56fe90589163498faceda069fbb94230.xml#id-56fe90589163498faceda069fbb94230"/>
 </archimate:RealizationRelationship>

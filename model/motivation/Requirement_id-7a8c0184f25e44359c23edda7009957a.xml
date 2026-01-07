@@ -1,0 +1,21 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Requirement"
+    id="id-7a8c0184f25e44359c23edda7009957a"
+    documentation="A Requirement represents a statement of need defining a property that applies to a specific system as described by the architecture.">
+  <properties
+      key="BizBOK"
+      value="Requirements Traceability"/>
+  <properties
+      key="BizBOK-Req-Tracabilty"
+      value="Customer Needs"/>
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="Requirement"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="A quantitative statement of business need that must be met by a particular architecture or work package."/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:Requirement>

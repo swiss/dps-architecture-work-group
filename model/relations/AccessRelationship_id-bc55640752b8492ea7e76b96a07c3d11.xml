@@ -4,10 +4,17 @@
     name="consumes"
     id="id-bc55640752b8492ea7e76b96a07c3d11"
     accessType="1">
+  <properties
+      key="TOGAF Enterprise Metamodel"/>
+  <properties
+      key="TOGAF Enterprise Metamodel Attributes"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-955de9c3aa1641c8815138b7eede6b3f.xml#id-955de9c3aa1641c8815138b7eede6b3f"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_id-64db43849d3c4ee5ac649439f820511a.xml#id-64db43849d3c4ee5ac649439f820511a"/>
+      href="DataObject_id-4af06fe378744e66975eb26729a48db4.xml#id-4af06fe378744e66975eb26729a48db4"/>
 </archimate:AccessRelationship>

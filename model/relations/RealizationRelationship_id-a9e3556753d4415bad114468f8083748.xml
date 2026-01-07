@@ -3,6 +3,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="realizes"
     id="id-a9e3556753d4415bad114468f8083748">
+  <properties
+      key="TOGAF Enterprise Metamodel"/>
+  <properties
+      key="TOGAF Enterprise Metamodel Attributes"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
   <source
       xsi:type="archimate:Artifact"
       href="Artifact_id-8591d547df8742b09abc78448b56957b.xml#id-8591d547df8742b09abc78448b56957b"/>

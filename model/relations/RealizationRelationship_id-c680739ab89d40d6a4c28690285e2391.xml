@@ -3,6 +3,16 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="realization"
     id="id-c680739ab89d40d6a4c28690285e2391">
+  <properties
+      key="BizArchMetaModelV3"
+      value="achieves"/>
+  <properties
+      key="TOGAF Enterprise Metamodel"/>
+  <properties
+      key="TOGAF Enterprise Metamodel Attributes"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
   <source
       xsi:type="archimate:CourseOfAction"
       href="CourseOfAction_id-a6eaea19e023482d881e306174e05096.xml#id-a6eaea19e023482d881e306174e05096"/>

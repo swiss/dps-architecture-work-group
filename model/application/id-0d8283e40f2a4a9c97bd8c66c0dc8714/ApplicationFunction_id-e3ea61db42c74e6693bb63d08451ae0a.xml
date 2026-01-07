@@ -1,0 +1,15 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logical Application Component"
+    id="id-e3ea61db42c74e6693bb63d08451ae0a"
+    documentation="Sollte das als Component modeliert werden?">
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="Logical ApplicationComponent"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="An encapsulation of application functionality that is definable by services offered and data maintained, independently of implementation and technology."/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:ApplicationFunction>

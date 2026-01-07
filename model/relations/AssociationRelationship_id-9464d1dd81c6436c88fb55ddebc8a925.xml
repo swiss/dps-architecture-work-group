@@ -2,6 +2,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-9464d1dd81c6436c88fb55ddebc8a925">
+  <properties
+      key="TOGAF Enterprise Metamodel"/>
+  <properties
+      key="TOGAF Enterprise Metamodel Attributes"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_id-161f214d9dde4e0eaa023b6174fc9cc7.xml#id-161f214d9dde4e0eaa023b6174fc9cc7"/>

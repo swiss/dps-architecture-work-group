@@ -1,0 +1,21 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Course of Action"
+    id="id-a6eaea19e023482d881e306174e05096"
+    documentation="A Course of Action represents an approach or plan for configuring some capabilities and resources of the enterprise, undertaken to achieve a goal.">
+  <properties
+      key="BizArchMetaModelV3"
+      value="Strategy"/>
+  <properties
+      key="BizArchMetaModelV3-Definition"
+      value="The pattern or plan that integrates an organization's major goals, policies, and action sequences into a cohesive whole."/>
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="Course of Action"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="Direction and focus provided by strategic goals and objectives, often to deliver the value proposition characterized in the business model."/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:CourseOfAction>

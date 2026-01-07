@@ -1,0 +1,15 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stakeholder"
+    id="id-fe3e0b828cf84554a47e666fbd3790f4"
+    documentation="A Stakeholder represents the role of an individual, team, or organization (or classes thereof) that represents their interests in the effects of the architecture.">
+  <properties
+      key="BizArchMetaModelV3"
+      value="Stakeholder"/>
+  <properties
+      key="BizArchMetaModelV3-Definition"
+      value="An internal or external individual or organization with a vested interest in achieving value through a particualr outcome."/>
+  <properties
+      key="BizBOK-Req-Tracabilty"
+      value="Stakeholder"/>
+</archimate:Stakeholder>

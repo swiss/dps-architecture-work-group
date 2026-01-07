@@ -3,10 +3,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="influences"
     id="id-9999162c58cc439ca11463c4a9ec4c98">
+  <properties
+      key="TOGAF Enterprise Metamodel"/>
+  <properties
+      key="TOGAF Enterprise Metamodel Attributes"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
   <source
       xsi:type="archimate:CourseOfAction"
       href="CourseOfAction_id-a6eaea19e023482d881e306174e05096.xml#id-a6eaea19e023482d881e306174e05096"/>
   <target
       xsi:type="archimate:Capability"
-      href="Capability_id-b962358ed33d43c39e14b2a928050803.xml#id-b962358ed33d43c39e14b2a928050803"/>
+      href="Capability_id-56fe90589163498faceda069fbb94230.xml#id-56fe90589163498faceda069fbb94230"/>
 </archimate:AssociationRelationship>

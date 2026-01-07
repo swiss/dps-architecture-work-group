@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Physical Application Component"
+    id="id-a15105aa56bd4c0a8ba57fe10e6965e2">
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="Physical ApplicationComponent"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="A realization of logical application functionality using components of functionality in applications that may be hired, procured, or built."/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:ApplicationComponent>

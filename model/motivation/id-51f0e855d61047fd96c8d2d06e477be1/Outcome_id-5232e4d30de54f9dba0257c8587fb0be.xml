@@ -1,0 +1,15 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Outcome"
+    id="id-5232e4d30de54f9dba0257c8587fb0be"
+    documentation="An Outcome represents an end result, effect, or consequence of a certain state of affairs.">
+  <properties
+      key="BizArchMetaModelV3-Definition"
+      value="An end-result or final product that is a consequence of an event, action or a series of events and actions."/>
+  <properties
+      key="BizArchMetaModelV3"
+      value="Outcome"/>
+  <properties
+      key="BizBOK-Req-Tracabilty"
+      value="Desired Outcomes"/>
+</archimate:Outcome>

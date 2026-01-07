@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="impacts"
+    id="id-8c805dc58120409cb6cb5f4a9b333d15">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-8928a425e98d4f829da88dbcef162e9b.xml#id-8928a425e98d4f829da88dbcef162e9b"/>
+  <target
+      xsi:type="archimate:Product"
+      href="Product_id-702def7bd7bc4acda7674bcedfd77b6c.xml#id-702def7bd7bc4acda7674bcedfd77b6c"/>
+</archimate:AssociationRelationship>

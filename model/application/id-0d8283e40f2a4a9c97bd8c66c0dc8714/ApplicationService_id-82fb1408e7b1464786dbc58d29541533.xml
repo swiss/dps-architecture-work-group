@@ -1,0 +1,17 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conceptual Application Service"
+    id="id-82fb1408e7b1464786dbc58d29541533"
+    documentation="An Application Service represents an explicitly defined exposed application behavior.">
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="(Conceptual) Application Service"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="The automated elements of a business service. An application service may deliver or support part or all of one or more business services."/>
+  <properties
+      key="TOGAF Enterprise Metamodel"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:ApplicationService>

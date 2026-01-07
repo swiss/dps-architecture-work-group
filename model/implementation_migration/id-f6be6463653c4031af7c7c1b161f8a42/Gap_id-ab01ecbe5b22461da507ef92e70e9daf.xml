@@ -1,9 +1,14 @@
 <archimate:Gap
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gap"
-    id="id-ab01ecbe5b22461da507ef92e70e9daf"
-    documentation="A statement of difference between two states. Used in the context of gap analysis, where the difference between the Baseline and Target Architecture is identified.&#xA;&#xA;Note:&#xA;    Gap analysis is described in the TOGAF Standard — ADM Techniques. ">
+    id="id-ab01ecbe5b22461da507ef92e70e9daf">
   <properties
       key="TOGAF Enterprise Metamodel"
+      value="Gap"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
       value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="A statement of difference between two states. Used in the context of gap analysis, where the difference between the Baseline and Target Architecture is identified."/>
 </archimate:Gap>

@@ -1,12 +1,14 @@
 <archimate:Location
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Location"
-    id="id-10556cafff604e2595b510f16da2b652"
-    documentation="A place where activities occur. Locations can be composed and decomposed.">
+    id="id-10556cafff604e2595b510f16da2b652">
   <properties
       key="TOGAF Enterprise Metamodel"
-      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+      value="Location"/>
   <properties
-      key="TOGAF Enterprise Metamodel Attributes"
-      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_05"/>
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="A place where activities occur. Locations can be composed and decomposed."/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
 </archimate:Location>

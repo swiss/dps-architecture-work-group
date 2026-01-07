@@ -1,0 +1,21 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Goal"
+    id="id-7af4d43f937246efb9e3a7367d729454"
+    documentation="A Goal represents a high-level statement of intent, direction, or desired end state for an organization and its stakeholders.">
+  <properties
+      key="BizArchMetaModelV3"
+      value="Objective"/>
+  <properties
+      key="BizArchMetaModelV3-Definition"
+      value="A quantitative, measurable result that defines strategy."/>
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="Goal"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="A high-level statement of intent or direction for an organization. Typically used to measure success of an organization."/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:Goal>

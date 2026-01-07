@@ -1,0 +1,15 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Constraint"
+    id="id-543a50b4011c4d6a9be06ddb6e718c88"
+    documentation="A Constraint represents a limitation on aspects of the architecture, its implementation process, or its realization.">
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="Constraint"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="An external factor that prevents an organization from pursuing particular approaches to meet its goals. For example, customer data is not harmonized within the organization, regionally or nationally, constraining the organization’s ability to offer effective customer service."/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:Constraint>

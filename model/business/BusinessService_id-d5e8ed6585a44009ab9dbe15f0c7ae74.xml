@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Service"
+    id="id-d5e8ed6585a44009ab9dbe15f0c7ae74"
+    documentation="A Business Service represents explicitly defined behavior that a business role, business actor, or business collaboration exposes to its environment.">
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="Business Service"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="Supports the business by encapsulating a unique element of business behavior; a service offered external to the enterprise may be supported by business services."/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:BusinessService>

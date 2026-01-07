@@ -1,0 +1,15 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conceptual Data Object"
+    id="id-4af06fe378744e66975eb26729a48db4"
+    documentation="Data Entity in Pure TOGAF Meta Model&#xA;Archimate: A Data Object represents data structured for automated processing.">
+  <properties
+      key="TOGAF Enterprise Metamodel"
+      value="(Conceptual) Data Object"/>
+  <properties
+      key="TOGAF Enterprise Metamodel-Definition"
+      value="Represents data that is recognized by the business as a distinct concept."/>
+  <properties
+      key="TOGAF Enterprise Metamodel-URL"
+      value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+</archimate:DataObject>
