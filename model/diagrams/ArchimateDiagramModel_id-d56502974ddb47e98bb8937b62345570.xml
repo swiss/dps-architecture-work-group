@@ -801,4 +801,16 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-6fba96425a5a48a592d42550180ea56d.xml#id-6fba96425a5a48a592d42550180ea56d"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-5bf066a9f54d4df68e0951de30e59d4e">
+    <bounds
+        x="892"
+        y="288"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-1ffdd8373f1b4fcc875ca4e92c56f83e.xml#id-1ffdd8373f1b4fcc875ca4e92c56f83e"/>
+  </children>
 </archimate:ArchimateDiagramModel>
