@@ -1,5 +1,7 @@
-# dvs-architektur
-DVS Arbeitsgruppe Architektur - DPS architecture working group - Archimate Repository 
+# dps-architecture - dvs-architektur
+DPS (Digital Public Services Switzerland) architecture working group - Archimate Repository 
+
+DVS (Digitale Verwaltung Schweiz) Arbeitsgruppe Architektur - Archimate Repository
 
 ## How to use this Archimate Repository
 
