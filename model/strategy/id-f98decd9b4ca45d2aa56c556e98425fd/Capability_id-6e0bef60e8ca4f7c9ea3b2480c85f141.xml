@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Identitäten und Berechtigungen prüfen"
     id="id-6e0bef60e8ca4f7c9ea3b2480c85f141"
-    documentation="S70&#xA;tbd"/>
+    documentation="S81&#xA;Behörden als Leistungserbringern müssen die folgenden Fähigkeiten einbringen: &#xA;Definition und Prüfung der Berechtigungen für den Bezug von Leistungen. &#xA;- Subjekt authentifizieren: Prüfen, ob ein identifiziertes Subjekt mit den zugehörigen Credentials auf eine Ressource zugreifen darf. &#xA;- Subjekt autorisieren: Prüfen, ob ein Subjekt die notwendigen Rechte für eine angeforderte Operation auf einer Ressource hat. &#xA;- Identität vergeben: Ausgeben eines Identitätsnachweises. &#xA;- Credentials vergeben: Ausgeben von authentifizierenden Informationen. &#xA;- Attribut registrieren verbindlich dokumentieren, dass eine Aussage über ein Subjekt zutrifft (z.B. „ist 18 Jahre alt“). &#xA;- Attribut bestätigen: Bestätigen bzw. nicht bestätigen, dass eine Aussage über ein Subjekt zutrifft. &#xA;- Recht vergeben: Einem Subjekt Zugriffsberechtigungen erteilen und entziehen "/>
