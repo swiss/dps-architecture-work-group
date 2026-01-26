@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zahlung abwickeln"
     id="id-6598e52092c24ba4bf0b854c4edf0629"
-    documentation="S82&#xA;Leistungsbezüger und Leistungsbezüger müssen die Fähigkeit einbringen, eine Leistung zu bezahlen oder eine Zahlung entgegenzunehmen. &#xA;- Rechnung empfangen: Rechnung entgegennehmen und prüfen &#xA;- Zahlung durchführen: Transferieren eines Geldbetrages zu einer Behörde. &#xA;- Zahlung empfangen: Einen Geldbetrag von einer Behörde entgegennehmen. &#xA;- Zahlung verbuchen: Eine Zahlung in der internen Buchhaltung verbuchen."/>
+    documentation="S82&#xA;Leistungsbezüger und Leistungsbezüger müssen die Fähigkeit einbringen, eine Leistung zu bezahlen oder eine Zahlung entgegenzunehmen. &#xA;- Rechnung empfangen: Rechnung entgegennehmen und prüfen &#xA;- Zahlung durchführen: Transferieren eines Geldbetrages zu einer Behörde. &#xA;- Zahlung empfangen: Einen Geldbetrag von einer Behörde entgegennehmen. &#xA;- Zahlung verbuchen: Eine Zahlung in der internen Buchhaltung verbuchen.">
+  <properties
+      key="Version"
+      value="eCH-0122-2"/>
+</archimate:Capability>
