@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nachweis"
     id="id-eb04fef7585e4db794071f337e843d8d"
-    documentation="Beispiele von Nachweisen, die aus Register und der Vertrauensinfrastruktur zuverlässig gemanaged werden&#xA;- Identitätskarte&#xA;- Ausländerausweis&#xA;- Pass&#xA;- E-ID"/>
+    documentation="Beispiele von Nachweisen, die aus Register und der Vertrauensinfrastruktur zuverlässig gemanaged werden&#xA;- Identitätskarte&#xA;- Ausländerausweis&#xA;- Pass&#xA;- E-ID">
+  <properties
+      key="Version"
+      value="eCH-0287-1-0-0"/>
+</archimate:Representation>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Glossar"
+    id="id-efe3afba495f4e4e95520f7d11c6d38c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-fa93676579814a26a19f3447122cc935.xml#id-fa93676579814a26a19f3447122cc935"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_id-5fcbbfdf1b814e599a6b1f7322797893.xml#id-5fcbbfdf1b814e599a6b1f7322797893"/>
+</archimate:AssociationRelationship>
