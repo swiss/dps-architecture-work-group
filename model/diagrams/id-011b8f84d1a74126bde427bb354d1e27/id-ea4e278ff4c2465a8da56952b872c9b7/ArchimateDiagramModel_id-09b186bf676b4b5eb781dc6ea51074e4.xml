@@ -99,4 +99,17 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-c769e0302d184702838119bff5e85ceb.xml#id-c769e0302d184702838119bff5e85ceb"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c9824e45b3d4404e8ee2c6e4ca7b1597"
+      textAlignment="1">
+    <features
+        name="labelExpression"
+        value="$vfolder{name} - $view{name}"/>
+    <bounds
+        x="144"
+        y="660"
+        width="327"
+        height="31"/>
+  </children>
 </archimate:ArchimateDiagramModel>
