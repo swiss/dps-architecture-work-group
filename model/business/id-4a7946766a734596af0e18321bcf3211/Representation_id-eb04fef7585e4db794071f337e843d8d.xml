@@ -1,8 +1,8 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Nachweis"
+    name="Nachweis (SOLL)"
     id="id-eb04fef7585e4db794071f337e843d8d"
-    documentation="Beispiele von Nachweisen, die aus Register und der Vertrauensinfrastruktur zuverlässig gemanaged werden&#xA;- Identitätskarte&#xA;- Ausländerausweis&#xA;- Pass&#xA;- E-ID">
+    documentation="Beispiele von Nachweisen, die aus Register und der Vertrauensinfrastruktur zuverlässig gemanaged werden&#xA;- Identitätskarte&#xA;- Ausländerausweis&#xA;- Pass&#xA;- E-ID&#xA;Abgrenzung Nachweise (SOLL) und Nachweise (IST)&#xA;- Nachweise (IST): auf Papier werden viele Geschäftsobjekte aus Registern zusammengefasst&#xA;- Nachweise (SOLL): als VC werden 1:1 Replikate der Geschäftsobjekte aus Registern im Wallet abgespeichert">
   <properties
       key="Version"
       value="eCH-0287-1-0-0"/>
