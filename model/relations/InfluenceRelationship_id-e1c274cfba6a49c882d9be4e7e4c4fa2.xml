@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parallelbetrieb"
+    id="id-e1c274cfba6a49c882d9be4e7e4c4fa2"
+    strength="+">
+  <source
+      xsi:type="archimate:Representation"
+      href="Representation_id-9c86635bf9384f4aa17050a51ba086f7.xml#id-9c86635bf9384f4aa17050a51ba086f7"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-c26502f1fbd541bd88e8e6600108c5fa.xml#id-c26502f1fbd541bd88e8e6600108c5fa"/>
+</archimate:InfluenceRelationship>

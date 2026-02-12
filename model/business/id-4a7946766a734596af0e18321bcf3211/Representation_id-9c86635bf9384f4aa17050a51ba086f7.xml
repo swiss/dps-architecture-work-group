@@ -1,0 +1,9 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nachweis (IST)"
+    id="id-9c86635bf9384f4aa17050a51ba086f7"
+    documentation="Beispiele von Nachweisen, die aus Register und der Vertrauensinfrastruktur zuverlässig gemanaged werden&#xA;- Identitätskarte&#xA;- Ausländerausweis&#xA;- Pass&#xA;- E-ID&#xA;Abgrenzung Nachweise (SOLL) und Nachweise (IST)&#xA;- Nachweise (IST): auf Papier werden viele Geschäftsobjekte aus Registern zusammengefasst&#xA;- Nachweise (SOLL): Hypothese 1: als VC werden 1:1 Replikate der Geschäftsobjekte aus Registern im Wallet abgespeichert&#xA;- Nachweise (SOLL): Hypothese 2: als VC werden weniger als im IST Geschäftsobjekte aus Registern zusammengefasst und im Wallet abgespeichert&#xA;">
+  <properties
+      key="Version"
+      value="eCH-0287-1-0-0"/>
+</archimate:Representation>
