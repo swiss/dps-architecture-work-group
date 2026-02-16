@@ -10,6 +10,9 @@
   <properties
       key="TOGAF Enterprise Metamodel-URL"
       value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+  <properties
+      key="BizArch-IT-Arch-MetaModelV1"
+      value="incorporates"/>
   <source
       xsi:type="archimate:ApplicationFunction"
       href="ApplicationFunction_id-e3ea61db42c74e6693bb63d08451ae0a.xml#id-e3ea61db42c74e6693bb63d08451ae0a"/>
