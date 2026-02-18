@@ -185,7 +185,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ff95dfa3fdf84020896ea1b3c52bd9f3"
-        targetConnections="id-d8ee3b69fca541f6830a23cffa162ffd id-01c58f9c4e624d44b8256361b21e0dae id-63e287dd2ba14f4eae7a6bf01a449527">
+        targetConnections="id-d8ee3b69fca541f6830a23cffa162ffd id-01c58f9c4e624d44b8256361b21e0dae id-63e287dd2ba14f4eae7a6bf01a449527 id-607fb6f6acaf46ac9dbf7ac29649a175">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-ef0dfa4bf0354190bc717023b706656b"
@@ -489,7 +489,7 @@
       </sourceConnections>
       <bounds
           x="36"
-          y="336"
+          y="348"
           width="120"
           height="55"/>
       <archimateElement
@@ -882,7 +882,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-93a0d21893344f71b9c2cd7cd2049343"
-      targetConnections="id-4ab8ee4a4ac2411ebfa37914022b3acc id-6e54d18e288747f7b402493820ad2e17">
+      targetConnections="id-4ab8ee4a4ac2411ebfa37914022b3acc id-6e54d18e288747f7b402493820ad2e17 id-ba6be3d216bd44eaa7d7b6785aac5438 id-8104661f73c5499188f1113225f08881">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-8dfa9cbc731a4de5bc9136073a837d42"
@@ -898,11 +898,37 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-673f7878b8f4463a8b4f9775cf52062d.xml#id-673f7878b8f4463a8b4f9775cf52062d"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8ae9a0cb257d40acb3728e2dc2378b23"
+        source="id-93a0d21893344f71b9c2cd7cd2049343"
+        target="id-737c1d9870cc46cdaee15111d04c3ad1">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-08ba04b205344b1d91fab34e2f740fb8.xml#id-08ba04b205344b1d91fab34e2f740fb8"/>
+    </sourceConnections>
     <bounds
         x="60"
         y="228"
         width="120"
         height="55"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-59a6a4feae81440a98b2b44623a4159a"
+        textAlignment="1">
+      <features
+          name="labelExpression"
+          value="$connection:target{property:BizArchMetaModelV3}"/>
+      <sourceConnections
+          id="id-ba6be3d216bd44eaa7d7b6785aac5438"
+          source="id-59a6a4feae81440a98b2b44623a4159a"
+          target="id-93a0d21893344f71b9c2cd7cd2049343"/>
+      <bounds
+          x="12"
+          y="24"
+          width="97"
+          height="21"/>
+    </children>
     <archimateElement
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-d1da24f415884fbf9f125ae80a26619d.xml#id-d1da24f415884fbf9f125ae80a26619d"/>
@@ -942,6 +968,159 @@
     <bounds
         x="36"
         y="445"
+        width="97"
+        height="30"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1da947e752f5460cba06b1dba673fae2"
+      targetConnections="id-c3919eca3b2a4c3ead55dea64cde2df1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-607fb6f6acaf46ac9dbf7ac29649a175"
+        source="id-1da947e752f5460cba06b1dba673fae2"
+        target="id-ff95dfa3fdf84020896ea1b3c52bd9f3">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-f8709a55eb344c10a8066941a4954c9a.xml#id-f8709a55eb344c10a8066941a4954c9a"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-78adc625faae4873831a5fe999853a4e"
+        targetConnections="id-700bdc8a3b5143f48630cead35e5d8b8"
+        source="id-1da947e752f5460cba06b1dba673fae2"
+        target="id-c6575685d6b54e7c9c2c66f380c6acdd">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-72ae5d70c56543bead480bcbd120eef4.xml#id-72ae5d70c56543bead480bcbd120eef4"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8104661f73c5499188f1113225f08881"
+        source="id-1da947e752f5460cba06b1dba673fae2"
+        target="id-93a0d21893344f71b9c2cd7cd2049343">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-9ccc754284a543f8a24d7904987ae0d8.xml#id-9ccc754284a543f8a24d7904987ae0d8"/>
+    </sourceConnections>
+    <bounds
+        x="60"
+        y="132"
+        width="120"
+        height="55"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-d549d7ffbc2d40459f0e52f3276976fb"
+        textAlignment="1">
+      <features
+          name="labelExpression"
+          value="$connection:target{property:BizArchMetaModelV3}"/>
+      <sourceConnections
+          id="id-c3919eca3b2a4c3ead55dea64cde2df1"
+          source="id-d549d7ffbc2d40459f0e52f3276976fb"
+          target="id-1da947e752f5460cba06b1dba673fae2"/>
+      <bounds
+          x="12"
+          y="24"
+          width="97"
+          height="21"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-fe3e0b828cf84554a47e666fbd3790f4.xml#id-fe3e0b828cf84554a47e666fbd3790f4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c6575685d6b54e7c9c2c66f380c6acdd"
+      targetConnections="id-8989811b63b34ee2b010d26ef77059c0 id-78adc625faae4873831a5fe999853a4e">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-864fcffb966443918e7aece6b4f33b72"
+        source="id-c6575685d6b54e7c9c2c66f380c6acdd"
+        target="id-737c1d9870cc46cdaee15111d04c3ad1">
+      <bendpoints
+          startX="-120"
+          startY="-3"
+          endX="35"
+          endY="-207"/>
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-957aa25cb5294ae4b527e9e566e7a422.xml#id-957aa25cb5294ae4b527e9e566e7a422"/>
+    </sourceConnections>
+    <bounds
+        x="72"
+        y="24"
+        width="120"
+        height="55"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-8c31bb5cb9044922ba36f0c4a994e44d"
+        textAlignment="1">
+      <features
+          name="labelExpression"
+          value="$connection:target{property:BizArchMetaModelV3}"/>
+      <sourceConnections
+          id="id-8989811b63b34ee2b010d26ef77059c0"
+          source="id-8c31bb5cb9044922ba36f0c4a994e44d"
+          target="id-c6575685d6b54e7c9c2c66f380c6acdd"/>
+      <bounds
+          x="12"
+          y="24"
+          width="93"
+          height="21"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-7b7c9ba1278f40dfa8515d40a1defc53.xml#id-7b7c9ba1278f40dfa8515d40a1defc53"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-737c1d9870cc46cdaee15111d04c3ad1"
+      targetConnections="id-864fcffb966443918e7aece6b4f33b72 id-3a6a26fd472a4638979e685d948b62a4 id-8ae9a0cb257d40acb3728e2dc2378b23">
+    <bounds
+        x="-96"
+        y="228"
+        width="120"
+        height="55"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-e60041af620b448aa17cd113d9bf3a61"
+        textAlignment="1">
+      <features
+          name="labelExpression"
+          value="$connection:target{property:BizArchMetaModelV3}"/>
+      <sourceConnections
+          id="id-3a6a26fd472a4638979e685d948b62a4"
+          source="id-e60041af620b448aa17cd113d9bf3a61"
+          target="id-737c1d9870cc46cdaee15111d04c3ad1">
+        <features
+            name="labelExpression"
+            value="${property:key}"/>
+      </sourceConnections>
+      <bounds
+          x="24"
+          y="24"
+          width="62"
+          height="21"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-5ecd598205bb4f98a3607d7830f3340b.xml#id-5ecd598205bb4f98a3607d7830f3340b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0ad7c9afb4064dfab8dd3d0f6d9f758d"
+      textAlignment="1">
+    <features
+        name="labelExpression"
+        value="$connection:target{property:BizArch-IT-Arch-MetaModelV1}"/>
+    <sourceConnections
+        id="id-700bdc8a3b5143f48630cead35e5d8b8"
+        source="id-0ad7c9afb4064dfab8dd3d0f6d9f758d"
+        target="id-78adc625faae4873831a5fe999853a4e"/>
+    <bounds
+        x="144"
+        y="84"
         width="97"
         height="30"/>
   </children>
