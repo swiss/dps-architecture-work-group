@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="influences"
+    id="id-42a578795a184030b42131ffa4ec1a62"
+    directed="true">
+  <properties
+      key="BizArch-IT-Arch-MetaModelV1"
+      value="influences"/>
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-7a5e63ba51804b528bace55c2b870223.xml#id-7a5e63ba51804b528bace55c2b870223"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-e3ea61db42c74e6693bb63d08451ae0a.xml#id-e3ea61db42c74e6693bb63d08451ae0a"/>
+</archimate:AssociationRelationship>

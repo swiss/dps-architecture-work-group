@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="automates"
+    id="id-54d1125d7e5f46ccbfc86ea6ad4d9d9e"
+    directed="true">
+  <properties
+      key="BizArch-IT-Arch-MetaModelV1"
+      value="automates"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-e3ea61db42c74e6693bb63d08451ae0a.xml#id-e3ea61db42c74e6693bb63d08451ae0a"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-56fe90589163498faceda069fbb94230.xml#id-56fe90589163498faceda069fbb94230"/>
+</archimate:AssociationRelationship>

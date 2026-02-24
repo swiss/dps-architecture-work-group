@@ -1,0 +1,15 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="includes"
+    id="id-279bc0b12501400280e3ecfbc9c89830">
+  <properties
+      key="BizArch-IT-Arch-MetaModelV1"
+      value="includes"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-e3ea61db42c74e6693bb63d08451ae0a.xml#id-e3ea61db42c74e6693bb63d08451ae0a"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-f3f51610296049fa9e15f2ac8798a93b.xml#id-f3f51610296049fa9e15f2ac8798a93b"/>
+</archimate:AggregationRelationship>

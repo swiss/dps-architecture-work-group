@@ -1,0 +1,15 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="implements"
+    id="id-547676ad7fbe495998ec6b4ce3641906">
+  <properties
+      key="BizArch-IT-Arch-MetaModelV1"
+      value="implements"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-f3f51610296049fa9e15f2ac8798a93b.xml#id-f3f51610296049fa9e15f2ac8798a93b"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-7a5e63ba51804b528bace55c2b870223.xml#id-7a5e63ba51804b528bace55c2b870223"/>
+</archimate:RealizationRelationship>

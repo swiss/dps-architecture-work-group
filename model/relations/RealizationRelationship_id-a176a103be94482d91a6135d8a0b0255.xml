@@ -1,16 +1,15 @@
-<archimate:AssociationRelationship
+<archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="relies on"
-    id="id-673f7878b8f4463a8b4f9775cf52062d"
-    directed="true">
+    name="automates"
+    id="id-a176a103be94482d91a6135d8a0b0255">
   <properties
       key="BizArch-IT-Arch-MetaModelV1"
-      value="relies on"/>
+      value="automates"/>
   <source
-      xsi:type="archimate:ValueStream"
-      href="ValueStream_id-d1da24f415884fbf9f125ae80a26619d.xml#id-d1da24f415884fbf9f125ae80a26619d"/>
-  <target
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-82fb1408e7b1464786dbc58d29541533.xml#id-82fb1408e7b1464786dbc58d29541533"/>
-</archimate:AssociationRelationship>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-38047923ad834917a6b90f99b20bba03.xml#id-38047923ad834917a6b90f99b20bba03"/>
+</archimate:RealizationRelationship>
