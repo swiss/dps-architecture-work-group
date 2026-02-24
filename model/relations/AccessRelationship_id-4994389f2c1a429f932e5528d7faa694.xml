@@ -5,12 +5,16 @@
     id="id-4994389f2c1a429f932e5528d7faa694"
     accessType="3">
   <properties
-      key="TOGAF Enterprise Metamodel"/>
+      key="TOGAF Enterprise Metamodel"
+      value="uses/modifies"/>
   <properties
       key="TOGAF Enterprise Metamodel Attributes"/>
   <properties
       key="TOGAF Enterprise Metamodel-URL"
       value="https://pubs.opengroup.org/togaf-standard/architecture-content/chap02.html#tag_02_04"/>
+  <properties
+      key="BizArch-IT-Arch-MetaModelV1"
+      value="uses/modifies"/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-82fb1408e7b1464786dbc58d29541533.xml#id-82fb1408e7b1464786dbc58d29541533"/>

@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="implements"
+    id="id-4af2d511f32e4106bedab2c544cecafa"
+    directed="true">
+  <properties
+      key="BizArch-IT-Arch-MetaModelV1"
+      value="implements"/>
+  <source
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-8591d547df8742b09abc78448b56957b.xml#id-8591d547df8742b09abc78448b56957b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-aba920f97b0b42a49425c338f2a18278.xml#id-aba920f97b0b42a49425c338f2a18278"/>
+</archimate:AssociationRelationship>

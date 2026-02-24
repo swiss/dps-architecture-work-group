@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="access"
     id="id-9744a11a58fd4e4d8250034c4cc919dc">
+  <properties
+      key="BizArch-IT-Arch-MetaModelV1"
+      value="access"/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-82fb1408e7b1464786dbc58d29541533.xml#id-82fb1408e7b1464786dbc58d29541533"/>

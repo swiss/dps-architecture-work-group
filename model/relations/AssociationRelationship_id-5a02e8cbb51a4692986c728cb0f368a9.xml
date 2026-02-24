@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="elaborates"
+    id="id-5a02e8cbb51a4692986c728cb0f368a9"
+    directed="true">
+  <properties
+      key="BizArch-IT-Arch-MetaModelV1"
+      value="elaborates"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-161f214d9dde4e0eaa023b6174fc9cc7.xml#id-161f214d9dde4e0eaa023b6174fc9cc7"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-aba920f97b0b42a49425c338f2a18278.xml#id-aba920f97b0b42a49425c338f2a18278"/>
+</archimate:AssociationRelationship>
