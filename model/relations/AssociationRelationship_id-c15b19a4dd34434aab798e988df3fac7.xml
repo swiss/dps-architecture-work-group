@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tbd"
+    id="id-c15b19a4dd34434aab798e988df3fac7"
+    documentation="Der Zusammenhang zwischen Nachweis und Digitalem Nachweis (VC) ist unklar">
+  <source
+      xsi:type="archimate:Representation"
+      href="Representation_id-caee770336f34a2380e33c4217f9c398.xml#id-caee770336f34a2380e33c4217f9c398"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_id-0642d4cd9dfd4f3a886137d6d61355fb.xml#id-0642d4cd9dfd4f3a886137d6d61355fb"/>
+</archimate:AssociationRelationship>

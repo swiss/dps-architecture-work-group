@@ -1152,6 +1152,18 @@
         xsi:type="archimate:Driver"
         href="Driver_id-c26502f1fbd541bd88e8e6600108c5fa.xml#id-c26502f1fbd541bd88e8e6600108c5fa"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-6abbd3c33cc94dd9bc67c22597551318">
+    <bounds
+        x="372"
+        y="720"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-c13171ad42ed415ba577e1cfebb974b1.xml#id-c13171ad42ed415ba577e1cfebb974b1"/>
+  </children>
   <properties
       key="ISO639_de:Documentation-Link"
       value="https://www.ech.ch/de/ech/ech-0287/1.0.0"/>
