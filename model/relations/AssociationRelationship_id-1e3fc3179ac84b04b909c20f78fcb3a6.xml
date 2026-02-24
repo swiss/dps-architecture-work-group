@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="impacts"
+    id="id-1e3fc3179ac84b04b909c20f78fcb3a6"
+    directed="true">
+  <properties
+      key="BizArch-IT-Arch-MetaModelV1"
+      value="impacts"/>
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-7a8c0184f25e44359c23edda7009957a.xml#id-7a8c0184f25e44359c23edda7009957a"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-7a5e63ba51804b528bace55c2b870223.xml#id-7a5e63ba51804b528bace55c2b870223"/>
+</archimate:AssociationRelationship>

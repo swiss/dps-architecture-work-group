@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="owns"
+    id="id-33169a1b51ac4f20add68741059e7f58">
+  <properties
+      key="BizArch-IT-Arch-MetaModelV1"
+      value="owns"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-8f903c8475514a50941c6b55f1b25ef5.xml#id-8f903c8475514a50941c6b55f1b25ef5"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-7af4d43f937246efb9e3a7367d729454.xml#id-7af4d43f937246efb9e3a7367d729454"/>
+</archimate:AssociationRelationship>
