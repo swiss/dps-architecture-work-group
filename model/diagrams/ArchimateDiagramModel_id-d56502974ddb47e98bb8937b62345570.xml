@@ -16,7 +16,7 @@
         x="1124"
         y="36"
         width="281"
-        height="481"/>
+        height="588"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -61,7 +61,7 @@
         x="48"
         y="203"
         width="1009"
-        height="158"/>
+        height="236"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -74,7 +74,7 @@
       content="Phase C: Information Systems Architecture">
     <bounds
         x="48"
-        y="372"
+        y="468"
         width="667"
         height="224"/>
   </children>
@@ -89,7 +89,7 @@
       content="Data Architecture">
     <bounds
         x="61"
-        y="396"
+        y="492"
         width="647"
         height="73"/>
   </children>
@@ -104,7 +104,7 @@
       content="Application Architecture">
     <bounds
         x="61"
-        y="476"
+        y="572"
         width="647"
         height="113"/>
   </children>
@@ -119,7 +119,7 @@
       content="Baseline">
     <bounds
         x="68"
-        y="496"
+        y="592"
         width="300"
         height="87"/>
   </children>
@@ -134,7 +134,7 @@
       content="Target">
     <bounds
         x="375"
-        y="496"
+        y="592"
         width="147"
         height="87"/>
   </children>
@@ -149,7 +149,7 @@
       content="Gap analysis">
     <bounds
         x="528"
-        y="496"
+        y="592"
         width="173"
         height="87"/>
   </children>
@@ -164,7 +164,7 @@
       content="Phase D: Technology Architecture">
     <bounds
         x="48"
-        y="603"
+        y="699"
         width="667"
         height="187"/>
   </children>
@@ -179,7 +179,7 @@
       content="Baseline">
     <bounds
         x="68"
-        y="623"
+        y="719"
         width="207"
         height="73"/>
   </children>
@@ -194,7 +194,7 @@
       content="Target">
     <bounds
         x="68"
-        y="710"
+        y="806"
         width="207"
         height="73"/>
   </children>
@@ -209,7 +209,7 @@
       content="Gap analysis">
     <bounds
         x="295"
-        y="660"
+        y="756"
         width="227"
         height="73"/>
   </children>
@@ -224,7 +224,7 @@
       content="Internet of Things (Target)">
     <bounds
         x="538"
-        y="617"
+        y="713"
         width="153"
         height="160"/>
   </children>
@@ -254,7 +254,7 @@
       content="Phase E: Opportunities &amp; Solutions">
     <bounds
         x="48"
-        y="796"
+        y="892"
         width="333"
         height="94"/>
   </children>
@@ -269,7 +269,7 @@
       content="Phase F: Migration Planning">
     <bounds
         x="395"
-        y="796"
+        y="892"
         width="320"
         height="94"/>
   </children>
@@ -362,7 +362,7 @@
       id="id-b4d58c6e83634704b55165b3c4122284">
     <bounds
         x="229"
-        y="405"
+        y="501"
         width="120"
         height="55"/>
     <referencedModel
@@ -398,7 +398,7 @@
       id="id-178e397d7e434b17b50d87696d2cb53c">
     <bounds
         x="419"
-        y="828"
+        y="924"
         width="120"
         height="55"/>
     <referencedModel
@@ -638,7 +638,7 @@
       id="id-d8310fb925b54afebf322fcb42d19008">
     <bounds
         x="555"
-        y="828"
+        y="924"
         width="120"
         height="55"/>
     <referencedModel
@@ -697,8 +697,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-30948b0e71fe4248a0fc2f2a003343df">
     <bounds
-        x="1136"
-        y="228"
+        x="1137"
+        y="294"
         width="120"
         height="55"/>
     <referencedModel
@@ -709,8 +709,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-2d082219fde341be8502aa87aad30657">
     <bounds
-        x="1136"
-        y="362"
+        x="1137"
+        y="428"
         width="120"
         height="55"/>
     <referencedModel
@@ -721,8 +721,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-889a49a76ee644a287ed86da925db3f7">
     <bounds
-        x="1136"
-        y="432"
+        x="1137"
+        y="498"
         width="120"
         height="55"/>
     <referencedModel
@@ -733,8 +733,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-8e3b0c79e5244b53b08ca5bbec91b007">
     <bounds
-        x="1268"
-        y="228"
+        x="1269"
+        y="294"
         width="120"
         height="55"/>
     <referencedModel
@@ -745,8 +745,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-9c6c4e38214d486f98f74d7116bad156">
     <bounds
-        x="1268"
-        y="294"
+        x="1269"
+        y="360"
         width="120"
         height="69"/>
     <referencedModel
@@ -757,8 +757,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-dee626bffd5b4608b8fb1a707e71ec69">
     <bounds
-        x="1268"
-        y="456"
+        x="1269"
+        y="522"
         width="120"
         height="55"/>
     <referencedModel
@@ -769,8 +769,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-338655dcc46d485cb6a3fc8976fd9876">
     <bounds
-        x="1136"
-        y="180"
+        x="1137"
+        y="246"
         width="256"
         height="37"/>
     <referencedModel
@@ -781,8 +781,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-ce85465a5f7849bea1ab181f3bf2fa9c">
     <bounds
-        x="1136"
-        y="294"
+        x="1137"
+        y="360"
         width="120"
         height="55"/>
     <referencedModel
@@ -793,8 +793,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-af1a75d4b4294397b91c018646a42357">
     <bounds
-        x="1268"
-        y="372"
+        x="1269"
+        y="438"
         width="120"
         height="68"/>
     <referencedModel
@@ -812,5 +812,29 @@
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-1ffdd8373f1b4fcc875ca4e92c56f83e.xml#id-1ffdd8373f1b4fcc875ca4e92c56f83e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-4be6911a0c2f4b0293c6c2c0dff327fc">
+    <bounds
+        x="1137"
+        y="186"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-634ce8c72341458097619e6b73539dc0.xml#id-634ce8c72341458097619e6b73539dc0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-c576d65ab1fc4e2da9ba042c27d4aaf2">
+    <bounds
+        x="68"
+        y="348"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-ac9ac54c82ac4c66bc72222508e48205.xml#id-ac9ac54c82ac4c66bc72222508e48205"/>
   </children>
 </archimate:ArchimateDiagramModel>
