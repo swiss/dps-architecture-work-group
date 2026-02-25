@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Standardmässig interoperabel"
     id="id-9f110a5ba14041268325de567748b1c4"
-    documentation="Zitat aus eCH-0279, 5.2.3:&#xD;&#xA;Öffentliche Dienste sind so gestaltet, dass sie in der ganzen Schweiz und über organisatori-sche Grenzen hinweg erbracht werden können. Dazu ist der freie Austausch von Daten und digitalen Dienstleistungen in der Schweiz und international gewährleistet."/>
+    documentation="Zitat aus eCH-0279, 5.2.3:&#xD;&#xA;Öffentliche Dienste sind so gestaltet, dass sie in der ganzen Schweiz und über organisatori-sche Grenzen hinweg erbracht werden können. Dazu ist der freie Austausch von Daten und digitalen Dienstleistungen in der Schweiz und international gewährleistet.">
+  <properties
+      key="eCH-0279-Architekturvision-2050"
+      value="5.2.3 Standardmässig Interoperabel"/>
+  <properties
+      key="ISO639_de:Documentation-Link"
+      value="https://github.com/swiss/dps-architecture-work-group/wiki/WIPA_d_DEF_2024-04-12_eCH-0279_V1.0.0_Architekturvision_2050#standardm%C3%A4ssig-interoperabel-"/>
+  <properties
+      key="ISO639_de:Name"
+      value="Standardmässig Interoperabel"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="L’interopérabilité comme nouveau standard"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"
+      value="https://github.com/swiss/dps-architecture-work-group/wiki/WIPA_f_DEF_2024-04-12_eCH-0279_V1.0.0_Vision-de-l%E2%80%99architecture-2050#linterop%C3%A9rabilit%C3%A9-comme-nouveau-standard-"/>
+  <properties
+      key="Version"
+      value="eCH-0279-1-0-0"/>
+</archimate:Principle>
