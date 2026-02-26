@@ -1,0 +1,54 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIF Principle"
+    id="id-2e8a6aa6b4d648db806c4351ecccccb2"
+    documentation="Definition: EIF Principle ABB is a Principle analysing European Public Services by driving the identification and formulation of interoperability requirements with higher levels of granularity and used to design European public services by driving the identification and formulation of interoperability specifications&#xA;&#xA;Source: EIF&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/eif_en&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Transparency: EIF Transparency Principle refers to: 1. Enabling visibility inside the administrative environment of a public administration. This is about allowing other public administrations, citizens and businesses to view and understand administrative rules, processes, data, services and decision-making.  2. Ensuring availability of interfaces with internal information systems. Public administrations operate a large number of what are often heterogeneous and disparate information systems in support of their internal processes. Interoperability depends on ensuring the availability of interfaces to these systems and the data they handle. In turn, interoperability facilitates reuse of systems and data, and enables these to be integrated into larger systems. 3. Securing the right to the protection of personal data, by respecting the applicable legal framework for the large volumes of personal data of citizens, held and managed by Public administrations.(https://ec.europa.eu/isa2/sites/default/files/eif_brochure_final.pdf)&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EIFPrinciplePrinciple&#xA;&#xA;ABB name: eira:EIFPrinciplePrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EIFPrinciplePrinciple&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:type"
+      value="eira:EIFPrinciplePrinciple"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/eif_en"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/EIFPrinciplePrinciple"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="EIF Principle ABB is a Principle analysing European Public Services by driving the identification and formulation of interoperability requirements with higher levels of granularity and used to design European public services by driving the identification and formulation of interoperability specifications"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Transparency: EIF Transparency Principle refers to: 1. Enabling visibility inside the administrative environment of a public administration. This is about allowing other public administrations, citizens and businesses to view and understand administrative rules, processes, data, services and decision-making.  2. Ensuring availability of interfaces with internal information systems. Public administrations operate a large number of what are often heterogeneous and disparate information systems in support of their internal processes. Interoperability depends on ensuring the availability of interfaces to these systems and the data they handle. In turn, interoperability facilitates reuse of systems and data, and enables these to be integrated into larger systems. 3. Securing the right to the protection of personal data, by respecting the applicable legal framework for the large volumes of personal data of citizens, held and managed by Public administrations.(https://ec.europa.eu/isa2/sites/default/files/eif_brochure_final.pdf)"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/EIFPrinciplePrinciple"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Principle>

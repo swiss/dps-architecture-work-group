@@ -1,0 +1,45 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Achieve Technical Interoperability"
+    id="id-059720015c0542e281ded3662241904e"
+    documentation="Definition: Achieving Technical Interoperability involves establishing standards and protocols that enable different systems and technologies to communicate and work together seamlessly&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AchieveTechnicalInteroperabilityGoal&#xA;&#xA;ABB name: eira:AchieveTechnicalInteroperabilityGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AchieveTechnicalInteroperabilityGoal&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AchieveTechnicalInteroperabilityGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:AchieveTechnicalInteroperabilityGoal"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Achieving Technical Interoperability involves establishing standards and protocols that enable different systems and technologies to communicate and work together seamlessly"/>
+  <properties
+      key="eira:definitionSource"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AchieveTechnicalInteroperabilityGoal"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Goal>

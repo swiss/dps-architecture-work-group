@@ -1,0 +1,48 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Achieve Organisational Interoperability"
+    id="id-3b721b7f9f6e4f50908a04fd0d578d68"
+    documentation="Definition: Achieve Organisational Interoperability ABB is Goal. For the purpose of the EIF, interoperability is the ability of organisations to interact towards mutually beneficial goals, involving the sharing of information and knowledge between these organisations, through the business processes they support, by means of the exchange of data between their ICT systems.&#xA;&#xA;Source: EIF&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf&#xA;&#xA;Additional information: The interoperability model which is applicable to all digital public services and may also be considered as an integral element of the interoperability-by-design paradigm. It includes: four layers of interoperability: legal, organisational, semantic and technical.Organisational interoperability refers to the way in which public administrations align their business processes, responsibilities and expectations to achieve commonly agreed and mutually beneficial goals. In practice, organisational interoperability means documenting and integrating or aligning business processes and relevant information exchanged. Organisational interoperability also aims to meet the requirements of the user community by making services available, easily identifiable, accessible and user-focused.&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AchieveOrganisationalInteroperabilityGoal&#xA;&#xA;ABB name: eira:AchieveOrganisationalInteroperabilityGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AchieveOrganisationalInteroperabilityGoal&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AchieveOrganisationalInteroperabilityGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:AchieveOrganisationalInteroperabilityGoal"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Achieve Organisational Interoperability ABB is Goal. For the purpose of the EIF, interoperability is the ability of organisations to interact towards mutually beneficial goals, involving the sharing of information and knowledge between these organisations, through the business processes they support, by means of the exchange of data between their ICT systems."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="skos:note"
+      value="The interoperability model which is applicable to all digital public services and may also be considered as an integral element of the interoperability-by-design paradigm. It includes: four layers of interoperability: legal, organisational, semantic and technical.Organisational interoperability refers to the way in which public administrations align their business processes, responsibilities and expectations to achieve commonly agreed and mutually beneficial goals. In practice, organisational interoperability means documenting and integrating or aligning business processes and relevant information exchanged. Organisational interoperability also aims to meet the requirements of the user community by making services available, easily identifiable, accessible and user-focused."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AchieveOrganisationalInteroperabilityGoal"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Goal>
