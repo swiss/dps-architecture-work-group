@@ -1,4 +1,14 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="User-Wallet"
-    id="id-8cf8d5b862494478ac0276e55cdd7f53"/>
+    id="id-8cf8d5b862494478ac0276e55cdd7f53">
+  <properties
+      key="ISO639_en:Documentation-Link"
+      value="https://swiyu-admin-ch.github.io/introduction/#swiyu"/>
+  <properties
+      key="ISO639_de:Name"
+      value="User-Wallet"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Holder Wallet"/>
+</archimate:BusinessService>

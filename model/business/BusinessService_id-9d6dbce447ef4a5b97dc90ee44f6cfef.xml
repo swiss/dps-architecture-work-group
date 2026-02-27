@@ -1,4 +1,14 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Basis-Register"
-    id="id-9d6dbce447ef4a5b97dc90ee44f6cfef"/>
+    id="id-9d6dbce447ef4a5b97dc90ee44f6cfef">
+  <properties
+      key="ISO639_en:Documentation-Link"
+      value="https://swiyu-admin-ch.github.io/introduction/#swiyu-base-registry"/>
+  <properties
+      key="ISO639_de:Name"
+      value="Basis-Register"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Base Registry"/>
+</archimate:BusinessService>

@@ -1,4 +1,14 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vertrauens-Register"
-    id="id-f3becf797ca44b54b3ba6f0a8a5b032c"/>
+    id="id-f3becf797ca44b54b3ba6f0a8a5b032c">
+  <properties
+      key="ISO639_en:Documentation-Link"
+      value="https://swiyu-admin-ch.github.io/introduction/#swiyu-trust-registry"/>
+  <properties
+      key="ISO639_de:Name"
+      value="Vertrauens-Register"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Trust Registry"/>
+</archimate:BusinessService>

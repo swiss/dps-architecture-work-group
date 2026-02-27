@@ -1,4 +1,14 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="VC-Issuer"
-    id="id-4975e2dc9f1440c38dc4f2af6b766af9"/>
+    id="id-4975e2dc9f1440c38dc4f2af6b766af9">
+  <properties
+      key="ISO639_en:Documentation-Link"
+      value="https://swiyu-admin-ch.github.io/introduction/#swiyu-generic-issuer"/>
+  <properties
+      key="ISO639_de:Name"
+      value="VC-Issuer"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Issuing Component"/>
+</archimate:BusinessService>

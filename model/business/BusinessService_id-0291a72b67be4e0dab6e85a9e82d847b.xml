@@ -1,4 +1,15 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="VC-Verifier"
-    id="id-0291a72b67be4e0dab6e85a9e82d847b"/>
+    id="id-0291a72b67be4e0dab6e85a9e82d847b"
+    documentation="Web und Mobile Channel">
+  <properties
+      key="ISO639_en:Documentation-Link"
+      value="https://swiyu-admin-ch.github.io/introduction/#swiyu-generic-verifier"/>
+  <properties
+      key="ISO639_de:Name"
+      value="VC-Verifier"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Verification Component"/>
+</archimate:BusinessService>
