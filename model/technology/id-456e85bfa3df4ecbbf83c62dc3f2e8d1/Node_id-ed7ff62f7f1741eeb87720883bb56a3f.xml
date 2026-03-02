@@ -1,0 +1,52 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server"
+    id="id-ed7ff62f7f1741eeb87720883bb56a3f"
+    documentation="Definition: Server ABB is a Node that enables access to resources or services to other computers or devices on a network&#xA;&#xA;Source: Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/clientserver&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): DIGIT/C Hosting Service - DIGIT/C offers a high availability and high performance hosting infrastructure that is being comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites. http://ec.europa.eu/ipg/build/infrastructure/index_en.htm&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Server ABB is salient for technical interoperability because it provides the capabilities to host public administration services at both levels, internally and externally.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ServerNode&#xA;&#xA;ABB name: eira:ServerNode&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ServerNode&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ServerNode"/>
+  <properties
+      key="dct:type"
+      value="eira:ServerNode"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Server ABB is a Node that enables access to resources or services to other computers or devices on a network"/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/clientserver"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): DIGIT/C Hosting Service - DIGIT/C offers a high availability and high performance hosting infrastructure that is being comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites. http://ec.europa.eu/ipg/build/infrastructure/index_en.htm"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Server ABB is salient for technical interoperability because it provides the capabilities to host public administration services at both levels, internally and externally."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ServerNode"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Node>

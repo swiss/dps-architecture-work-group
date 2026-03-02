@@ -1,0 +1,53 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Ontologies Solutions"
+    id="id-3172146315d0492b8723151fb7053bd7"
+    documentation="Definition: Business Agnostic Ontologies Solutions (ABB) is a grouping that covers a range of standardized representations and frameworks for describing, modeling, and validating various aspects of organizations, data, and relationships within the field of Linked Data and the Semantic Web. This includes organizational structures, roles, constraints of RDF graphs, provenance information, machine-readable web homepages, metadata records, digital assets, and more.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The elements contained within the Business Agnostic Ontologies Solutions (ABB) are primarily based on standards developed by the World Wide Web Consortium (W3C) and the European Commission ISA2 program. These include the W3C Organization Ontology, the Shapes Constraint Language (SHACL), the PROV Ontology (PROV-O), the FOAF project, the DCAT Application Profile for data portals in Europe (DCAT-AP), the Asset Description Metadata Schema (ADMS and ADMS-AP), the Data Catalogue Vocabulary (DCAT), and the Organization Ontology (ODRL). Each of these elements provides a unique approach to describing, modeling, and validating different aspects of organizations, data, and relationships, making them highly versatile and adaptable for a wide range of applications.&#xA;&#xA;Example: For instance, the W3C Organization Ontology can be used to model the hierarchical structure of a large corporation, including its various departments, roles, and employees. The Shapes Constraint Language (SHACL) can be used to validate the structure and constraints of RDF graphs in a Semantic Web application. The PROV Ontology (PROV-O) can be used to represent and interchange provenance information generated in different systems and under different contexts. The FOAF project can be used to create machine-readable web homepages for people, groups, companies, and other entities. The DCAT-AP can be used to create metadata records for data portals in Europe. The ADMS and ADMS-AP can be used to describe and discover digital assets in the context of public administration. The DCAT can be used to describe datasets and data services in a catalog. The ODRL can be used to model various aspects of organizations, such as their hierarchy, departments, employees, and roles.&#xA;&#xA;LOST view: SV-Agnostic Ontologies&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticOntologiesSolutionsGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticOntologiesSolutionsGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticOntologiesSolutionsGrouping&#xA;&#xA;Name: Business Agnostic Ontologies Solutions Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticOntologiesSolutionsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticOntologiesSolutionsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Ontologies Solutions Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticOntologiesSolutionsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic Ontologies Solutions (ABB) is a grouping that covers a range of standardized representations and frameworks for describing, modeling, and validating various aspects of organizations, data, and relationships within the field of Linked Data and the Semantic Web. This includes organizational structures, roles, constraints of RDF graphs, provenance information, machine-readable web homepages, metadata records, digital assets, and more."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, the W3C Organization Ontology can be used to model the hierarchical structure of a large corporation, including its various departments, roles, and employees. The Shapes Constraint Language (SHACL) can be used to validate the structure and constraints of RDF graphs in a Semantic Web application. The PROV Ontology (PROV-O) can be used to represent and interchange provenance information generated in different systems and under different contexts. The FOAF project can be used to create machine-readable web homepages for people, groups, companies, and other entities. The DCAT-AP can be used to create metadata records for data portals in Europe. The ADMS and ADMS-AP can be used to describe and discover digital assets in the context of public administration. The DCAT can be used to describe datasets and data services in a catalog. The ODRL can be used to model various aspects of organizations, such as their hierarchy, departments, employees, and roles."/>
+  <properties
+      key="skos:note"
+      value="The elements contained within the Business Agnostic Ontologies Solutions (ABB) are primarily based on standards developed by the World Wide Web Consortium (W3C) and the European Commission ISA2 program. These include the W3C Organization Ontology, the Shapes Constraint Language (SHACL), the PROV Ontology (PROV-O), the FOAF project, the DCAT Application Profile for data portals in Europe (DCAT-AP), the Asset Description Metadata Schema (ADMS and ADMS-AP), the Data Catalogue Vocabulary (DCAT), and the Organization Ontology (ODRL). Each of these elements provides a unique approach to describing, modeling, and validating different aspects of organizations, data, and relationships, making them highly versatile and adaptable for a wide range of applications."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Ontologies"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

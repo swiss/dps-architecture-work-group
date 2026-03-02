@@ -1,0 +1,49 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reference Data"
+    id="id-bc3d50f4c8694eab84aef35de8928981"
+    documentation="Definition: Reference data ABB is a Data Object that enables the definition of a set of values or codes that are used to categorize, classify, or describe data elements in a consistent and standardized way&#xA;&#xA;Source: Inspired in the book &quot;Managing Reference Data in Enterprise Datavases&quot;&#xA;&#xA;Source reference: ISBN1558606971&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): GISCO - the Geographic Information System of the COmmission reference data https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Interoperability Saliency: The Reference Data ABB is a key interoperability enabler because it contributes to data standardisation and provides values and mechanisms to ensure and enable the proper, agreed and successful data exchange between parties and digital public services. Reference Data is a key element for reaching and maintaining data quality.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ReferenceDataDataObject&#xA;&#xA;ABB name: eira:ReferenceDataDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ReferenceDataDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ReferenceDataDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:ReferenceDataDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Reference data ABB is a Data Object that enables the definition of a set of values or codes that are used to categorize, classify, or describe data elements in a consistent and standardized way"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the book &quot;Managing Reference Data in Enterprise Datavases&quot;"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="ISBN1558606971"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): GISCO - the Geographic Information System of the COmmission reference data https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Reference Data ABB is a key interoperability enabler because it contributes to data standardisation and provides values and mechanisms to ensure and enable the proper, agreed and successful data exchange between parties and digital public services. Reference Data is a key element for reaching and maintaining data quality."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ReferenceDataDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

@@ -1,0 +1,51 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Networking Infrastructure Enablers"
+    id="id-088c5dc503784889895adb5509964e8b"
+    documentation="Definition: Networking Infrastructure Enablers ABB is a Grouping of components and services that facilitate the creation and operation of computer networks. These enablers can include both hardware and software technologies and are essential for building and maintaining modern networks&#xA;&#xA;Source: ISA2 - EIA Action&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/actions/towards-european-interoperability-architecture_en/&#xA;&#xA;Synonym:  &#xA;&#xA;Additional information:  &#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ECC Report 301. https://docdb.cept.org/download/1395&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Networking Infrastructure Enablers ABB is salient for the organizational and technical interoperability due to it provides (i) the set up of rules for establishing the correct communication in the public administration considering both public and private, (ii) establish the physical elements to balance the traffic and ensure the correct behaviour of the communication considering the system performance.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/NetworkingInfrastructureEnablersGrouping&#xA;&#xA;ABB name: eira:NetworkingInfrastructureEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/NetworkingInfrastructureEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/NetworkingInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:NetworkingInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value=" "/>
+  <properties
+      key="skos:definition"
+      value="Networking Infrastructure Enablers ABB is a Grouping of components and services that facilitate the creation and operation of computer networks. These enablers can include both hardware and software technologies and are essential for building and maintaining modern networks"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2 - EIA Action"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/actions/towards-european-interoperability-architecture_en/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ECC Report 301. https://docdb.cept.org/download/1395"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Networking Infrastructure Enablers ABB is salient for the organizational and technical interoperability due to it provides (i) the set up of rules for establishing the correct communication in the public administration considering both public and private, (ii) establish the physical elements to balance the traffic and ensure the correct behaviour of the communication considering the system performance."/>
+  <properties
+      key="skos:note"
+      value=" "/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/NetworkingInfrastructureEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

@@ -1,0 +1,51 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Means for Public Policy Objectives Convergence Assurance and Control"
+    id="id-b9b12235fd304327ba3bc46f192b08c0"
+    documentation="Definition: Means for Public Policy Objectives Convergence Assurance and Control ABB is a Constraint formalising the mechanisms that are to be used to assure union or uniformity regarding Public Policy Objectives.&#xA;&#xA;Source: Europarl &#xA;&#xA;Source reference: https://www.europarl.europa.eu/RegData/etudes/IDAN/2018/614502/IPOL_IDA(2018)614502_EN.pdf&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Policy Risk Management approaches and tools for public policy convergence assurance and control, as suggested in studies like the &quot;Explaining Policy Convergence and Divergence through Policy Paradigm Shifts: A Comparative Analysis of Agricultural Risk Governance in OECD Countries&quot; (https://www.tandfonline.com/doi/full/10.1080/13876988.2019.1674623)  or in the abundant literature on Public Policy Convergence (see, for example, &quot;Introduction: Cross-National Policy Convergence: Concepts, Approaches, and Explanatory Factors&quot;, https://www.researchgate.net/publication/30015252_Introduction_Cross-National_Policy_Convergence_Concepts_Approaches_and_Explanatory_Factors)&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: EIRA Ontology viewpoint&#xA;&#xA;Interoperability Saliency: Means for Public Policy Objectives Convergence Assurance an Control ABB is relevant for the governance of the interoperability because it provides solution(s) to compare, analyse, measure and correct the gaps between what is actually being provided by the public digital services and what were the intended cross public policy objectives.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MeansForPublicPolicyObjectivesConvergenceAssuranceAndControlConstraint&#xA;&#xA;ABB name: eira:MeansForPublicPolicyObjectivesConvergenceAssuranceAndControlConstraint&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MeansForPublicPolicyObjectivesConvergenceAssuranceAndControlConstraint&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/MeansForPublicPolicyObjectivesConvergenceAssuranceAndControlConstraint"/>
+  <properties
+      key="dct:type"
+      value="eira:MeansForPublicPolicyObjectivesConvergenceAssuranceAndControlConstraint"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Means for Public Policy Objectives Convergence Assurance and Control ABB is a Constraint formalising the mechanisms that are to be used to assure union or uniformity regarding Public Policy Objectives."/>
+  <properties
+      key="eira:definitionSource"
+      value="Europarl "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.europarl.europa.eu/RegData/etudes/IDAN/2018/614502/IPOL_IDA(2018)614502_EN.pdf"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Policy Risk Management approaches and tools for public policy convergence assurance and control, as suggested in studies like the &quot;Explaining Policy Convergence and Divergence through Policy Paradigm Shifts: A Comparative Analysis of Agricultural Risk Governance in OECD Countries&quot; (https://www.tandfonline.com/doi/full/10.1080/13876988.2019.1674623)  or in the abundant literature on Public Policy Convergence (see, for example, &quot;Introduction: Cross-National Policy Convergence: Concepts, Approaches, and Explanatory Factors&quot;, https://www.researchgate.net/publication/30015252_Introduction_Cross-National_Policy_Convergence_Concepts_Approaches_and_Explanatory_Factors)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Means for Public Policy Objectives Convergence Assurance an Control ABB is relevant for the governance of the interoperability because it provides solution(s) to compare, analyse, measure and correct the gaps between what is actually being provided by the public digital services and what were the intended cross public policy objectives."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/MeansForPublicPolicyObjectivesConvergenceAssuranceAndControlConstraint"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Constraint>

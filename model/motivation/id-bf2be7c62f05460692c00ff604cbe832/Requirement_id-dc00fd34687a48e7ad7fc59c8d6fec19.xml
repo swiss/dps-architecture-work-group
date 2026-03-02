@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accessibility"
+    id="id-dc00fd34687a48e7ad7fc59c8d6fec19"
+    documentation="Definition: Accessibility is an IT non-functional requirement that ensures the system or application can be used by people with disabilities or impairments. This includes providing features such as screen readers, keyboard navigation, and alternative text for images. The goal of accessibility is to make sure that everyone, regardless of their abilities, can access and use the system or application. This requirement is important for compliance with accessibility laws and regulations, as well as for creating an inclusive and user-friendly experience for all users.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Accessibility is a non-functional requirement that refers to the ability of a system or application to be used by people with disabilities. This includes individuals with visual, auditory, physical, or cognitive impairments. &#xA;&#xA;Accessibility is an important consideration for any system or application, as it ensures that all users can access and use the system or application effectively. This requirement is particularly important for systems or applications that are used by the public, as they must comply with accessibility standards and guidelines set by regulatory bodies.&#xA;&#xA;To meet the Accessibility non-functional requirement, the system or application must be designed and developed with accessibility in mind. This includes providing alternative ways of accessing information, such as text-to-speech or screen readers for visually impaired users, and ensuring that the system or application is navigable using only a keyboard for users with physical impairments.&#xA;&#xA;The system or application must also comply with accessibility standards and guidelines, such as the Web Content Accessibility Guidelines (WCAG) and the Americans with Disabilities Act (ADA). Compliance with these standards and guidelines ensures that the system or application is accessible to all users, regardless of their abilities.&#xA;&#xA;In summary, the Accessibility non-functional requirement requires that the system or application be designed and developed with accessibility in mind, and comply with accessibility standards and guidelines to ensure that all users can access and use the system or application effectively.&#xA;&#xA;Example: One example of an IT non-functional requirement for accessibility could be that the website or application must be designed to be compatible with screen readers and other assistive technologies commonly used by people with disabilities. This could include ensuring that all images have alt text descriptions, using clear and concise language, and providing keyboard shortcuts for navigation. Additionally, the website or application should be designed with a high contrast color scheme and large, easy-to-read fonts to accommodate users with visual impairments.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AccessibilityRequirement&#xA;&#xA;ABB name: eira:AccessibilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AccessibilityRequirement&#xA;&#xA;Name: Accessibility Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AccessibilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Accessibility Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of an IT non-functional requirement for accessibility could be that the website or application must be designed to be compatible with screen readers and other assistive technologies commonly used by people with disabilities. This could include ensuring that all images have alt text descriptions, using clear and concise language, and providing keyboard shortcuts for navigation. Additionally, the website or application should be designed with a high contrast color scheme and large, easy-to-read fonts to accommodate users with visual impairments."/>
+  <properties
+      key="skos:definition"
+      value="Accessibility is an IT non-functional requirement that ensures the system or application can be used by people with disabilities or impairments. This includes providing features such as screen readers, keyboard navigation, and alternative text for images. The goal of accessibility is to make sure that everyone, regardless of their abilities, can access and use the system or application. This requirement is important for compliance with accessibility laws and regulations, as well as for creating an inclusive and user-friendly experience for all users."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Accessibility is a non-functional requirement that refers to the ability of a system or application to be used by people with disabilities. This includes individuals with visual, auditory, physical, or cognitive impairments. &#xA;&#xA;Accessibility is an important consideration for any system or application, as it ensures that all users can access and use the system or application effectively. This requirement is particularly important for systems or applications that are used by the public, as they must comply with accessibility standards and guidelines set by regulatory bodies.&#xA;&#xA;To meet the Accessibility non-functional requirement, the system or application must be designed and developed with accessibility in mind. This includes providing alternative ways of accessing information, such as text-to-speech or screen readers for visually impaired users, and ensuring that the system or application is navigable using only a keyboard for users with physical impairments.&#xA;&#xA;The system or application must also comply with accessibility standards and guidelines, such as the Web Content Accessibility Guidelines (WCAG) and the Americans with Disabilities Act (ADA). Compliance with these standards and guidelines ensures that the system or application is accessible to all users, regardless of their abilities.&#xA;&#xA;In summary, the Accessibility non-functional requirement requires that the system or application be designed and developed with accessibility in mind, and comply with accessibility standards and guidelines to ensure that all users can access and use the system or application effectively."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AccessibilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:AccessibilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

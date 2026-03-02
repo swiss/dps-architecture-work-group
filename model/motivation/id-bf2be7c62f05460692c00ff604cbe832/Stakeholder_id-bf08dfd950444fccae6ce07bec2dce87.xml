@@ -1,0 +1,45 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Entity"
+    id="id-bf08dfd950444fccae6ce07bec2dce87"
+    documentation="Definition: Legal Entity ABB is a Stakeholder that is a self-empoyed person, company, or organization that has legal rights and obligations.&#xA;&#xA;Source: SEMIC-CBV&#xA;&#xA;Source reference: https://semiceu.github.io/Core-Business-Vocabulary/releases/2.00/#Legal%20Entity&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Any instance of Business, Public Administration with legal personality or a Natural person. https://commission.europa.eu/publications/legal-entities_en&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Interoperability Saliency: The Legal Entity ABB is salient for organizational and behavioural interoperability because it permits the identification of procedures and business rules related to this stakeholder that facilitates the exchange of data, information and knowledge between digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegalEntityStakeholder&#xA;&#xA;ABB name: eira:LegalEntityStakeholder&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegalEntityStakeholder&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LegalEntityStakeholder"/>
+  <properties
+      key="dct:type"
+      value="eira:LegalEntityStakeholder"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Legal Entity ABB is a Stakeholder that is a self-empoyed person, company, or organization that has legal rights and obligations."/>
+  <properties
+      key="eira:definitionSource"
+      value="SEMIC-CBV"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://semiceu.github.io/Core-Business-Vocabulary/releases/2.00/#Legal%20Entity"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Any instance of Business, Public Administration with legal personality or a Natural person. https://commission.europa.eu/publications/legal-entities_en"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Legal Entity ABB is salient for organizational and behavioural interoperability because it permits the identification of procedures and business rules related to this stakeholder that facilitates the exchange of data, information and knowledge between digital public services."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LegalEntityStakeholder"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Stakeholder>

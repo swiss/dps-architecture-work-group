@@ -1,0 +1,57 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Policy Context"
+    id="id-77ee02615881438d929b42eb35553be9"
+    documentation="Definition: Public Policy Context ABB is a Constraint that describes the background against which policy decisions are made, policy processes take place and stakeholders or actors engage with the policy. &#xA;&#xA;Source: Based on policy-making literature as well as the explanations provided by the European Commission when describing Public Policies.&#xA;&#xA;Source reference: https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0009.12026&#xA;&#xA;Additional information: Public Policy Context is a specialisation of Public Policy Constraint. As such, Public Policy Context(s) provides the limits for the realisation of goals. In contrast to requirements, a Public Policy Constraint does not prescribe some intended functionality of the system to be realized but might impose restrictions on the implementation of the system (e.g., specific technology that is to be used, such as the usage of open source software), a restriction on the implementation process (e.g., time or budget constraints), or a restriction on the functioning of the system (e.g., legal constraints).&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The European Cybersecurity Strategy has won a relevant role in the European IT environment since Ukraine's was started. Cybersecurity attacks have become a regular war method. Therefore, the context for the strength and increasing efforts by the Commission is this singular event. The following link illustrates the state of the art: Russia's war on Ukraine: Timeline of cyber-attacks. https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2022)733549&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Public Policy Context ABB  is salient for the governance interoperability because it provides further limits and specifications used for the implementing of legal instruments; e.g., for its in recitals of Regulations, Directives, Implementing Acts and other legal instruments.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicPolicyContextConstraint&#xA;&#xA;ABB name: eira:PublicPolicyContextConstraint&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicPolicyContextConstraint&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PublicPolicyContextConstraint"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicPolicyContextConstraint"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Public Policy Context ABB is a Constraint that describes the background against which policy decisions are made, policy processes take place and stakeholders or actors engage with the policy. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Based on policy-making literature as well as the explanations provided by the European Commission when describing Public Policies."/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0009.12026"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The European Cybersecurity Strategy has won a relevant role in the European IT environment since Ukraine's was started. Cybersecurity attacks have become a regular war method. Therefore, the context for the strength and increasing efforts by the Commission is this singular event. The following link illustrates the state of the art: Russia's war on Ukraine: Timeline of cyber-attacks. https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2022)733549"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Public Policy Context ABB  is salient for the governance interoperability because it provides further limits and specifications used for the implementing of legal instruments; e.g., for its in recitals of Regulations, Directives, Implementing Acts and other legal instruments."/>
+  <properties
+      key="skos:note"
+      value="Public Policy Context is a specialisation of Public Policy Constraint. As such, Public Policy Context(s) provides the limits for the realisation of goals. In contrast to requirements, a Public Policy Constraint does not prescribe some intended functionality of the system to be realized but might impose restrictions on the implementation of the system (e.g., specific technology that is to be used, such as the usage of open source software), a restriction on the implementation process (e.g., time or budget constraints), or a restriction on the functioning of the system (e.g., legal constraints)."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PublicPolicyContextConstraint"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Constraint>

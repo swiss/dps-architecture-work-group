@@ -1,0 +1,49 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Administration Single Window"
+    id="id-c858a296c0d4413c8f4499cfaa67044c"
+    documentation="Definition: Public Administration Single Window Service ABB is an Application that enables the processes to submit information and documents with a single entry point to fulfil all regulatory requirements.&#xA;&#xA;Source: United Nations&#xA;&#xA;Source reference: https://tfig.unece.org/contents/single-window-concept.htm&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Mi Carpeta Ciudadana Carpeta Ciudadana is a personal online space that facilitates your relationship with public administrations. https://carpetaciudadana.gob.es/carpeta/clave.htm&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Public Administration Single Window Application Service ABB is salient for technical interoperability because it acts as a single entry point for the provision and exchange of data between stakeholders and public organisations. This can improve not only the user experience but interoperability due to the standardised methods for data sharing.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicAdministrationSingleWindowApplicationService&#xA;&#xA;ABB name: eira:PublicAdministrationSingleWindowApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicAdministrationSingleWindowApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PublicAdministrationSingleWindowApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicAdministrationSingleWindowApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Public Administration Single Window Service ABB is an Application that enables the processes to submit information and documents with a single entry point to fulfil all regulatory requirements."/>
+  <properties
+      key="eira:definitionSource"
+      value="United Nations"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://tfig.unece.org/contents/single-window-concept.htm"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Mi Carpeta Ciudadana Carpeta Ciudadana is a personal online space that facilitates your relationship with public administrations. https://carpetaciudadana.gob.es/carpeta/clave.htm"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Public Administration Single Window Application Service ABB is salient for technical interoperability because it acts as a single entry point for the provision and exchange of data between stakeholders and public organisations. This can improve not only the user experience but interoperability due to the standardised methods for data sharing."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PublicAdministrationSingleWindowApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

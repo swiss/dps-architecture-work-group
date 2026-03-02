@@ -1,0 +1,48 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Certification eSeal "
+    id="id-7fabb5bcc0404882b3bbc36f36329c10"
+    documentation="Definition: e-Seal Verification and Validation Service ABB is an Application Service enabling the functionality of the verification of documents that are signed electronically. An ‘electronic seal' means data in electronic form, which is attached to or logically associated with other data in electronic form to ensure the latter’s origin and integrity. The ‘creator of a seal’ is a legal person who creates an electronic seal.&#xA;&#xA;Source: eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC. &#xA;&#xA;Source reference: (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG)&#xA;&#xA;Additional information: The Digital Certification eSeal is a technology based on the European Union's eIDAS (Electronic Identification, Authentication and Trust Services) Regulation, which provides a standardized level of security for electronic transactions across EU member states. An eSeal is the digital equivalent of a company's stamp or seal, providing a legal assurance about the origin and integrity of the document it is attached to. It is used by organizations to certify the authenticity and integrity of electronic documents and to ensure they have not been altered since being sealed. The eSeal contains information about the legal entity that applied it, the date and time of sealing, and uses digital signatures to protect the document. It is particularly useful for automating document processing while maintaining compliance with legal requirements.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): CEF eSignature DSS - DSS (Digital Signature Services) is an open-source software library for electronic signature creation and validation. DSS supports the creation and verification of interoperable and secure electronic signatures in line with European legislation. In particular, DSS aims to follow the eIDAS Regulation and related standards closely. DSS can be re-used in an IT solution for electronic signatures to ensure that signatures are created and verified in line with European legislation and standards. DSS allows re-use in a variety of different ways: in an applet, in a stand-alone application or in a server application. DSS can also be used as a reference implementation for IT solutions which do not directly re-use it. CEF eSignature's DSS open-source library delivers the following benefits to its users: •&#x9;Open-source software under LGPL 2.1, a non-viral open source license; •&#x9;Interoperability of the e-signatures; •&#x9;Supports both e-signatures and e-seals; •&#x9;Validation of countersignatures and multiple signatures; •&#x9;Alignment with the eIDAS Regulation and related standards; •&#x9;Supports EU standards on: o&#x9;Signature formats and packaging methods;  o&#x9;Signature validation procedures; •&#x9;Validation relying on Member States' trusted lists: o&#x9;Status of trust service providers/trust service, compensation of information, path validation.(https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eSignaturefile:///C:/Users/bocquilp/Downloads/DSS(ServiceOfferingDescription)%20(v0.03)%20(5).pdf)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalCertificationESealApplicationService&#xA;&#xA;ABB name: egovera:DigitalCertificationESealApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalCertificationESealApplicationService&#xA;&#xA;Name: Digital Certification ESeal Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DigitalCertificationESealApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DigitalCertificationESealApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Digital Certification ESeal Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DigitalCertificationESealApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="e-Seal Verification and Validation Service ABB is an Application Service enabling the functionality of the verification of documents that are signed electronically. An ‘electronic seal' means data in electronic form, which is attached to or logically associated with other data in electronic form to ensure the latter’s origin and integrity. The ‘creator of a seal’ is a legal person who creates an electronic seal."/>
+  <properties
+      key="eira:definitionSource"
+      value="eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC. "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="(http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG)"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): CEF eSignature DSS - DSS (Digital Signature Services) is an open-source software library for electronic signature creation and validation. DSS supports the creation and verification of interoperable and secure electronic signatures in line with European legislation. In particular, DSS aims to follow the eIDAS Regulation and related standards closely. DSS can be re-used in an IT solution for electronic signatures to ensure that signatures are created and verified in line with European legislation and standards. DSS allows re-use in a variety of different ways: in an applet, in a stand-alone application or in a server application. DSS can also be used as a reference implementation for IT solutions which do not directly re-use it. CEF eSignature's DSS open-source library delivers the following benefits to its users: •&#x9;Open-source software under LGPL 2.1, a non-viral open source license; •&#x9;Interoperability of the e-signatures; •&#x9;Supports both e-signatures and e-seals; •&#x9;Validation of countersignatures and multiple signatures; •&#x9;Alignment with the eIDAS Regulation and related standards; •&#x9;Supports EU standards on: o&#x9;Signature formats and packaging methods;  o&#x9;Signature validation procedures; •&#x9;Validation relying on Member States' trusted lists: o&#x9;Status of trust service providers/trust service, compensation of information, path validation.(https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eSignaturefile:///C:/Users/bocquilp/Downloads/DSS(ServiceOfferingDescription)%20(v0.03)%20(5).pdf)"/>
+  <properties
+      key="skos:note"
+      value="The Digital Certification eSeal is a technology based on the European Union's eIDAS (Electronic Identification, Authentication and Trust Services) Regulation, which provides a standardized level of security for electronic transactions across EU member states. An eSeal is the digital equivalent of a company's stamp or seal, providing a legal assurance about the origin and integrity of the document it is attached to. It is used by organizations to certify the authenticity and integrity of electronic documents and to ensure they have not been altered since being sealed. The eSeal contains information about the legal entity that applied it, the date and time of sealing, and uses digital signatures to protect the document. It is particularly useful for automating document processing while maintaining compliance with legal requirements."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:ApplicationService>

@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resiliency"
+    id="id-b1873a34520c48e0b4cc9cdc203da15c"
+    documentation="Definition: Resiliency is an IT non-functional requirement that refers to the ability of a system to recover quickly and efficiently from unexpected events or failures. This includes the ability to maintain availability, performance, and data integrity in the face of disruptions such as hardware failures, network outages, or cyber attacks. A resilient system is designed to minimize downtime, prevent data loss, and ensure business continuity, even in the face of adverse conditions. This requirement is critical for any system that needs to operate reliably and consistently, particularly in mission-critical applications such as financial services, healthcare, or emergency response.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Resiliency is a non-functional requirement that refers to the ability of an IT system to recover from failures or disruptions and continue to function as intended. This requirement is essential for ensuring that the system can withstand unexpected events such as hardware failures, power outages, or cyber-attacks.&#xA;&#xA;To meet the Resiliency requirement, IT systems must be designed with redundancy and fault-tolerant mechanisms that enable them to continue operating even when one or more components fail. This may involve the use of backup systems, redundant hardware, or failover mechanisms that automatically switch to a backup system when the primary system fails.&#xA;&#xA;In addition to technical measures, Resiliency also requires the implementation of robust disaster recovery and business continuity plans that outline procedures for responding to disruptions and restoring normal operations as quickly as possible. These plans should be regularly tested and updated to ensure that they remain effective in the face of changing threats and circumstances.&#xA;&#xA;Overall, Resiliency is a critical non-functional requirement for IT systems that must be carefully considered and addressed throughout the entire system development lifecycle. By ensuring that systems are designed with Resiliency in mind, organizations can minimize the risk of downtime and data loss, and maintain the continuity of their operations even in the face of unexpected events.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Resiliency' could be that the system should be able to recover from hardware or software failures within a specified time frame, without losing any data or causing significant downtime. This could involve implementing redundancy measures such as backup servers, failover mechanisms, and data replication to ensure that the system can continue to operate even in the event of a failure. Additionally, the system should be able to handle high levels of traffic or usage without becoming overwhelmed or crashing, and should be able to scale up or down as needed to accommodate changing demands.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ResiliencyRequirement&#xA;&#xA;ABB name: eira:ResiliencyRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ResiliencyRequirement&#xA;&#xA;Name: Resiliency Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ResiliencyRequirement"/>
+  <properties
+      key="dct:title"
+      value="Resiliency Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Resiliency' could be that the system should be able to recover from hardware or software failures within a specified time frame, without losing any data or causing significant downtime. This could involve implementing redundancy measures such as backup servers, failover mechanisms, and data replication to ensure that the system can continue to operate even in the event of a failure. Additionally, the system should be able to handle high levels of traffic or usage without becoming overwhelmed or crashing, and should be able to scale up or down as needed to accommodate changing demands."/>
+  <properties
+      key="skos:definition"
+      value="Resiliency is an IT non-functional requirement that refers to the ability of a system to recover quickly and efficiently from unexpected events or failures. This includes the ability to maintain availability, performance, and data integrity in the face of disruptions such as hardware failures, network outages, or cyber attacks. A resilient system is designed to minimize downtime, prevent data loss, and ensure business continuity, even in the face of adverse conditions. This requirement is critical for any system that needs to operate reliably and consistently, particularly in mission-critical applications such as financial services, healthcare, or emergency response."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Resiliency is a non-functional requirement that refers to the ability of an IT system to recover from failures or disruptions and continue to function as intended. This requirement is essential for ensuring that the system can withstand unexpected events such as hardware failures, power outages, or cyber-attacks.&#xA;&#xA;To meet the Resiliency requirement, IT systems must be designed with redundancy and fault-tolerant mechanisms that enable them to continue operating even when one or more components fail. This may involve the use of backup systems, redundant hardware, or failover mechanisms that automatically switch to a backup system when the primary system fails.&#xA;&#xA;In addition to technical measures, Resiliency also requires the implementation of robust disaster recovery and business continuity plans that outline procedures for responding to disruptions and restoring normal operations as quickly as possible. These plans should be regularly tested and updated to ensure that they remain effective in the face of changing threats and circumstances.&#xA;&#xA;Overall, Resiliency is a critical non-functional requirement for IT systems that must be carefully considered and addressed throughout the entire system development lifecycle. By ensuring that systems are designed with Resiliency in mind, organizations can minimize the risk of downtime and data loss, and maintain the continuity of their operations even in the face of unexpected events."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ResiliencyRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:ResiliencyRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

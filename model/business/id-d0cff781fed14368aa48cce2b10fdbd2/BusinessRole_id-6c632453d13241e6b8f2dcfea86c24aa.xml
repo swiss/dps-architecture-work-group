@@ -1,0 +1,55 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Public Service Provider"
+    id="id-6c632453d13241e6b8f2dcfea86c24aa"
+    documentation="Definition: Digital Public Service Provider ABB is a Business Role representing  the entity that offer or deliver public services using digital channels and technologies. Digital public service providers aim to provide efficient and accessible services to citizens and businesses by leveraging the power of digital technology.&#xA;&#xA;Source: Inspired on the information available in Digital Public Services  in the Digital Economy and Society Index&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/desi-digital-public-services&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Spanish Tax Agency is responsible for providing Digital Public Services on TAX payment. https://sede.agenciatributaria.gob.es/Sede/en_gb/iva.html&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Digital Public Service Provider ABB is salient for organizational and semantic interoperability because it offers (i) mechanisms to exchange information transparently; (ii) manage the information with needed security and trust; (iii) combine and harmonise information coming from multiple data stores to give service to the different agents (or stakeholders)&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceProviderBusinessRole&#xA;&#xA;ABB name: eira:DigitalPublicServiceProviderBusinessRole&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceProviderBusinessRole&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceProviderBusinessRole"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalPublicServiceProviderBusinessRole"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digital Public Service Provider ABB is a Business Role representing  the entity that offer or deliver public services using digital channels and technologies. Digital public service providers aim to provide efficient and accessible services to citizens and businesses by leveraging the power of digital technology."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired on the information available in Digital Public Services  in the Digital Economy and Society Index"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/desi-digital-public-services"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Spanish Tax Agency is responsible for providing Digital Public Services on TAX payment. https://sede.agenciatributaria.gob.es/Sede/en_gb/iva.html"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Digital Public Service Provider ABB is salient for organizational and semantic interoperability because it offers (i) mechanisms to exchange information transparently; (ii) manage the information with needed security and trust; (iii) combine and harmonise information coming from multiple data stores to give service to the different agents (or stakeholders)"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceProviderBusinessRole"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessRole>

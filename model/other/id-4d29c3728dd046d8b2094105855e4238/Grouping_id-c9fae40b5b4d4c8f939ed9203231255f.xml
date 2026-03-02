@@ -1,0 +1,43 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution Business Architecture Decision Catalogue"
+    id="id-c9fae40b5b4d4c8f939ed9203231255f"
+    documentation="Definition: The description contains a full description of the architectural decisions.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Digital Solution Business Architecture Decision Catalogue ABB is a structured collection of architectural decisions made for digital business solutions. Each element in the catalogue represents a specific decision, such as 'Cross-Border Identification Business' or 'Data Subscription Capability'. These decisions are recorded in an Architecture Decision Record (ADR), which provides a detailed description of the decision, the context in which it was made, the contributing factors, and the consequences. The catalogue serves as a reference for understanding the architectural design of the digital solution and can be used to guide future decision-making.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionBusinessArchitectureDecisionCatalogueGrouping&#xA;&#xA;ABB name: eira:DigitalSolutionBusinessArchitectureDecisionCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionBusinessArchitectureDecisionCatalogueGrouping&#xA;&#xA;Name: Digital Solution Business Architecture Decision Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionBusinessArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionBusinessArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Digital Solution Business Architecture Decision Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionBusinessArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="The description contains a full description of the architectural decisions."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="skos:note"
+      value="The Digital Solution Business Architecture Decision Catalogue ABB is a structured collection of architectural decisions made for digital business solutions. Each element in the catalogue represents a specific decision, such as 'Cross-Border Identification Business' or 'Data Subscription Capability'. These decisions are recorded in an Architecture Decision Record (ADR), which provides a detailed description of the decision, the context in which it was made, the contributing factors, and the consequences. The catalogue serves as a reference for understanding the architectural design of the digital solution and can be used to guide future decision-making."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

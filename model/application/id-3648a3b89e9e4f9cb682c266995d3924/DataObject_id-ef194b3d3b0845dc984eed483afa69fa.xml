@@ -1,0 +1,53 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataset Catalogue"
+    id="id-ef194b3d3b0845dc984eed483afa69fa"
+    documentation="Definition: Dataset Catalogue ABB is a Data Object aimed at indexing a collection (inventory) of datasets in a systematic manner.&#xA;&#xA;Source: W3C-Data Catalogue Vocabulary&#xA;&#xA;Source reference: https://www.w3.org/TR/vocab-dcat/#class-catalog&#xA;&#xA;Additional information: (*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Agricultural and Vegetable Catalogue - The seed of varieties of agricultural and plant species and varieties of vegetable species that are published in the EU level common catalogue is subject to no marketing restrictions with the Community. Publication in the catalogue must be approved as fulfilling minimum requirements laid down in legislation. Data is published on the contents of the catalogues for agricultural and vegetal species and maintainers with details of the reference list.(https://data.europa.eu/euodp/data/dataset/7A98oEqVa83q6L7tHQ)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Interoperability Saliency: The Dataset catalogue ABB is a key interoperability enabler (*) for semantic and structural interoperability by ensuring the provision/consumption of data by digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DatasetCatalogueDataObject&#xA;&#xA;ABB name: eira:DatasetCatalogueDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DatasetCatalogueDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DatasetCatalogueDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:DatasetCatalogueDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Dataset Catalogue ABB is a Data Object aimed at indexing a collection (inventory) of datasets in a systematic manner."/>
+  <properties
+      key="eira:definitionSource"
+      value="W3C-Data Catalogue Vocabulary"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.w3.org/TR/vocab-dcat/#class-catalog"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Agricultural and Vegetable Catalogue - The seed of varieties of agricultural and plant species and varieties of vegetable species that are published in the EU level common catalogue is subject to no marketing restrictions with the Community. Publication in the catalogue must be approved as fulfilling minimum requirements laid down in legislation. Data is published on the contents of the catalogues for agricultural and vegetal species and maintainers with details of the reference list.(https://data.europa.eu/euodp/data/dataset/7A98oEqVa83q6L7tHQ)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Dataset catalogue ABB is a key interoperability enabler (*) for semantic and structural interoperability by ensuring the provision/consumption of data by digital public services."/>
+  <properties
+      key="skos:note"
+      value="(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DatasetCatalogueDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

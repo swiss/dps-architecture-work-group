@@ -1,0 +1,41 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Software Architect Concerns"
+    id="id-b46c0438ab084acaa806fee2a8cbee31"
+    documentation="Definition: Software Architect Concerns ABB is a Grouping that covers the processes a software architect should follow, and the relation/influence of process related with other roles' processes, to read/assess/understand an eGovERA model. It includes elements such as 'Technical view - application' and 'Semantic view'.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Software Architect Concerns ABB grouping is designed to guide software architects in understanding and assessing an eGovERA model. It includes elements like 'Technical view - application', which focuses on the technical aspects of the application, and 'Semantic view', which deals with the meaning and interpretation of the data and information in the model. These elements help the software architect to understand the technical and semantic aspects of the eGovERA model, and how they relate to and influence the processes of other roles.&#xA;&#xA;Example: This element might involve understanding the technical architecture of the application, including the software and hardware requirements, the data structures, the interfaces, and the algorithms used in the application.&#xA;This element might involve understanding the semantics of the data and information in the eGovERA model, including the meaning of the data, the relationships between different data elements, and the rules and constraints that govern the data.&#xA;&#xA;LOST view: [A] How to read the model&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SoftwareArchitectConcernsGrouping&#xA;&#xA;ABB name: egovera:SoftwareArchitectConcernsGrouping&#xA;&#xA;EIRA concept: eira:None&#xA;&#xA;Last modification: 2023-11-19&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SoftwareArchitectConcernsGrouping&#xA;&#xA;Name: Software Architect Concerns Catalogue&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/SoftwareArchitectConcernsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-19"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/SoftwareArchitectConcernsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Software Architect Concerns Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:SoftwareArchitectConcernsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Software Architect Concerns ABB is a Grouping that covers the processes a software architect should follow, and the relation/influence of process related with other roles' processes, to read/assess/understand an eGovERA model. It includes elements such as 'Technical view - application' and 'Semantic view'."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="This element might involve understanding the technical architecture of the application, including the software and hardware requirements, the data structures, the interfaces, and the algorithms used in the application.&#xA;This element might involve understanding the semantics of the data and information in the eGovERA model, including the meaning of the data, the relationships between different data elements, and the rules and constraints that govern the data."/>
+  <properties
+      key="skos:note"
+      value="The Software Architect Concerns ABB grouping is designed to guide software architects in understanding and assessing an eGovERA model. It includes elements like 'Technical view - application', which focuses on the technical aspects of the application, and 'Semantic view', which deals with the meaning and interpretation of the data and information in the model. These elements help the software architect to understand the technical and semantic aspects of the eGovERA model, and how they relate to and influence the processes of other roles."/>
+  <properties
+      key="eira:concept"
+      value="eira:None"/>
+  <properties
+      key="eira:view"
+      value="[A] How to read the model"/>
+</archimate:Grouping>

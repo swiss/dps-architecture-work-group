@@ -1,0 +1,54 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vocabulary Hub"
+    id="id-87d4d4ae0d664004b5b41c7b2f51e0c3"
+    documentation="Definition: The Vocabulary Hub is an IT concept that refers to a centralized repository or platform designed to store, manage, and provide access to a wide range of vocabularies or terminologies used in various domains. It serves as a comprehensive and standardized source of terms, definitions, and relationships between concepts, enabling efficient data integration, interoperability, and semantic understanding across different systems and applications.&#xA;&#xA;Source: W3C&#xA;&#xA;Source reference: https://www.w3.org/TR/vocab-hub/&#xA;&#xA;Additional information: The Vocabulary Hub acts as a central hub for vocabularies, offering a unified and consistent way to define and organize terms. It provides a common framework for describing concepts, their properties, and relationships, facilitating data sharing and integration between different systems and applications. The hub typically supports various standard formats and protocols for vocabulary representation and exchange, such as RDF, SKOS, and SPARQL, ensuring compatibility and interoperability. It also offers functionalities like versioning, access control, and search capabilities, making it easier for users to discover, reuse, and maintain vocabularies.&#xA;&#xA;Example: An example of the Vocabulary Hub in action is a healthcare system that integrates data from multiple sources, such as electronic health records, medical devices, and research databases. By utilizing the Vocabulary Hub, the system can harmonize and align the terminologies used in these disparate sources, enabling accurate and meaningful data exchange. This allows healthcare professionals to access comprehensive patient information, perform advanced analytics, and improve decision-making processes. Additionally, the Vocabulary Hub facilitates the development of innovative applications and services that leverage the shared vocabulary knowledge, promoting collaboration and interoperability within the healthcare ecosystem.&#xA;&#xA;LOST view: TVA-Knowledge Discovery Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/VocabularyHubApplicationService&#xA;&#xA;ABB name: egovera:VocabularyHubApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/VocabularyHubApplicationService&#xA;&#xA;Name: Vocabulary Hub Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/VocabularyHubApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/VocabularyHubApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Vocabulary Hub Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:VocabularyHubApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="The Vocabulary Hub is an IT concept that refers to a centralized repository or platform designed to store, manage, and provide access to a wide range of vocabularies or terminologies used in various domains. It serves as a comprehensive and standardized source of terms, definitions, and relationships between concepts, enabling efficient data integration, interoperability, and semantic understanding across different systems and applications."/>
+  <properties
+      key="eira:definitionSource"
+      value="W3C"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.w3.org/TR/vocab-hub/"/>
+  <properties
+      key="skos:example"
+      value="An example of the Vocabulary Hub in action is a healthcare system that integrates data from multiple sources, such as electronic health records, medical devices, and research databases. By utilizing the Vocabulary Hub, the system can harmonize and align the terminologies used in these disparate sources, enabling accurate and meaningful data exchange. This allows healthcare professionals to access comprehensive patient information, perform advanced analytics, and improve decision-making processes. Additionally, the Vocabulary Hub facilitates the development of innovative applications and services that leverage the shared vocabulary knowledge, promoting collaboration and interoperability within the healthcare ecosystem."/>
+  <properties
+      key="skos:note"
+      value="The Vocabulary Hub acts as a central hub for vocabularies, offering a unified and consistent way to define and organize terms. It provides a common framework for describing concepts, their properties, and relationships, facilitating data sharing and integration between different systems and applications. The hub typically supports various standard formats and protocols for vocabulary representation and exchange, such as RDF, SKOS, and SPARQL, ensuring compatibility and interoperability. It also offers functionalities like versioning, access control, and search capabilities, making it easier for users to discover, reuse, and maintain vocabularies."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Knowledge Discovery Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Dataspace Enablers"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

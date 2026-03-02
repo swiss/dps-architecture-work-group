@@ -1,0 +1,47 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Organisational Agreement Solutions"
+    id="id-8675436b183744aaa41ded3f0ad063ea"
+    documentation="Definition: Business Agnostic Organisational Agreement Solutions (BAOAS) is a grouping that refers to the actual catalogue of specifications, agreements and/or contracts that facilitates the establishment of standardised business practices across various industries. This catalogue includes a variety of elements, such as codes of conduct, guidelines, and best practices, which are designed to improve operational efficiency, promote ethical business practices, and enhance environmental sustainability.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The elements contained within the BAOAS catalogue are diverse and cater to different aspects of business operations. For instance, it includes the 'Code of Conduct for Energy Efficiency in Data Centres', a voluntary code developed by the European Commission's Joint Research Centre. This code aims to improve the energy efficiency and environmental sustainability of data centres by providing guidelines and best practices for data centre operators to reduce their environmental impact. The BAOAS catalogue is designed to be business agnostic, meaning it can be applied across various industries and business models. It serves as a valuable resource for organisations seeking to adopt standardised, ethical, and sustainable business practices.&#xA;&#xA;Example: An example of the application of BAOAS could be a data centre operator utilising the 'Code of Conduct for Energy Efficiency in Data Centres' to improve their energy efficiency. They could implement the guidelines and best practices outlined in the code, such as optimising cooling systems or using energy-efficient hardware, to reduce their environmental impact. Similarly, a company in a different industry could use other elements within the BAOAS catalogue to standardise their business practices and enhance their operational efficiency.&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticOrganisationalAgreementSolutionsGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticOrganisationalAgreementSolutionsGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticOrganisationalAgreementSolutionsGrouping&#xA;&#xA;Name: Business Agnostic Organisational Agreement Solutions&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/TechnicalAgreementContract&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticOrganisationalAgreementSolutionsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticOrganisationalAgreementSolutionsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Organisational Agreement Solutions"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticOrganisationalAgreementSolutionsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic Organisational Agreement Solutions (BAOAS) is a grouping that refers to the actual catalogue of specifications, agreements and/or contracts that facilitates the establishment of standardised business practices across various industries. This catalogue includes a variety of elements, such as codes of conduct, guidelines, and best practices, which are designed to improve operational efficiency, promote ethical business practices, and enhance environmental sustainability."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of the application of BAOAS could be a data centre operator utilising the 'Code of Conduct for Energy Efficiency in Data Centres' to improve their energy efficiency. They could implement the guidelines and best practices outlined in the code, such as optimising cooling systems or using energy-efficient hardware, to reduce their environmental impact. Similarly, a company in a different industry could use other elements within the BAOAS catalogue to standardise their business practices and enhance their operational efficiency."/>
+  <properties
+      key="skos:note"
+      value="The elements contained within the BAOAS catalogue are diverse and cater to different aspects of business operations. For instance, it includes the 'Code of Conduct for Energy Efficiency in Data Centres', a voluntary code developed by the European Commission's Joint Research Centre. This code aims to improve the energy efficiency and environmental sustainability of data centres by providing guidelines and best practices for data centre operators to reduce their environmental impact. The BAOAS catalogue is designed to be business agnostic, meaning it can be applied across various industries and business models. It serves as a valuable resource for organisations seeking to adopt standardised, ethical, and sustainable business practices."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/TechnicalAgreementContract"/>
+</archimate:Grouping>

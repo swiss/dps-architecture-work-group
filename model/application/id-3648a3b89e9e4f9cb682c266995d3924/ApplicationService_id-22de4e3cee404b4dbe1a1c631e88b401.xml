@@ -1,0 +1,45 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Large Language Model (LLM)"
+    id="id-22de4e3cee404b4dbe1a1c631e88b401"
+    documentation="Definition: A Large Language Model (LLM) digital service refers to a software-based platform that utilizes advanced machine learning models, specifically large-scale language models, to understand, generate, and manipulate human language. These services can perform a variety of language-related tasks such as translation, summarization, question answering, and content creation.&#xA;&#xA;Source: EIRA team&#xA;&#xA;Source reference: N/A&#xA;&#xA;Additional information: Large Language Models like GPT (Generative Pre-trained Transformer) and BERT (Bidirectional Encoder Representations from Transformers) are trained on vast amounts of text data. They use deep learning techniques to capture the nuances of human language, enabling them to generate coherent and contextually relevant text. These models have transformer architectures that allow them to consider the full context of a word by looking at the words that come before and after it. This results in a more nuanced understanding and generation of language. LLMs are continually evolving, with newer models being trained on ever-larger datasets and with more sophisticated algorithms, pushing the boundaries of what artificial intelligence can achieve in natural language processing.&#xA;&#xA;Example: LLMs can be used to generate articles, stories, or even poetry that mimic human writing styles.&#xA;Businesses employ LLMs to power chatbots and virtual assistants that can handle customer inquiries and provide support 24/7.&#xA;LLMs offer real-time translation services across various languages, breaking down communication barriers in international contexts.&#xA;Educational platforms use LLMs to create personalized learning materials and to provide tutoring or homework assistance.&#xA;Developers leverage LLMs to generate code snippets, debug programs, or even explain complex code structures in human-readable language.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/LargeLanguageModelApplicationService&#xA;&#xA;ABB name: egovera:LargeLanguageModelApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/LargeLanguageModelApplicationService&#xA;&#xA;Name: Large Language Model (LLM) Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/LargeLanguageModelApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/LargeLanguageModelApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Large Language Model (LLM) Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:LargeLanguageModelApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="A Large Language Model (LLM) digital service refers to a software-based platform that utilizes advanced machine learning models, specifically large-scale language models, to understand, generate, and manipulate human language. These services can perform a variety of language-related tasks such as translation, summarization, question answering, and content creation."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA team"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="N/A"/>
+  <properties
+      key="skos:example"
+      value="LLMs can be used to generate articles, stories, or even poetry that mimic human writing styles.&#xA;Businesses employ LLMs to power chatbots and virtual assistants that can handle customer inquiries and provide support 24/7.&#xA;LLMs offer real-time translation services across various languages, breaking down communication barriers in international contexts.&#xA;Educational platforms use LLMs to create personalized learning materials and to provide tutoring or homework assistance.&#xA;Developers leverage LLMs to generate code snippets, debug programs, or even explain complex code structures in human-readable language."/>
+  <properties
+      key="skos:note"
+      value="Large Language Models like GPT (Generative Pre-trained Transformer) and BERT (Bidirectional Encoder Representations from Transformers) are trained on vast amounts of text data. They use deep learning techniques to capture the nuances of human language, enabling them to generate coherent and contextually relevant text. These models have transformer architectures that allow them to consider the full context of a word by looking at the words that come before and after it. This results in a more nuanced understanding and generation of language. LLMs are continually evolving, with newer models being trained on ever-larger datasets and with more sophisticated algorithms, pushing the boundaries of what artificial intelligence can achieve in natural language processing."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

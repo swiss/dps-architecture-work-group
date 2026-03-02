@@ -1,0 +1,51 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Blockchain Infrastructure Enablers"
+    id="id-e8ce35fae36142ae8c6bb458ebf594b0"
+    documentation="Definition: Blockchain Infrastructure Enablers ABB is a Grouping of a set of components and services that permit building a digital ledger infrastructure of interconnected nodes to facilitate a trustworthy environment to share data.&#xA;&#xA;Source: European Comission&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/european-blockchain-services-infrastructure&#xA;&#xA;Synonym:  &#xA;&#xA;Additional information:  &#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenCHAIN is an open-source blockchain platform with distributed ledger technology. This blockchain company is suitable for organizations managing digital assets in secure and robust ways. Blockchain technology does not require fees for mining and the Bitcoin blockchain is significant for its immutability. https://www.openchainproject.org/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Blockchain Infrastructure Enablers ABB is salient for organizational interoperability due to it setting up the rules for generating a trustworthy network that permits (i) sharing information related to public services securely and privately, and (ii) ensuring the public information is consistent in time. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/BlockchainInfrastructureEnablersGrouping&#xA;&#xA;ABB name: eira:BlockchainInfrastructureEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/BlockchainInfrastructureEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/BlockchainInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:BlockchainInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value=" "/>
+  <properties
+      key="skos:definition"
+      value="Blockchain Infrastructure Enablers ABB is a Grouping of a set of components and services that permit building a digital ledger infrastructure of interconnected nodes to facilitate a trustworthy environment to share data."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Comission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/european-blockchain-services-infrastructure"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenCHAIN is an open-source blockchain platform with distributed ledger technology. This blockchain company is suitable for organizations managing digital assets in secure and robust ways. Blockchain technology does not require fees for mining and the Bitcoin blockchain is significant for its immutability. https://www.openchainproject.org/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Blockchain Infrastructure Enablers ABB is salient for organizational interoperability due to it setting up the rules for generating a trustworthy network that permits (i) sharing information related to public services securely and privately, and (ii) ensuring the public information is consistent in time. "/>
+  <properties
+      key="skos:note"
+      value=" "/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/BlockchainInfrastructureEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

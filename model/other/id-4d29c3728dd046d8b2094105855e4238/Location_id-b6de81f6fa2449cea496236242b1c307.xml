@@ -1,0 +1,46 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facility Location"
+    id="id-b6de81f6fa2449cea496236242b1c307"
+    documentation="Definition: Facility Location ABB is a Location conceptual or physical place or position where a bussiness organization is placed.&#xA;&#xA;Source: Inspired in Archimate&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/archimate3-doc/chap04.html&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Facility Location ABB is salient for the organizational and technical interoperability because of (i) it determines the interlink between public administration business process removing existing barriers; (ii) set up needed mechanism between IT systems to remove fragmentation in service delivery.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FacilityLocationLocation&#xA;&#xA;ABB name: eira:FacilityLocationLocation&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FacilityLocationLocation&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/FacilityLocationLocation"/>
+  <properties
+      key="dct:type"
+      value="eira:FacilityLocationLocation"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Facility Location ABB is a Location conceptual or physical place or position where a bussiness organization is placed."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Archimate"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/archimate3-doc/chap04.html"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Facility Location ABB is salient for the organizational and technical interoperability because of (i) it determines the interlink between public administration business process removing existing barriers; (ii) set up needed mechanism between IT systems to remove fragmentation in service delivery."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/FacilityLocationLocation"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Location>

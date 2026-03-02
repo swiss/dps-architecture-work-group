@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API contract"
+    id="id-6b2d7481a76f4b4ea10d96e101233b4c"
+    documentation="Definition: An API contract is a non-functional requirement that specifies the rules and guidelines for how an application programming interface (API) should behave. It defines the expected behavior of the API, including the input and output formats, error handling, security, and performance. The API contract ensures that the API is consistent and predictable, making it easier for developers to use and integrate with other systems. It also helps to ensure that the API is reliable, scalable, and maintainable over time.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, an API contract is a non-functional requirement that defines the terms and conditions for using an application programming interface (API). It specifies the rules and guidelines that must be followed by both the API provider and the API consumer to ensure that the API functions as intended and meets the required quality attributes.&#xA;&#xA;The API contract includes details such as the API's input and output parameters, error handling procedures, security requirements, performance expectations, and other technical specifications. It also outlines the expected behavior of the API under different scenarios and usage patterns.&#xA;&#xA;The API contract is a critical component of the API design process, as it helps to ensure that the API is reliable, scalable, and maintainable. It also helps to minimize the risk of errors and inconsistencies in the API implementation, which can lead to security vulnerabilities, performance issues, and other problems.&#xA;&#xA;To create an effective API contract, it is important to involve all stakeholders, including the API provider, API consumer, and any other relevant parties. The contract should be clear, concise, and easy to understand, and should be regularly reviewed and updated as needed to reflect changes in the API or its usage patterns.&#xA;&#xA;Example: One example of an IT non-functional requirement for an API contract could be that the API must have a clearly defined and documented interface that specifies the expected inputs, outputs, and behavior of the API. This interface should be consistent and stable over time, so that clients can rely on it and build their own applications around it. Additionally, the API should be designed to be scalable and performant, so that it can handle large volumes of requests and respond quickly to user actions. Finally, the API should be secure and protected against unauthorized access, with appropriate authentication and authorization mechanisms in place to ensure that only authorized users can access the API and its data.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/APIContractRequirement&#xA;&#xA;ABB name: eira:APIContractRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/APIcontractRequirement&#xA;&#xA;Name: API contract Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/APIcontractRequirement"/>
+  <properties
+      key="dct:title"
+      value="API contract Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of an IT non-functional requirement for an API contract could be that the API must have a clearly defined and documented interface that specifies the expected inputs, outputs, and behavior of the API. This interface should be consistent and stable over time, so that clients can rely on it and build their own applications around it. Additionally, the API should be designed to be scalable and performant, so that it can handle large volumes of requests and respond quickly to user actions. Finally, the API should be secure and protected against unauthorized access, with appropriate authentication and authorization mechanisms in place to ensure that only authorized users can access the API and its data."/>
+  <properties
+      key="skos:definition"
+      value="An API contract is a non-functional requirement that specifies the rules and guidelines for how an application programming interface (API) should behave. It defines the expected behavior of the API, including the input and output formats, error handling, security, and performance. The API contract ensures that the API is consistent and predictable, making it easier for developers to use and integrate with other systems. It also helps to ensure that the API is reliable, scalable, and maintainable over time."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, an API contract is a non-functional requirement that defines the terms and conditions for using an application programming interface (API). It specifies the rules and guidelines that must be followed by both the API provider and the API consumer to ensure that the API functions as intended and meets the required quality attributes.&#xA;&#xA;The API contract includes details such as the API's input and output parameters, error handling procedures, security requirements, performance expectations, and other technical specifications. It also outlines the expected behavior of the API under different scenarios and usage patterns.&#xA;&#xA;The API contract is a critical component of the API design process, as it helps to ensure that the API is reliable, scalable, and maintainable. It also helps to minimize the risk of errors and inconsistencies in the API implementation, which can lead to security vulnerabilities, performance issues, and other problems.&#xA;&#xA;To create an effective API contract, it is important to involve all stakeholders, including the API provider, API consumer, and any other relevant parties. The contract should be clear, concise, and easy to understand, and should be regularly reviewed and updated as needed to reflect changes in the API or its usage patterns."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/APIContractRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:APIContractRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

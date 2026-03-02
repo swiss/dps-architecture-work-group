@@ -1,0 +1,53 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Granularity of Legal Requirements"
+    id="id-d14485f0b8f544c6be203d7ee97f0d17"
+    documentation="Definition: The Granularity of Legral requirements ABB is an Assessment that refers to the degree to which laws and regulations are broken down into specific requirements and standards that must be met. &#xA;&#xA;Source: Scientific Foundations of Digital Governance and Transformation&#xA;&#xA;Source reference: https://books.google.gr/books?id=IB5iEAAAQBAJ&amp;pg=PA298&amp;lpg=PA298&amp;dq=Delegation+of+Powers+Provisioning+Digital+Public+Services&amp;source=bl&amp;ots=jyuzPhj0Q8&amp;sig=ACfU3U1-hD4udfrf3Ye_7Ywly0FATpCu6Q&amp;hl=el&amp;sa=X&amp;ved=2ahUKEwjHhuyQ-KT3AhUEt6QKHTNbCCwQ6AF6BAgPEAM#v=onepage&amp;q=Delegation%20of%20Powers%20Provisioning%20Digital%20Public%20Services&amp;f=false&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Study of use Open Source Software in the Public Sector. http://softlibre.unizar.es/manuales/legal/oss-fact-sheet.pdf&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Granularity on Legal Requirements ABB is salient for governance and legal interoperability because it sets the rules and requirements devoted to i) reuse and elaborate public sector digital services; ii) data sharing rules to enable the exchange of data across different countries.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/GranularityOfLegalRequirementsAssessment&#xA;&#xA;ABB name: eira:GranularityOfLegalRequirementsAssessment&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/GranularityOfLegalRequirementsAssessment&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/GranularityOfLegalRequirementsAssessment"/>
+  <properties
+      key="dct:type"
+      value="eira:GranularityOfLegalRequirementsAssessment"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="The Granularity of Legral requirements ABB is an Assessment that refers to the degree to which laws and regulations are broken down into specific requirements and standards that must be met. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Scientific Foundations of Digital Governance and Transformation"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://books.google.gr/books?id=IB5iEAAAQBAJ&amp;pg=PA298&amp;lpg=PA298&amp;dq=Delegation+of+Powers+Provisioning+Digital+Public+Services&amp;source=bl&amp;ots=jyuzPhj0Q8&amp;sig=ACfU3U1-hD4udfrf3Ye_7Ywly0FATpCu6Q&amp;hl=el&amp;sa=X&amp;ved=2ahUKEwjHhuyQ-KT3AhUEt6QKHTNbCCwQ6AF6BAgPEAM#v=onepage&amp;q=Delegation%20of%20Powers%20Provisioning%20Digital%20Public%20Services&amp;f=false"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Study of use Open Source Software in the Public Sector. http://softlibre.unizar.es/manuales/legal/oss-fact-sheet.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Granularity on Legal Requirements ABB is salient for governance and legal interoperability because it sets the rules and requirements devoted to i) reuse and elaborate public sector digital services; ii) data sharing rules to enable the exchange of data across different countries."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/GranularityOfLegalRequirementsAssessment"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Assessment>

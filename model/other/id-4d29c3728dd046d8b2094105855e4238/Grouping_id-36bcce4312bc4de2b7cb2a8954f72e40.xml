@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Observability Requirements Catalogue"
+    id="id-36bcce4312bc4de2b7cb2a8954f72e40"
+    documentation="Definition: Observability Requirements Catalogue ABB is a grouping that covers non-functional requirements related to system monitoring, logging, and tiered levels of support. These requirements are critical for ensuring the reliability, availability, performance, security, and effective use of IT systems and applications.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Observability Requirements Catalogue ABB includes three main elements: Alerts and Monitoring, Logging, and Tiered Levels of Support. Alerts and Monitoring refer to the system's ability to detect and report issues or anomalies in real-time, ensuring optimal performance and availability. Logging involves recording events and activities within a system or application, providing a detailed record of system behavior for troubleshooting, auditing, and analysis. Tiered Levels of Support refers to the hierarchical provision of technical support to users based on their needs, ensuring quick and efficient resolution of technical issues. These requirements are essential for maintaining the security and reliability of IT systems, meeting regulatory compliance requirements, minimizing downtime, and enabling effective use of the system or application.&#xA;&#xA;Example: Examples of application for the Observability Requirements Catalogue ABB include: a cloud-based software application implementing real-time alerts and monitoring to detect and report system errors, a banking system implementing logging to record user actions and system errors for auditing and analysis, and a customer support center implementing tiered levels of support to provide appropriate technical assistance to users based on their needs.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ObservabilityRequirementsCatalogueGrouping&#xA;&#xA;ABB name: eira:ObservabilityRequirementsCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ObservabilityRequirementsCatalogueGrouping&#xA;&#xA;Name: Observability Requirements Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ObservabilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ObservabilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Observability Requirements Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:ObservabilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Observability Requirements Catalogue ABB is a grouping that covers non-functional requirements related to system monitoring, logging, and tiered levels of support. These requirements are critical for ensuring the reliability, availability, performance, security, and effective use of IT systems and applications."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="Examples of application for the Observability Requirements Catalogue ABB include: a cloud-based software application implementing real-time alerts and monitoring to detect and report system errors, a banking system implementing logging to record user actions and system errors for auditing and analysis, and a customer support center implementing tiered levels of support to provide appropriate technical assistance to users based on their needs."/>
+  <properties
+      key="skos:note"
+      value="The Observability Requirements Catalogue ABB includes three main elements: Alerts and Monitoring, Logging, and Tiered Levels of Support. Alerts and Monitoring refer to the system's ability to detect and report issues or anomalies in real-time, ensuring optimal performance and availability. Logging involves recording events and activities within a system or application, providing a detailed record of system behavior for troubleshooting, auditing, and analysis. Tiered Levels of Support refers to the hierarchical provision of technical support to users based on their needs, ensuring quick and efficient resolution of technical issues. These requirements are essential for maintaining the security and reliability of IT systems, meeting regulatory compliance requirements, minimizing downtime, and enabling effective use of the system or application."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storage Infrastructure Enablers"
+    id="id-173da3c093814ef4bfb91aeb433adcad"
+    documentation="Definition: Storage Infrastructure Enablers ABB is a Grouping of a set of tools and digital services that facilitate the efficient and effective storage of data&#xA;&#xA;Source: TECHNOPEDIA&#xA;&#xA;Source reference: https://www.techopedia.com/definition/30476/storage-infrastructure&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): GARTNER- Distributed File Systems and Objects Storage Reviews and Ratings. https://www.gartner.com/reviews/market/distributed-file-systems-and-object-storage&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Storage Infrastructure Enablers ABB is salient for technical interoperability because it establishes the mechanism to (i) ensure the correct management of the information across single or multiple infrastructures, and (ii) minimize the effects of data loss in case of unexpected behaviour of public services through data recovery strategies.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/StorageInfrastructureEnablersGrouping&#xA;&#xA;ABB name: eira:StorageInfrastructureEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/StorageInfrastructureEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/StorageInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:StorageInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Storage Infrastructure Enablers ABB is a Grouping of a set of tools and digital services that facilitate the efficient and effective storage of data"/>
+  <properties
+      key="eira:definitionSource"
+      value="TECHNOPEDIA"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.techopedia.com/definition/30476/storage-infrastructure"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): GARTNER- Distributed File Systems and Objects Storage Reviews and Ratings. https://www.gartner.com/reviews/market/distributed-file-systems-and-object-storage"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Storage Infrastructure Enablers ABB is salient for technical interoperability because it establishes the mechanism to (i) ensure the correct management of the information across single or multiple infrastructures, and (ii) minimize the effects of data loss in case of unexpected behaviour of public services through data recovery strategies."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/StorageInfrastructureEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

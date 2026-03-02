@@ -1,0 +1,58 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical Agreement"
+    id="id-260cb538b16745fe8b48d5c62225e8ff"
+    documentation="Definition: Technical Agreement ABB is a Contract formalising a framework and a privileged forum to identify common interests, priorities, policy dialogue, and the necessary tools for Strategic &amp; Technological collaboration.&#xA;&#xA;Source: EUR-LEX&#xA;&#xA;Source reference: https://eur-lex.europa.eu/collection/eu-law/inter-agree.html&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): WTO Data Exchange technical agrement: The agreement regulates the echange of data between systems and applications. https://olc.worldbank.org/sites/default/files/PMT-4.pdf&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Technical Agreement ABB is a key interoperability enabler because it supports technical governance interoperability by enabling collaboration between digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TechnicalAgreementContract&#xA;&#xA;ABB name: eira:TechnicalAgreementContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TechnicalAgreementContract&#xA;&#xA;Interoperability Layer: Technical&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/TechnicalAgreementContract"/>
+  <properties
+      key="dct:type"
+      value="eira:TechnicalAgreementContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Technical Agreement ABB is a Contract formalising a framework and a privileged forum to identify common interests, priorities, policy dialogue, and the necessary tools for Strategic &amp; Technological collaboration."/>
+  <properties
+      key="eira:definitionSource"
+      value="EUR-LEX"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/collection/eu-law/inter-agree.html"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): WTO Data Exchange technical agrement: The agreement regulates the echange of data between systems and applications. https://olc.worldbank.org/sites/default/files/PMT-4.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Technical Agreement ABB is a key interoperability enabler because it supports technical governance interoperability by enabling collaboration between digital public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/TechnicalAgreementContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="Technical"/>
+</archimate:Contract>

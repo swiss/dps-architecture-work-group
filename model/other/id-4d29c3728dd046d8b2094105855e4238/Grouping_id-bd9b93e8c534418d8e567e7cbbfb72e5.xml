@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution Portability and Scalability Architecture Decision Catalogue"
+    id="id-bd9b93e8c534418d8e567e7cbbfb72e5"
+    documentation="Definition: Digital Solution Portability and Scalability Architecture Decision Catalogue ABB is a grouping that covers a range of technical architectural decisions related to the portability and scalability of digital solutions. These decisions are documented in the form of Architecture Decision Records (ADRs) and typically involve choosing specific technologies, frameworks, protocols, or design patterns to ensure the solution's adaptability, installability, replaceability, and its ability to manage and exchange data across borders.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The catalogue includes decisions about Semantic Capability, Cross-Border Semantic Data Management, Cross-Border Data Exchange, Data Exchange Deployment, Data Exchanger Operations, Adaptability, Installability, and Replaceability. Each decision record provides a detailed description of the decision, the context in which it was made, the factors considered, and the implications of the decision. These decisions are crucial for ensuring that the digital solution can be easily installed, replaced, and adapted to changing requirements, and that it can effectively manage and exchange data across borders.&#xA;&#xA;Example: For instance, the 'Semantic Capability' decision might involve choosing a specific semantic technology to ensure that the digital solution can understand and interpret the meaning of the data it processes. The 'Cross-Border Data Exchange' decision might involve selecting a specific data exchange protocol to ensure that the solution can effectively exchange data with systems in other countries. The 'Adaptability' decision might involve choosing a modular design pattern to ensure that the solution can be easily adapted to changing requirements.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionPortabilityAndScalabilityArchitectureDecisionCatalogueGrouping&#xA;&#xA;ABB name: eira:DigitalSolutionPortabilityAndScalabilityArchitectureDecisionCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionPortabilityAndScalabilityArchitectureDecisionCatalogueGrouping&#xA;&#xA;Name: Digital Solution Portability And Scalability Architecture Decision Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionPortabilityAndScalabilityArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionPortabilityAndScalabilityArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Digital Solution Portability And Scalability Architecture Decision Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionPortabilityAndScalabilityArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Digital Solution Portability and Scalability Architecture Decision Catalogue ABB is a grouping that covers a range of technical architectural decisions related to the portability and scalability of digital solutions. These decisions are documented in the form of Architecture Decision Records (ADRs) and typically involve choosing specific technologies, frameworks, protocols, or design patterns to ensure the solution's adaptability, installability, replaceability, and its ability to manage and exchange data across borders."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, the 'Semantic Capability' decision might involve choosing a specific semantic technology to ensure that the digital solution can understand and interpret the meaning of the data it processes. The 'Cross-Border Data Exchange' decision might involve selecting a specific data exchange protocol to ensure that the solution can effectively exchange data with systems in other countries. The 'Adaptability' decision might involve choosing a modular design pattern to ensure that the solution can be easily adapted to changing requirements."/>
+  <properties
+      key="skos:note"
+      value="The catalogue includes decisions about Semantic Capability, Cross-Border Semantic Data Management, Cross-Border Data Exchange, Data Exchange Deployment, Data Exchanger Operations, Adaptability, Installability, and Replaceability. Each decision record provides a detailed description of the decision, the context in which it was made, the factors considered, and the implications of the decision. These decisions are crucial for ensuring that the digital solution can be easily installed, replaced, and adapted to changing requirements, and that it can effectively manage and exchange data across borders."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

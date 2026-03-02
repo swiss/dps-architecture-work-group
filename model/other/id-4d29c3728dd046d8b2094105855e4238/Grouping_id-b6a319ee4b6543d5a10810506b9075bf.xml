@@ -1,0 +1,50 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic High Value Dataset Solutions"
+    id="id-b6a319ee4b6543d5a10810506b9075bf"
+    documentation="Definition: Business Agnostic High Value Dataset Solutions (BAHVDS) is a grouping that covers a wide range of high-value datasets that are not specific to any particular business sector. These datasets include Geospatial, Business-related data, Metereology, Mobility, Statistics, and Earth Observation Data. Each of these datasets comprises different types of data, such as INSPIRE themes, reference parcels, agricultural parcels, company information, records, financial statements, weather data, river information services data, statistical data, and environmental information.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The BAHVDS is a comprehensive catalogue of high-value datasets that are applicable across various business sectors. The Geospatial High Value Dataset includes INSPIRE themes, reference parcels, and agricultural parcels. The Business-related data High Value Dataset includes basic company information, records, and financial statements. The Metereology High Value Dataset includes observation measurement data (weather stations), climate data, weather warnings, radar data, NWP model data. The Mobility High Value Dataset includes INSPIRE themes and River Information Services data. The Statistics High Value Dataset includes statistical data on select legal acts. The Earth Observation Data High Value Dataset includes INSPIRE themes, environmental information according to the environmental information directive, and datasets related to select legal acts.&#xA;&#xA;Example: Examples of application of these datasets could be in various sectors such as agriculture, where the Geospatial High Value Dataset could be used for land management and planning. The Business-related data High Value Dataset could be used by financial institutions for risk assessment and credit scoring. The Metereology High Value Dataset could be used by weather forecasting agencies for accurate weather prediction. The Mobility High Value Dataset could be used for transportation planning and management. The Statistics High Value Dataset could be used by government agencies for policy making. The Earth Observation Data High Value Dataset could be used for environmental monitoring and conservation.&#xA;&#xA;LOST view: SV-Business Agnostic High Value Dataset&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticHighValueDatasetSolutionsGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticHighValueDatasetSolutionsGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticHighValueDatasetSolutionsGrouping&#xA;&#xA;Name: Business Agnostic High Value Dataset Solutions Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticHighValueDatasetSolutionsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticHighValueDatasetSolutionsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic High Value Dataset Solutions Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticHighValueDatasetSolutionsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic High Value Dataset Solutions (BAHVDS) is a grouping that covers a wide range of high-value datasets that are not specific to any particular business sector. These datasets include Geospatial, Business-related data, Metereology, Mobility, Statistics, and Earth Observation Data. Each of these datasets comprises different types of data, such as INSPIRE themes, reference parcels, agricultural parcels, company information, records, financial statements, weather data, river information services data, statistical data, and environmental information."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="Examples of application of these datasets could be in various sectors such as agriculture, where the Geospatial High Value Dataset could be used for land management and planning. The Business-related data High Value Dataset could be used by financial institutions for risk assessment and credit scoring. The Metereology High Value Dataset could be used by weather forecasting agencies for accurate weather prediction. The Mobility High Value Dataset could be used for transportation planning and management. The Statistics High Value Dataset could be used by government agencies for policy making. The Earth Observation Data High Value Dataset could be used for environmental monitoring and conservation."/>
+  <properties
+      key="skos:note"
+      value="The BAHVDS is a comprehensive catalogue of high-value datasets that are applicable across various business sectors. The Geospatial High Value Dataset includes INSPIRE themes, reference parcels, and agricultural parcels. The Business-related data High Value Dataset includes basic company information, records, and financial statements. The Metereology High Value Dataset includes observation measurement data (weather stations), climate data, weather warnings, radar data, NWP model data. The Mobility High Value Dataset includes INSPIRE themes and River Information Services data. The Statistics High Value Dataset includes statistical data on select legal acts. The Earth Observation Data High Value Dataset includes INSPIRE themes, environmental information according to the environmental information directive, and datasets related to select legal acts."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic High Value Dataset"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

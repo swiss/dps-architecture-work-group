@@ -1,0 +1,48 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESCO"
+    id="id-80419569ccc2442f9e18fce645a48de5"
+    documentation="Description: The ESCO classification identifies and categorises skills, competences, and occupations relevant for the EU labour market and education and training. It systematically shows the relationships between the different concepts.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;Publisher: European Commission&#xA;&#xA;Source: https://esco.ec.europa.eu/en&#xA;&#xA;LOST view: SV-Agnostic Reference Data&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ESCODataObject&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ESCODataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/ReferenceData&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="European Commission"/>
+  <properties
+      key="dct:description"
+      value="The ESCO classification identifies and categorises skills, competences, and occupations relevant for the EU labour market and education and training. It systematically shows the relationships between the different concepts."/>
+  <properties
+      key="dct:source"
+      value="https://esco.ec.europa.eu/en"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ESCODataObject"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ESCODataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Reference Data"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/ReferenceData"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:DataObject>

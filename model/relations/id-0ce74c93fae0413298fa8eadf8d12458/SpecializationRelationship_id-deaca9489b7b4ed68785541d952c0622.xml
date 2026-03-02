@@ -1,0 +1,17 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-deaca9489b7b4ed68785541d952c0622">
+  <properties
+      key="dct:modified"
+      value="2024-01-10"/>
+  <properties
+      key="eira:application"
+      value="Upscale"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-f476256ded864773891f6b36dc857b6f.xml#id-f476256ded864773891f6b36dc857b6f"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-643828f92a7b4f2d96f197661319d04c.xml#id-643828f92a7b4f2d96f197661319d04c"/>
+</archimate:SpecializationRelationship>

@@ -1,0 +1,58 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution Architecture Decision"
+    id="id-617b0e5989d943518af192af19a167a6"
+    documentation="Definition: An Architectural Decision Record (ADR) is a document that captures the key decisions made during the architectural design and development of a software system. It is used to record the rationale, alternatives considered, and trade-offs made during the decision-making process, as well as the context and implications of each decision.&#xA;&#xA;Source: Architectural Decision Records&#xA;&#xA;Source reference: https://adr.github.io/&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Interoperability Motivation View&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;ABB name: eira:DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;Name: The title contains a short phrase describing the architectural decisions.&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionArchitectureDecisionGoal"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+  <properties
+      key="dct:title"
+      value="The title contains a short phrase describing the architectural decisions."/>
+  <properties
+      key="skos:definition"
+      value="An Architectural Decision Record (ADR) is a document that captures the key decisions made during the architectural design and development of a software system. It is used to record the rationale, alternatives considered, and trade-offs made during the decision-making process, as well as the context and implications of each decision."/>
+  <properties
+      key="eira:definitionSource"
+      value="Architectural Decision Records"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://adr.github.io/"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Interoperability Motivation View"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Goal>

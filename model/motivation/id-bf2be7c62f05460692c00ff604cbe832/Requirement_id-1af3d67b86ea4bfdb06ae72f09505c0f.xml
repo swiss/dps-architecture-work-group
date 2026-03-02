@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modularity and reusability"
+    id="id-1af3d67b86ea4bfdb06ae72f09505c0f"
+    documentation="Definition: Modularity and reusability are non-functional requirements that refer to the ability of a software system to be broken down into smaller, independent components that can be easily reused in other parts of the system or in other systems altogether. This requirement is important because it allows for greater flexibility and scalability in software development, as well as reducing the amount of time and effort required to develop new software applications. By designing software with modularity and reusability in mind, developers can create more efficient and effective systems that are easier to maintain and update over time.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: Modularity and reusability are non-functional requirements that are essential for the development of robust and scalable IT systems. According to the TOGAF specification, guidelines, and documentation, modularity refers to the ability of a system to be broken down into smaller, independent components or modules. These modules can be developed, tested, and maintained separately, which makes it easier to modify or replace them without affecting the rest of the system.&#xA;&#xA;Reusability, on the other hand, refers to the ability of a system or its components to be used in different contexts or applications. This means that the system or its components should be designed in a way that they can be easily adapted or extended to meet the requirements of different users or applications.&#xA;&#xA;To achieve modularity and reusability, the TOGAF framework recommends the use of standard interfaces and protocols that allow different components to communicate with each other. This can be achieved through the use of service-oriented architecture (SOA) or microservices, which provide a modular and flexible approach to system design.&#xA;&#xA;In addition, the TOGAF framework recommends the use of design patterns and best practices that promote modularity and reusability. These include the use of abstraction, encapsulation, and inheritance to create modular and reusable components that can be easily extended or modified.&#xA;&#xA;Overall, modularity and reusability are critical non-functional requirements that should be considered throughout the entire system development lifecycle. By following the TOGAF framework and best practices, IT systems can be designed to be more flexible, scalable, and adaptable to changing business needs.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Modularity and reusability' could be the development of a software application that can be easily integrated with other systems and components. This means that the application should be designed in a modular way, with clear interfaces and well-defined APIs, so that it can be easily reused and adapted to different environments and use cases. Additionally, the application should be built using standard technologies and programming languages, so that it can be easily maintained and updated over time. This requirement is important for organizations that need to integrate multiple systems and applications, as it helps to reduce development time and costs, and improves overall system performance and reliability.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ModularityAndReusabilityRequirement&#xA;&#xA;ABB name: eira:ModularityAndReusabilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ModularityandreusabilityRequirement&#xA;&#xA;Name: Modularity and reusability Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ModularityandreusabilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Modularity and reusability Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Modularity and reusability' could be the development of a software application that can be easily integrated with other systems and components. This means that the application should be designed in a modular way, with clear interfaces and well-defined APIs, so that it can be easily reused and adapted to different environments and use cases. Additionally, the application should be built using standard technologies and programming languages, so that it can be easily maintained and updated over time. This requirement is important for organizations that need to integrate multiple systems and applications, as it helps to reduce development time and costs, and improves overall system performance and reliability."/>
+  <properties
+      key="skos:definition"
+      value="Modularity and reusability are non-functional requirements that refer to the ability of a software system to be broken down into smaller, independent components that can be easily reused in other parts of the system or in other systems altogether. This requirement is important because it allows for greater flexibility and scalability in software development, as well as reducing the amount of time and effort required to develop new software applications. By designing software with modularity and reusability in mind, developers can create more efficient and effective systems that are easier to maintain and update over time."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="Modularity and reusability are non-functional requirements that are essential for the development of robust and scalable IT systems. According to the TOGAF specification, guidelines, and documentation, modularity refers to the ability of a system to be broken down into smaller, independent components or modules. These modules can be developed, tested, and maintained separately, which makes it easier to modify or replace them without affecting the rest of the system.&#xA;&#xA;Reusability, on the other hand, refers to the ability of a system or its components to be used in different contexts or applications. This means that the system or its components should be designed in a way that they can be easily adapted or extended to meet the requirements of different users or applications.&#xA;&#xA;To achieve modularity and reusability, the TOGAF framework recommends the use of standard interfaces and protocols that allow different components to communicate with each other. This can be achieved through the use of service-oriented architecture (SOA) or microservices, which provide a modular and flexible approach to system design.&#xA;&#xA;In addition, the TOGAF framework recommends the use of design patterns and best practices that promote modularity and reusability. These include the use of abstraction, encapsulation, and inheritance to create modular and reusable components that can be easily extended or modified.&#xA;&#xA;Overall, modularity and reusability are critical non-functional requirements that should be considered throughout the entire system development lifecycle. By following the TOGAF framework and best practices, IT systems can be designed to be more flexible, scalable, and adaptable to changing business needs."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ModularityAndReusabilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:ModularityAndReusabilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

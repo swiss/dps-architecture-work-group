@@ -1,0 +1,39 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accessibility"
+    id="id-476bc5324afa4c0ebe7fb67047165865"
+    documentation="Definition: Accessibility ensures that people with disabilities, the elderly and other disadvantaged groups can use public services at service levels comparable to those provided to other citizens. The trend towards a digital society provides users with new ways of accessing information and services. The providers of information and services, such as public sector bodies, rely increasingly on the internet to produce, collect and provide a wide range of information and services online which are essential to the public.Accessibility should be understood as principles and techniques to be observed when designing, constructing, maintaining, and updating websites and mobile applications in order to make them more accessible to users, in particular persons with disabilities. Member States shall ensure that public sector bodies take the necessary measures to make their websites and mobile applications more accessible by making them perceivable, operable, understandable and robust.&#xA;&#xA;Source: Inclusion and accessibility is further incorporated in various industry standards, like WCAG (https://www.w3.org/WAI/standards-guidelines/wcag/) and OWASP (https://owasp.org) regarding secure offering of services over the web.&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/inclusion-and-accessibility&#xA;&#xA;Publisher: ELAP&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/accessibility&#xA;&#xA;ABB name: elap:AccessibilityPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Accessibility&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="dct:publisher"
+      value="ELAP"/>
+  <properties
+      key="dct:title"
+      value="Accessibility"/>
+  <properties
+      key="dct:type"
+      value="elap:AccessibilityPrinciple"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/inclusion-and-accessibility"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inclusion and accessibility is further incorporated in various industry standards, like WCAG (https://www.w3.org/WAI/standards-guidelines/wcag/) and OWASP (https://owasp.org) regarding secure offering of services over the web."/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/accessibility"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+  <properties
+      key="skos:definition"
+      value="Accessibility ensures that people with disabilities, the elderly and other disadvantaged groups can use public services at service levels comparable to those provided to other citizens. The trend towards a digital society provides users with new ways of accessing information and services. The providers of information and services, such as public sector bodies, rely increasingly on the internet to produce, collect and provide a wide range of information and services online which are essential to the public.Accessibility should be understood as principles and techniques to be observed when designing, constructing, maintaining, and updating websites and mobile applications in order to make them more accessible to users, in particular persons with disabilities. Member States shall ensure that public sector bodies take the necessary measures to make their websites and mobile applications more accessible by making them perceivable, operable, understandable and robust."/>
+</archimate:Principle>

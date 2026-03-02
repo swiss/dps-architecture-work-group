@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tiered levels of support"
+    id="id-e690a4e03ccb4c1dacb943b61746d42e"
+    documentation="Definition: Tiered levels of support is an IT non-functional requirement that refers to the different levels of technical support that are available to users of a system or application. This requirement specifies that the support should be provided in a hierarchical manner, with higher levels of support being available to users who require more advanced technical assistance. The purpose of this requirement is to ensure that users can receive the appropriate level of support based on their needs, and that technical issues can be resolved quickly and efficiently. This can help to minimize downtime and ensure that users are able to use the system or application effectively.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, guidelines, and documentation, the non-functional requirement 'Tiered levels of support' refers to the need for a system or application to provide different levels of support based on the severity of the issue or problem. This requirement is typically associated with the availability and reliability of the system, as well as the ability to quickly resolve issues and minimize downtime.&#xA;&#xA;The tiered levels of support typically include three or more levels, with each level providing a different level of support and response time. The first level of support is typically a help desk or support team that provides basic troubleshooting and triage. The second level of support is typically a more specialized team that can provide more in-depth technical support and problem resolution. The third level of support is typically a team of experts who can provide advanced technical support and problem resolution.&#xA;&#xA;The tiered levels of support should be clearly defined and documented, with specific service level agreements (SLAs) for each level. The SLAs should include response times, resolution times, and escalation procedures. The system or application should also provide clear communication channels for users to report issues and receive updates on the status of their support requests.&#xA;&#xA;Overall, the 'Tiered levels of support' non-functional requirement is critical for ensuring the availability and reliability of a system or application, as well as providing users with timely and effective support when issues arise.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Tiered levels of support' could be for a software application used by a large corporation. The requirement would specify that there must be multiple levels of support available to users, depending on the severity of the issue they are experiencing. For example, a user with a critical issue that is preventing them from completing their work would have access to a higher level of support than a user with a minor issue that can wait. This would ensure that the most urgent issues are addressed quickly and efficiently, while less urgent issues are still resolved in a timely manner.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TieredLevelsOfSupportRequirement&#xA;&#xA;ABB name: eira:TieredLevelsOfSupportRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TieredlevelsofsupportRequirement&#xA;&#xA;Name: Tiered levels of support Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/TieredlevelsofsupportRequirement"/>
+  <properties
+      key="dct:title"
+      value="Tiered levels of support Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Tiered levels of support' could be for a software application used by a large corporation. The requirement would specify that there must be multiple levels of support available to users, depending on the severity of the issue they are experiencing. For example, a user with a critical issue that is preventing them from completing their work would have access to a higher level of support than a user with a minor issue that can wait. This would ensure that the most urgent issues are addressed quickly and efficiently, while less urgent issues are still resolved in a timely manner."/>
+  <properties
+      key="skos:definition"
+      value="Tiered levels of support is an IT non-functional requirement that refers to the different levels of technical support that are available to users of a system or application. This requirement specifies that the support should be provided in a hierarchical manner, with higher levels of support being available to users who require more advanced technical assistance. The purpose of this requirement is to ensure that users can receive the appropriate level of support based on their needs, and that technical issues can be resolved quickly and efficiently. This can help to minimize downtime and ensure that users are able to use the system or application effectively."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, guidelines, and documentation, the non-functional requirement 'Tiered levels of support' refers to the need for a system or application to provide different levels of support based on the severity of the issue or problem. This requirement is typically associated with the availability and reliability of the system, as well as the ability to quickly resolve issues and minimize downtime.&#xA;&#xA;The tiered levels of support typically include three or more levels, with each level providing a different level of support and response time. The first level of support is typically a help desk or support team that provides basic troubleshooting and triage. The second level of support is typically a more specialized team that can provide more in-depth technical support and problem resolution. The third level of support is typically a team of experts who can provide advanced technical support and problem resolution.&#xA;&#xA;The tiered levels of support should be clearly defined and documented, with specific service level agreements (SLAs) for each level. The SLAs should include response times, resolution times, and escalation procedures. The system or application should also provide clear communication channels for users to report issues and receive updates on the status of their support requests.&#xA;&#xA;Overall, the 'Tiered levels of support' non-functional requirement is critical for ensuring the availability and reliability of a system or application, as well as providing users with timely and effective support when issues arise."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/TieredLevelsOfSupportRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:TieredLevelsOfSupportRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

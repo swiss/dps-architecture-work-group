@@ -1,0 +1,45 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transparency of the administrative environment"
+    id="id-481e6e58c68a4f068c26f3e73d8fa0c9"
+    documentation="Definition: Enabling visibility inside the administrative environment of a public administration.  Enabling visibility within the administrative environment of a public administration. It is about enabling other public administrations, citizens and businesses to view and understand administrative rules, processes, data, services and decision-making processes. Transparency at this stage requires public administrations to align with legal texts promoting and ensuring accountability from European institutions to citizens and businesses. Public organisations at the organisational level, need to include standardised processes that allow users to understand information, rules, data, services or the decision-making process of any organisation. &quot;&quot;&#xA;&#xA;Source: Transparency Underlying Principle (3) of the European Interoperability Framework (EIF)&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/2-underlying-principles-european-public-services&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/transparency-of-the-administrative-environment&#xA;&#xA;ABB name: elap:transparency-of-the-administrative-environment&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Transparency of the administrative environment&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:transparency-of-the-administrative-environment"/>
+  <properties
+      key="dct:title"
+      value="Transparency of the administrative environment"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/transparency-of-the-administrative-environment"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="Transparency Underlying Principle (3) of the European Interoperability Framework (EIF)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/2-underlying-principles-european-public-services"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="LV-Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:definition"
+      value="Enabling visibility inside the administrative environment of a public administration.  Enabling visibility within the administrative environment of a public administration. It is about enabling other public administrations, citizens and businesses to view and understand administrative rules, processes, data, services and decision-making processes. Transparency at this stage requires public administrations to align with legal texts promoting and ensuring accountability from European institutions to citizens and businesses. Public organisations at the organisational level, need to include standardised processes that allow users to understand information, rules, data, services or the decision-making process of any organisation. &quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

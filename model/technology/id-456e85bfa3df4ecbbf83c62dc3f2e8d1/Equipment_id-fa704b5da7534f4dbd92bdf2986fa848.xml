@@ -1,0 +1,46 @@
+<archimate:Equipment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Physical Security Infrastructure"
+    id="id-fa704b5da7534f4dbd92bdf2986fa848"
+    documentation="Definition: Physical Security Infrastructure ABB is Equipment that enables the protection of facilities and assets from actions and events that could cause damage or losses. &#xA;&#xA;Source: Inspired in Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/physical-security&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Physical Security Infrastructure ABB is salient for technical interoperability because it provides the infrastructure capable of providing functionalities of data protection and privacy. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/PhysicalSecurityInfrastructureEquipment&#xA;&#xA;ABB name: eira:PhysicalSecurityInfrastructureEquipment&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PhysicalSecurityInfrastructureEquipment&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PhysicalSecurityInfrastructureEquipment"/>
+  <properties
+      key="dct:type"
+      value="eira:PhysicalSecurityInfrastructureEquipment"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Physical Security Infrastructure ABB is Equipment that enables the protection of facilities and assets from actions and events that could cause damage or losses. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/physical-security"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Physical Security Infrastructure ABB is salient for technical interoperability because it provides the infrastructure capable of providing functionalities of data protection and privacy. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PhysicalSecurityInfrastructureEquipment"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Equipment>

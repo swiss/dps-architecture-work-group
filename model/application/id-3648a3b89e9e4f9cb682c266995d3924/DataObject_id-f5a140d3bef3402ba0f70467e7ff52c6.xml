@@ -1,0 +1,52 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontologies Catalogue"
+    id="id-f5a140d3bef3402ba0f70467e7ff52c6"
+    documentation="Definition: Ontologies Catalogue ABB is a Data Object aiming at indexing the collection of ontologies with comprehensiveness and trustiness value&#xA;&#xA;Source: Joinup&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/taxonomy/term/http_e_f_fdata_ceuropa_ceu_fdr8_fOntologiesCatalogue&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): BioPortal - BioPortal is a repository of over 300 biomedical ontologies and includes tools for working with these ontologies. Holds most widely used Biomedical ontologies. Allows ontologies to be browsed, searched, and reviewed. Allows uses to create notes on ontologies terms. Allows arbitrary text to be annotated with ontology terms. Also supports search of biomedical resources (e.g. PubMed) for combinations of terms from ontologies. Allows programmatic access to ontologies through a REST interface.(http://bioportal.bioontology.org/)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Interoperability Saliency: The Ontologies catalogue ABB is a key interoperability enabler (*) for structural interoperability because it ensures the provision/consumption of ontologies by digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/OntologiesCatalogueDataObject&#xA;&#xA;ABB name: eira:OntologiesCatalogueDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/OntologiesCatalogueDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/OntologiesCatalogueDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:OntologiesCatalogueDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Ontologies Catalogue ABB is a Data Object aiming at indexing the collection of ontologies with comprehensiveness and trustiness value"/>
+  <properties
+      key="eira:definitionSource"
+      value="Joinup"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/taxonomy/term/http_e_f_fdata_ceuropa_ceu_fdr8_fOntologiesCatalogue"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): BioPortal - BioPortal is a repository of over 300 biomedical ontologies and includes tools for working with these ontologies. Holds most widely used Biomedical ontologies. Allows ontologies to be browsed, searched, and reviewed. Allows uses to create notes on ontologies terms. Allows arbitrary text to be annotated with ontology terms. Also supports search of biomedical resources (e.g. PubMed) for combinations of terms from ontologies. Allows programmatic access to ontologies through a REST interface.(http://bioportal.bioontology.org/)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Ontologies catalogue ABB is a key interoperability enabler (*) for structural interoperability because it ensures the provision/consumption of ontologies by digital public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/OntologiesCatalogueDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

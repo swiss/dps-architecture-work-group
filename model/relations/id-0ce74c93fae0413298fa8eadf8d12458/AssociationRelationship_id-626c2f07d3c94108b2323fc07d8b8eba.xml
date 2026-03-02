@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-626c2f07d3c94108b2323fc07d8b8eba"
+    documentation="A [Public Service Catalogue] documents a [Public Service]">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d1844597158c40ba9f1157cc00b37303.xml#id-d1844597158c40ba9f1157cc00b37303"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-1f0d19e57ea74e05aa427a1e3b5fca85.xml#id-1f0d19e57ea74e05aa427a1e3b5fca85"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,52 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Management"
+    id="id-06948025695649e0b196c227ef468f8a"
+    documentation="Definition: Access Management ABB is an Application Component implementing the process of granting rights to users and preventing the access to non-authorised users.&#xA;&#xA;Source: ITIL v3 &#xA;&#xA;Source reference: https://wiki.en.it-processmaps.com/index.php/Access_Management&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenIAM Access Manager - OpenIAM Access Management solution is based on a professional open source model. This is a robust, scalable solution built with Service Oriented Architecture. It integrates seamlessly with the OpenIAM Identity Manager product to provide a comprehensive solution that allows to take control of not only who can access the systems, but what they can do once they are in there. Corporate security policy is enforced across multiple points and managed centrally to improve effectiveness and reduce administrative costs.(http://www.openiam.com/products/access-manager/overview/)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Access Management Component ABB  is salient for technical interoperability because it provides the implementation the functionality of allowing user to make an authorized and trusted use of IT Services, data and other assets as stated in the EIF: &quot;Public administrations should ensure that a 'data access and authorisation plan’ which determines who has access to what data and under what conditions, to ensure privacy. Unauthorised access and security breaches should be monitored and appropriate actions should be taken to prevent any recurrence of breaches&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AccessManagementApplicationComponent&#xA;&#xA;ABB name: eira:AccessManagementApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AccessManagementApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AccessManagementApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:AccessManagementApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Access Management ABB is an Application Component implementing the process of granting rights to users and preventing the access to non-authorised users."/>
+  <properties
+      key="eira:definitionSource"
+      value="ITIL v3 "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://wiki.en.it-processmaps.com/index.php/Access_Management"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenIAM Access Manager - OpenIAM Access Management solution is based on a professional open source model. This is a robust, scalable solution built with Service Oriented Architecture. It integrates seamlessly with the OpenIAM Identity Manager product to provide a comprehensive solution that allows to take control of not only who can access the systems, but what they can do once they are in there. Corporate security policy is enforced across multiple points and managed centrally to improve effectiveness and reduce administrative costs.(http://www.openiam.com/products/access-manager/overview/)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Access Management Component ABB  is salient for technical interoperability because it provides the implementation the functionality of allowing user to make an authorized and trusted use of IT Services, data and other assets as stated in the EIF: &quot;Public administrations should ensure that a 'data access and authorisation plan’ which determines who has access to what data and under what conditions, to ensure privacy. Unauthorised access and security breaches should be monitored and appropriate actions should be taken to prevent any recurrence of breaches&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AccessManagementApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

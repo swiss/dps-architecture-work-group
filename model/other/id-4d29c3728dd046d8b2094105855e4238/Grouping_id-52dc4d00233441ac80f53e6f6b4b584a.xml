@@ -1,0 +1,41 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure Architect Concerns"
+    id="id-52dc4d00233441ac80f53e6f6b4b584a"
+    documentation="Definition: Infrastructure Architect Concerns ABB is a Grouping that covers the key areas of focus for an infrastructure architect in the context of an eGovERA model. It includes the technical view of infrastructure and application, which are essential for understanding and assessing the model.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Infrastructure Architect Concerns ABB grouping is designed to help infrastructure architects navigate the eGovERA model. It includes two main elements: the technical view of infrastructure and the technical view of application. The technical view of infrastructure element covers the physical and technical aspects of the model, including hardware, networks, and other physical resources. The technical view of application element, on the other hand, focuses on the software and application aspects of the model. Both elements are crucial for infrastructure architects to understand and assess the model, and to understand how their role interacts with other roles in the model.&#xA;&#xA;Example: An example of this might be an infrastructure architect assessing the network requirements of the eGovERA model, including bandwidth, latency, and redundancy needs.&#xA;An example of this might be an infrastructure architect evaluating the software requirements of the eGovERA model, including operating systems, databases, and application servers.&#xA;&#xA;LOST view: [A] How to read the model&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/InfrastructureArchitectConcernsGrouping&#xA;&#xA;ABB name: egovera:InfrastructureArchitectConcernsGrouping&#xA;&#xA;EIRA concept: eira:None&#xA;&#xA;Last modification: 2023-11-19&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/InfrastructureArchitectConcernsGrouping&#xA;&#xA;Name: Infrastructure Architect Concerns Catalogue&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/InfrastructureArchitectConcernsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-19"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/InfrastructureArchitectConcernsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Infrastructure Architect Concerns Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:InfrastructureArchitectConcernsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Infrastructure Architect Concerns ABB is a Grouping that covers the key areas of focus for an infrastructure architect in the context of an eGovERA model. It includes the technical view of infrastructure and application, which are essential for understanding and assessing the model."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of this might be an infrastructure architect assessing the network requirements of the eGovERA model, including bandwidth, latency, and redundancy needs.&#xA;An example of this might be an infrastructure architect evaluating the software requirements of the eGovERA model, including operating systems, databases, and application servers."/>
+  <properties
+      key="skos:note"
+      value="The Infrastructure Architect Concerns ABB grouping is designed to help infrastructure architects navigate the eGovERA model. It includes two main elements: the technical view of infrastructure and the technical view of application. The technical view of infrastructure element covers the physical and technical aspects of the model, including hardware, networks, and other physical resources. The technical view of application element, on the other hand, focuses on the software and application aspects of the model. Both elements are crucial for infrastructure architects to understand and assess the model, and to understand how their role interacts with other roles in the model."/>
+  <properties
+      key="eira:concept"
+      value="eira:None"/>
+  <properties
+      key="eira:view"
+      value="[A] How to read the model"/>
+</archimate:Grouping>

@@ -1,0 +1,90 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Availability"
+    id="d43d5a66-233c-4613-908b-cc2c6b7ea5f5"
+    documentation="Definition: Availability the use of a predefined object or space and of the future demand. &#xA;&#xA;Source: Cambridge Dictionary&#xA;&#xA;Source reference: https://dictionary.cambridge.org/dictionary/english/availability&#xA;&#xA;Additional information: Availability, as an element or component of information, refers to the characteristic of being accessible and usable when needed by authorized individuals or systems. It is a fundamental aspect of information security and plays a crucial role in ensuring the continuous and uninterrupted availability of information resources within the European IT context.&#xA;&#xA;In the European IT context, availability encompasses the ability of information systems, networks, applications, and data to remain operational and accessible to authorized users. It involves ensuring that the necessary infrastructure, hardware, software, and resources are in place to support the timely and reliable delivery of information services.&#xA;&#xA;The availability of information is essential for organizations operating within the European IT landscape as it directly impacts their ability to conduct business, deliver services, and maintain customer satisfaction. It encompasses both planned and unplanned downtime, as well as the ability to recover quickly from any disruptions or incidents that may occur.&#xA;&#xA;To achieve and maintain availability, organizations employ various measures and strategies, including redundancy, fault tolerance, disaster recovery planning, backup systems, and robust network infrastructure. These measures aim to minimize the risk of service interruptions, mitigate the impact of potential threats, and ensure the timely restoration of services in the event of a disruption.&#xA;&#xA;In the European IT context, availability is closely related to other elements of information security, such as confidentiality and integrity. While confidentiality focuses on protecting information from unauthorized access, and integrity ensures the accuracy and consistency of data, availability ensures that information is accessible and usable by authorized individuals or systems when needed.&#xA;&#xA;Organizations within the European IT context must consider various factors that can affect availability, including hardware and software failures, power outages, natural disasters, cyber-attacks, and human errors. They must implement appropriate controls, such as robust backup and recovery mechanisms, redundant systems, and effective incident response procedures, to mitigate these risks and maintain high levels of availability.&#xA;&#xA;Furthermore, compliance with relevant regulations and standards, such as the General Data Protection Regulation (GDPR) in Europe, is crucial to ensure the availability of information. Organizations must adhere to specific requirements and guidelines to protect personal data and prevent any unauthorized access or loss of availability.&#xA;&#xA;In summary, availability, as an element or component of information within the European IT context, refers to the ability of information systems, networks, applications, and data to remain accessible and usable by authorized individuals or systems. It is a critical aspect of information security, requiring organizations to implement appropriate measures and strategies to ensure continuous and uninterrupted access to information resources.&#xA;&#xA;Example: Availability, as an element or component of information, refers to the accessibility and usability of information or resources when needed. In the European IT context, there are several examples of how availability is applied to ensure the smooth functioning of information systems and services. These examples include:&#xA;&#xA;1. Redundancy and fault tolerance: European IT systems often employ redundant hardware, software, and network components to ensure high availability. For instance, data centers may have multiple servers running in parallel, so if one fails, the others can take over seamlessly, minimizing downtime and ensuring continuous availability of services.&#xA;&#xA;2. Load balancing: To distribute the workload evenly across multiple servers or resources, load balancing techniques are employed. This ensures that no single resource is overwhelmed, preventing service degradation or unavailability. Load balancing algorithms dynamically allocate incoming requests to available resources, optimizing performance and availability.&#xA;&#xA;3. Disaster recovery planning: European IT organizations prioritize disaster recovery planning to ensure availability in the face of unforeseen events such as natural disasters, cyber-attacks, or system failures. This involves creating backup systems, off-site data storage, and implementing recovery procedures to minimize downtime and quickly restore services.&#xA;&#xA;4. Service Level Agreements (SLAs): SLAs are contractual agreements between service providers and customers that define the expected level of availability and performance. In the European IT context, SLAs often include specific availability targets, such as a certain percentage of uptime, to ensure that services meet the required availability standards.&#xA;&#xA;5. Monitoring and proactive maintenance: European IT systems employ monitoring tools and techniques to continuously track the performance and availability of resources. This allows IT teams to identify potential issues or bottlenecks in real-time and take proactive measures to prevent service disruptions. Regular maintenance activities, such as patching, updating, and system checks, are also performed to ensure optimal availability.&#xA;&#xA;6. Scalability and elasticity: European IT systems are designed to scale and adapt to changing demands. By employing scalable architectures and cloud computing technologies, organizations can dynamically allocate resources based on demand, ensuring availability even during peak usage periods.&#xA;&#xA;Overall, availability is a critical aspect of information systems in the European IT context. By implementing redundancy, load balancing, disaster recovery planning, SLAs, monitoring, and scalability, organizations can ensure that information and services are readily accessible and usable, meeting the needs of users and stakeholders.&#xA;&#xA;LOST view: OV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/AvailabilityBusinessObject&#xA;&#xA;ABB name: egovera:AvailabilityBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/AvailabilityBusinessObject&#xA;&#xA;Name: Availability Information&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/InformationBusinessObject&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/AvailabilityBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/AvailabilityBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:AvailabilityBusinessObject"/>
+  <properties
+      key="dct:title"
+      value="Availability Information"/>
+  <properties
+      key="eira:definitionSource"
+      value="Cambridge Dictionary"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://dictionary.cambridge.org/dictionary/english/availability"/>
+  <properties
+      key="skos:example"
+      value="Availability, as an element or component of information, refers to the accessibility and usability of information or resources when needed. In the European IT context, there are several examples of how availability is applied to ensure the smooth functioning of information systems and services. These examples include:&#xA;&#xA;1. Redundancy and fault tolerance: European IT systems often employ redundant hardware, software, and network components to ensure high availability. For instance, data centers may have multiple servers running in parallel, so if one fails, the others can take over seamlessly, minimizing downtime and ensuring continuous availability of services.&#xA;&#xA;2. Load balancing: To distribute the workload evenly across multiple servers or resources, load balancing techniques are employed. This ensures that no single resource is overwhelmed, preventing service degradation or unavailability. Load balancing algorithms dynamically allocate incoming requests to available resources, optimizing performance and availability.&#xA;&#xA;3. Disaster recovery planning: European IT organizations prioritize disaster recovery planning to ensure availability in the face of unforeseen events such as natural disasters, cyber-attacks, or system failures. This involves creating backup systems, off-site data storage, and implementing recovery procedures to minimize downtime and quickly restore services.&#xA;&#xA;4. Service Level Agreements (SLAs): SLAs are contractual agreements between service providers and customers that define the expected level of availability and performance. In the European IT context, SLAs often include specific availability targets, such as a certain percentage of uptime, to ensure that services meet the required availability standards.&#xA;&#xA;5. Monitoring and proactive maintenance: European IT systems employ monitoring tools and techniques to continuously track the performance and availability of resources. This allows IT teams to identify potential issues or bottlenecks in real-time and take proactive measures to prevent service disruptions. Regular maintenance activities, such as patching, updating, and system checks, are also performed to ensure optimal availability.&#xA;&#xA;6. Scalability and elasticity: European IT systems are designed to scale and adapt to changing demands. By employing scalable architectures and cloud computing technologies, organizations can dynamically allocate resources based on demand, ensuring availability even during peak usage periods.&#xA;&#xA;Overall, availability is a critical aspect of information systems in the European IT context. By implementing redundancy, load balancing, disaster recovery planning, SLAs, monitoring, and scalability, organizations can ensure that information and services are readily accessible and usable, meeting the needs of users and stakeholders."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:note"
+      value="Availability, as an element or component of information, refers to the characteristic of being accessible and usable when needed by authorized individuals or systems. It is a fundamental aspect of information security and plays a crucial role in ensuring the continuous and uninterrupted availability of information resources within the European IT context.&#xA;&#xA;In the European IT context, availability encompasses the ability of information systems, networks, applications, and data to remain operational and accessible to authorized users. It involves ensuring that the necessary infrastructure, hardware, software, and resources are in place to support the timely and reliable delivery of information services.&#xA;&#xA;The availability of information is essential for organizations operating within the European IT landscape as it directly impacts their ability to conduct business, deliver services, and maintain customer satisfaction. It encompasses both planned and unplanned downtime, as well as the ability to recover quickly from any disruptions or incidents that may occur.&#xA;&#xA;To achieve and maintain availability, organizations employ various measures and strategies, including redundancy, fault tolerance, disaster recovery planning, backup systems, and robust network infrastructure. These measures aim to minimize the risk of service interruptions, mitigate the impact of potential threats, and ensure the timely restoration of services in the event of a disruption.&#xA;&#xA;In the European IT context, availability is closely related to other elements of information security, such as confidentiality and integrity. While confidentiality focuses on protecting information from unauthorized access, and integrity ensures the accuracy and consistency of data, availability ensures that information is accessible and usable by authorized individuals or systems when needed.&#xA;&#xA;Organizations within the European IT context must consider various factors that can affect availability, including hardware and software failures, power outages, natural disasters, cyber-attacks, and human errors. They must implement appropriate controls, such as robust backup and recovery mechanisms, redundant systems, and effective incident response procedures, to mitigate these risks and maintain high levels of availability.&#xA;&#xA;Furthermore, compliance with relevant regulations and standards, such as the General Data Protection Regulation (GDPR) in Europe, is crucial to ensure the availability of information. Organizations must adhere to specific requirements and guidelines to protect personal data and prevent any unauthorized access or loss of availability.&#xA;&#xA;In summary, availability, as an element or component of information within the European IT context, refers to the ability of information systems, networks, applications, and data to remain accessible and usable by authorized individuals or systems. It is a critical aspect of information security, requiring organizations to implement appropriate measures and strategies to ensure continuous and uninterrupted access to information resources."/>
+  <properties
+      key="skos:definition"
+      value="Availability the use of a predefined object or space and of the future demand. "/>
+  <properties
+      key="eira:view"
+      value="OV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Organisational view [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic Metadata"/>
+  <properties
+      key="eira:view"
+      value="SV-Data Mapping Catalogue"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic High Value Dataset"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Ontologies"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Vocabularies"/>
+  <properties
+      key="eira:view"
+      value="SV-Metadata Catalogue"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Ontology Catalogue"/>
+  <properties
+      key="eira:view"
+      value="SV-Datasets Catalogue Solutions"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic Syntax Mapping"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Data Policies and Contracts- Data Space"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/InformationBusinessObject"/>
+</archimate:BusinessObject>

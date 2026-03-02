@@ -1,0 +1,41 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infrastructure Architect Data Spaces Concerns"
+    id="id-98eabbb4de724669998c3f06e52c59ce"
+    documentation="Definition: Infrastructure Architect Data Spaces Concerns ABB is a Grouping that covers the processes an infrastructure architect should follow, and the relation/influence of process related with other roles' processes, to read/assess/understand an eGovERA model in order to understand/develop a Data Spaces solution/architecture. This includes the technical view of both infrastructure and application.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Infrastructure Architect Data Spaces Concerns ABB is a comprehensive catalogue that includes the technical view of infrastructure and application. It is designed to guide infrastructure architects in understanding and developing a Data Spaces solution or architecture. The catalogue provides a structured approach to understanding the eGovERA model, which is crucial in the development of Data Spaces solutions. It also highlights the interplay between the processes of the infrastructure architect and those of other roles, fostering a more integrated and holistic approach to solution development.&#xA;&#xA;Example: For instance, the 'Technical view - infrastructure' element in the catalogue could guide an infrastructure architect in understanding the underlying infrastructure requirements of a Data Spaces solution. This could involve assessing the current state of the infrastructure, identifying gaps, and developing strategies to bridge these gaps. On the other hand, the 'Technical view - application' element could guide the architect in understanding the application requirements of the solution, including the necessary software and interfaces.&#xA;&#xA;LOST view: [A] How to read the model&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/InfrastructureArchitectDataSpacesConcernsGrouping&#xA;&#xA;ABB name: egovera:InfrastructureArchitectDataSpacesConcernsGrouping&#xA;&#xA;EIRA concept: eira:None&#xA;&#xA;Last modification: 2023-11-19&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/InfrastructureArchitectDataSpacesConcernsGrouping&#xA;&#xA;Name: Infrastructure Architect Data Spaces Concerns Catalogue&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/InfrastructureArchitectDataSpacesConcernsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-19"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/InfrastructureArchitectDataSpacesConcernsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Infrastructure Architect Data Spaces Concerns Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:InfrastructureArchitectDataSpacesConcernsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Infrastructure Architect Data Spaces Concerns ABB is a Grouping that covers the processes an infrastructure architect should follow, and the relation/influence of process related with other roles' processes, to read/assess/understand an eGovERA model in order to understand/develop a Data Spaces solution/architecture. This includes the technical view of both infrastructure and application."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, the 'Technical view - infrastructure' element in the catalogue could guide an infrastructure architect in understanding the underlying infrastructure requirements of a Data Spaces solution. This could involve assessing the current state of the infrastructure, identifying gaps, and developing strategies to bridge these gaps. On the other hand, the 'Technical view - application' element could guide the architect in understanding the application requirements of the solution, including the necessary software and interfaces."/>
+  <properties
+      key="skos:note"
+      value="The Infrastructure Architect Data Spaces Concerns ABB is a comprehensive catalogue that includes the technical view of infrastructure and application. It is designed to guide infrastructure architects in understanding and developing a Data Spaces solution or architecture. The catalogue provides a structured approach to understanding the eGovERA model, which is crucial in the development of Data Spaces solutions. It also highlights the interplay between the processes of the infrastructure architect and those of other roles, fostering a more integrated and holistic approach to solution development."/>
+  <properties
+      key="eira:concept"
+      value="eira:None"/>
+  <properties
+      key="eira:view"
+      value="[A] How to read the model"/>
+</archimate:Grouping>

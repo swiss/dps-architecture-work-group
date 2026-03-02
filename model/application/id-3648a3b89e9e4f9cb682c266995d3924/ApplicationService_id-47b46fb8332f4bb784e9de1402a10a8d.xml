@@ -1,0 +1,70 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataspace"
+    id="id-47b46fb8332f4bb784e9de1402a10a8d"
+    documentation="Definition: Data space ABB is an Application Service as the virtual space that enables the creation of a single market for data by integrating, transforming and making available such data.  &#xA;&#xA;Source: European Comision-Data Act&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/strategy-data&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Mobility Data Space, The Mobility Data Space goes back to a resolution of the Concerted Action Mobility (KAM) of Germany's Federal Government from November 2019. More than 200 German mobility stakeholders from the science, industry and public administration sectors worked on the concept. acatech - the National Academy of Science and Engineering steered and coordinated the process. https://mobility-dataspace.eu/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: TVA-Data Space Enablers [Motivation]&#xA;&#xA;Interoperability Saliency: The Dataspace Application Service ABB is salient for technical interoperability because it appears as a single space where different stakeholders can integrate, transform and make information available for interested parties to reuse. Interested parties can be individuals, components or services consuming or providing data to that single space. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataspaceApplicationService&#xA;&#xA;ABB name: eira:DataspaceApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataspaceApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataspaceApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:DataspaceApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data space ABB is an Application Service as the virtual space that enables the creation of a single market for data by integrating, transforming and making available such data.  "/>
+  <properties
+      key="eira:definitionSource"
+      value="European Comision-Data Act"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/strategy-data"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Mobility Data Space, The Mobility Data Space goes back to a resolution of the Concerted Action Mobility (KAM) of Germany's Federal Government from November 2019. More than 200 German mobility stakeholders from the science, industry and public administration sectors worked on the concept. acatech - the National Academy of Science and Engineering steered and coordinated the process. https://mobility-dataspace.eu/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Dataspace Application Service ABB is salient for technical interoperability because it appears as a single space where different stakeholders can integrate, transform and make information available for interested parties to reuse. Interested parties can be individuals, components or services consuming or providing data to that single space. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataspaceApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Data Space Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVA-Dataspace Enablers"/>
+  <properties
+      key="eira:view"
+      value="TVI-Management Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Data Management and Knowledge Discovery Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Trust Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Application Integration Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

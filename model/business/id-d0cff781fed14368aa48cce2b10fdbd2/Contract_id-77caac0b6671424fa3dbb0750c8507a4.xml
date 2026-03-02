@@ -1,0 +1,48 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement on Provision of Digital Public Services"
+    id="id-77caac0b6671424fa3dbb0750c8507a4"
+    documentation="Definition: Agreement on Provision of Digital Public Services ABB is a Contract formalizing governance rules and conditions for the functioning of digital public services when delivering the service.&#xA;&#xA;Source: Inspired in the works by ISA2, and the EIF-related works &#xA;&#xA;Source reference: https://ec.europa.eu/isa2/isa2_en&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Digital Services Act: Commission welcomes political agreement on rules ensuring a safe and accountable online environment https://ec.europa.eu/commission/presscorner/detail/en/ip_22_2545&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Interoperability Saliency: The Agreement on Provision of Digital Public Services ABB is salient for governance and behavioural interoperability because it (i) specifies concrete and binding rules and service conditions which set out the expected obligations and functionality of a digital public service that has to provide content to other consumer services, and (ii) defines the digital business capabilities and functionality expected by those services that will consume the content.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgreementOnProvisionOfDigitalPublicServicesContract&#xA;&#xA;ABB name: eira:AgreementOnProvisionOfDigitalPublicServicesContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgreementOnProvisionOfDigitalPublicServicesContract&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AgreementOnProvisionOfDigitalPublicServicesContract"/>
+  <properties
+      key="dct:type"
+      value="eira:AgreementOnProvisionOfDigitalPublicServicesContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Agreement on Provision of Digital Public Services ABB is a Contract formalizing governance rules and conditions for the functioning of digital public services when delivering the service."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the works by ISA2, and the EIF-related works "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/isa2_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Digital Services Act: Commission welcomes political agreement on rules ensuring a safe and accountable online environment https://ec.europa.eu/commission/presscorner/detail/en/ip_22_2545"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Agreement on Provision of Digital Public Services ABB is salient for governance and behavioural interoperability because it (i) specifies concrete and binding rules and service conditions which set out the expected obligations and functionality of a digital public service that has to provide content to other consumer services, and (ii) defines the digital business capabilities and functionality expected by those services that will consume the content."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AgreementOnProvisionOfDigitalPublicServicesContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Contract>

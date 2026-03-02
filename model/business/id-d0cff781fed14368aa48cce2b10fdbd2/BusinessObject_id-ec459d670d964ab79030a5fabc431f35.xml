@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legislation on Digital Public Services"
+    id="id-ec459d670d964ab79030a5fabc431f35"
+    documentation="Definition: Legislation on Digital Public Services ABB is a Business formalising a set of rules and requirements concerning digital public services.&#xA;&#xA;Source: Inspired on the content of the Digital Services Act package&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The binding and non-binding legislation produced towards the Digital Single Market. https://www.consilium.europa.eu/en/policies/digital-single-market/), and any of the national efforts towards the alignment to the European Digital Strategy (e.g., DigitalES in Europe (https://www.digitales.es/en/digitales-in-europe/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Interoperability Saliency: The Legislation on Digital Public Services ABB is salient for the governance, behavioural and structural interoperability because it sets rules that relate specifically to i) the reuse of solutions in the context of digital public services, ii) the exchange of digital data, information and knowledge, and iii) the collaboration amongst the public administrations' digital services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegislationOnDigitalPublicServicesBusinessObject&#xA;&#xA;ABB name: eira:LegislationOnDigitalPublicServicesBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegislationOnDigitalPublicServicesBusinessObject&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LegislationOnDigitalPublicServicesBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:type"
+      value="eira:LegislationOnDigitalPublicServicesBusinessObject"/>
+  <properties
+      key="skos:definition"
+      value="Legislation on Digital Public Services ABB is a Business formalising a set of rules and requirements concerning digital public services."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired on the content of the Digital Services Act package"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The binding and non-binding legislation produced towards the Digital Single Market. https://www.consilium.europa.eu/en/policies/digital-single-market/), and any of the national efforts towards the alignment to the European Digital Strategy (e.g., DigitalES in Europe (https://www.digitales.es/en/digitales-in-europe/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Legislation on Digital Public Services ABB is salient for the governance, behavioural and structural interoperability because it sets rules that relate specifically to i) the reuse of solutions in the context of digital public services, ii) the exchange of digital data, information and knowledge, and iii) the collaboration amongst the public administrations' digital services."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LegislationOnDigitalPublicServicesBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:BusinessObject>

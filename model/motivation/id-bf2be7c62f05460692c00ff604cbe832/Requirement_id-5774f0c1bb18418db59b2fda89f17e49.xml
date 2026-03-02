@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Traffic pattern"
+    id="id-5774f0c1bb18418db59b2fda89f17e49"
+    documentation="Definition: Traffic pattern is an IT non-functional requirement that refers to the expected volume and frequency of user traffic on a system or application. It includes factors such as peak usage times, the number of concurrent users, and the expected growth rate of traffic over time. The traffic pattern requirement is critical in ensuring that the system can handle the expected load without experiencing performance issues such as slow response times or crashes. It also helps in determining the appropriate infrastructure and resources needed to support the system.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, the non-functional requirement 'Traffic pattern' refers to the expected behavior of the system under different levels of traffic. This requirement is concerned with the system's ability to handle varying levels of user activity, data volume, and transaction processing. &#xA;&#xA;The Traffic pattern non-functional requirement is important for ensuring that the system can perform optimally under different traffic conditions. This requirement should be defined in terms of the expected traffic patterns, such as peak usage times, expected user activity levels, and the expected volume of data transactions. &#xA;&#xA;To meet this requirement, the system should be designed to handle the expected traffic patterns efficiently. This may involve the use of load balancing techniques, caching mechanisms, and other performance optimization strategies. The system should also be able to scale up or down as needed to accommodate changes in traffic patterns.&#xA;&#xA;In addition, the Traffic pattern non-functional requirement should be tested to ensure that the system can perform as expected under different traffic conditions. This may involve load testing, stress testing, and other performance testing techniques to simulate different traffic scenarios and measure the system's response.&#xA;&#xA;Overall, the Traffic pattern non-functional requirement is critical for ensuring that the system can handle varying levels of traffic and perform optimally under different usage scenarios.&#xA;&#xA;Example: One example of an IT non-functional requirement for 'Traffic pattern' could be for a website or application that needs to handle a high volume of traffic during peak hours, such as during a major sale event or a product launch. The requirement could specify that the system must be able to handle a certain number of concurrent users without experiencing any significant slowdowns or crashes. Additionally, it may require that the system be able to scale up or down as needed to accommodate fluctuations in traffic patterns.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TrafficPatternRequirement&#xA;&#xA;ABB name: eira:TrafficPatternRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TrafficpatternRequirement&#xA;&#xA;Name: Traffic pattern Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/TrafficpatternRequirement"/>
+  <properties
+      key="dct:title"
+      value="Traffic pattern Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of an IT non-functional requirement for 'Traffic pattern' could be for a website or application that needs to handle a high volume of traffic during peak hours, such as during a major sale event or a product launch. The requirement could specify that the system must be able to handle a certain number of concurrent users without experiencing any significant slowdowns or crashes. Additionally, it may require that the system be able to scale up or down as needed to accommodate fluctuations in traffic patterns."/>
+  <properties
+      key="skos:definition"
+      value="Traffic pattern is an IT non-functional requirement that refers to the expected volume and frequency of user traffic on a system or application. It includes factors such as peak usage times, the number of concurrent users, and the expected growth rate of traffic over time. The traffic pattern requirement is critical in ensuring that the system can handle the expected load without experiencing performance issues such as slow response times or crashes. It also helps in determining the appropriate infrastructure and resources needed to support the system."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, the non-functional requirement 'Traffic pattern' refers to the expected behavior of the system under different levels of traffic. This requirement is concerned with the system's ability to handle varying levels of user activity, data volume, and transaction processing. &#xA;&#xA;The Traffic pattern non-functional requirement is important for ensuring that the system can perform optimally under different traffic conditions. This requirement should be defined in terms of the expected traffic patterns, such as peak usage times, expected user activity levels, and the expected volume of data transactions. &#xA;&#xA;To meet this requirement, the system should be designed to handle the expected traffic patterns efficiently. This may involve the use of load balancing techniques, caching mechanisms, and other performance optimization strategies. The system should also be able to scale up or down as needed to accommodate changes in traffic patterns.&#xA;&#xA;In addition, the Traffic pattern non-functional requirement should be tested to ensure that the system can perform as expected under different traffic conditions. This may involve load testing, stress testing, and other performance testing techniques to simulate different traffic scenarios and measure the system's response.&#xA;&#xA;Overall, the Traffic pattern non-functional requirement is critical for ensuring that the system can handle varying levels of traffic and perform optimally under different usage scenarios."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/TrafficPatternRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:TrafficPatternRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

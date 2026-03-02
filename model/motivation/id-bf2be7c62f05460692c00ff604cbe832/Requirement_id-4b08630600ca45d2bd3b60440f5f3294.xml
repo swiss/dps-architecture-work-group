@@ -1,0 +1,51 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution Requirement"
+    id="id-4b08630600ca45d2bd3b60440f5f3294"
+    documentation="Definition: A [Digital Solution Requirement] ABB refers to a specific need or condition that must be met or satisfied by a digital system or product to achieve its intended purpose effectively&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: EIRA Ontology viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionRequirementRequirement&#xA;&#xA;ABB name: eira:DigitalSolutionRequirementRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionRequirementRequirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionRequirementRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionRequirementRequirement"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionRequirementRequirement"/>
+  <properties
+      key="skos:definition"
+      value="A [Digital Solution Requirement] ABB refers to a specific need or condition that must be met or satisfied by a digital system or product to achieve its intended purpose effectively"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+</archimate:Requirement>

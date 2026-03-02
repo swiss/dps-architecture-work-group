@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrity"
+    id="id-6686d7733f6640498fe2c9865975cf29"
+    documentation="Definition: Integrity is an IT non-functional requirement that ensures the accuracy, consistency, and reliability of data throughout its lifecycle. It involves maintaining the correctness and completeness of data, preventing unauthorized access or modification, and ensuring that data is not lost or corrupted due to system failures or errors. Integrity is critical for ensuring the trustworthiness of data and maintaining the credibility of the system that uses it. It is often achieved through the use of data validation, error checking, access controls, and backup and recovery mechanisms.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Integrity is a non-functional requirement that refers to the accuracy, consistency, and reliability of data and information within a system. It ensures that the data is protected from unauthorized access, modification, or deletion, and that it remains consistent and reliable throughout its lifecycle.&#xA;&#xA;Integrity is an essential requirement for any system that deals with sensitive or critical data, such as financial transactions, personal information, or medical records. It ensures that the data is not compromised or corrupted, and that it can be trusted by the users and stakeholders.&#xA;&#xA;To achieve integrity, the system must have appropriate security measures in place, such as access controls, authentication, encryption, and auditing. It must also have mechanisms to detect and prevent data tampering, such as checksums, digital signatures, or version control.&#xA;&#xA;Integrity is closely related to other non-functional requirements, such as availability, reliability, and performance. A system that lacks integrity may also suffer from data loss, downtime, or poor performance, which can have severe consequences for the users and the organization.&#xA;&#xA;Overall, integrity is a critical non-functional requirement that ensures the trustworthiness and reliability of data and information within a system. It must be carefully considered and implemented to ensure the security and effectiveness of the system.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Integrity' is ensuring that data is not altered or modified during transmission or storage. This can be achieved through the use of encryption, checksums, and other security measures to prevent unauthorized access or tampering. Additionally, data backups and disaster recovery plans can help ensure that data remains intact and accessible in the event of a system failure or other disruption.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/IntegrityRequirement&#xA;&#xA;ABB name: eira:IntegrityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/IntegrityRequirement&#xA;&#xA;Name: Integrity Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/IntegrityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Integrity Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Integrity' is ensuring that data is not altered or modified during transmission or storage. This can be achieved through the use of encryption, checksums, and other security measures to prevent unauthorized access or tampering. Additionally, data backups and disaster recovery plans can help ensure that data remains intact and accessible in the event of a system failure or other disruption."/>
+  <properties
+      key="skos:definition"
+      value="Integrity is an IT non-functional requirement that ensures the accuracy, consistency, and reliability of data throughout its lifecycle. It involves maintaining the correctness and completeness of data, preventing unauthorized access or modification, and ensuring that data is not lost or corrupted due to system failures or errors. Integrity is critical for ensuring the trustworthiness of data and maintaining the credibility of the system that uses it. It is often achieved through the use of data validation, error checking, access controls, and backup and recovery mechanisms."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Integrity is a non-functional requirement that refers to the accuracy, consistency, and reliability of data and information within a system. It ensures that the data is protected from unauthorized access, modification, or deletion, and that it remains consistent and reliable throughout its lifecycle.&#xA;&#xA;Integrity is an essential requirement for any system that deals with sensitive or critical data, such as financial transactions, personal information, or medical records. It ensures that the data is not compromised or corrupted, and that it can be trusted by the users and stakeholders.&#xA;&#xA;To achieve integrity, the system must have appropriate security measures in place, such as access controls, authentication, encryption, and auditing. It must also have mechanisms to detect and prevent data tampering, such as checksums, digital signatures, or version control.&#xA;&#xA;Integrity is closely related to other non-functional requirements, such as availability, reliability, and performance. A system that lacks integrity may also suffer from data loss, downtime, or poor performance, which can have severe consequences for the users and the organization.&#xA;&#xA;Overall, integrity is a critical non-functional requirement that ensures the trustworthiness and reliability of data and information within a system. It must be carefully considered and implemented to ensure the security and effectiveness of the system."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/IntegrityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:IntegrityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

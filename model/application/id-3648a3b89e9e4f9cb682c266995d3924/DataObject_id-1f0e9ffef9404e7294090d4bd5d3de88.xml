@@ -1,0 +1,52 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virtual Dataset"
+    id="id-1f0e9ffef9404e7294090d4bd5d3de88"
+    documentation="Definition: Virtual Dataset ABB is a Data Object that enables a dynamic and logical representation of data that aggregates, integrates, or transforms data from multiple sources into a single view&#xA;&#xA;Source: H5PY &#xA;&#xA;Source reference: https://docs.h5py.org/en/stable/vds.html&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Virtual Datasets (VDS) is an example of a distribution for the creation of virtual datasets. https://docs.h5py.org/en/stable/vds.html&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Virtual Dataset Data Object ABB is salient for semantic interoperability due to its position on and capability for transforming data from different and multiple channels to a single view allowing and increasing the reuse and shareability of data across organisations and digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/VirtualDatasetDataObject&#xA;&#xA;ABB name: eira:VirtualDatasetDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/VirtualDatasetDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/VirtualDatasetDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:VirtualDatasetDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Virtual Dataset ABB is a Data Object that enables a dynamic and logical representation of data that aggregates, integrates, or transforms data from multiple sources into a single view"/>
+  <properties
+      key="eira:definitionSource"
+      value="H5PY "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://docs.h5py.org/en/stable/vds.html"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Virtual Datasets (VDS) is an example of a distribution for the creation of virtual datasets. https://docs.h5py.org/en/stable/vds.html"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Virtual Dataset Data Object ABB is salient for semantic interoperability due to its position on and capability for transforming data from different and multiple channels to a single view allowing and increasing the reuse and shareability of data across organisations and digital public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/VirtualDatasetDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

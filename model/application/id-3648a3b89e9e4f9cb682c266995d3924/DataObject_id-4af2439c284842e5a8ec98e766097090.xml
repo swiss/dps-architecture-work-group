@@ -1,0 +1,48 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Official Portal for European Data"
+    id="id-4af2439c284842e5a8ec98e766097090"
+    documentation="Description: The portal is a central point of access to European open data from international, European Union, national, regional, local and geodata portals.&#xA;&#xA;Publisher: The Publications Office of the European Union&#xA;&#xA;Source: https://data.europa.eu/en&#xA;&#xA;LOST view: SV-Metadata Catalogue&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/OfficialPortalForEuropeanDataDataObject&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/OfficialPortalForEuropeanDataDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataSetCatalogueDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="The Publications Office of the European Union"/>
+  <properties
+      key="dct:description"
+      value="The portal is a central point of access to European open data from international, European Union, national, regional, local and geodata portals."/>
+  <properties
+      key="dct:source"
+      value="https://data.europa.eu/en"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/OfficialPortalForEuropeanDataDataObject"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/OfficialPortalForEuropeanDataDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Metadata Catalogue"/>
+  <properties
+      key="eira:view"
+      value="SV-Datasets Catalogue Solutions"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataSetCatalogueDataObject"/>
+</archimate:DataObject>

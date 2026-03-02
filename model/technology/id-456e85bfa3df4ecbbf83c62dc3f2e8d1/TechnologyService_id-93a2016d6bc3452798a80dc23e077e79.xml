@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lightweight Directory Access Protocol"
+    id="id-93a2016d6bc3452798a80dc23e077e79"
+    documentation="Definition: Lightweight Directory Access ABB is a Technology Service that enables compliance with an open, vendor-neutral, industry-standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol (IP) network.&#xA;&#xA;Source: CAMSS&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Lightweight Directory Access Protocol can be implemented in multiple platforms or systems, allowing to integrating an organisatio'n LDAP-enabled identity management service to other platforms such as Drupal. https://www.drupal.org/docs/contributed-modules/lightweight-directory-access-protocol-ldap&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Lightweight Directory Access ABB is salient for technical and semantic interoperability because it provides the needed software mechanism and the LDAP data exchange model to manage user authentication, user provisioning and access to public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LightweightDirectoryAccessProtocolTechnologyService&#xA;&#xA;ABB name: eira:LightweightDirectoryAccessProtocolTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LightweightDirectoryAccessProtocolTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LightweightDirectoryAccessProtocolTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:LightweightDirectoryAccessProtocolTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Lightweight Directory Access ABB is a Technology Service that enables compliance with an open, vendor-neutral, industry-standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol (IP) network."/>
+  <properties
+      key="eira:definitionSource"
+      value="CAMSS"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Lightweight Directory Access Protocol can be implemented in multiple platforms or systems, allowing to integrating an organisatio'n LDAP-enabled identity management service to other platforms such as Drupal. https://www.drupal.org/docs/contributed-modules/lightweight-directory-access-protocol-ldap"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Lightweight Directory Access ABB is salient for technical and semantic interoperability because it provides the needed software mechanism and the LDAP data exchange model to manage user authentication, user provisioning and access to public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LightweightDirectoryAccessProtocolTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

@@ -1,0 +1,49 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agenda Management"
+    id="id-8541f7e6ff004b67ba3671c5f174e61c"
+    documentation="Definition: Agenda Management Service ABB is an Application Service that enables the procedures to create, distribute and manage events and meetings for public administration and services&#xA;&#xA;Source: Inspired in Public Works and Goverment Services Canada&#xA;&#xA;Source reference: https://buyandsell.gc.ca/cds/public/2016/11/23/c7b27e0ac41ad50ffae2f12b0a837875/ABES.PROD.PW_PWZ.B014.E10051.ATTA001.PDF&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Innovation Public Procurement Broker (IPPB). https://ec.europa.eu/futurium/en/system/files/ged/action_7_innovation_public_procurement_broker_guideline.pdf&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Agenda Management Application Service ABB is salient for technical interoperability because it allows managing and orchestrating different events physical and digital ones within a determined workflow according to the delivery model of each digital public service. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgendaManagementApplicationService&#xA;&#xA;ABB name: eira:AgendaManagementApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgendaManagementApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AgendaManagementApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:AgendaManagementApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Agenda Management Service ABB is an Application Service that enables the procedures to create, distribute and manage events and meetings for public administration and services"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Public Works and Goverment Services Canada"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://buyandsell.gc.ca/cds/public/2016/11/23/c7b27e0ac41ad50ffae2f12b0a837875/ABES.PROD.PW_PWZ.B014.E10051.ATTA001.PDF"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Innovation Public Procurement Broker (IPPB). https://ec.europa.eu/futurium/en/system/files/ged/action_7_innovation_public_procurement_broker_guideline.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Agenda Management Application Service ABB is salient for technical interoperability because it allows managing and orchestrating different events physical and digital ones within a determined workflow according to the delivery model of each digital public service. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AgendaManagementApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

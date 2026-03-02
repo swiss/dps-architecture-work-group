@@ -1,0 +1,60 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Policy Constraint"
+    id="id-3f5377de916848fdb1670b9f79331035"
+    documentation="Definition: Public Policy Constraint ABB is a Constraint that imposes one or more restrictions on the way the Public Policy operates or may be realized.&#xA;&#xA;Source: Based on policy-making literature (e.g., Theory of Policy Constraint: https://www.synchronix.com/toc_exploit_subordinate_elevate.htm) as well as the definition of what a constraint is according to Archimate language.&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/archimate3-doc/chap06.html&#xA;&#xA;Synonym: Public Policy Restriction&#xA;&#xA;Additional information: Cfr. https://ec.europa.eu/commission/presscorner/detail/en/ip_22_4503 for more information on the Path to the Digital Decade.&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Transparency: EIF Transparency Principle refers to: 1. Enabling visibility inside the administrative environment of a public administration. This is about allowing other public administrations, citizens and businesses to view and understand administrative rules, processes, data, services and decision-making.  2. Ensuring availability of interfaces with internal information systems. Public administrations operate a large number of what are often heterogeneous and disparate information systems in support of their internal processes. Interoperability depends on ensuring the availability of interfaces to these systems and the data they handle. In turn, interoperability facilitates reuse of systems and data, and enables these to be integrated into larger systems. 3. Securing the right to the protection of personal data, by respecting the applicable legal framework for the large volumes of personal data of citizens, held and managed by Public administrations.(https://ec.europa.eu/isa2/sites/default/files/eif_brochure_final.pdf)&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Public Policy Constraint ABB is salient for the governance interoperability because it imposes conditions on the implementation of the system (e.g., specific technology that is to be used), a restriction on the implementation process (e.g., time or budget constraints), or a restriction on the functioning of the system (e.g., legal constraints).&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicPolicyConstraintConstraint&#xA;&#xA;ABB name: eira:PublicPolicyConstraintConstraint&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicPolicyConstraintConstraint&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PublicPolicyConstraintConstraint"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicPolicyConstraintConstraint"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value="Public Policy Restriction"/>
+  <properties
+      key="skos:definition"
+      value="Public Policy Constraint ABB is a Constraint that imposes one or more restrictions on the way the Public Policy operates or may be realized."/>
+  <properties
+      key="eira:definitionSource"
+      value="Based on policy-making literature (e.g., Theory of Policy Constraint: https://www.synchronix.com/toc_exploit_subordinate_elevate.htm) as well as the definition of what a constraint is according to Archimate language."/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/archimate3-doc/chap06.html"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Transparency: EIF Transparency Principle refers to: 1. Enabling visibility inside the administrative environment of a public administration. This is about allowing other public administrations, citizens and businesses to view and understand administrative rules, processes, data, services and decision-making.  2. Ensuring availability of interfaces with internal information systems. Public administrations operate a large number of what are often heterogeneous and disparate information systems in support of their internal processes. Interoperability depends on ensuring the availability of interfaces to these systems and the data they handle. In turn, interoperability facilitates reuse of systems and data, and enables these to be integrated into larger systems. 3. Securing the right to the protection of personal data, by respecting the applicable legal framework for the large volumes of personal data of citizens, held and managed by Public administrations.(https://ec.europa.eu/isa2/sites/default/files/eif_brochure_final.pdf)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Public Policy Constraint ABB is salient for the governance interoperability because it imposes conditions on the implementation of the system (e.g., specific technology that is to be used), a restriction on the implementation process (e.g., time or budget constraints), or a restriction on the functioning of the system (e.g., legal constraints)."/>
+  <properties
+      key="skos:note"
+      value="Cfr. https://ec.europa.eu/commission/presscorner/detail/en/ip_22_4503 for more information on the Path to the Digital Decade."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PublicPolicyConstraintConstraint"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Constraint>

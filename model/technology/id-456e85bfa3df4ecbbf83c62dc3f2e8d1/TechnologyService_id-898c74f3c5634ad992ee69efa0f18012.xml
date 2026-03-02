@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PaaS"
+    id="id-898c74f3c5634ad992ee69efa0f18012"
+    documentation="Definition: PaaS ABB is a Technology Service that enables the procedures for delivering application infrastructure (middleware) capabilities as a service. There are multiple types of PaaS (xPaaS), including, among many more, application platform as a service (aPaaS), integration PaaS (iPaaS), API management PaaS (apimPaaS), function PaaS (fPaaS), business analytics PaaS (baPaaS), IoT PaaS and database PaaS (dbPaaS). PaaS capability can be delivered as provider-managed or self-managed, multitenant or dedicated.&#xA;&#xA;Source: Gartner &#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/platform-as-a-service-paas&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenSHIFT is a secure and an enterprise-grade cloud-based container orchestration system with Kubernetes at the backend. It can be used both as a Red Hat Container Orchestration Engine and Platform-as-a-Service (PaaS). https://github.com/openshift/origin&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The PaaS ABB is salient for technical interoperability because it provides the mechanism to deploy and publish public administration services and make them accessible through the provided remote infrastructure. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/PaaSTechnologyService&#xA;&#xA;ABB name: eira:PaaSTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PaaSTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PaaSTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:PaaSTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="PaaS ABB is a Technology Service that enables the procedures for delivering application infrastructure (middleware) capabilities as a service. There are multiple types of PaaS (xPaaS), including, among many more, application platform as a service (aPaaS), integration PaaS (iPaaS), API management PaaS (apimPaaS), function PaaS (fPaaS), business analytics PaaS (baPaaS), IoT PaaS and database PaaS (dbPaaS). PaaS capability can be delivered as provider-managed or self-managed, multitenant or dedicated."/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/platform-as-a-service-paas"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenSHIFT is a secure and an enterprise-grade cloud-based container orchestration system with Kubernetes at the backend. It can be used both as a Red Hat Container Orchestration Engine and Platform-as-a-Service (PaaS). https://github.com/openshift/origin"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The PaaS ABB is salient for technical interoperability because it provides the mechanism to deploy and publish public administration services and make them accessible through the provided remote infrastructure. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PaaSTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

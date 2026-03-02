@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workflow Orchestration Infrastructure Enablers"
+    id="id-237ad354d33f437589d75c66979fc774"
+    documentation="Definition: Workflow Orchestration Infrastructure Enablers ABB is a Grouping that refers to components and services that enable the coordination and automation of components through workflows across multiple systems, applications, and organizations.&#xA;&#xA;Source: Inspired in Redhat&#xA;&#xA;Source reference: https://www.redhat.com/en/topics/automation/what-is-orchestration&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): UNDP- Business Process Re-engineering Manual. https://www.undp.org/sites/g/files/zskgke326/files/migration/uz/BPR-Manual_designed---Eng---final.pdf&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Process Orchestration Infrastructure Enablers ABB is salient for organizational interoperability because it implements and defines the rules to manage different public administration services and matchmake the processes to provide effective responses to the public administration consumers.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/WorkflowOrchestrationInfrastructureEnablersGrouping&#xA;&#xA;ABB name: eira:WorkflowOrchestrationInfrastructureEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/WorkflowOrchestrationInfrastructureEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/WorkflowOrchestrationInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:WorkflowOrchestrationInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Workflow Orchestration Infrastructure Enablers ABB is a Grouping that refers to components and services that enable the coordination and automation of components through workflows across multiple systems, applications, and organizations."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Redhat"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.redhat.com/en/topics/automation/what-is-orchestration"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): UNDP- Business Process Re-engineering Manual. https://www.undp.org/sites/g/files/zskgke326/files/migration/uz/BPR-Manual_designed---Eng---final.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Process Orchestration Infrastructure Enablers ABB is salient for organizational interoperability because it implements and defines the rules to manage different public administration services and matchmake the processes to provide effective responses to the public administration consumers."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/WorkflowOrchestrationInfrastructureEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

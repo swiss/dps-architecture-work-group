@@ -1,0 +1,49 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agent"
+    id="id-bd9007bf7fcd4d5f9da48526779ca6db"
+    documentation="Definition: Agent ABB is a Business Role defined as an Entity that is able to carry out action.&#xA;&#xA;Source: SEMIC-CPV or SEMIC-CCCEV&#xA;&#xA;Source reference: https://semiceu.github.io/Core-Person-Vocabulary/releases/2.00/#Agent&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): foaf:Agent An agent (eg. person, group, software or physical artifact). (http://xmlns.com/foaf/0.1/#term_Agent)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Interoperability Saliency: The Agent ABB is salient for organizational and behavioural interoperability because it permits the identification of procedures and business rules related to specific organizations, individuals or public services that facilitates the exchange of data, information and knowledge between digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgentBusinessRole&#xA;&#xA;ABB name: eira:AgentBusinessRole&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgentBusinessRole&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AgentBusinessRole"/>
+  <properties
+      key="dct:type"
+      value="eira:AgentBusinessRole"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Agent ABB is a Business Role defined as an Entity that is able to carry out action."/>
+  <properties
+      key="eira:definitionSource"
+      value="SEMIC-CPV or SEMIC-CCCEV"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://semiceu.github.io/Core-Person-Vocabulary/releases/2.00/#Agent"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): foaf:Agent An agent (eg. person, group, software or physical artifact). (http://xmlns.com/foaf/0.1/#term_Agent)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Agent ABB is salient for organizational and behavioural interoperability because it permits the identification of procedures and business rules related to specific organizations, individuals or public services that facilitates the exchange of data, information and knowledge between digital public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AgentBusinessRole"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessRole>

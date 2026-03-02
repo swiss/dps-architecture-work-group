@@ -1,0 +1,54 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy"
+    id="id-56e0d4768c73478dafb1413f59bd8e5f"
+    documentation="Definition: Signifies the agreement to the processing of personal data related to an individual&#xA;&#xA;Source: https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/2-underlying-principles-european-public-services#2.4&#xA;&#xA;Additional information: Privacy refers to any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by clear affirmative action, signifies agreement to the processing of personal data relating to him or her. &#xA;&#xA;Additionally, it refers to ensuring that the vast amounts of citizens' personal data held and processed by public bodies are protected by complying with the applicable legal framework.&#xA;&#xA;A relevant aspect to consider when focusing on the application of privacy is full compliance with GDPR Regulation. &#xA;The European Interoperability Framework is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services.&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/privacy&#xA;&#xA;ABB name: elap:privacy&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Privacy&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:privacy"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="skos:note"
+      value="Privacy refers to any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by clear affirmative action, signifies agreement to the processing of personal data relating to him or her. &#xA;&#xA;Additionally, it refers to ensuring that the vast amounts of citizens' personal data held and processed by public bodies are protected by complying with the applicable legal framework.&#xA;&#xA;A relevant aspect to consider when focusing on the application of privacy is full compliance with GDPR Regulation. &#xA;The European Interoperability Framework is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services."/>
+  <properties
+      key="dct:title"
+      value="Privacy"/>
+  <properties
+      key="skos:definition"
+      value="Signifies the agreement to the processing of personal data related to an individual"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/privacy"/>
+  <properties
+      key="eira:definitionSource"
+      value="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/2-underlying-principles-european-public-services#2.4"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="OV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="OV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="SV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

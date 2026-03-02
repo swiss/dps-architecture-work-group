@@ -1,0 +1,42 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Feedback form"
+    id="id-eed2189b893a448394c80c647e10fa3a"
+    documentation="Definition: The Feedback Form is instrumental in acquiring opinions or responses from customers or users. It usually contains questions or prompts that invite comments on services, products, or experiences. This form can include rating scales, open-ended questions, or specific feedback areas. It's vital for businesses seeking to improve their services or products, understand customer satisfaction, and engage with their audience in a meaningful way.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: SV-Forms Structure&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/FeedbackFormDataObject&#xA;&#xA;ABB name: egovera:FeedbackFormDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/FeedbackFormDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/FormsStructureDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/FeedbackFormDataObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:FeedbackFormDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Forms Structure"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/FeedbackFormDataObject"/>
+  <properties
+      key="skos:definition"
+      value="The Feedback Form is instrumental in acquiring opinions or responses from customers or users. It usually contains questions or prompts that invite comments on services, products, or experiences. This form can include rating scales, open-ended questions, or specific feedback areas. It's vital for businesses seeking to improve their services or products, understand customer satisfaction, and engage with their audience in a meaningful way."/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/FormsStructureDataObject"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:DataObject>

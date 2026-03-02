@@ -1,0 +1,47 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Non-binding Instrument"
+    id="id-20f1b5bbaed3432a86afcb993e4c3334"
+    documentation="Definition: Non-binding Instrument ABB is a Business Object, involving no obligation, which are available to the European institutions to carry out their tasks.&#xA;&#xA;Source: EUR-Lex &#xA;&#xA;Source reference: http://ec.europa.eu/eurostat/data/data-validation&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Opinion of the European Economic and Social Committee on Next Generation SME Strategy — Enhancing Effective and Swift Delivery (own-initiative opinion). https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021IE3668&amp;qid=1664779252884&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Interoperability Saliency: The Non-binding Instrument ABB is a key salient for the legal and governance interoperability enabler as a specialisation of the Legal Act, it makes the recommendation of implementation of the policies and rules.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/Non-bindingInstrumentRequirement&#xA;&#xA;ABB name: eira:Non-bindingInstrumentRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/Non-bindingInstrumentRequirement&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/Non-bindingInstrumentRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:Non-bindingInstrumentRequirement"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Non-binding Instrument ABB is a Business Object, involving no obligation, which are available to the European institutions to carry out their tasks."/>
+  <properties
+      key="eira:definitionSource"
+      value="EUR-Lex "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://ec.europa.eu/eurostat/data/data-validation"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Opinion of the European Economic and Social Committee on Next Generation SME Strategy — Enhancing Effective and Swift Delivery (own-initiative opinion). https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021IE3668&amp;qid=1664779252884"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Non-binding Instrument ABB is a key salient for the legal and governance interoperability enabler as a specialisation of the Legal Act, it makes the recommendation of implementation of the policies and rules."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/Non-bindingInstrumentRequirement"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Requirement>

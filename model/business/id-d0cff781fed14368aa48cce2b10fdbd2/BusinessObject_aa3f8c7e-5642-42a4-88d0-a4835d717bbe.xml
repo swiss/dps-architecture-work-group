@@ -1,0 +1,66 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location"
+    id="aa3f8c7e-5642-42a4-88d0-a4835d717bbe"
+    documentation="Definition: A location is a region (point, line, or area) on Earth's surface&#xA;&#xA;Source: WikiPedia&#xA;&#xA;Source reference: https://en.wikipedia.org/wiki/Location&#xA;&#xA;Additional information: Location, as an element or component of information in the European IT context, refers to the specific geographical position or coordinates associated with a particular entity, device, or event. It provides crucial context and enables the identification and tracking of objects, individuals, or phenomena within a given geographic area.&#xA;&#xA;In the European IT context, location information is often obtained through various technologies such as Global Positioning System (GPS), cellular networks, Wi-Fi, and Internet Protocol (IP) address geolocation. These technologies allow for the determination of the latitude, longitude, altitude, and sometimes even the orientation of a specific point on the Earth's surface.&#xA;&#xA;Location information plays a significant role in a wide range of applications and services across various industries. In the European IT context, it is extensively utilized in navigation systems, mapping applications, logistics and supply chain management, transportation services, emergency response systems, and location-based marketing.&#xA;&#xA;For instance, in navigation systems, location information is used to provide turn-by-turn directions, real-time traffic updates, and estimated arrival times. Mapping applications leverage location data to display maps, points of interest, and provide geographically relevant information to users. In logistics and supply chain management, location information helps track the movement of goods, optimize routes, and ensure efficient delivery.&#xA;&#xA;Emergency response systems heavily rely on location information to accurately identify the location of emergency calls and dispatch appropriate assistance. Additionally, location-based marketing utilizes location data to deliver targeted advertisements and promotions to users based on their proximity to specific businesses or areas of interest.&#xA;&#xA;In the European IT context, the collection, storage, and processing of location information are subject to strict regulations and privacy laws, such as the General Data Protection Regulation (GDPR). These regulations aim to protect individuals' privacy and ensure that their location data is handled responsibly and with their consent.&#xA;&#xA;Overall, location information is a fundamental component of information in the European IT context, enabling a wide range of applications and services that enhance navigation, logistics, emergency response, and personalized experiences for users.&#xA;&#xA;Example: Location is a crucial element or component of information in various applications within the European IT context. Here are a few examples:&#xA;&#xA;1. Navigation and Mapping Services: Location plays a fundamental role in navigation and mapping applications. Services like GPS navigation systems, online maps, and mobile applications utilize location information to provide accurate directions, real-time traffic updates, and location-based services such as nearby points of interest, restaurants, or gas stations.&#xA;&#xA;2. Geographical Information Systems (GIS): GIS applications are extensively used in Europe for spatial analysis, urban planning, environmental management, and disaster response. These systems rely on location data to visualize, analyze, and interpret geographic information. For instance, GIS can help city planners determine the best location for new infrastructure projects or assist emergency services in identifying the nearest hospitals during a crisis.&#xA;&#xA;3. Location-Based Advertising: Many European businesses leverage location-based advertising to target customers effectively. By utilizing location data from mobile devices, advertisers can deliver personalized and contextually relevant advertisements to users in specific geographic areas. For example, a retail store can send promotional offers to potential customers nearby, increasing the chances of attracting foot traffic and boosting sales.&#xA;&#xA;4. Internet of Things (IoT) Applications: IoT devices often rely on location information to provide valuable services. For instance, smart home systems can adjust heating or lighting based on the user's location within the house. In agriculture, IoT sensors can collect location-specific data about soil moisture, temperature, and nutrient levels, enabling farmers to optimize irrigation and fertilization practices.&#xA;&#xA;5. Fleet Management and Logistics: Location tracking is essential for efficient fleet management and logistics operations. European companies utilize GPS tracking systems to monitor the real-time location of vehicles, optimize routes, and improve delivery efficiency. This helps reduce fuel consumption, enhance customer satisfaction, and streamline overall operations.&#xA;&#xA;6. Social Media and Networking: Location-based features are prevalent in social media platforms and networking applications. Users can share their current location, check-in at specific places, or discover nearby events or friends. These features enable users to connect with others in their vicinity, explore local recommendations, and share experiences based on their location.&#xA;&#xA;These examples illustrate how location serves as a vital component of information in various European IT applications, enhancing user experiences, enabling efficient resource management, and facilitating targeted services.&#xA;&#xA;LOST view: OV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/LocationBusinessObject&#xA;&#xA;ABB name: egovera:LocationBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/LocationBusinessObject&#xA;&#xA;Name: Location Information&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/InformationBusinessObject&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/LocationBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/LocationBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:LocationBusinessObject"/>
+  <properties
+      key="dct:title"
+      value="Location Information"/>
+  <properties
+      key="eira:definitionSource"
+      value="WikiPedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://en.wikipedia.org/wiki/Location"/>
+  <properties
+      key="skos:example"
+      value="Location is a crucial element or component of information in various applications within the European IT context. Here are a few examples:&#xA;&#xA;1. Navigation and Mapping Services: Location plays a fundamental role in navigation and mapping applications. Services like GPS navigation systems, online maps, and mobile applications utilize location information to provide accurate directions, real-time traffic updates, and location-based services such as nearby points of interest, restaurants, or gas stations.&#xA;&#xA;2. Geographical Information Systems (GIS): GIS applications are extensively used in Europe for spatial analysis, urban planning, environmental management, and disaster response. These systems rely on location data to visualize, analyze, and interpret geographic information. For instance, GIS can help city planners determine the best location for new infrastructure projects or assist emergency services in identifying the nearest hospitals during a crisis.&#xA;&#xA;3. Location-Based Advertising: Many European businesses leverage location-based advertising to target customers effectively. By utilizing location data from mobile devices, advertisers can deliver personalized and contextually relevant advertisements to users in specific geographic areas. For example, a retail store can send promotional offers to potential customers nearby, increasing the chances of attracting foot traffic and boosting sales.&#xA;&#xA;4. Internet of Things (IoT) Applications: IoT devices often rely on location information to provide valuable services. For instance, smart home systems can adjust heating or lighting based on the user's location within the house. In agriculture, IoT sensors can collect location-specific data about soil moisture, temperature, and nutrient levels, enabling farmers to optimize irrigation and fertilization practices.&#xA;&#xA;5. Fleet Management and Logistics: Location tracking is essential for efficient fleet management and logistics operations. European companies utilize GPS tracking systems to monitor the real-time location of vehicles, optimize routes, and improve delivery efficiency. This helps reduce fuel consumption, enhance customer satisfaction, and streamline overall operations.&#xA;&#xA;6. Social Media and Networking: Location-based features are prevalent in social media platforms and networking applications. Users can share their current location, check-in at specific places, or discover nearby events or friends. These features enable users to connect with others in their vicinity, explore local recommendations, and share experiences based on their location.&#xA;&#xA;These examples illustrate how location serves as a vital component of information in various European IT applications, enhancing user experiences, enabling efficient resource management, and facilitating targeted services."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:note"
+      value="Location, as an element or component of information in the European IT context, refers to the specific geographical position or coordinates associated with a particular entity, device, or event. It provides crucial context and enables the identification and tracking of objects, individuals, or phenomena within a given geographic area.&#xA;&#xA;In the European IT context, location information is often obtained through various technologies such as Global Positioning System (GPS), cellular networks, Wi-Fi, and Internet Protocol (IP) address geolocation. These technologies allow for the determination of the latitude, longitude, altitude, and sometimes even the orientation of a specific point on the Earth's surface.&#xA;&#xA;Location information plays a significant role in a wide range of applications and services across various industries. In the European IT context, it is extensively utilized in navigation systems, mapping applications, logistics and supply chain management, transportation services, emergency response systems, and location-based marketing.&#xA;&#xA;For instance, in navigation systems, location information is used to provide turn-by-turn directions, real-time traffic updates, and estimated arrival times. Mapping applications leverage location data to display maps, points of interest, and provide geographically relevant information to users. In logistics and supply chain management, location information helps track the movement of goods, optimize routes, and ensure efficient delivery.&#xA;&#xA;Emergency response systems heavily rely on location information to accurately identify the location of emergency calls and dispatch appropriate assistance. Additionally, location-based marketing utilizes location data to deliver targeted advertisements and promotions to users based on their proximity to specific businesses or areas of interest.&#xA;&#xA;In the European IT context, the collection, storage, and processing of location information are subject to strict regulations and privacy laws, such as the General Data Protection Regulation (GDPR). These regulations aim to protect individuals' privacy and ensure that their location data is handled responsibly and with their consent.&#xA;&#xA;Overall, location information is a fundamental component of information in the European IT context, enabling a wide range of applications and services that enhance navigation, logistics, emergency response, and personalized experiences for users."/>
+  <properties
+      key="skos:definition"
+      value="A location is a region (point, line, or area) on Earth's surface"/>
+  <properties
+      key="eira:view"
+      value="OV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Organisational view [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic Metadata"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/InformationBusinessObject"/>
+</archimate:BusinessObject>

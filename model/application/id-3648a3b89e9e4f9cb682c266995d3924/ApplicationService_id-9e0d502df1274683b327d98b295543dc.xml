@@ -1,0 +1,48 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Certification Timestamp "
+    id="id-9e0d502df1274683b327d98b295543dc"
+    documentation="Definition: e-Timestamp Verification and Validation Service ABB is an Application Service  verifing timestamps used for establishing evidence that a give piece of data existed at a given point in time. An ‘electronic time stamp’ means data in electronic form which binds other data in electronic form to a particular time establishing evidence that the latter data existed at that time.&#xA;&#xA;Source: eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xA;&#xA;Source reference: (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG)&#xA;&#xA;Additional information: This service is often used in the context of digital signatures and data integrity, where it is crucial to establish when a document was signed or when data was created or last modified. The timestamp is created by a trusted third party, known as a Timestamping Authority (TSA), which attests to the time and date the data was presented to it without any alterations. The TSA uses a cryptographic hash function to generate a unique hash of the submitted data, then signs this hash with its private key, creating a timestamp token that can be verified using the TSA's public key. This process ensures non-repudiation, meaning that the parties involved cannot deny the existence of the data at the time it was timestamped.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenSSL timestamp verification - OpenSSL is an open-source tool that can be used to retrieve and verify digital timestamps.(https://wiki.openssl.org/index.php/Manual:Ts(1)) (https://www.digistamp.com/technical/software-alternatives/using-openssl-to-request-timestamps/)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalCertificationTimestampApplicationService&#xA;&#xA;ABB name: egovera:DigitalCertificationTimestampApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalCertificationTimestampApplicationService&#xA;&#xA;Name: Digital Certification Timestamp Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DigitalCertificationTimestampApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DigitalCertificationTimestampApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Digital Certification Timestamp Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DigitalCertificationTimestampApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="e-Timestamp Verification and Validation Service ABB is an Application Service  verifing timestamps used for establishing evidence that a give piece of data existed at a given point in time. An ‘electronic time stamp’ means data in electronic form which binds other data in electronic form to a particular time establishing evidence that the latter data existed at that time."/>
+  <properties
+      key="eira:definitionSource"
+      value="eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC."/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="(http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG)"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenSSL timestamp verification - OpenSSL is an open-source tool that can be used to retrieve and verify digital timestamps.(https://wiki.openssl.org/index.php/Manual:Ts(1)) (https://www.digistamp.com/technical/software-alternatives/using-openssl-to-request-timestamps/)"/>
+  <properties
+      key="skos:note"
+      value="This service is often used in the context of digital signatures and data integrity, where it is crucial to establish when a document was signed or when data was created or last modified. The timestamp is created by a trusted third party, known as a Timestamping Authority (TSA), which attests to the time and date the data was presented to it without any alterations. The TSA uses a cryptographic hash function to generate a unique hash of the submitted data, then signs this hash with its private key, creating a timestamp token that can be verified using the TSA's public key. This process ensures non-repudiation, meaning that the parties involved cannot deny the existence of the data at the time it was timestamped."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:ApplicationService>

@@ -1,0 +1,50 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantic Web Data Formats Solutions"
+    id="id-9d0a67533fdd48afb766ee6399f05174"
+    documentation="Definition: Semantic Web Data Formats (SWDF) is a grouping that covers a range of technical specifications and standards designed to facilitate the creation, integration, and utilization of structured data on the web. These formats provide the necessary tools for businesses and organizations to represent, connect, and share information in a machine-readable way, enabling the development of semantic web applications and promoting data interoperability.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Semantic Web Data Formats encompass various elements including LDES, RDF, RDF-S, OWL2, RML, SPARQL*, RDF*, and SPARQL. Each of these elements serves a specific purpose in the realm of semantic web and linked data. For instance, LDES allows for the publishing of datasets as a collection of immutable objects. RDF and RDF-S provide a standard for representing and connecting information, with RDF-S extending the basic RDF vocabulary. OWL2 is a technical framework for creating ontologies and enabling computers to understand and reason about structured knowledge. RML provides a standardized approach for transforming structured data into RDF. RDF* extends RDF with the ability to make statements about other statements. Lastly, SPARQL and SPARQL* are query languages that enable the extraction of insights from semantic data.&#xA;&#xA;Example: An example of application of these formats could be a large corporation using RDF to represent their complex business data in a structured and machine-readable way. They could then use RML to transform data from various sources into RDF, ensuring semantic integration and interoperability. The corporation could also use OWL2 to create ontologies that define concepts, properties, and relationships within their business domain. This would enable their computers to accurately interpret data, make logical deductions, and draw new conclusions. Finally, they could use SPARQL to query their semantic data and extract valuable insights for decision-making.&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SemanticWebDataFormatsSolutionsGrouping&#xA;&#xA;ABB name: egovera:SemanticWebDataFormatsSolutionsGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SemanticWebDataFormatsSolutionsGrouping&#xA;&#xA;Name: Semantic Web Data Formats Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/SemanticWebDataFormatsSolutionsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/SemanticWebDataFormatsSolutionsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Semantic Web Data Formats Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:SemanticWebDataFormatsSolutionsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Semantic Web Data Formats (SWDF) is a grouping that covers a range of technical specifications and standards designed to facilitate the creation, integration, and utilization of structured data on the web. These formats provide the necessary tools for businesses and organizations to represent, connect, and share information in a machine-readable way, enabling the development of semantic web applications and promoting data interoperability."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of application of these formats could be a large corporation using RDF to represent their complex business data in a structured and machine-readable way. They could then use RML to transform data from various sources into RDF, ensuring semantic integration and interoperability. The corporation could also use OWL2 to create ontologies that define concepts, properties, and relationships within their business domain. This would enable their computers to accurately interpret data, make logical deductions, and draw new conclusions. Finally, they could use SPARQL to query their semantic data and extract valuable insights for decision-making."/>
+  <properties
+      key="skos:note"
+      value="The Semantic Web Data Formats encompass various elements including LDES, RDF, RDF-S, OWL2, RML, SPARQL*, RDF*, and SPARQL. Each of these elements serves a specific purpose in the realm of semantic web and linked data. For instance, LDES allows for the publishing of datasets as a collection of immutable objects. RDF and RDF-S provide a standard for representing and connecting information, with RDF-S extending the basic RDF vocabulary. OWL2 is a technical framework for creating ontologies and enabling computers to understand and reason about structured knowledge. RML provides a standardized approach for transforming structured data into RDF. RDF* extends RDF with the ability to make statements about other statements. Lastly, SPARQL and SPARQL* are query languages that enable the extraction of insights from semantic data."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

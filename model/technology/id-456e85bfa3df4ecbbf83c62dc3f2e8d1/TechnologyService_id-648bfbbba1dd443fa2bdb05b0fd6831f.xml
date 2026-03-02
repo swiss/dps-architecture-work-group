@@ -1,0 +1,54 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gateway"
+    id="id-648bfbbba1dd443fa2bdb05b0fd6831f"
+    documentation="Definition: Gateway ABB is a Technology Service that enables the implementation of a component that converts information, data or other communications from one protocol or format to another&#xA;&#xA;Source: Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/gateway&#xA;&#xA;Synonym:  &#xA;&#xA;Additional information:  &#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Single Digital Gateway from the European Commission is implemented via Your Europe Portal. This portal allows searching and exchanging information from businesses at the European and national level.  information from EU and member states. https://europa.eu/youreurope/index_en.htm&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Gateway ABB is salient for technical interoperability because it physically transforms information, data and other communications from one protocol or format into another standard protocol format.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/GatewayTechnologyService&#xA;&#xA;ABB name: eira:GatewayTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/GatewayTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/GatewayTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:GatewayTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value=" "/>
+  <properties
+      key="skos:definition"
+      value="Gateway ABB is a Technology Service that enables the implementation of a component that converts information, data or other communications from one protocol or format to another"/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/gateway"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Single Digital Gateway from the European Commission is implemented via Your Europe Portal. This portal allows searching and exchanging information from businesses at the European and national level.  information from EU and member states. https://europa.eu/youreurope/index_en.htm"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Gateway ABB is salient for technical interoperability because it physically transforms information, data and other communications from one protocol or format into another standard protocol format."/>
+  <properties
+      key="skos:note"
+      value=" "/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/GatewayTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

@@ -1,0 +1,52 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Manager"
+    id="id-a175267378c9424fb8198c8db1297c37"
+    documentation="Definition: API Manager ABB is a Technology Service that implements the behaviour of safely and securely  publish APIs, either internally or externally &#xA;&#xA;Source: Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/api-management&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): API Manager, WSO2 API Manager is a complete platform for building, integrating, and exposing your digital services as managed APIs in the cloud, on-premise, and hybrid architectures to drive your digital transformation strategy. https://apim.docs.wso2.com/en/latest/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: API Manager ABB is salient for semantic interoperability due to its setting up the rules to share public administration digital services to facilitate their accessibility, discovery and sharing across platforms. These rules follow up existing standards and common practices in the API documentation and accessibility (Open APIs description).&#xA;&#xA;Identifier: http://data.europa.eu/dr8/APIManagerTechnologyService&#xA;&#xA;ABB name: eira:APIManagerTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/APIManagerTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/APIManagerTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:APIManagerTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="API Manager ABB is a Technology Service that implements the behaviour of safely and securely  publish APIs, either internally or externally "/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/api-management"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): API Manager, WSO2 API Manager is a complete platform for building, integrating, and exposing your digital services as managed APIs in the cloud, on-premise, and hybrid architectures to drive your digital transformation strategy. https://apim.docs.wso2.com/en/latest/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="API Manager ABB is salient for semantic interoperability due to its setting up the rules to share public administration digital services to facilitate their accessibility, discovery and sharing across platforms. These rules follow up existing standards and common practices in the API documentation and accessibility (Open APIs description)."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/APIManagerTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

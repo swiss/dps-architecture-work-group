@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Framework"
+    id="id-4c8a2d6354564eb08a04562b423a15ae"
+    documentation="Definition: Privacy Framework ABB is a Business Object that enables the confidentiality aspects of data, information and knowledge assets and organizational resources handling them.&#xA;&#xA;Source: Inpired in the ISA2 and EIFv2-related works &#xA;&#xA;Source reference: https://ec.europa.eu/isa2/isa2_en&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): European Privacy Framework - European privacy legislation is made up of two parts: The Data Protection Directive (95/46/EC) exists as a common ground across Europe. The Directive is a legislative act of the European Union that requires all member states to ensure there is an &quot;adequate&quot; level of data protection. The second part consists of diverse national laws. (https://www.privacy-europe.com/european-privacy-framework.html)&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Privacy Framework ABB is salient for governance and organizational interoperability because it provides the needed procedures and agreements on the establishment of privacy in public administration digital services. This framework commonly defined security and privacy actions to be considered in public digital services for ensuring secure and trustworthy data management.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PrivacyFrameworkBusinessObject&#xA;&#xA;ABB name: eira:PrivacyFrameworkBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PrivacyFrameworkBusinessObject&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PrivacyFrameworkBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="eira:PrivacyFrameworkBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Privacy Framework ABB is a Business Object that enables the confidentiality aspects of data, information and knowledge assets and organizational resources handling them."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inpired in the ISA2 and EIFv2-related works "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/isa2_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): European Privacy Framework - European privacy legislation is made up of two parts: The Data Protection Directive (95/46/EC) exists as a common ground across Europe. The Directive is a legislative act of the European Union that requires all member states to ensure there is an &quot;adequate&quot; level of data protection. The second part consists of diverse national laws. (https://www.privacy-europe.com/european-privacy-framework.html)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Privacy Framework ABB is salient for governance and organizational interoperability because it provides the needed procedures and agreements on the establishment of privacy in public administration digital services. This framework commonly defined security and privacy actions to be considered in public digital services for ensuring secure and trustworthy data management."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PrivacyFrameworkBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessObject>

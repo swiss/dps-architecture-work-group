@@ -1,0 +1,53 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Ontologies Catalogue Solutions"
+    id="id-00faeb08c8cb4af19a96dcaafb7dadf3"
+    documentation="Definition: Business Agnostic Ontologies Catalogue Solutions (ABB) is a grouping that covers a range of ontology resources and tools that are applicable across various business domains. The catalogue includes Linked Open Vocabularies (LOV) and Ontology Design Patterns (ODP), both of which are instrumental in ontology engineering and semantic web portal design respectively.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Business Agnostic Ontologies Catalogue Solutions (ABB) is a comprehensive collection of ontology resources that are not specific to any business domain, hence the term 'agnostic'. It includes Linked Open Vocabularies (LOV), a tool used by Ontology Engineers for creating, managing and utilizing ontologies. LOV provides a wide range of vocabularies that can be linked and utilized in various contexts. Another key component of the catalogue is OntologyDesignPatterns.org (ODP), a dedicated portal for ontology design patterns. ODP provides resources and tools for designing and implementing ontologies in a semantic web context. Both LOV and ODP are crucial for ontology engineering and semantic web design, making the catalogue a valuable resource for businesses operating in diverse domains.&#xA;&#xA;Example: For instance, a healthcare organization can use the LOV tool from the Business Agnostic Ontologies Catalogue Solutions to create a medical ontology linking various medical terms and concepts. Similarly, an e-commerce business can use the ODP resources to design a product ontology for their semantic web portal, linking various product categories and attributes.&#xA;&#xA;LOST view: SV-Agnostic Ontology Catalogue&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticOntologiesCatalogueSolutionsGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticOntologiesCatalogueSolutionsGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticOntologiesCatalogueSolutionsGrouping&#xA;&#xA;Name: Business Agnostic Ontologies Catalogue Solutions Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticOntologiesCatalogueSolutionsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticOntologiesCatalogueSolutionsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Ontologies Catalogue Solutions Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticOntologiesCatalogueSolutionsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic Ontologies Catalogue Solutions (ABB) is a grouping that covers a range of ontology resources and tools that are applicable across various business domains. The catalogue includes Linked Open Vocabularies (LOV) and Ontology Design Patterns (ODP), both of which are instrumental in ontology engineering and semantic web portal design respectively."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, a healthcare organization can use the LOV tool from the Business Agnostic Ontologies Catalogue Solutions to create a medical ontology linking various medical terms and concepts. Similarly, an e-commerce business can use the ODP resources to design a product ontology for their semantic web portal, linking various product categories and attributes."/>
+  <properties
+      key="skos:note"
+      value="The Business Agnostic Ontologies Catalogue Solutions (ABB) is a comprehensive collection of ontology resources that are not specific to any business domain, hence the term 'agnostic'. It includes Linked Open Vocabularies (LOV), a tool used by Ontology Engineers for creating, managing and utilizing ontologies. LOV provides a wide range of vocabularies that can be linked and utilized in various contexts. Another key component of the catalogue is OntologyDesignPatterns.org (ODP), a dedicated portal for ontology design patterns. ODP provides resources and tools for designing and implementing ontologies in a semantic web context. Both LOV and ODP are crucial for ontology engineering and semantic web design, making the catalogue a valuable resource for businesses operating in diverse domains."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Ontology Catalogue"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

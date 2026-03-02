@@ -1,0 +1,47 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Data Policy Catalogue"
+    id="id-7394e884a6134184bbb5730e70be6891"
+    documentation="Definition: Privacy Data Policy Catalogue ABB is a grouping that covers a range of policies and guidelines implemented by an organization to ensure the privacy and protection of personal data. The catalogue includes elements such as the Anonymisation Policy, which outlines the rules and procedures for anonymizing sensitive data in compliance with privacy regulations.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Privacy Data Policy Catalogue ABB is a comprehensive collection of policies and guidelines that an organization uses to safeguard personal data. It includes elements like the Anonymisation Policy, which is a formal document outlining the methods, techniques, and criteria used to transform personally identifiable information (PII) into a form that can no longer be linked to an individual. This policy ensures compliance with privacy regulations and helps mitigate the risk of unauthorized disclosure or misuse of personal data. It includes considerations for data anonymization processes, such as data masking, aggregation, or encryption, to protect individuals' privacy while still allowing data to be used for legitimate business purposes.&#xA;&#xA;Example: An example of an element in the Privacy Data Policy Catalogue ABB is the Anonymisation Policy. This policy could state that all customer data used for internal analytics must first be anonymized through a process of data masking. This would involve replacing identifiable data fields with artificial identifiers or pseudonyms to prevent the identification of individuals. The policy might also specify the use of encryption for data storage and transmission to further protect personal data from unauthorized access or disclosure.&#xA;&#xA;LOST view: SV-Governance Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/PrivacyDataPolicyCatalogueGrouping&#xA;&#xA;ABB name: egovera:PrivacyDataPolicyCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/PrivacyDataPolicyCatalogueGrouping&#xA;&#xA;Name: Privacy Data Policy Catalogue Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/PrivacyDataPolicyCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/PrivacyDataPolicyCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Privacy Data Policy Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:PrivacyDataPolicyCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Privacy Data Policy Catalogue ABB is a grouping that covers a range of policies and guidelines implemented by an organization to ensure the privacy and protection of personal data. The catalogue includes elements such as the Anonymisation Policy, which outlines the rules and procedures for anonymizing sensitive data in compliance with privacy regulations."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of an element in the Privacy Data Policy Catalogue ABB is the Anonymisation Policy. This policy could state that all customer data used for internal analytics must first be anonymized through a process of data masking. This would involve replacing identifiable data fields with artificial identifiers or pseudonyms to prevent the identification of individuals. The policy might also specify the use of encryption for data storage and transmission to further protect personal data from unauthorized access or disclosure."/>
+  <properties
+      key="skos:note"
+      value="The Privacy Data Policy Catalogue ABB is a comprehensive collection of policies and guidelines that an organization uses to safeguard personal data. It includes elements like the Anonymisation Policy, which is a formal document outlining the methods, techniques, and criteria used to transform personally identifiable information (PII) into a form that can no longer be linked to an individual. This policy ensures compliance with privacy regulations and helps mitigate the risk of unauthorized disclosure or misuse of personal data. It includes considerations for data anonymization processes, such as data masking, aggregation, or encryption, to protect individuals' privacy while still allowing data to be used for legitimate business purposes."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

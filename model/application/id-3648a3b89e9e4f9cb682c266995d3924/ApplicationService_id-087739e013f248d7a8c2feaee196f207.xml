@@ -1,0 +1,53 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-Timestamp Verification and Validation"
+    id="id-087739e013f248d7a8c2feaee196f207"
+    documentation="Definition: e-Timestamp Verification and Validation ABB is an Application Service that enables the verification of timestamps used for establishing evidence that a given piece of data existed at a given point in time.&#xA;&#xA;Source: eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xA;&#xA;Source reference: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG&#xA;&#xA;Additional information: An ‘electronic time stamp’ means data in electronic form which binds other data in electronic form to a particular time establishing evidence that the latter data existed at that time.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenSSL timestamp verification - OpenSSL is an open-source tool that can be used to retrieve and verify digital timestamps. (https://wiki.openssl.org/index.php/Manual:Ts(1)) and https://www.digistamp.com/technical/software-alternatives/using-openssl-to-request-timestamps/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The e-Timestamp Verification and Validation Service ABB  is salient for technical interoperability because it provides the functionalities required for e-timestamp verification and validation service.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/E-TimestampVerificationAndValidationApplicationService&#xA;&#xA;ABB name: eira:E-TimestampVerificationAndValidationApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/E-TimestampVerificationAndValidationApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/E-TimestampVerificationAndValidationApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:E-TimestampVerificationAndValidationApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="e-Timestamp Verification and Validation ABB is an Application Service that enables the verification of timestamps used for establishing evidence that a given piece of data existed at a given point in time."/>
+  <properties
+      key="eira:definitionSource"
+      value="eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC."/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenSSL timestamp verification - OpenSSL is an open-source tool that can be used to retrieve and verify digital timestamps. (https://wiki.openssl.org/index.php/Manual:Ts(1)) and https://www.digistamp.com/technical/software-alternatives/using-openssl-to-request-timestamps/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The e-Timestamp Verification and Validation Service ABB  is salient for technical interoperability because it provides the functionalities required for e-timestamp verification and validation service."/>
+  <properties
+      key="skos:note"
+      value="An ‘electronic time stamp’ means data in electronic form which binds other data in electronic form to a particular time establishing evidence that the latter data existed at that time."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/E-TimestampVerificationAndValidationApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

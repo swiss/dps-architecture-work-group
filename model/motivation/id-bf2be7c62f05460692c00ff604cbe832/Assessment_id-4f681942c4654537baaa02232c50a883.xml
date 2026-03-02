@@ -1,0 +1,47 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key Structural IoP Enablers"
+    id="id-4f681942c4654537baaa02232c50a883"
+    documentation="Definition: Key Structural IoP Enablers ABB is a Grouping enabling information interpretation to share and/or reuse of organizational resources of digital public services&#xA;&#xA;Source: ISA2-EIF&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/eif_en/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/KeyStructuralIoPEnablersAssessment&#xA;&#xA;ABB name: eira:KeyStructuralIoPEnablersAssessment&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/KeyStructuralIoPEnablersAssessment&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="eira:KeyStructuralIoPEnablersAssessment"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Key Structural IoP Enablers ABB is a Grouping enabling information interpretation to share and/or reuse of organizational resources of digital public services"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2-EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/eif_en/"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/KeyStructuralIoPEnablersAssessment"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/KeyStructuralIoPEnablersAssessment"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Assessment>

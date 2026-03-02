@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Subsidiarity and proportionality"
+    id="id-0586b12fed714134906aef22c1d48c95"
+    documentation="Definition: The subsidiarity principle requires EU decisions to be taken as closely as possible by the citizen. The proportionality principle limits EU actions to what is necessary to achieve the objectives of the Treaties. One of the implications of the principle is that at a national level, some measures should be put in place to ensure that the specific needs of a specific country are considered and planned within national interoperability frameworks.&#xA;&#xA;Source: Subsidiarity and proportionality Underlying Principle (1) of the European Interoperability Framework (EIF)&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/2-underlying-principles-european-public-services#2.2&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/subsidiarity-and-proportionality&#xA;&#xA;ABB name: elap:SubsidiarityAndProportionalityPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Subsidiarity and proportionality&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:SubsidiarityAndProportionalityPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Subsidiarity and proportionality"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/subsidiarity-and-proportionality"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="Subsidiarity and proportionality Underlying Principle (1) of the European Interoperability Framework (EIF)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/2-underlying-principles-european-public-services#2.2"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="The subsidiarity principle requires EU decisions to be taken as closely as possible by the citizen. The proportionality principle limits EU actions to what is necessary to achieve the objectives of the Treaties. One of the implications of the principle is that at a national level, some measures should be put in place to ensure that the specific needs of a specific country are considered and planned within national interoperability frameworks."/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

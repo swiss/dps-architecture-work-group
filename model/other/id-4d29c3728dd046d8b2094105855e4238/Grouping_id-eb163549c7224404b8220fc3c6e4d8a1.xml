@@ -1,0 +1,63 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shared Infrastructure Content"
+    id="id-eb163549c7224404b8220fc3c6e4d8a1"
+    documentation="Definition: Shared Infrastructure Content ABB is a Grouping setting infrastructure (re)usable resources, with convergence power, in relation to public policy goals attainment, enabling to reuse and share IT resources to support technical aspects for the infrastructure of interoperable Digital Public Services. It provides a unified IT environment encompassing hardware, software, and processes, promoting secure and efficient resource utilization across multiple stakeholders. This shared infrastructure ensures data integrity, operational efficiency, and effective collaboration while maintaining strict data and operational separation for confidentiality and reliability.&#xA;&#xA;Source: Joinup&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/shared-infrastructure&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: Shared Infrastructure Content ABB is a key interoperability enabler (*) for structural, behavioural and governance interoperability. This ABB is salient for infrastructure interoperability with public policy goals convergence value by enabling i) determines the tools and services that can be used by stakeholders ii) determines other digital services to interconnect services and data, and iii) establish security standards compliance to deliver such public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SharedInfrastructureContentGrouping&#xA;&#xA;ABB name: eira:SharedInfrastructureContentGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-06-10&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SharedInfrastructureContentGrouping&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SharedInfrastructureContentGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:SharedInfrastructureContentGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-06-10"/>
+  <properties
+      key="skos:definition"
+      value="Shared Infrastructure Content ABB is a Grouping setting infrastructure (re)usable resources, with convergence power, in relation to public policy goals attainment, enabling to reuse and share IT resources to support technical aspects for the infrastructure of interoperable Digital Public Services. It provides a unified IT environment encompassing hardware, software, and processes, promoting secure and efficient resource utilization across multiple stakeholders. This shared infrastructure ensures data integrity, operational efficiency, and effective collaboration while maintaining strict data and operational separation for confidentiality and reliability."/>
+  <properties
+      key="eira:definitionSource"
+      value="Joinup"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/shared-infrastructure"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Shared Infrastructure Content ABB is a key interoperability enabler (*) for structural, behavioural and governance interoperability. This ABB is salient for infrastructure interoperability with public policy goals convergence value by enabling i) determines the tools and services that can be used by stakeholders ii) determines other digital services to interconnect services and data, and iii) establish security standards compliance to deliver such public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="eira:view"
+      value="EIRA Ontology view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperable European Solution viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SharedInfrastructureContentGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

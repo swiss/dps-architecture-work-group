@@ -1,0 +1,46 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External Facility"
+    id="id-d5e203303ce44352b8110253b1cead94"
+    documentation="Definition: External Facility ABB is a Facility that enables a physical location or infrastructure that is owned or operated by a third-party organization and used by another organization or individual. These facilities may include office buildings, data centres, warehouses, manufacture&#xA;&#xA;Source: ISA2-EIA&#xA;&#xA;Source reference:  https://ec.europa.eu/isa2/actions/towards-european-interoperability-architecture_en/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The External Facility ABB is saliency for organizational and technical interoperability because it establishes the business rules and responsibilities to share infrastructures for the use of public administrations. The ABB also provides the application of open specifications and solutions to make interoperable public administration solutions.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ExternalFacilityFacility&#xA;&#xA;ABB name: eira:ExternalFacilityFacility&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ExternalFacilityFacility&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ExternalFacilityFacility"/>
+  <properties
+      key="dct:type"
+      value="eira:ExternalFacilityFacility"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="External Facility ABB is a Facility that enables a physical location or infrastructure that is owned or operated by a third-party organization and used by another organization or individual. These facilities may include office buildings, data centres, warehouses, manufacture"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2-EIA"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value=" https://ec.europa.eu/isa2/actions/towards-european-interoperability-architecture_en/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The External Facility ABB is saliency for organizational and technical interoperability because it establishes the business rules and responsibilities to share infrastructures for the use of public administrations. The ABB also provides the application of open specifications and solutions to make interoperable public administration solutions."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ExternalFacilityFacility"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Facility>

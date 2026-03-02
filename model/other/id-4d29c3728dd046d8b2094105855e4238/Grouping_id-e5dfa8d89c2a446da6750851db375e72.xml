@@ -1,0 +1,50 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Data Format, Representation and Syntax Solutions"
+    id="id-e5dfa8d89c2a446da6750851db375e72"
+    documentation="Definition: Business Agnostic Data Format, Representation and Syntax Solutions (ABB) is a grouping that covers a wide range of technical specifications, standards, and formats designed to facilitate the representation, storage, and exchange of structured data in a machine-readable manner. These solutions are independent of specific business domains, making them applicable across various industries and use cases. They provide the necessary tools for businesses to create, integrate, and utilize structured data, promoting data interoperability and enabling the development of data-driven applications.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The elements contained within this grouping include various data models, markup languages, data representation methods, and data interchange formats, among others. They cover a broad spectrum of data-related aspects, including data modeling (Common Data Model), data representation (XML, CSV, JSON), date and time representation (ISO 8601), secure and reliable document exchange (AS4 Profile of ebMS 3.0 v1.0), database archiving (SIARD 2.0 format for databases), RDF serialization (RDF Serialisations, Turtle, RDF-XML, N3, NQuads, TRiG), knowledge organization (SKOS, SKOS-XL), linked data representation (JSON-LD, JSON-L), semantic web data formats (LDES, RDF, RDF-S, OWL2, RML, SPARQL*, RDF*, SPARQL), geospatial data formats (geoJSON, KML, GML), code list definition and exchange (Genericode), and SPARQL results representation (SPARQL-CSV).&#xA;&#xA;Example: Examples of application of these solutions include: creating and sharing RDF data using Turtle format, representing and exchanging geospatial data using GeoJSON or KML, defining and exchanging code lists using Genericode, representing date and time information in a standardized format using ISO 8601, archiving relational databases using SIARD 2.0 format, and querying semantic data using SPARQL.&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDataFormatRepresentationAndSyntaxSolutionsGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticDataFormatRepresentationAndSyntaxSolutionsGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDataFormatRepresentationAndSyntaxSolutionsGrouping&#xA;&#xA;Name: Business Agnostic Data Format, Representation And Syntax Solutions Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDataFormatRepresentationAndSyntaxSolutionsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDataFormatRepresentationAndSyntaxSolutionsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Data Format, Representation And Syntax Solutions Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticDataFormatRepresentationAndSyntaxSolutionsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic Data Format, Representation and Syntax Solutions (ABB) is a grouping that covers a wide range of technical specifications, standards, and formats designed to facilitate the representation, storage, and exchange of structured data in a machine-readable manner. These solutions are independent of specific business domains, making them applicable across various industries and use cases. They provide the necessary tools for businesses to create, integrate, and utilize structured data, promoting data interoperability and enabling the development of data-driven applications."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="Examples of application of these solutions include: creating and sharing RDF data using Turtle format, representing and exchanging geospatial data using GeoJSON or KML, defining and exchanging code lists using Genericode, representing date and time information in a standardized format using ISO 8601, archiving relational databases using SIARD 2.0 format, and querying semantic data using SPARQL."/>
+  <properties
+      key="skos:note"
+      value="The elements contained within this grouping include various data models, markup languages, data representation methods, and data interchange formats, among others. They cover a broad spectrum of data-related aspects, including data modeling (Common Data Model), data representation (XML, CSV, JSON), date and time representation (ISO 8601), secure and reliable document exchange (AS4 Profile of ebMS 3.0 v1.0), database archiving (SIARD 2.0 format for databases), RDF serialization (RDF Serialisations, Turtle, RDF-XML, N3, NQuads, TRiG), knowledge organization (SKOS, SKOS-XL), linked data representation (JSON-LD, JSON-L), semantic web data formats (LDES, RDF, RDF-S, OWL2, RML, SPARQL*, RDF*, SPARQL), geospatial data formats (geoJSON, KML, GML), code list definition and exchange (Genericode), and SPARQL results representation (SPARQL-CSV)."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Notification Deployment"
+    id="id-1b218e37ad3642a59b34f7951bdd6afd"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Data Notification Deployment&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: The Data Notification Deployment ADR is a decision made in IT architecture that involves the deployment of notifications related to data. This concept is used to ensure that users are informed about changes or updates to data that they are interested in. The notifications can be sent via email, SMS, or other communication channels. The purpose of this concept is to improve data management and ensure that users are aware of any changes that may affect their work. This concept is particularly important in organizations that deal with large amounts of data and have many users accessing that data. By deploying data notifications, organizations can improve data security, reduce errors, and increase productivity.&#xA;&#xA;Example: Decision: Data Notification capability is operated by the Data Exchanger (shared resources).&#xA;Consequence: Data Subscription required&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataNotificationDeploymentGoal&#xA;&#xA;ABB name: eira:DataNotificationDeploymentGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947459&#xA;&#xA;Name: Architecture Decision Record about Data Notification Deployment&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947459"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Data Notification Deployment"/>
+  <properties
+      key="skos:example"
+      value="Decision: Data Notification capability is operated by the Data Exchanger (shared resources).&#xA;Consequence: Data Subscription required"/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="The Data Notification Deployment ADR is a decision made in IT architecture that involves the deployment of notifications related to data. This concept is used to ensure that users are informed about changes or updates to data that they are interested in. The notifications can be sent via email, SMS, or other communication channels. The purpose of this concept is to improve data management and ensure that users are aware of any changes that may affect their work. This concept is particularly important in organizations that deal with large amounts of data and have many users accessing that data. By deploying data notifications, organizations can improve data security, reduce errors, and increase productivity."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataNotificationDeploymentGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:DataNotificationDeploymentGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Data Notification Deployment"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

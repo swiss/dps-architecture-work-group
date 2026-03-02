@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Not Implemented Architecture Principles Catalogue"
+    id="id-dc78369c6e8243868ae3dc4b9e269685"
+    documentation="Definition: Not Implemented Architecture Principles Catalogue ABB is a grouping that covers the collection of architecture principles that have not been implemented in a specific solution architecture. It serves as a repository for documenting these omissions, providing transparency and understanding of the architectural choices made.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: Despite the vital role architecture principles play, there are situations where certain principles may not be employed within a specific solution architecture. The Not Implemented Architecture Principles Catalogue ABB serves as a repository for documenting such cases. Including explanatory notes alongside each omitted principle is crucial. These notes should provide a clear rationale for the exclusion, explaining the context, constraints, or trade-offs that led to the decision. The catalogue facilitates knowledge sharing among architects by capturing the context and rationale behind each omitted principle. It also helps ensure that architectural decisions align with organizational governance frameworks and compliance requirements. Furthermore, it enables architects to proactively address potential risks and develop mitigation strategies. The documentation of omitted principles promotes a culture of continuous improvement, encouraging architects to revisit decisions, reassess trade-offs, and learn from past experiences.&#xA;&#xA;Example: For instance, an architecture principle related to the use of open standards may not be implemented in a solution architecture due to vendor lock-in or specific business requirements. This omission would be documented in the Not Implemented Architecture Principles Catalogue ABB, along with an explanation of the reasons for the deviation. This documentation would then serve as a reference for future architects, helping them understand the trade-offs made and informing their decision-making process.&#xA;&#xA;LOST view: Architecture Principles view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/NotImplementedArchitecturePrinciplesCatalogueGrouping&#xA;&#xA;ABB name: egovera:NotImplementedArchitecturePrinciplesCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/NotImplementedArchitecturePrinciplesCatalogueGrouping&#xA;&#xA;Name: Not Implemented Architecture Principles Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/NotImplementedArchitecturePrinciplesCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/NotImplementedArchitecturePrinciplesCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Not Implemented Architecture Principles Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:NotImplementedArchitecturePrinciplesCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Not Implemented Architecture Principles Catalogue ABB is a grouping that covers the collection of architecture principles that have not been implemented in a specific solution architecture. It serves as a repository for documenting these omissions, providing transparency and understanding of the architectural choices made."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, an architecture principle related to the use of open standards may not be implemented in a solution architecture due to vendor lock-in or specific business requirements. This omission would be documented in the Not Implemented Architecture Principles Catalogue ABB, along with an explanation of the reasons for the deviation. This documentation would then serve as a reference for future architects, helping them understand the trade-offs made and informing their decision-making process."/>
+  <properties
+      key="skos:note"
+      value="Despite the vital role architecture principles play, there are situations where certain principles may not be employed within a specific solution architecture. The Not Implemented Architecture Principles Catalogue ABB serves as a repository for documenting such cases. Including explanatory notes alongside each omitted principle is crucial. These notes should provide a clear rationale for the exclusion, explaining the context, constraints, or trade-offs that led to the decision. The catalogue facilitates knowledge sharing among architects by capturing the context and rationale behind each omitted principle. It also helps ensure that architectural decisions align with organizational governance frameworks and compliance requirements. Furthermore, it enables architects to proactively address potential risks and develop mitigation strategies. The documentation of omitted principles promotes a culture of continuous improvement, encouraging architects to revisit decisions, reassess trade-offs, and learn from past experiences."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

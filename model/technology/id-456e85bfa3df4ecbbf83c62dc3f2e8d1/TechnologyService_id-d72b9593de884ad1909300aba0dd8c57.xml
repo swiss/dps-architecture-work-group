@@ -1,0 +1,52 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distributed Blockchain Network"
+    id="id-d72b9593de884ad1909300aba0dd8c57"
+    documentation="Definition: Distributed Blockchain Network ABB is a Technology Service that enables the implementation procedures to manage tokens that may be utilised and/or exchanged, as communicated by the Company to the Token holders from time to time&#xA;&#xA;Source: World Bank&#xA;&#xA;Source reference: https://www.worldbank.org/en/topic/financialsector/brief/blockchain-dlt&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Oasis Network, The Oasis Network is a Layer 1 decentralized blockchain network designed to be uniquely scalable, privacy-first and versatile. The Network has two main architectural components, the consensus layer and the ParaTime layer: 1. The consensus layer is a scalable, high-throughput, secure, proof-of-stake consensus run by a decentralized set of validator nodes; 2. The ParaTime layer hosts many parallel runtimes (ParaTimes), each representing a replicated compute environment with shared state. https://docs.oasis.io/general/oasis-network/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Distributed Blockchain Network ABB is salient for technical interoperability because it establishes the infrastructure to share information and also makes the information consistent under distributed data stores.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DistributedBlockchainNetworkTechnologyService&#xA;&#xA;ABB name: eira:DistributedBlockchainNetworkTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DistributedBlockchainNetworkTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DistributedBlockchainNetworkTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:DistributedBlockchainNetworkTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Distributed Blockchain Network ABB is a Technology Service that enables the implementation procedures to manage tokens that may be utilised and/or exchanged, as communicated by the Company to the Token holders from time to time"/>
+  <properties
+      key="eira:definitionSource"
+      value="World Bank"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.worldbank.org/en/topic/financialsector/brief/blockchain-dlt"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Oasis Network, The Oasis Network is a Layer 1 decentralized blockchain network designed to be uniquely scalable, privacy-first and versatile. The Network has two main architectural components, the consensus layer and the ParaTime layer: 1. The consensus layer is a scalable, high-throughput, secure, proof-of-stake consensus run by a decentralized set of validator nodes; 2. The ParaTime layer hosts many parallel runtimes (ParaTimes), each representing a replicated compute environment with shared state. https://docs.oasis.io/general/oasis-network/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Distributed Blockchain Network ABB is salient for technical interoperability because it establishes the infrastructure to share information and also makes the information consistent under distributed data stores."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DistributedBlockchainNetworkTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

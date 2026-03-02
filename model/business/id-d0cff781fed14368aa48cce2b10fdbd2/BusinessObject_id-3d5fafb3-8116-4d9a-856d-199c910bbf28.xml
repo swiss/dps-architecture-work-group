@@ -1,0 +1,71 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message"
+    id="id-3d5fafb3-8116-4d9a-856d-199c910bbf28"
+    documentation="Definition: A message is a discrete unit of communication intended by the source for consumption by some recipient or group of recipients.&#xA;&#xA;Source: WikiPedia&#xA;&#xA;Source reference: https://en.wikipedia.org/wiki/Message&#xA;&#xA;Example: The application of the message as an element or component of information is crucial in various aspects of the European IT context. Here are a few examples:&#xA;&#xA;1. Email Communication: In the European IT context, messages play a significant role in email communication. Emails are composed of messages that contain information such as the sender, recipient, subject, and body. Messages enable effective communication between individuals or organizations, facilitating the exchange of information, ideas, and documents.&#xA;&#xA;2. Instant Messaging: Instant messaging platforms like WhatsApp, Telegram, or Slack heavily rely on messages as the core component of communication. Messages are used to convey real-time information, allowing individuals or teams to collaborate, share files, and discuss projects. In the European IT context, these messaging applications are widely used for both personal and professional purposes.&#xA;&#xA;3. Push Notifications: Mobile applications often utilize messages in the form of push notifications to deliver important information or updates to users. For example, a European IT company may send push notifications to its users regarding software updates, security alerts, or promotional offers. Messages in push notifications help engage users and keep them informed about relevant information.&#xA;&#xA;4. Error Messages: In the European IT context, error messages are commonly used to inform users about issues or problems encountered while using software or applications. These messages provide specific details about the error, helping users understand the problem and take appropriate actions. Clear and concise error messages contribute to a better user experience and facilitate efficient troubleshooting.&#xA;&#xA;5. Chatbots: Chatbots are increasingly used in the European IT industry to provide automated customer support or assist users in various tasks. Messages form the basis of interactions with chatbots, where users input their queries or requests, and the chatbot responds with relevant information or actions. Messages enable seamless communication between users and chatbots, enhancing customer service and user experience.&#xA;&#xA;Overall, messages serve as fundamental components of information in the European IT context, enabling effective communication, information exchange, and user interaction across various platforms and applications.&#xA;&#xA;LOST view: OV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/MessageBusinessObject&#xA;&#xA;ABB name: egovera:MessageBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/MessageBusinessObject&#xA;&#xA;Name: Message Information&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/InformationBusinessObject&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/MessageBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/MessageBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:MessageBusinessObject"/>
+  <properties
+      key="dct:title"
+      value="Message Information"/>
+  <properties
+      key="eira:definitionSource"
+      value="WikiPedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://en.wikipedia.org/wiki/Message"/>
+  <properties
+      key="skos:example"
+      value="The application of the message as an element or component of information is crucial in various aspects of the European IT context. Here are a few examples:&#xA;&#xA;1. Email Communication: In the European IT context, messages play a significant role in email communication. Emails are composed of messages that contain information such as the sender, recipient, subject, and body. Messages enable effective communication between individuals or organizations, facilitating the exchange of information, ideas, and documents.&#xA;&#xA;2. Instant Messaging: Instant messaging platforms like WhatsApp, Telegram, or Slack heavily rely on messages as the core component of communication. Messages are used to convey real-time information, allowing individuals or teams to collaborate, share files, and discuss projects. In the European IT context, these messaging applications are widely used for both personal and professional purposes.&#xA;&#xA;3. Push Notifications: Mobile applications often utilize messages in the form of push notifications to deliver important information or updates to users. For example, a European IT company may send push notifications to its users regarding software updates, security alerts, or promotional offers. Messages in push notifications help engage users and keep them informed about relevant information.&#xA;&#xA;4. Error Messages: In the European IT context, error messages are commonly used to inform users about issues or problems encountered while using software or applications. These messages provide specific details about the error, helping users understand the problem and take appropriate actions. Clear and concise error messages contribute to a better user experience and facilitate efficient troubleshooting.&#xA;&#xA;5. Chatbots: Chatbots are increasingly used in the European IT industry to provide automated customer support or assist users in various tasks. Messages form the basis of interactions with chatbots, where users input their queries or requests, and the chatbot responds with relevant information or actions. Messages enable seamless communication between users and chatbots, enhancing customer service and user experience.&#xA;&#xA;Overall, messages serve as fundamental components of information in the European IT context, enabling effective communication, information exchange, and user interaction across various platforms and applications."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="skos:definition"
+      value="A message is a discrete unit of communication intended by the source for consumption by some recipient or group of recipients."/>
+  <properties
+      key="eira:view"
+      value="OV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Organisational view [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic Metadata"/>
+  <properties
+      key="eira:view"
+      value="SV-Forms Structure"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic Data Models"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/InformationBusinessObject"/>
+</archimate:BusinessObject>

@@ -1,0 +1,49 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge Discovery"
+    id="id-a17c33eaea4e40198bd0c1cbadd9b29d"
+    documentation="Definition: Knowledge Discovery ABB is an Application Service that enables a highly complex process where a lot of data manipulation tools with different characteristics have to be used together to reach the goal of previously unknown, potentially useful information extraction.&#xA;&#xA;Source: Inspired in EUROSTAT&#xA;&#xA;Source reference: https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Knowledge-intensive_services_(KIS)&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): CELLAR. Cellar metadata is stored in a knowledge graph, and more specifically in a triple store. A SPARQL interface is used to query the metadata. https://op.europa.eu/en/web/cellar/cellar-data/metadata/knowledge-graph&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Knowledge Discovery Application Service ABB is salient for technical interoperability because it performs a series of complex processes that incorporate multiple data channels, formats and characteristics that are processed to extract relevant information to be used by other digital public services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/KnowledgeDiscoveryApplicationService&#xA;&#xA;ABB name: eira:KnowledgeDiscoveryApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/KnowledgeDiscoveryApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/KnowledgeDiscoveryApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:KnowledgeDiscoveryApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Knowledge Discovery ABB is an Application Service that enables a highly complex process where a lot of data manipulation tools with different characteristics have to be used together to reach the goal of previously unknown, potentially useful information extraction."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in EUROSTAT"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Knowledge-intensive_services_(KIS)"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): CELLAR. Cellar metadata is stored in a knowledge graph, and more specifically in a triple store. A SPARQL interface is used to query the metadata. https://op.europa.eu/en/web/cellar/cellar-data/metadata/knowledge-graph"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Knowledge Discovery Application Service ABB is salient for technical interoperability because it performs a series of complex processes that incorporate multiple data channels, formats and characteristics that are processed to extract relevant information to be used by other digital public services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/KnowledgeDiscoveryApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

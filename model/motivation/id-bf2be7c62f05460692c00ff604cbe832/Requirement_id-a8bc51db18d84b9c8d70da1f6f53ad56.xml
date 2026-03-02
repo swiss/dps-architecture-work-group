@@ -1,0 +1,57 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Act"
+    id="id-a8bc51db18d84b9c8d70da1f6f53ad56"
+    documentation="Definition: Legal Act ABB is a Business Object formalising a set of rules on a subject potentially including requirements concerning digital public services.&#xA;&#xA;Source: European Union Law &#xA;&#xA;Source reference: https://eur-lex.europa.eu/summary/glossary/legislative_acts.html&#xA;&#xA;Synonym: Legal Instrument&#xA;&#xA;Additional information: The granularity of the requirements might be of high level or detail level. Requirements of high-level granularity contain generic/abstract functional requirements like principles and/or recommendations with considerable degrees for transposition/execution and of not binding nature. On the other side, requirements of detail-level granularity imply a limited degree for transposition/execution and they contain specific/concrete functionalities, solution components, data, procedures, and/or technical specifications or standards to be used. EU legal acts are legislative or non-legislative acts adopted by the European institutions (Article 288 TFEU). With the entry into force of the Treaty of Lisbon on 1 December 2009. The names &quot;European Union&quot; or &quot;EU&quot; have replaced &quot;European Community&quot;, &quot;Community&quot; or &quot;EC&quot;.&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The COMMISSION REGULATION (EU) 2018/1881 of 3 December 2018 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards Annexes I, III,VI, VII, VIII, IX, X, XI, and XII to address nanoforms of substances (https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1544102387245&amp;uri=CELEX:32018R1881) is an example of an SBB implementing a Legal Act ABB.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Legal Act ABB is salient for legal interoperability because it helps establish legal rules by ensuring compatible legal/juridical certainty in the exchange of information.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegalActRequirement&#xA;&#xA;ABB name: eira:LegalActRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegalActRequirement&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LegalActRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:LegalActRequirement"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value="Legal Instrument"/>
+  <properties
+      key="skos:definition"
+      value="Legal Act ABB is a Business Object formalising a set of rules on a subject potentially including requirements concerning digital public services."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Union Law "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/summary/glossary/legislative_acts.html"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The COMMISSION REGULATION (EU) 2018/1881 of 3 December 2018 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards Annexes I, III,VI, VII, VIII, IX, X, XI, and XII to address nanoforms of substances (https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1544102387245&amp;uri=CELEX:32018R1881) is an example of an SBB implementing a Legal Act ABB."/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Legal Act ABB is salient for legal interoperability because it helps establish legal rules by ensuring compatible legal/juridical certainty in the exchange of information."/>
+  <properties
+      key="skos:note"
+      value="The granularity of the requirements might be of high level or detail level. Requirements of high-level granularity contain generic/abstract functional requirements like principles and/or recommendations with considerable degrees for transposition/execution and of not binding nature. On the other side, requirements of detail-level granularity imply a limited degree for transposition/execution and they contain specific/concrete functionalities, solution components, data, procedures, and/or technical specifications or standards to be used. EU legal acts are legislative or non-legislative acts adopted by the European institutions (Article 288 TFEU). With the entry into force of the Treaty of Lisbon on 1 December 2009. The names &quot;European Union&quot; or &quot;EU&quot; have replaced &quot;European Community&quot;, &quot;Community&quot; or &quot;EC&quot;."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LegalActRequirement"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Requirement>

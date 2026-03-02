@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analytics"
+    id="id-d2ff5e5e17944784bf1b648a0d27a376"
+    documentation="Definition: Analytics ABB is a Technology service that enables the procedures of analysing a great amount of raw data to make conclusions about specific information.&#xA;&#xA;Source: Inspired in Data Act&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/data-act&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Europa Analytics is the corporate service that monitors and evaluates the effectiveness and efficiency of the European Commission's websites on Europa. https://commission.europa.eu/europa-analytics_en&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Analytics ABB is salient for technical and semantic interoperability in because it provides all functionalities to analyze huge amount of information by indicating inputs and outputs for the analytical services. Thus, semantic interoperability between analytical services can be provided as an interlink between processes and establish a common framework to map business processes in public administrations. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/AnalyticsTechnologyService&#xA;&#xA;ABB name: eira:AnalyticsTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AnalyticsTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AnalyticsTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:AnalyticsTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Analytics ABB is a Technology service that enables the procedures of analysing a great amount of raw data to make conclusions about specific information."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Data Act"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/data-act"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Europa Analytics is the corporate service that monitors and evaluates the effectiveness and efficiency of the European Commission's websites on Europa. https://commission.europa.eu/europa-analytics_en"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Analytics ABB is salient for technical and semantic interoperability in because it provides all functionalities to analyze huge amount of information by indicating inputs and outputs for the analytical services. Thus, semantic interoperability between analytical services can be provided as an interlink between processes and establish a common framework to map business processes in public administrations. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AnalyticsTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

@@ -1,0 +1,53 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key Interoperability Enablers"
+    id="id-4131b68441c54281b85d7c2b5c416a1b"
+    documentation="Definition: A Key Interoperability Enabler is a Grouping that enables the efficient and effective delivery of public services across administrations&#xA;&#xA;Source: ISA2 Article 2 (14)&#xA;&#xA;Source reference: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015D2240#d1e919-1-1&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/KeyInteroperabilityEnablersGrouping&#xA;&#xA;ABB name: eira:KeyInteroperabilityEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/KeyInteroperabilityEnablersGrouping&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/KeyInteroperabilityEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:KeyInteroperabilityEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="A Key Interoperability Enabler is a Grouping that enables the efficient and effective delivery of public services across administrations"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2 Article 2 (14)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015D2240#d1e919-1-1"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/KeyInteroperabilityEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

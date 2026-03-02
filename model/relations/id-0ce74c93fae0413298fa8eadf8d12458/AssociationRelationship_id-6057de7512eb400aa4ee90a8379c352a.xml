@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realizes"
+    id="id-6057de7512eb400aa4ee90a8379c352a"
+    documentation="This relationship has been converted from &quot;realization&quot; to &quot;association&quot;&#xA;"
+    directed="true">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-a8bc51db18d84b9c8d70da1f6f53ad56.xml#id-a8bc51db18d84b9c8d70da1f6f53ad56"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-bb885ea6833041179fe500886a7954e1.xml#id-bb885ea6833041179fe500886a7954e1"/>
+</archimate:AssociationRelationship>

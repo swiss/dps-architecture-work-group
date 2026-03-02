@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Durability"
+    id="id-40b843865fae4108821e198add722758"
+    documentation="Definition: Durability is an IT non-functional requirement that refers to the ability of a system or application to withstand and recover from failures, errors, or disruptions. It ensures that the system can maintain its functionality and data integrity even in the face of unexpected events such as power outages, hardware failures, or network disruptions. Durability is critical for systems that handle sensitive or mission-critical data, as any loss or corruption of data can have severe consequences. To achieve durability, systems may use techniques such as data replication, backup and recovery, and fault tolerance.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: Durability is a non-functional requirement that refers to the ability of a system to maintain its functionality and performance over time, even in the face of adverse conditions such as hardware failures, power outages, or other disruptions. This requirement is important for systems that are critical to the operation of an organization or that handle sensitive or valuable data.&#xA;&#xA;According to the TOGAF specification, durability is one of the key quality attributes that must be considered when designing and implementing an enterprise architecture. This requirement is closely related to other non-functional requirements such as reliability, availability, and maintainability, which together form the basis of a system's overall performance and effectiveness.&#xA;&#xA;To ensure that a system meets the durability requirement, architects and designers must consider a range of factors, including the robustness of hardware components, the resilience of software applications, and the effectiveness of backup and recovery procedures. They must also consider the impact of environmental factors such as temperature, humidity, and power fluctuations, and design systems that can withstand these conditions without compromising performance or functionality.&#xA;&#xA;In addition to these technical considerations, architects and designers must also consider the organizational and operational factors that can affect durability. This includes factors such as training and support for system users, maintenance and repair procedures, and disaster recovery planning.&#xA;&#xA;Overall, the durability requirement is a critical aspect of enterprise architecture design, and must be carefully considered and addressed in order to ensure the long-term success and effectiveness of a system.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Durability' could be for a database system to maintain data integrity and availability even in the event of hardware failures or power outages. This means that the system should be able to recover quickly and efficiently from any disruptions or failures without losing any data or causing any downtime for users. The durability requirement ensures that the system can handle unexpected events and maintain its functionality over time.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DurabilityRequirement&#xA;&#xA;ABB name: eira:DurabilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DurabilityRequirement&#xA;&#xA;Name: Durability Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DurabilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Durability Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Durability' could be for a database system to maintain data integrity and availability even in the event of hardware failures or power outages. This means that the system should be able to recover quickly and efficiently from any disruptions or failures without losing any data or causing any downtime for users. The durability requirement ensures that the system can handle unexpected events and maintain its functionality over time."/>
+  <properties
+      key="skos:definition"
+      value="Durability is an IT non-functional requirement that refers to the ability of a system or application to withstand and recover from failures, errors, or disruptions. It ensures that the system can maintain its functionality and data integrity even in the face of unexpected events such as power outages, hardware failures, or network disruptions. Durability is critical for systems that handle sensitive or mission-critical data, as any loss or corruption of data can have severe consequences. To achieve durability, systems may use techniques such as data replication, backup and recovery, and fault tolerance."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="Durability is a non-functional requirement that refers to the ability of a system to maintain its functionality and performance over time, even in the face of adverse conditions such as hardware failures, power outages, or other disruptions. This requirement is important for systems that are critical to the operation of an organization or that handle sensitive or valuable data.&#xA;&#xA;According to the TOGAF specification, durability is one of the key quality attributes that must be considered when designing and implementing an enterprise architecture. This requirement is closely related to other non-functional requirements such as reliability, availability, and maintainability, which together form the basis of a system's overall performance and effectiveness.&#xA;&#xA;To ensure that a system meets the durability requirement, architects and designers must consider a range of factors, including the robustness of hardware components, the resilience of software applications, and the effectiveness of backup and recovery procedures. They must also consider the impact of environmental factors such as temperature, humidity, and power fluctuations, and design systems that can withstand these conditions without compromising performance or functionality.&#xA;&#xA;In addition to these technical considerations, architects and designers must also consider the organizational and operational factors that can affect durability. This includes factors such as training and support for system users, maintenance and repair procedures, and disaster recovery planning.&#xA;&#xA;Overall, the durability requirement is a critical aspect of enterprise architecture design, and must be carefully considered and addressed in order to ensure the long-term success and effectiveness of a system."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DurabilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:DurabilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

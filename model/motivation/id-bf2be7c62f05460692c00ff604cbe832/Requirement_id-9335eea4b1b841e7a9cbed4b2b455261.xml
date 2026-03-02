@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authentication"
+    id="id-9335eea4b1b841e7a9cbed4b2b455261"
+    documentation="Definition: Authentication is a non-functional requirement that ensures that only authorized users can access a system or application. It involves verifying the identity of the user through various means such as passwords, biometric identification, or security tokens. Authentication is crucial for maintaining the security and integrity of a system, as it prevents unauthorized access and protects sensitive information from being compromised. It also helps to ensure accountability and traceability by keeping a record of user activities.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Authentication is a non-functional requirement that refers to the process of verifying the identity of a user or system. It is a critical aspect of security and is necessary to ensure that only authorized users or systems can access the system or application.&#xA;&#xA;The Authentication non-functional requirement can be further broken down into several sub-requirements, including:&#xA;&#xA;1. Identification - The process of identifying a user or system based on a unique identifier such as a username, email address, or IP address.&#xA;&#xA;2. Authentication Mechanisms - The methods used to verify the identity of a user or system, such as passwords, biometric authentication, or two-factor authentication.&#xA;&#xA;3. Authorization - The process of granting or denying access to specific resources or functions based on the authenticated user's permissions.&#xA;&#xA;4. Audit Trail - The ability to track and record all authentication attempts and actions taken by authenticated users or systems.&#xA;&#xA;5. Security - The requirement to ensure that authentication mechanisms are secure and cannot be easily bypassed or compromised.&#xA;&#xA;Overall, the Authentication non-functional requirement is critical to ensuring the security and integrity of a system or application and should be carefully considered and implemented in accordance with industry best practices and standards.&#xA;&#xA;Example: An example of the IT non-functional requirement 'Authentication' could be that a user must provide a valid username and password to access a secure system or application. This ensures that only authorized users are able to access sensitive information or perform certain actions within the system. Additionally, the system may require multi-factor authentication, such as a security token or biometric verification, to further enhance security and prevent unauthorized access.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuthenticationRequirement&#xA;&#xA;ABB name: eira:AuthenticationRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuthenticationRequirement&#xA;&#xA;Name: Authentication Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AuthenticationRequirement"/>
+  <properties
+      key="dct:title"
+      value="Authentication Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="An example of the IT non-functional requirement 'Authentication' could be that a user must provide a valid username and password to access a secure system or application. This ensures that only authorized users are able to access sensitive information or perform certain actions within the system. Additionally, the system may require multi-factor authentication, such as a security token or biometric verification, to further enhance security and prevent unauthorized access."/>
+  <properties
+      key="skos:definition"
+      value="Authentication is a non-functional requirement that ensures that only authorized users can access a system or application. It involves verifying the identity of the user through various means such as passwords, biometric identification, or security tokens. Authentication is crucial for maintaining the security and integrity of a system, as it prevents unauthorized access and protects sensitive information from being compromised. It also helps to ensure accountability and traceability by keeping a record of user activities."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Authentication is a non-functional requirement that refers to the process of verifying the identity of a user or system. It is a critical aspect of security and is necessary to ensure that only authorized users or systems can access the system or application.&#xA;&#xA;The Authentication non-functional requirement can be further broken down into several sub-requirements, including:&#xA;&#xA;1. Identification - The process of identifying a user or system based on a unique identifier such as a username, email address, or IP address.&#xA;&#xA;2. Authentication Mechanisms - The methods used to verify the identity of a user or system, such as passwords, biometric authentication, or two-factor authentication.&#xA;&#xA;3. Authorization - The process of granting or denying access to specific resources or functions based on the authenticated user's permissions.&#xA;&#xA;4. Audit Trail - The ability to track and record all authentication attempts and actions taken by authenticated users or systems.&#xA;&#xA;5. Security - The requirement to ensure that authentication mechanisms are secure and cannot be easily bypassed or compromised.&#xA;&#xA;Overall, the Authentication non-functional requirement is critical to ensuring the security and integrity of a system or application and should be carefully considered and implemented in accordance with industry best practices and standards."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AuthenticationRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:AuthenticationRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

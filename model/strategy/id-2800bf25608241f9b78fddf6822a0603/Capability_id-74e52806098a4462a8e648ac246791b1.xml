@@ -1,0 +1,56 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Business Capability"
+    id="id-74e52806098a4462a8e648ac246791b1"
+    documentation="Definition: Digital Business Capability ABB is a Capability, that corresponds to an ability implemented in a system to enable a public administrations to perform an administrative function.&#xA;&#xA;Source: European Statistical System &#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/statistical-enterprise-architecture/document/ess-earf-business-capabilities-model&#xA;&#xA;Additional information: The Digital Business capability enable public administations to performadministrative functions inthe framework of e-governance.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ePrescription: &quot;Generation, transmission, and filling of a medical prescription through digital channels. ePrescribing allows a physician, pharmacist, nurse practitioner, or physician assistant to use digital prescription software to electronically transmit a new prescription or renewal authorization to a community or mail-order pharmacy&quot;.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: Digital Business Capability ABB is salient for organizational interoperability because it determines the core business functions and operations of public administration services. This ABB ensures the coordination of public systems to make a response to specific procedures. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalBusinessCapabilityCapability&#xA;&#xA;ABB name: eira:DigitalBusinessCapabilityCapability&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalBusinessCapabilityCapability&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalBusinessCapabilityCapability"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalBusinessCapabilityCapability"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digital Business Capability ABB is a Capability, that corresponds to an ability implemented in a system to enable a public administrations to perform an administrative function."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Statistical System "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/statistical-enterprise-architecture/document/ess-earf-business-capabilities-model"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ePrescription: &quot;Generation, transmission, and filling of a medical prescription through digital channels. ePrescribing allows a physician, pharmacist, nurse practitioner, or physician assistant to use digital prescription software to electronically transmit a new prescription or renewal authorization to a community or mail-order pharmacy&quot;."/>
+  <properties
+      key="eira:iopSaliency"
+      value="Digital Business Capability ABB is salient for organizational interoperability because it determines the core business functions and operations of public administration services. This ABB ensures the coordination of public systems to make a response to specific procedures. "/>
+  <properties
+      key="skos:note"
+      value="The Digital Business capability enable public administations to performadministrative functions inthe framework of e-governance."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalBusinessCapabilityCapability"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Capability>

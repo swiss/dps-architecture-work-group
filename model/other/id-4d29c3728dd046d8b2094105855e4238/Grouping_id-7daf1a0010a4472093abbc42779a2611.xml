@@ -1,0 +1,41 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Architect Concerns"
+    id="id-7daf1a0010a4472093abbc42779a2611"
+    documentation="Definition: Information Architect Concerns ABB is a Grouping that covers the processes an information architect should follow, and the relation/influence of process related with other roles' processes, to read/assess/understand an eGovERA model. It includes elements such as 'Semantic view' and 'Organisational view'.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Information Architect Concerns ABB is a crucial component in the eGovERA model, providing a structured approach for information architects to understand and assess the model. It includes elements like 'Semantic view', which refers to the process of understanding the meaning and interpretation of the information in the model, and 'Organisational view', which refers to the process of understanding the organizational structure and roles in the model. These elements help the information architect to understand the model from different perspectives and to ensure that the model is accurately interpreted and implemented.&#xA;&#xA;Example: For instance, an information architect might start by examining the 'Semantic view' to understand the meaning of the information in the eGovERA model. They might then move on to the 'Organisational view' to understand how the roles and responsibilities are distributed in the model. This comprehensive approach ensures that the architect has a thorough understanding of the model and can effectively guide its implementation.&#xA;&#xA;LOST view: [A] How to read the model&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/InformationArchitectConcernsGrouping&#xA;&#xA;ABB name: egovera:InformationArchitectConcernsGrouping&#xA;&#xA;EIRA concept: eira:None&#xA;&#xA;Last modification: 2023-11-19&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/InformationArchitectConcernsGrouping&#xA;&#xA;Name: Information Architect Concerns Catalogue&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/InformationArchitectConcernsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-19"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/InformationArchitectConcernsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Information Architect Concerns Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:InformationArchitectConcernsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Information Architect Concerns ABB is a Grouping that covers the processes an information architect should follow, and the relation/influence of process related with other roles' processes, to read/assess/understand an eGovERA model. It includes elements such as 'Semantic view' and 'Organisational view'."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, an information architect might start by examining the 'Semantic view' to understand the meaning of the information in the eGovERA model. They might then move on to the 'Organisational view' to understand how the roles and responsibilities are distributed in the model. This comprehensive approach ensures that the architect has a thorough understanding of the model and can effectively guide its implementation."/>
+  <properties
+      key="skos:note"
+      value="The Information Architect Concerns ABB is a crucial component in the eGovERA model, providing a structured approach for information architects to understand and assess the model. It includes elements like 'Semantic view', which refers to the process of understanding the meaning and interpretation of the information in the model, and 'Organisational view', which refers to the process of understanding the organizational structure and roles in the model. These elements help the information architect to understand the model from different perspectives and to ensure that the model is accurately interpreted and implemented."/>
+  <properties
+      key="eira:concept"
+      value="eira:None"/>
+  <properties
+      key="eira:view"
+      value="[A] How to read the model"/>
+</archimate:Grouping>

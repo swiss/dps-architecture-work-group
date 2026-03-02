@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="XML"
+    id="id-2da53d981b644141a70b24968c23bbd3"
+    documentation="Description: The Extensible Markup Language (XML) is a subset of SGML that is completely described in this document. Its goal is to enable generic SGML to be served, received, and processed on the Web in the way that is now possible with HTML. XML has been designed for ease of implementation and for interoperability with both SGML and HTML.&#xA;&#xA;Publisher: W3C&#xA;&#xA;Source: https://www.w3.org/TR/2008/REC-xml-20081126/&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/XMLRepresentation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/XMLRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="W3C"/>
+  <properties
+      key="dct:description"
+      value="The Extensible Markup Language (XML) is a subset of SGML that is completely described in this document. Its goal is to enable generic SGML to be served, received, and processed on the Web in the way that is now possible with HTML. XML has been designed for ease of implementation and for interoperability with both SGML and HTML."/>
+  <properties
+      key="dct:source"
+      value="https://www.w3.org/TR/2008/REC-xml-20081126/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/XMLRepresentation"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/XMLRepresentation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

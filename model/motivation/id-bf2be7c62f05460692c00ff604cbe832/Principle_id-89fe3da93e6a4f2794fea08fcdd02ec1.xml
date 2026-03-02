@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Once Only"
+    id="id-89fe3da93e6a4f2794fea08fcdd02ec1"
+    documentation="Definition: Citizens and businesses provide public administrations data only once Requesting the data multiple times leads to an unnecessary administrative burden for citizens and businesses. It also leads to multiple administrations of the same data, with a high risk of inconsistency and low data quality. It is essential that the data that public administrations use is of good quality, in order to prevent errors and delays in processes and provide high-quality services. There is a central metadata administration of all the datasets that public administration bodies have available for reuse.Public administration bodies first determine whether specific data elements are available for reuse before they decide to collect them.Data that can be reused from other public administrations are not requested from citizens or businesses but simply referred to.&quot;&quot;&#xA;&#xA;Source: Once Only Principle of DIGITAL Europe&#xA;&#xA;Source reference: https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Once+Only+Principle&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/once-only&#xA;&#xA;ABB name: elap:OnceOnlyPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Once Only&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:OnceOnlyPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Once Only"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/once-only"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="Once Only Principle of DIGITAL Europe"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Once+Only+Principle"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="Citizens and businesses provide public administrations data only once Requesting the data multiple times leads to an unnecessary administrative burden for citizens and businesses. It also leads to multiple administrations of the same data, with a high risk of inconsistency and low data quality. It is essential that the data that public administrations use is of good quality, in order to prevent errors and delays in processes and provide high-quality services. There is a central metadata administration of all the datasets that public administration bodies have available for reuse.Public administration bodies first determine whether specific data elements are available for reuse before they decide to collect them.Data that can be reused from other public administrations are not requested from citizens or businesses but simply referred to.&quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

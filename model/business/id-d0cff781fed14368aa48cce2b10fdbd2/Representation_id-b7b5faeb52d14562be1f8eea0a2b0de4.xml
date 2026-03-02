@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LDES"
+    id="id-b7b5faeb52d14562be1f8eea0a2b0de4"
+    documentation="Description: A Linked Data Event Stream (LDES) is a new data publishing approach which allows you to publish any dataset as a collection of immutable objects. The focus of an LDES is to allow clients to replicate the history of a dataset and efficiently synchronise with its latest changes.&#xA;&#xA;Publisher: SEMIC (European Commission)&#xA;&#xA;Source: https://semiceu.github.io/LinkedDataEventStreams/&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/LDESRepresentation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/LDESRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="SEMIC (European Commission)"/>
+  <properties
+      key="dct:description"
+      value="A Linked Data Event Stream (LDES) is a new data publishing approach which allows you to publish any dataset as a collection of immutable objects. The focus of an LDES is to allow clients to replicate the history of a dataset and efficiently synchronise with its latest changes."/>
+  <properties
+      key="dct:source"
+      value="https://semiceu.github.io/LinkedDataEventStreams/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/LDESRepresentation"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/LDESRepresentation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

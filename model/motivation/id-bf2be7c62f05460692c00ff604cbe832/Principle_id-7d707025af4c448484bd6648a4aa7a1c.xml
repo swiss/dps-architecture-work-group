@@ -1,0 +1,45 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Care from cradle to grave"
+    id="id-7d707025af4c448484bd6648a4aa7a1c"
+    documentation="Definition: A full life cycle cost of ownership (including retirement costs) should form part of the business case. At a critical stage for sustainable development in terms of climate change, and excess use of resources (economic, natural resources, etc), there is a need for the public administrations to use and establish relevant policies that help the reduction of general waste. Public administrations are the first link of the chain and need to be the example for society and businesses on taking care of the whole life cycle for technology products. Therefore, when planning and designing public services, this aspect needs to be included (from the design and implementation to the retirement) When implementing and retiring elements related to the provision of digital public services, public administrations shall include and create policies that ensure the lifecycle of infrastructures, applications services and equipment, is considered and extended to ensure the minimum waste in terms of sustainability. An example regarding this last topic spotted is, for instance, the application of policies to ensure that no additional costs (economic, social and environmental) rise when renewing the computer fleet.&quot;&quot;&#xA;&#xA;Source: How the EU wants to achieve a circular economy by 2050 in News European Parliament&#xA;&#xA;Source reference: https://www.europarl.europa.eu/news/en/headlines/society/20210128STO96607/how-the-eu-wants-to-achieve-a-circular-economy-by-2050&#xA;&#xA;Additional information: At a critical stage for sustainable development in terms of climate change, and excess use of resources (economic, natural resources, etc), there is a need for the public administrations to use and establish relevant policies that help the reduction of general waste. &#xA;&#xA;Public administrations are the first link of the chain and need to be the example for society and businesses on taking care of the whole life cycle for technology products. Therefore, when planning and designing public services, this aspect needs to be included (from the design and implementation to the retirement)&#xA;How the EU wants to achieve a circular economy by 2050&#xA;&#xA;LOST view: OV-Governance Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/care-cradle-grave&#xA;&#xA;ABB name: elap:care-cradle-grave&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Care from cradle to grave&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:care-cradle-grave"/>
+  <properties
+      key="dct:title"
+      value="Care from cradle to grave"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/care-cradle-grave"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="skos:note"
+      value="At a critical stage for sustainable development in terms of climate change, and excess use of resources (economic, natural resources, etc), there is a need for the public administrations to use and establish relevant policies that help the reduction of general waste. &#xA;&#xA;Public administrations are the first link of the chain and need to be the example for society and businesses on taking care of the whole life cycle for technology products. Therefore, when planning and designing public services, this aspect needs to be included (from the design and implementation to the retirement)&#xA;How the EU wants to achieve a circular economy by 2050"/>
+  <properties
+      key="eira:definitionSource"
+      value="How the EU wants to achieve a circular economy by 2050 in News European Parliament"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.europarl.europa.eu/news/en/headlines/society/20210128STO96607/how-the-eu-wants-to-achieve-a-circular-economy-by-2050"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="OV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:definition"
+      value="A full life cycle cost of ownership (including retirement costs) should form part of the business case. At a critical stage for sustainable development in terms of climate change, and excess use of resources (economic, natural resources, etc), there is a need for the public administrations to use and establish relevant policies that help the reduction of general waste. Public administrations are the first link of the chain and need to be the example for society and businesses on taking care of the whole life cycle for technology products. Therefore, when planning and designing public services, this aspect needs to be included (from the design and implementation to the retirement) When implementing and retiring elements related to the provision of digital public services, public administrations shall include and create policies that ensure the lifecycle of infrastructures, applications services and equipment, is considered and extended to ensure the minimum waste in terms of sustainability. An example regarding this last topic spotted is, for instance, the application of policies to ensure that no additional costs (economic, social and environmental) rise when renewing the computer fleet.&quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

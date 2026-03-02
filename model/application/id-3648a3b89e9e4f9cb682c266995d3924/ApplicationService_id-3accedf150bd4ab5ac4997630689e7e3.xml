@@ -1,0 +1,49 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Artificial Intelligence"
+    id="id-3accedf150bd4ab5ac4997630689e7e3"
+    documentation="Definition: Artificial Intelligence ABB is an Application Service that enables the procedures to display intelligent behaviour by analysing their environment and taking actions with some degree of autonomy to achieve specific objectives.&#xA;&#xA;Source: European Comision&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/library/definition-artificial-intelligence-main-capabilities-and-scientific-disciplines&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): PyTorch is a machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing, originally developed by Meta AI and now part of the Linux Foundation umbrella. It is free and open-source software released under the modified BSD license. Although the Python interface is more polished and the primary focus of development, PyTorch also has a C++ interface. https://pytorch.org/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Artificial Intelligence Application Service ABB is salient for technical interoperability because it refers to applications services that are able to analyse data, analysing the environment to take some automated actions for reaching objectives. Those services can enable digital public services to interact between them, exchanging data, and promoting interoperability of services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/ArtificialIntelligenceApplicationService&#xA;&#xA;ABB name: eira:ArtificialIntelligenceApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ArtificialIntelligenceApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ArtificialIntelligenceApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:ArtificialIntelligenceApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Artificial Intelligence ABB is an Application Service that enables the procedures to display intelligent behaviour by analysing their environment and taking actions with some degree of autonomy to achieve specific objectives."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Comision"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/library/definition-artificial-intelligence-main-capabilities-and-scientific-disciplines"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): PyTorch is a machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing, originally developed by Meta AI and now part of the Linux Foundation umbrella. It is free and open-source software released under the modified BSD license. Although the Python interface is more polished and the primary focus of development, PyTorch also has a C++ interface. https://pytorch.org/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Artificial Intelligence Application Service ABB is salient for technical interoperability because it refers to applications services that are able to analyse data, analysing the environment to take some automated actions for reaching objectives. Those services can enable digital public services to interact between them, exchanging data, and promoting interoperability of services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ArtificialIntelligenceApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

@@ -1,0 +1,45 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Carbon-dioxide e-footprint impact awareness "
+    id="id-e0ea574622484ed7a009bc47fb61326a"
+    documentation="Definition: Every solution must support sustainability. The sourcing, operation and decommissioning of IT equipment should not indirectly or directly negatively affect economic, social and environmental aspects. Climate change is one of societys challenges for the upcoming decades, and public administrations shall be aware of and consider it when planning or implementing digital public services. Therefore, administrations and bodies in charge of developing public services according to public policies, need to consider the proper agreements that allow the reusing of existing services components and infrastructure to reduce the Carbon-dioxide e-footprint impact. Public Administrations need to reuse mainly physical or cloud existing infrastructures instead of creating ad-hoc technology and resources for delivering public services. Not only infrastructure but also technological equipment.&#xA;&#xA;Source: The European Parliament’s carbon footprint Towards carbon neutrality&#xA;&#xA;Source reference: https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjiofaGvLv2AhUThf0HHSXLBZoQFnoECAIQAQ&amp;url=https%3A%2F%2Fwww.europarl.europa.eu%2FRegData%2Fetudes%2FSTUD%2F2020%2F652735%2FIPOL_STU(2020)652735_EN.pdf&amp;usg=AOvVaw2CVqJPeLvN_ianAYdbLyi7&#xA;&#xA;Additional information: Climate change is one of society's challenges for the upcoming decades, and public administrations shall be aware of and consider it when planning or implementing digital public services. Therefore, administrations and bodies in charge of developing public services according to public policies, need to consider the proper agreements that allow the reusing of existing services components and infrastructure to reduce the Carbon-dioxide e-footprint impact.  &#xA;Towards carbon neutrality - European Parliament: The study analyses the European Parliament’s (EP) carbon footprint in the context of the recent EP resolutions, in which it declared a climate emergency in Europe and requested the development of a strategy to become itself carbon-neutral by 2030.&#xA;&#xA;LOST view: OV-Governance Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/carbon-dioxide-e-footprint-impact-awareness&#xA;&#xA;ABB name: elap:carbon-dioxide-e-footprint-impact-awareness&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Carbon-dioxide e-footprint impact awareness &#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:carbon-dioxide-e-footprint-impact-awareness"/>
+  <properties
+      key="dct:title"
+      value="Carbon-dioxide e-footprint impact awareness "/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/carbon-dioxide-e-footprint-impact-awareness"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="skos:note"
+      value="Climate change is one of society's challenges for the upcoming decades, and public administrations shall be aware of and consider it when planning or implementing digital public services. Therefore, administrations and bodies in charge of developing public services according to public policies, need to consider the proper agreements that allow the reusing of existing services components and infrastructure to reduce the Carbon-dioxide e-footprint impact.  &#xA;Towards carbon neutrality - European Parliament: The study analyses the European Parliament’s (EP) carbon footprint in the context of the recent EP resolutions, in which it declared a climate emergency in Europe and requested the development of a strategy to become itself carbon-neutral by 2030."/>
+  <properties
+      key="eira:definitionSource"
+      value="The European Parliament’s carbon footprint Towards carbon neutrality"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjiofaGvLv2AhUThf0HHSXLBZoQFnoECAIQAQ&amp;url=https%3A%2F%2Fwww.europarl.europa.eu%2FRegData%2Fetudes%2FSTUD%2F2020%2F652735%2FIPOL_STU(2020)652735_EN.pdf&amp;usg=AOvVaw2CVqJPeLvN_ianAYdbLyi7"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="OV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:definition"
+      value="Every solution must support sustainability. The sourcing, operation and decommissioning of IT equipment should not indirectly or directly negatively affect economic, social and environmental aspects. Climate change is one of societys challenges for the upcoming decades, and public administrations shall be aware of and consider it when planning or implementing digital public services. Therefore, administrations and bodies in charge of developing public services according to public policies, need to consider the proper agreements that allow the reusing of existing services components and infrastructure to reduce the Carbon-dioxide e-footprint impact. Public Administrations need to reuse mainly physical or cloud existing infrastructures instead of creating ad-hoc technology and resources for delivering public services. Not only infrastructure but also technological equipment."/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

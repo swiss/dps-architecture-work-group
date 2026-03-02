@@ -1,0 +1,17 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-8bd19fc759264139bc3477dab52f32a0">
+  <properties
+      key="eira:application"
+      value="Upscale"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-10"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-15cd0c5ce9e94aee96cece65e2b987de.xml#id-15cd0c5ce9e94aee96cece65e2b987de"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-defd24cd1c944a7ca9d5fdc7de16ae3d.xml#id-defd24cd1c944a7ca9d5fdc7de16ae3d"/>
+</archimate:AggregationRelationship>

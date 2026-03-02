@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Requirements Catalogue"
+    id="id-42a7daa9e3e04bc497a2788e33f9ed9b"
+    documentation="Definition: Security Requirements Catalogue ABB is a grouping that covers a range of non-functional IT requirements that are critical for ensuring the security, integrity, and reliability of a system or application. These requirements include confidentiality, integrity, nonrepudiation, accountability, authenticity, auditability, authentication, authorization, legality, compliance, and privacy. Each of these elements plays a crucial role in protecting sensitive information, preventing unauthorized access or modification, ensuring compliance with laws and regulations, and maintaining the trustworthiness and credibility of the system.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Security Requirements Catalogue ABB is a comprehensive collection of IT security requirements that are essential for any system or application that handles sensitive data. These requirements are designed to protect the data from unauthorized access, ensure its accuracy and consistency, provide proof of transactions, track user activities, verify user identities, grant appropriate access levels, comply with legal and regulatory standards, and safeguard privacy. Failure to meet these requirements can result in security breaches, loss of data integrity, legal penalties, and loss of trust among users and stakeholders.&#xA;&#xA;Example: For example, a healthcare application would need to meet the requirements of confidentiality to protect patient data, integrity to ensure the accuracy of medical records, nonrepudiation to provide proof of medical orders, accountability to track user activities, authenticity to verify the genuineness of data, auditability to provide a record of transactions, authentication to verify user identities, authorization to grant appropriate access levels, legality to comply with healthcare regulations, compliance to adhere to data protection standards, and privacy to safeguard patient privacy.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SecurityRequirementsCatalogueGrouping&#xA;&#xA;ABB name: eira:SecurityRequirementsCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SecurityRequirementsCatalogueGrouping&#xA;&#xA;Name: Security Requirements Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SecurityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SecurityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Security Requirements Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:SecurityRequirementsCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Security Requirements Catalogue ABB is a grouping that covers a range of non-functional IT requirements that are critical for ensuring the security, integrity, and reliability of a system or application. These requirements include confidentiality, integrity, nonrepudiation, accountability, authenticity, auditability, authentication, authorization, legality, compliance, and privacy. Each of these elements plays a crucial role in protecting sensitive information, preventing unauthorized access or modification, ensuring compliance with laws and regulations, and maintaining the trustworthiness and credibility of the system."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For example, a healthcare application would need to meet the requirements of confidentiality to protect patient data, integrity to ensure the accuracy of medical records, nonrepudiation to provide proof of medical orders, accountability to track user activities, authenticity to verify the genuineness of data, auditability to provide a record of transactions, authentication to verify user identities, authorization to grant appropriate access levels, legality to comply with healthcare regulations, compliance to adhere to data protection standards, and privacy to safeguard patient privacy."/>
+  <properties
+      key="skos:note"
+      value="The Security Requirements Catalogue ABB is a comprehensive collection of IT security requirements that are essential for any system or application that handles sensitive data. These requirements are designed to protect the data from unauthorized access, ensure its accuracy and consistency, provide proof of transactions, track user activities, verify user identities, grant appropriate access levels, comply with legal and regulatory standards, and safeguard privacy. Failure to meet these requirements can result in security breaches, loss of data integrity, legal penalties, and loss of trust among users and stakeholders."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

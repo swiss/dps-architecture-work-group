@@ -1,0 +1,52 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Level Agreement"
+    id="id-43d257e0e36d4471ab4fd2d8acc47434"
+    documentation="Definition: Service Level Agreement ABB is a Contract formalising the agreement between a service provider and a customer or client that outlines the level of service that will be provided, as well as the metrics that will be used to measure the quality of the service&#xA;&#xA;Source: EIF&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf#page=27&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ETA - The European Technical Assessment (ETA) is an alternative for construction products not covered by a harmonised standard. It is a document providing information on their performance assessment. The procedure is established in the Construction Products Regulation and offers a way for manufacturers to draw up the Declaration of Performance and affix the CE marking. It contributes to the free movement of construction products and the creation of a strong Single Market. https://ec.europa.eu/growth/sectors/construction/product-regulation/european-assessment_en&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Service Level Agreement ABB is a key interoperability enabler that introduces the agreed terms and conditions for the delivery a services. The SLA is relevant and enables interoperability because include the conditions that will determine and guide the delivery and therefore, the aspects regarding interoperability with regard of services, data and infrastructures. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/ServiceLevelAgreementContract&#xA;&#xA;ABB name: eira:ServiceLevelAgreementContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ServiceLevelAgreementContract&#xA;&#xA;Interoperability Layer: Technical&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ServiceLevelAgreementContract"/>
+  <properties
+      key="dct:type"
+      value="eira:ServiceLevelAgreementContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Service Level Agreement ABB is a Contract formalising the agreement between a service provider and a customer or client that outlines the level of service that will be provided, as well as the metrics that will be used to measure the quality of the service"/>
+  <properties
+      key="eira:definitionSource"
+      value="EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf#page=27"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ETA - The European Technical Assessment (ETA) is an alternative for construction products not covered by a harmonised standard. It is a document providing information on their performance assessment. The procedure is established in the Construction Products Regulation and offers a way for manufacturers to draw up the Declaration of Performance and affix the CE marking. It contributes to the free movement of construction products and the creation of a strong Single Market. https://ec.europa.eu/growth/sectors/construction/product-regulation/european-assessment_en"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Service Level Agreement ABB is a key interoperability enabler that introduces the agreed terms and conditions for the delivery a services. The SLA is relevant and enables interoperability because include the conditions that will determine and guide the delivery and therefore, the aspects regarding interoperability with regard of services, data and infrastructures. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ServiceLevelAgreementContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="Technical"/>
+</archimate:Contract>

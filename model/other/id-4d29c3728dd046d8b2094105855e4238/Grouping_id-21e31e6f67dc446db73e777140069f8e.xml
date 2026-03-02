@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Exchange Enablers"
+    id="id-21e31e6f67dc446db73e777140069f8e"
+    documentation="Definition: Digital Exchange Enablers ABB is a Grouping that refers to tools or components that facilitate the exchange of data between systems or applications&#xA;&#xA;Source: EIFv2 &#xA;&#xA;Source reference: http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf&#xA;&#xA;Example: The Data Exchange Service ABB  is salient for technical interoperability because it provides secure and trustworthy data exchange between different ICT systems as stated in the EIF: &quot;Define a common security and privacy framework and establish processes for public services to ensure secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&quot;&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Data Exchange Enablers Grouping ABB is salient for technical interoperability because it provides secure and trustworthy data exchange between different ICT systems as stated in the EIF: &quot;Define a common security and privacy framework and establish processes for public services to ensure secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataExchangeEnablersGrouping&#xA;&#xA;ABB name: eira:DataExchangeEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataExchangeEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataExchangeEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:DataExchangeEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digital Exchange Enablers ABB is a Grouping that refers to tools or components that facilitate the exchange of data between systems or applications"/>
+  <properties
+      key="eira:definitionSource"
+      value="EIFv2 "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf"/>
+  <properties
+      key="skos:example"
+      value="The Data Exchange Service ABB  is salient for technical interoperability because it provides secure and trustworthy data exchange between different ICT systems as stated in the EIF: &quot;Define a common security and privacy framework and establish processes for public services to ensure secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&quot;"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Exchange Enablers Grouping ABB is salient for technical interoperability because it provides secure and trustworthy data exchange between different ICT systems as stated in the EIF: &quot;Define a common security and privacy framework and establish processes for public services to ensure secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataExchangeEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

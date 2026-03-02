@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elastic Cloud Infrastructure"
+    id="id-be0e48d348b64e7586ca2df415cb6d89"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Elastic Cloud Infrastructure&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: Elastic Cloud Infrastructure (ECI) is a concept in IT architecture that refers to a cloud-based infrastructure that can dynamically scale up or down based on the needs of the application or workload. This means that resources such as computing power, storage, and network bandwidth can be added or removed as required, allowing for greater flexibility and cost-effectiveness. ECI is often used in conjunction with containerization technologies such as Docker and Kubernetes, which allow applications to be packaged and deployed in a consistent and portable manner. ECI can also help to improve application performance and availability by distributing workloads across multiple servers or data centers.&#xA;&#xA;Example: Elastic Cloud Infrastructure:&#xA;Decision: Utilizing cloud infrastructure services to dynamically adjust resources based on demand.&#xA;Rationale: Cloud-based auto scaling enables the system to automatically add or remove compute resources in response to changes in workload, ensuring optimal resource allocation and scalability.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ElasticCloudInfrastructureGoal&#xA;&#xA;ABB name: eira:ElasticCloudInfrastructureGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947866&#xA;&#xA;Name: Architecture Decision Record about Elastic Cloud Infrastructure&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947866"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Elastic Cloud Infrastructure"/>
+  <properties
+      key="skos:example"
+      value="Elastic Cloud Infrastructure:&#xA;Decision: Utilizing cloud infrastructure services to dynamically adjust resources based on demand.&#xA;Rationale: Cloud-based auto scaling enables the system to automatically add or remove compute resources in response to changes in workload, ensuring optimal resource allocation and scalability."/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="Elastic Cloud Infrastructure (ECI) is a concept in IT architecture that refers to a cloud-based infrastructure that can dynamically scale up or down based on the needs of the application or workload. This means that resources such as computing power, storage, and network bandwidth can be added or removed as required, allowing for greater flexibility and cost-effectiveness. ECI is often used in conjunction with containerization technologies such as Docker and Kubernetes, which allow applications to be packaged and deployed in a consistent and portable manner. ECI can also help to improve application performance and availability by distributing workloads across multiple servers or data centers."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ElasticCloudInfrastructureGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:ElasticCloudInfrastructureGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Elastic Cloud Infrastructure"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

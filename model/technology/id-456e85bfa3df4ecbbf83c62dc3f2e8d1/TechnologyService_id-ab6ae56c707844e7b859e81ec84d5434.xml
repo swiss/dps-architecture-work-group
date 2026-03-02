@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remote Desktop"
+    id="id-ab6ae56c707844e7b859e81ec84d5434"
+    documentation="Definition: Remote Desktop ABB is a Technology Service that enables the procedures to grant users to access and control a computer or device from a remote location using a network connection&#xA;&#xA;Source: Inspired in Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/remote-access&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): PSI Remote Desktop Service from the European Open Science Cloud https://marketplace.eosc-portal.eu/services/remote-desktop-service?from_recommendation_panel=true&amp;fromc=access-physical-einfrastructures&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Remote Desktop ABB is salient for technical interoperability because it refers to the sharing of a workspace to share or access public administration applications remotely. This contributes to establishing European public services with remote accessibility.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/RemoteDesktopTechnologyService&#xA;&#xA;ABB name: eira:RemoteDesktopTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/RemoteDesktopTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/RemoteDesktopTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:RemoteDesktopTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Remote Desktop ABB is a Technology Service that enables the procedures to grant users to access and control a computer or device from a remote location using a network connection"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/remote-access"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): PSI Remote Desktop Service from the European Open Science Cloud https://marketplace.eosc-portal.eu/services/remote-desktop-service?from_recommendation_panel=true&amp;fromc=access-physical-einfrastructures"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Remote Desktop ABB is salient for technical interoperability because it refers to the sharing of a workspace to share or access public administration applications remotely. This contributes to establishing European public services with remote accessibility."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/RemoteDesktopTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

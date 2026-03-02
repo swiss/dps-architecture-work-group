@@ -1,0 +1,47 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Metadata Publisher"
+    id="id-729400b830ed4d7292df97decbd144a8"
+    documentation="Definition: A Service Metadata Publisher is a service that allows users to create, publish, and manage metadata associated with services or resources. It provides a user-friendly interface accessible via the web, enabling users to input relevant information about their services, such as descriptions, capabilities, access policies, and quality metrics. The Service Metadata Publisher facilitates the documentation and dissemination of metadata, ensuring that service providers can effectively communicate the details and characteristics of their offerings to potential users. It may support various metadata standards and provide features for metadata editing, versioning, and publication.&#xA;&#xA;Source: OASIS&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ServiceMetadataPublisherApplicationService&#xA;&#xA;ABB name: egovera:ServiceMetadataPublisherApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ServiceMetadataPublisherApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataPublicationApplicationService&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="A Service Metadata Publisher is a service that allows users to create, publish, and manage metadata associated with services or resources. It provides a user-friendly interface accessible via the web, enabling users to input relevant information about their services, such as descriptions, capabilities, access policies, and quality metrics. The Service Metadata Publisher facilitates the documentation and dissemination of metadata, ensuring that service providers can effectively communicate the details and characteristics of their offerings to potential users. It may support various metadata standards and provide features for metadata editing, versioning, and publication."/>
+  <properties
+      key="eira:definitionSource"
+      value="OASIS"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ServiceMetadataPublisherApplicationService"/>
+  <properties
+      key="dct:type"
+      value="egovera:ServiceMetadataPublisherApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Data Management and Knowledge Discovery Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Computing Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ServiceMetadataPublisherApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataPublicationApplicationService"/>
+</archimate:ApplicationService>

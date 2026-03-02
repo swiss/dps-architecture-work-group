@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nonrepudiation"
+    id="id-549598ca657d4067a366a51b457c61fd"
+    documentation="Definition: Nonrepudiation is an IT non-functional requirement that ensures that the sender and the receiver cannot deny the sending or reception of a message. It is a security measure that provides proof of the authenticity and integrity of a message, ensuring that it cannot be altered or tampered with during transmission. Nonrepudiation is essential in situations where legal or financial transactions are involved, as it provides evidence that can be used to resolve disputes or prove compliance with regulations.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: Nonrepudiation is an IT non-functional requirement that ensures that the sender of a message cannot deny sending it and the receiver cannot deny receiving it. This requirement is essential in situations where there is a need to establish accountability and traceability of communication between parties. &#xA;&#xA;According to the TOGAF specification, nonrepudiation is a security requirement that is achieved through the use of digital signatures, timestamps, and other cryptographic techniques. These techniques ensure that messages are tamper-proof and that their origin and integrity can be verified. &#xA;&#xA;Nonrepudiation is an important requirement in many industries, including finance, healthcare, and legal services. It helps to prevent fraud, disputes, and other legal issues that may arise from disputes over the authenticity of messages. &#xA;&#xA;To ensure nonrepudiation, IT systems must be designed with security in mind. This includes implementing strong authentication and access controls, using encryption to protect data in transit and at rest, and monitoring systems for suspicious activity. Additionally, organizations must have policies and procedures in place to ensure that nonrepudiation requirements are met and that any violations are addressed promptly. &#xA;&#xA;Overall, nonrepudiation is a critical IT non-functional requirement that helps to ensure the integrity and accountability of communication between parties. By following the TOGAF guidelines and documentation, organizations can design and implement systems that meet this requirement and provide a secure and reliable platform for communication and collaboration.&#xA;&#xA;Example: Nonrepudiation is an IT non-functional requirement that ensures that a user cannot deny having performed a particular action or transaction. For example, in an online banking system, nonrepudiation ensures that a user cannot deny having made a particular transaction, such as transferring funds to another account. This is achieved through the use of digital signatures and other cryptographic techniques that provide evidence of the user's identity and the authenticity of the transaction.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/NonrepudiationRequirement&#xA;&#xA;ABB name: eira:NonrepudiationRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/NonrepudiationRequirement&#xA;&#xA;Name: Nonrepudiation Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/NonrepudiationRequirement"/>
+  <properties
+      key="dct:title"
+      value="Nonrepudiation Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="Nonrepudiation is an IT non-functional requirement that ensures that a user cannot deny having performed a particular action or transaction. For example, in an online banking system, nonrepudiation ensures that a user cannot deny having made a particular transaction, such as transferring funds to another account. This is achieved through the use of digital signatures and other cryptographic techniques that provide evidence of the user's identity and the authenticity of the transaction."/>
+  <properties
+      key="skos:definition"
+      value="Nonrepudiation is an IT non-functional requirement that ensures that the sender and the receiver cannot deny the sending or reception of a message. It is a security measure that provides proof of the authenticity and integrity of a message, ensuring that it cannot be altered or tampered with during transmission. Nonrepudiation is essential in situations where legal or financial transactions are involved, as it provides evidence that can be used to resolve disputes or prove compliance with regulations."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="Nonrepudiation is an IT non-functional requirement that ensures that the sender of a message cannot deny sending it and the receiver cannot deny receiving it. This requirement is essential in situations where there is a need to establish accountability and traceability of communication between parties. &#xA;&#xA;According to the TOGAF specification, nonrepudiation is a security requirement that is achieved through the use of digital signatures, timestamps, and other cryptographic techniques. These techniques ensure that messages are tamper-proof and that their origin and integrity can be verified. &#xA;&#xA;Nonrepudiation is an important requirement in many industries, including finance, healthcare, and legal services. It helps to prevent fraud, disputes, and other legal issues that may arise from disputes over the authenticity of messages. &#xA;&#xA;To ensure nonrepudiation, IT systems must be designed with security in mind. This includes implementing strong authentication and access controls, using encryption to protect data in transit and at rest, and monitoring systems for suspicious activity. Additionally, organizations must have policies and procedures in place to ensure that nonrepudiation requirements are met and that any violations are addressed promptly. &#xA;&#xA;Overall, nonrepudiation is a critical IT non-functional requirement that helps to ensure the integrity and accountability of communication between parties. By following the TOGAF guidelines and documentation, organizations can design and implement systems that meet this requirement and provide a secure and reliable platform for communication and collaboration."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/NonrepudiationRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:NonrepudiationRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

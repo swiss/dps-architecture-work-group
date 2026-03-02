@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Workplace Infrastructure Enablers"
+    id="id-aa0a7552790b4c41a44c05c74781d4d5"
+    documentation="Definition: Digital Workplace Infrastructure Enablers ABB is a Grouping that enables the set of components and services that enable organizations to create and manage virtual workplaces environments and facilitate their access remotely.&#xA;&#xA;Source: Inspired in Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/remote-access&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): PSI Remote Desktop Service from the European Open Science Cloud https://marketplace.eosc-portal.eu/services/remote-desktop-service?from_recommendation_panel=true&amp;fromc=access-physical-einfrastructures&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Digital Workplace Infrastructure Enablers ABB is salient for technical interoperability due to it refers to setting up the workplace ecosystem to establish access to European public services remotely to access applications using open specifications and interfaces. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalWorkplaceInfrastructureEnablersGrouping&#xA;&#xA;ABB name: eira:DigitalWorkplaceInfrastructureEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalWorkplaceInfrastructureEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalWorkplaceInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalWorkplaceInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digital Workplace Infrastructure Enablers ABB is a Grouping that enables the set of components and services that enable organizations to create and manage virtual workplaces environments and facilitate their access remotely."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/remote-access"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): PSI Remote Desktop Service from the European Open Science Cloud https://marketplace.eosc-portal.eu/services/remote-desktop-service?from_recommendation_panel=true&amp;fromc=access-physical-einfrastructures"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Digital Workplace Infrastructure Enablers ABB is salient for technical interoperability due to it refers to setting up the workplace ecosystem to establish access to European public services remotely to access applications using open specifications and interfaces. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalWorkplaceInfrastructureEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

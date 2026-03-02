@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PKI Certificate Manager"
+    id="id-5e31f6aecfdc493dbea77b5fe20f2f1d"
+    documentation="Definition: PKI Certificate Manager ABB is a Technology Service that enables the procedures to issue, maintain and revoke public key certificates&#xA;&#xA;Source: NIST&#xA;&#xA;Source reference: https://csrc.nist.gov/glossary/term/public_key_infrastructure&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): eDelivery - PKI Service. https://ec.europa.eu/digital-building-blocks/wikis/display/DIGITAL/PKI+Service&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: PKI Certificate Manager ABB is salient for technical interoperability because permits the public services to exchange information through the use of digital certificates that permit the accessibility to such service.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PKICertificateManagerTechnologyService&#xA;&#xA;ABB name: eira:PKICertificateManagerTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PKICertificateManagerTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PKICertificateManagerTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:PKICertificateManagerTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="PKI Certificate Manager ABB is a Technology Service that enables the procedures to issue, maintain and revoke public key certificates"/>
+  <properties
+      key="eira:definitionSource"
+      value="NIST"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://csrc.nist.gov/glossary/term/public_key_infrastructure"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): eDelivery - PKI Service. https://ec.europa.eu/digital-building-blocks/wikis/display/DIGITAL/PKI+Service"/>
+  <properties
+      key="eira:iopSaliency"
+      value="PKI Certificate Manager ABB is salient for technical interoperability because permits the public services to exchange information through the use of digital certificates that permit the accessibility to such service."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PKICertificateManagerTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

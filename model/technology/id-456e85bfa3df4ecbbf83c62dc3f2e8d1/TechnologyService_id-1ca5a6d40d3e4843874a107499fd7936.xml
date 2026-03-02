@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Process Manager"
+    id="id-1ca5a6d40d3e4843874a107499fd7936"
+    documentation="Definition: Business Process Manager ABB is a Technology Service that implements the behaviour of coordinates the behavior of people, systems, information and things to produce business outcomes in support of a business strategy&#xA;&#xA;Source: Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/business-process-management-bpm&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): UNDP- Business Process Re-engineering Manual. https://www.undp.org/sites/g/files/zskgke326/files/migration/uz/BPR-Manual_designed---Eng---final.pdf&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Business Process Manager ABB is salient for organizational interoperability due to it implements and defines business procedures related to public administration services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/BusinessProcessManagerTechnologyService&#xA;&#xA;ABB name: eira:BusinessProcessManagerTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/BusinessProcessManagerTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/BusinessProcessManagerTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessProcessManagerTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Business Process Manager ABB is a Technology Service that implements the behaviour of coordinates the behavior of people, systems, information and things to produce business outcomes in support of a business strategy"/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/business-process-management-bpm"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): UNDP- Business Process Re-engineering Manual. https://www.undp.org/sites/g/files/zskgke326/files/migration/uz/BPR-Manual_designed---Eng---final.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Business Process Manager ABB is salient for organizational interoperability due to it implements and defines business procedures related to public administration services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/BusinessProcessManagerTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

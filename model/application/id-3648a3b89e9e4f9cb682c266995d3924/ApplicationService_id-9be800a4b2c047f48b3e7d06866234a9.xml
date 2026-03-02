@@ -1,0 +1,42 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anonymisation"
+    id="id-9be800a4b2c047f48b3e7d06866234a9"
+    documentation="Definition: An Anonymization Application Service refers to a software solution or service that enables the anonymization of sensitive or personally identifiable information (PII) within datasets. It applies techniques to transform or remove identifiable information while preserving the usability and integrity of the data. The purpose of the Anonymization Application Service is to protect privacy, comply with data protection regulations, and enable the secure use and sharing of data for analysis or research purposes.&#xA;&#xA;Source: IEEE Software&#xA;&#xA;Source reference: https://ieeexplore.ieee.org/document/8484865&#xA;&#xA;LOST view: TVA-Privacy Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/AnonymisationApplicationService&#xA;&#xA;ABB name: egovera:AnonymisationApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/AnonymisationApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/egovera/AnonymisationServiceApplicationService&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="An Anonymization Application Service refers to a software solution or service that enables the anonymization of sensitive or personally identifiable information (PII) within datasets. It applies techniques to transform or remove identifiable information while preserving the usability and integrity of the data. The purpose of the Anonymization Application Service is to protect privacy, comply with data protection regulations, and enable the secure use and sharing of data for analysis or research purposes."/>
+  <properties
+      key="eira:definitionSource"
+      value="IEEE Software"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ieeexplore.ieee.org/document/8484865"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/AnonymisationApplicationService"/>
+  <properties
+      key="dct:type"
+      value="egovera:AnonymisationApplicationService"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/AnonymisationApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Privacy Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/egovera/AnonymisationServiceApplicationService"/>
+</archimate:ApplicationService>

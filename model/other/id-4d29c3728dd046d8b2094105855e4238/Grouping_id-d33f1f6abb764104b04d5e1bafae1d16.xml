@@ -1,0 +1,54 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Presentation Enablers"
+    id="id-d33f1f6abb764104b04d5e1bafae1d16"
+    documentation="Definition: Application Presentation Enablers ABB is a Grouping that enables the implementation of visually appealing and interactive user interfaces for software applications&#xA;&#xA;Source: Inspired in Redhat&#xA;&#xA;Source reference: https://www.redhat.com/architect/5-essential-patterns-software-architecture&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Application Presentation Enablers Grouping ABB is salient for interoperability because is composed of the Human Interface Application Interface which is a key interoperability enabler that facilitates the data exchange between parties using the digital public service. In addition, this is relevant for interoperability because the ABBs included can work as a tool through which to assess compatible interfaces. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/ApplicationPresentationEnablersGrouping&#xA;&#xA;ABB name: eira:ApplicationPresentationEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ApplicationPresentationEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ApplicationPresentationEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:ApplicationPresentationEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Application Presentation Enablers ABB is a Grouping that enables the implementation of visually appealing and interactive user interfaces for software applications"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Redhat"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.redhat.com/architect/5-essential-patterns-software-architecture"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Application Presentation Enablers Grouping ABB is salient for interoperability because is composed of the Human Interface Application Interface which is a key interoperability enabler that facilitates the data exchange between parties using the digital public service. In addition, this is relevant for interoperability because the ABBs included can work as a tool through which to assess compatible interfaces. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ApplicationPresentationEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

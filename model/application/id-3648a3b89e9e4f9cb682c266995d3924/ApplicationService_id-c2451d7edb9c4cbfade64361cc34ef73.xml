@@ -1,0 +1,45 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remote collaboration and communication"
+    id="id-c2451d7edb9c4cbfade64361cc34ef73"
+    documentation="Definition: A software application service that enables individuals or teams to collaborate and communicate effectively, regardless of their physical locations. It provides tools and features such as video conferencing, instant messaging, document sharing, and virtual whiteboards to support real-time or asynchronous interactions. The Remote Collaboration and Communication application service bridges geographical and temporal gaps, facilitating seamless collaboration and communication in remote or distributed work environments.&#xA;&#xA;Source: Gartner&#xA;&#xA;Source reference: https://www.gartner.com/smarterwithgartner/the-future-of-work-collaboration-tools-and-technologies/&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/RemoteCollaborationAndCommunicationApplicationService&#xA;&#xA;ABB name: egovera:RemoteCollaborationAndCommunicationApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/RemoteCollaborationAndCommunicationApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalWorkplaceApplicationService&#xA;&#xA;">
+  <properties
+      key="skos:definition"
+      value="A software application service that enables individuals or teams to collaborate and communicate effectively, regardless of their physical locations. It provides tools and features such as video conferencing, instant messaging, document sharing, and virtual whiteboards to support real-time or asynchronous interactions. The Remote Collaboration and Communication application service bridges geographical and temporal gaps, facilitating seamless collaboration and communication in remote or distributed work environments."/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/smarterwithgartner/the-future-of-work-collaboration-tools-and-technologies/"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/RemoteCollaborationAndCommunicationApplicationService"/>
+  <properties
+      key="dct:type"
+      value="egovera:RemoteCollaborationAndCommunicationApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Digital Workplace Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/RemoteCollaborationAndCommunicationApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalWorkplaceApplicationService"/>
+</archimate:ApplicationService>

@@ -1,0 +1,50 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forms Management"
+    id="id-bb0bc1207c72434681c1096cebf7c838"
+    documentation="Definition: Forms Management ABB is an Application Service that enables the procedures for i) dynamic creation, ii) distribution and ii) analysis of forms and online surveys.&#xA;&#xA;Source: ISA2 - EIA Action&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/taxonomy/term/http_e_f_fdata_ceuropa_ceu_fdr8_fFormsManagementComponent&#xA;&#xA;Synonym: e-Forms Service&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EACEA e-Forms - Electronic Application Forms - eForms: This page contains the resources and information required by applicants who wish to complete and submit an electronic application form (eForm) for a funding opportunity or for an accreditation. The programmes and actions are listed for which electronic application forms are currently available. The Application eForm homepage is where applicants for funding and applicants for accreditation must follow a series of steps in order to create their new application. https://eacea.ec.europa.eu/about-eacea/electronic-application-forms-eforms_en&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Forms Management Service ABB  is salient for technical interoperability because it provides and shares the functionalities  of dynamic creation, distribution and analysis of forms and online surveys as stated in the EIF: &quot; Catalogues help others to find reusable resources (e.g. services, data, software, data models). Various types of catalogue exist, e.g. directories of services, libraries of software components, open data portals, registries of base registries, metadata catalogues, catalogues of standards, specifications and guidelines. Commonly agreed descriptions of the services, data, registries and interoperable solutions published in catalogues are needed to enable interoperability between catalogues.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FormsManagementApplicationService&#xA;&#xA;ABB name: eira:FormsManagementApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FormsManagementApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/FormsManagementApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:FormsManagementApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value="e-Forms Service"/>
+  <properties
+      key="skos:definition"
+      value="Forms Management ABB is an Application Service that enables the procedures for i) dynamic creation, ii) distribution and ii) analysis of forms and online surveys."/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2 - EIA Action"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/taxonomy/term/http_e_f_fdata_ceuropa_ceu_fdr8_fFormsManagementComponent"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EACEA e-Forms - Electronic Application Forms - eForms: This page contains the resources and information required by applicants who wish to complete and submit an electronic application form (eForm) for a funding opportunity or for an accreditation. The programmes and actions are listed for which electronic application forms are currently available. The Application eForm homepage is where applicants for funding and applicants for accreditation must follow a series of steps in order to create their new application. https://eacea.ec.europa.eu/about-eacea/electronic-application-forms-eforms_en"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Forms Management Service ABB  is salient for technical interoperability because it provides and shares the functionalities  of dynamic creation, distribution and analysis of forms and online surveys as stated in the EIF: &quot; Catalogues help others to find reusable resources (e.g. services, data, software, data models). Various types of catalogue exist, e.g. directories of services, libraries of software components, open data portals, registries of base registries, metadata catalogues, catalogues of standards, specifications and guidelines. Commonly agreed descriptions of the services, data, registries and interoperable solutions published in catalogues are needed to enable interoperability between catalogues.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/FormsManagementApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

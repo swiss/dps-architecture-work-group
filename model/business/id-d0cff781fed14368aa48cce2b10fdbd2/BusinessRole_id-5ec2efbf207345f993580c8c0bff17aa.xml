@@ -1,0 +1,47 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Consumer"
+    id="id-5ec2efbf207345f993580c8c0bff17aa"
+    documentation="Definition: The Data Consumer ABB is a Business Role that is responsible for using data provided by other roles or systems, either by consuming, analyzing, interpreting, or presenting data. Data consumers may also be accountable for the appropriate and ethical use of the data they consume.&#xA;&#xA;Source: DAMA-DMBOK2&#xA;&#xA;Source reference: https://datacrossroads.nl/2019/12/13/data-management-and-data-governance-104-the-yin-force-of-data-governance-part-2-roles/&#xA;&#xA;Additional information: The role of Data Consumer is not limited to the final use or presentation of data, but also includes the consumption, analysis, or interpretation of data from other roles or systems. For example, a business user who queries data from a data warehouse or a data lake is a data consumer, as well as a data scientist who applies machine learning algorithms or statistical models to data. Data consumers should ensure that the data they use is appropriate and ethical for their purposes, and that they comply with the data governance policies and regulations that apply to their data domain. Data consumers should also verify and validate the quality, security, and availability of the data they use, and report any issues or errors that may affect its reliability or accuracy. Data consumers should collaborate with data providers to provide feedback and suggestions for data improvement, and to express their data needs and expectations. Data consumers should also document and communicate the results, insights, or recommendations derived from their data analysis or interpretation.&#xA;&#xA;Example: Examples of data consumers are business users, decision makers, data scientists, and data journalists.&#xA;&#xA;LOST view: OV-Data Spaces&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataConsumerBusinessRole&#xA;&#xA;ABB name: eira:DataConsumerBusinessRole&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataConsumerBusinessRole&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataConsumerBusinessRole"/>
+  <properties
+      key="dct:type"
+      value="eira:DataConsumerBusinessRole"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="eira:definitionSource"
+      value="DAMA-DMBOK2"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://datacrossroads.nl/2019/12/13/data-management-and-data-governance-104-the-yin-force-of-data-governance-part-2-roles/"/>
+  <properties
+      key="skos:example"
+      value="Examples of data consumers are business users, decision makers, data scientists, and data journalists."/>
+  <properties
+      key="skos:note"
+      value="The role of Data Consumer is not limited to the final use or presentation of data, but also includes the consumption, analysis, or interpretation of data from other roles or systems. For example, a business user who queries data from a data warehouse or a data lake is a data consumer, as well as a data scientist who applies machine learning algorithms or statistical models to data. Data consumers should ensure that the data they use is appropriate and ethical for their purposes, and that they comply with the data governance policies and regulations that apply to their data domain. Data consumers should also verify and validate the quality, security, and availability of the data they use, and report any issues or errors that may affect its reliability or accuracy. Data consumers should collaborate with data providers to provide feedback and suggestions for data improvement, and to express their data needs and expectations. Data consumers should also document and communicate the results, insights, or recommendations derived from their data analysis or interpretation."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataConsumerBusinessRole"/>
+  <properties
+      key="skos:definition"
+      value="The Data Consumer ABB is a Business Role that is responsible for using data provided by other roles or systems, either by consuming, analyzing, interpreting, or presenting data. Data consumers may also be accountable for the appropriate and ethical use of the data they consume."/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessRole>

@@ -1,0 +1,56 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authentication"
+    id="id-d054fb78c5224b7f94658768cdefe273"
+    documentation="Definition: Authentication ABB is an Application Service that enables the functionality of grating users to access the platforms or the services.&#xA;&#xA;Source: eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xA;&#xA;Source reference: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG&#xA;&#xA;Additional information: ‘Electronic identification’ means the process of using person identification data in electronic form uniquely representing either a natural or legal person, or a natural person representing a legal person; ‘Authentication’ means an electronic process that enables the electronic identification of a natural or legal person, or the origin and integrity of data in electronic form to be confirmed;&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU Login - EU Login is the European Commission's user authentication service. It allows authorised users to access a wide range of Commission web services. EU Login is the entry gate to sign in to different European Commission services and/or other systems. EU Login verifies your identity and allows recovering your personal settings, history and access rights in a secure way. You can sign in using social media accounts or the EU Login account. EU Login supports a variety of verification methods: •&#x9;Password; •&#x9;ECAS Mobile App PIN code; • ECAS Mobile App QR code; • On mobile authentication; • Mobile phone + SMS; • Token and Token CRAM. https://webgate.ec.europa.eu/cas/about.html&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Authentication Service ABB is salient for technical interoperability because it provides the functionalities of user authentication.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuthenticationApplicationService&#xA;&#xA;ABB name: eira:AuthenticationApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuthenticationApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AuthenticationApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:AuthenticationApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Authentication ABB is an Application Service that enables the functionality of grating users to access the platforms or the services."/>
+  <properties
+      key="eira:definitionSource"
+      value="eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC."/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU Login - EU Login is the European Commission's user authentication service. It allows authorised users to access a wide range of Commission web services. EU Login is the entry gate to sign in to different European Commission services and/or other systems. EU Login verifies your identity and allows recovering your personal settings, history and access rights in a secure way. You can sign in using social media accounts or the EU Login account. EU Login supports a variety of verification methods: •&#x9;Password; •&#x9;ECAS Mobile App PIN code; • ECAS Mobile App QR code; • On mobile authentication; • Mobile phone + SMS; • Token and Token CRAM. https://webgate.ec.europa.eu/cas/about.html"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Authentication Service ABB is salient for technical interoperability because it provides the functionalities of user authentication."/>
+  <properties
+      key="skos:note"
+      value="‘Electronic identification’ means the process of using person identification data in electronic form uniquely representing either a natural or legal person, or a natural person representing a legal person; ‘Authentication’ means an electronic process that enables the electronic identification of a natural or legal person, or the origin and integrity of data in electronic form to be confirmed;"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="REST API viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AuthenticationApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

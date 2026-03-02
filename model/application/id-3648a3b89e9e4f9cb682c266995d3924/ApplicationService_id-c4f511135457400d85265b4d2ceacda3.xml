@@ -1,0 +1,50 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Management"
+    id="id-c4f511135457400d85265b4d2ceacda3"
+    documentation="Definition: Content Management ABB is an Application Service to enable the procedures to create, manage, and publish digital content, such as text, images, videos, and documents&#xA;&#xA;Source: EUI &#xA;&#xA;Source reference: https://www.eui.eu/ServicesAndAdmin/CommunicationsService/WebUnit/Web-CMS&#xA;&#xA;Additional information: Content Management ABB is an Application Service being responsible for: - developing Website templates and functionalities; - assigning appropriate user permissions and workflows; - providing trainings to the web working group; - developing tools and web controls to speed up and facilitate the work of the web working group; - giving support and advice to the web working group; - ensuring continuity of service and performance; - ensuring security and accessibility on the website; - ensuring disaster recovery processes and backup procedures; - setting up the website information architecture within the CMS; - setting up alert procedures and analytics on usage of the platform.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): FPFIS-CMS: &quot;The European Commission announced in the Commission Internet strategy plans to transform the EUROPA web site from a source of one-way information into a tool for communication and interaction (i.e. provide modern interactive web sites for the citizens and stakeholders). Web sites are a key tool for external communications. They are the institution's business card. Websites are a very cost-effective and efficient means of communication. EUROPA now hosts over 460 websites. EUROPA would benefit from fewer and better sites to respond to user needs. To address the shortcomings, as part of the Commission's IT governance process, the College on 30 November 2011, instructed Commission departments to rationalise the Institution's web presence. Reduce the cost (human, financial, technical) of the Commission's web presence via exploiting economies of scale and eliminating redundancies by building corporate solutions. The European Commission should offer a corporate service which optimizes and harmonizes the use of different website tools, which speeds up the creation of new external dynamic and social websites (i.e. in days or weeks and not months) and which provides a common solid modern shared infrastructure to support the rapid deployment of these sites&quot;. https://webgate.ec.europa.eu/fpfis/mwikis/thinktank/index.php/Content_Management_System_of_the_Flexible_Platform&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Content Management Service ABB  is salient for technical interoperability because it provides and shares the functionalities of dynamic creation, distribution and analysis of contents (images, videos, etc.) as stated in the EIF: &quot; Catalogues help others to find reusable resources (e.g. services, data, software, data models). Various types of catalogue exist, e.g. directories of services, libraries of software components, open data portals, registries of base registries, metadata catalogues, catalogues of standards, specifications and guidelines. Commonly agreed descriptions of the services, data, registries and interoperable solutions published in catalogues are needed to enable interoperability between catalogues.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ContentManagementApplicationService&#xA;&#xA;ABB name: eira:ContentManagementApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ContentManagementApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ContentManagementApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:ContentManagementApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Content Management ABB is an Application Service to enable the procedures to create, manage, and publish digital content, such as text, images, videos, and documents"/>
+  <properties
+      key="eira:definitionSource"
+      value="EUI "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.eui.eu/ServicesAndAdmin/CommunicationsService/WebUnit/Web-CMS"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): FPFIS-CMS: &quot;The European Commission announced in the Commission Internet strategy plans to transform the EUROPA web site from a source of one-way information into a tool for communication and interaction (i.e. provide modern interactive web sites for the citizens and stakeholders). Web sites are a key tool for external communications. They are the institution's business card. Websites are a very cost-effective and efficient means of communication. EUROPA now hosts over 460 websites. EUROPA would benefit from fewer and better sites to respond to user needs. To address the shortcomings, as part of the Commission's IT governance process, the College on 30 November 2011, instructed Commission departments to rationalise the Institution's web presence. Reduce the cost (human, financial, technical) of the Commission's web presence via exploiting economies of scale and eliminating redundancies by building corporate solutions. The European Commission should offer a corporate service which optimizes and harmonizes the use of different website tools, which speeds up the creation of new external dynamic and social websites (i.e. in days or weeks and not months) and which provides a common solid modern shared infrastructure to support the rapid deployment of these sites&quot;. https://webgate.ec.europa.eu/fpfis/mwikis/thinktank/index.php/Content_Management_System_of_the_Flexible_Platform"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Content Management Service ABB  is salient for technical interoperability because it provides and shares the functionalities of dynamic creation, distribution and analysis of contents (images, videos, etc.) as stated in the EIF: &quot; Catalogues help others to find reusable resources (e.g. services, data, software, data models). Various types of catalogue exist, e.g. directories of services, libraries of software components, open data portals, registries of base registries, metadata catalogues, catalogues of standards, specifications and guidelines. Commonly agreed descriptions of the services, data, registries and interoperable solutions published in catalogues are needed to enable interoperability between catalogues.&quot;"/>
+  <properties
+      key="skos:note"
+      value="Content Management ABB is an Application Service being responsible for: - developing Website templates and functionalities; - assigning appropriate user permissions and workflows; - providing trainings to the web working group; - developing tools and web controls to speed up and facilitate the work of the web working group; - giving support and advice to the web working group; - ensuring continuity of service and performance; - ensuring security and accessibility on the website; - ensuring disaster recovery processes and backup procedures; - setting up the website information architecture within the CMS; - setting up alert procedures and analytics on usage of the platform."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ContentManagementApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

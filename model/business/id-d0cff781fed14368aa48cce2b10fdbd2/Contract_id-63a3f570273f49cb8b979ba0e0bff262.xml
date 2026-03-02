@@ -1,0 +1,51 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="European Legal Interoperability Agreeement"
+    id="id-63a3f570273f49cb8b979ba0e0bff262"
+    documentation="Definition: European Legal Interoperability Agreement ABB is a Contract formalizing governance rules enabling collaboration amongst the EU and EEA Member States digital public services.&#xA;&#xA;Source: Based on the definition in the EIF about Legal Interoperability Agreement and existing European legal interoperability agreements&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf#page=27&#xA;&#xA;Additional information: The European Legal Interoperability Agreement ABB is a specialisation of the Legal Interoperability Agreement ABB. It is considered a Shared Legal Content because it enables interoperability between different EU MS and stakeholders.&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ELI, standing for European Legislation Identifier, is based on a voluntary agreement between EU countries, and aims to facilitate access, sharing and interconnection of legal information published in national, European and global systems. This facilitates their availability as open datasets, fostering their re-use.&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Interoperability Saliency: The European Legal Interoperability Agreement ABB is salient for the governance of interoperability because it lays the European framework between public administration to enable the interoperability between public services. The European Legal Interoperability Agreement ABB is also salient for the legal interoperability due to the legal foundations and requirements that enable the seamless exchange of data, information, and knowledge between European and EEA Member State digital public services. The European Legal Interoperability Agreement ABB is also salient for the organizational interoperability since, as a consequence of the agreement, digital business capabilities can be mapped and subsequently, the process can be aligned between the Member State and EEA Public Administrations and digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EuropeanLegalInteroperabilityAgreeementContract&#xA;&#xA;ABB name: eira:EuropeanLegalInteroperabilityAgreeementContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EuropeanLegalInteroperabilityAgreeementContract&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/EuropeanLegalInteroperabilityAgreeementContract"/>
+  <properties
+      key="dct:type"
+      value="eira:EuropeanLegalInteroperabilityAgreeementContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="European Legal Interoperability Agreement ABB is a Contract formalizing governance rules enabling collaboration amongst the EU and EEA Member States digital public services."/>
+  <properties
+      key="eira:definitionSource"
+      value="Based on the definition in the EIF about Legal Interoperability Agreement and existing European legal interoperability agreements"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf#page=27"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ELI, standing for European Legislation Identifier, is based on a voluntary agreement between EU countries, and aims to facilitate access, sharing and interconnection of legal information published in national, European and global systems. This facilitates their availability as open datasets, fostering their re-use."/>
+  <properties
+      key="eira:iopSaliency"
+      value="The European Legal Interoperability Agreement ABB is salient for the governance of interoperability because it lays the European framework between public administration to enable the interoperability between public services. The European Legal Interoperability Agreement ABB is also salient for the legal interoperability due to the legal foundations and requirements that enable the seamless exchange of data, information, and knowledge between European and EEA Member State digital public services. The European Legal Interoperability Agreement ABB is also salient for the organizational interoperability since, as a consequence of the agreement, digital business capabilities can be mapped and subsequently, the process can be aligned between the Member State and EEA Public Administrations and digital public services."/>
+  <properties
+      key="skos:note"
+      value="The European Legal Interoperability Agreement ABB is a specialisation of the Legal Interoperability Agreement ABB. It is considered a Shared Legal Content because it enables interoperability between different EU MS and stakeholders."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/EuropeanLegalInteroperabilityAgreeementContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Contract>

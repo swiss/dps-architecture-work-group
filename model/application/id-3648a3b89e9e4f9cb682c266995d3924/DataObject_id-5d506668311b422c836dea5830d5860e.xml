@@ -1,0 +1,48 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ODP"
+    id="id-5d506668311b422c836dea5830d5860e"
+    documentation="Description: OntologyDesignPatterns.org is a Semantic Web portal dedicated to ontology design patterns (ODPs)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;Publisher: Association for Ontology Design &amp; Patterns (ODPA)&#xA;&#xA;Source: http://ontologydesignpatterns.org/wiki/Main_Page&#xA;&#xA;LOST view: SV-Agnostic Ontology Catalogue&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ODPDataObject&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ODPDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/OntologiesCatalogueDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="Association for Ontology Design &amp; Patterns (ODPA)"/>
+  <properties
+      key="dct:description"
+      value="OntologyDesignPatterns.org is a Semantic Web portal dedicated to ontology design patterns (ODPs)"/>
+  <properties
+      key="dct:source"
+      value="http://ontologydesignpatterns.org/wiki/Main_Page"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ODPDataObject"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ODPDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Ontology Catalogue"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/OntologiesCatalogueDataObject"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:DataObject>

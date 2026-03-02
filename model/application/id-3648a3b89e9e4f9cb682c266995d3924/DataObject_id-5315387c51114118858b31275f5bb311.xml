@@ -1,0 +1,45 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="High Value Dataset"
+    id="id-5315387c51114118858b31275f5bb311"
+    documentation="Definition: A High Value Dataset refers to a collection of data that is deemed to be of significant value to a wide range of users, including the public, researchers, and policy makers, due to its potential to contribute to economic growth, transparency, and societal advancements.&#xA;&#xA;Source: Open Data Handbook&#xA;&#xA;Source reference: http://opendatahandbook.org/glossary/en/terms/high-value-dataset/&#xA;&#xA;Additional information: The concept of a High Value Dataset typically encompasses datasets that are frequently requested by users or have the potential to be leveraged for high-impact applications. These datasets are often characterized by their quality, completeness, timeliness, and ease of access. Governments and organizations prioritize the release of such datasets to foster innovation, improve government transparency, and enable data-driven decision-making. Criteria for determining a dataset's 'high value' can include its relevance to public interest, contribution to the improvement of government services, support for economic growth, and enhancement of public knowledge.&#xA;&#xA;Example: Examples of High Value Datasets include national health statistics, which can inform public health policy and research; real-time public transportation data, which can improve urban mobility and planning; and government expenditure data, which promotes transparency and accountability in public finance. Another example is geospatial data, which is crucial for a wide range of applications such as environmental monitoring, urban planning, and disaster response.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/HighValueDatasetDataObject&#xA;&#xA;ABB name: egovera:HighValueDatasetDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/HighValueDatasetDataObject&#xA;&#xA;Name: High Value Dataset&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/HighValueDatasetDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/HighValueDatasetDataObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:HighValueDatasetDataObject"/>
+  <properties
+      key="dct:title"
+      value="High Value Dataset"/>
+  <properties
+      key="eira:definitionSource"
+      value="Open Data Handbook"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://opendatahandbook.org/glossary/en/terms/high-value-dataset/"/>
+  <properties
+      key="skos:definition"
+      value="A High Value Dataset refers to a collection of data that is deemed to be of significant value to a wide range of users, including the public, researchers, and policy makers, due to its potential to contribute to economic growth, transparency, and societal advancements."/>
+  <properties
+      key="skos:example"
+      value="Examples of High Value Datasets include national health statistics, which can inform public health policy and research; real-time public transportation data, which can improve urban mobility and planning; and government expenditure data, which promotes transparency and accountability in public finance. Another example is geospatial data, which is crucial for a wide range of applications such as environmental monitoring, urban planning, and disaster response."/>
+  <properties
+      key="skos:note"
+      value="The concept of a High Value Dataset typically encompasses datasets that are frequently requested by users or have the potential to be leveraged for high-impact applications. These datasets are often characterized by their quality, completeness, timeliness, and ease of access. Governments and organizations prioritize the release of such datasets to foster innovation, improve government transparency, and enable data-driven decision-making. Criteria for determining a dataset's 'high value' can include its relevance to public interest, contribution to the improvement of government services, support for economic growth, and enhancement of public knowledge."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:DataObject>

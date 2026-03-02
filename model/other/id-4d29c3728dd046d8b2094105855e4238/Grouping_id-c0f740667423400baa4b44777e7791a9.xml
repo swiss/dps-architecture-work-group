@@ -1,0 +1,53 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eProcurement Data Model"
+    id="id-c0f740667423400baa4b44777e7791a9"
+    documentation="Definition: eProcurement Data Model ABB is a grouping that covers essential elements related to public procurement processes within the European Union. It specifically includes the European Single Procurement Document (ESPD) as a key component, which is a standardized form used in these processes.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The eProcurement Data Model ABB is a catalogue of information entities that are crucial for the execution of public procurement processes in the EU. The primary element in this model is the ESPD, a data object that represents a structured document containing vital information about a supplier or contractor. This includes details such as company identification, financial standing, technical and professional abilities, and any legal grounds for exclusion. The ESPD serves as a preliminary self-declaration by suppliers, allowing them to demonstrate their eligibility and suitability to participate in public procurement procedures across EU member states. The eProcurement Data Model ABB, therefore, provides a structured approach to managing and utilizing procurement data, ensuring transparency, efficiency, and compliance with EU regulations.&#xA;&#xA;Example: For instance, a public institution in the EU planning to award a contract for a construction project would use the eProcurement Data Model ABB to manage the procurement process. They would request ESPDs from interested contractors, who would fill out these forms with their company details, financial status, technical capabilities, and any legal issues. The institution could then use the data from these ESPDs, structured according to the eProcurement Data Model ABB, to assess the eligibility and suitability of each contractor for the project.&#xA;&#xA;LOST view: SV-Business Agnostic Data Models&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EProcurementDataModelGrouping&#xA;&#xA;ABB name: egovera:EProcurementDataModelGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EProcurementDataModelGrouping&#xA;&#xA;Name: EProcurement Data Model Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/EProcurementDataModelGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/EProcurementDataModelGrouping"/>
+  <properties
+      key="dct:title"
+      value="EProcurement Data Model Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:EProcurementDataModelGrouping"/>
+  <properties
+      key="skos:definition"
+      value="eProcurement Data Model ABB is a grouping that covers essential elements related to public procurement processes within the European Union. It specifically includes the European Single Procurement Document (ESPD) as a key component, which is a standardized form used in these processes."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, a public institution in the EU planning to award a contract for a construction project would use the eProcurement Data Model ABB to manage the procurement process. They would request ESPDs from interested contractors, who would fill out these forms with their company details, financial status, technical capabilities, and any legal issues. The institution could then use the data from these ESPDs, structured according to the eProcurement Data Model ABB, to assess the eligibility and suitability of each contractor for the project."/>
+  <properties
+      key="skos:note"
+      value="The eProcurement Data Model ABB is a catalogue of information entities that are crucial for the execution of public procurement processes in the EU. The primary element in this model is the ESPD, a data object that represents a structured document containing vital information about a supplier or contractor. This includes details such as company identification, financial standing, technical and professional abilities, and any legal grounds for exclusion. The ESPD serves as a preliminary self-declaration by suppliers, allowing them to demonstrate their eligibility and suitability to participate in public procurement procedures across EU member states. The eProcurement Data Model ABB, therefore, provides a structured approach to managing and utilizing procurement data, ensuring transparency, efficiency, and compliance with EU regulations."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic Data Models"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

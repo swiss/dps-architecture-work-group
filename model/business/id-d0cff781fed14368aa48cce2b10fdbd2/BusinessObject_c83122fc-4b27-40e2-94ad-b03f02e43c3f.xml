@@ -1,0 +1,72 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Asset"
+    id="c83122fc-4b27-40e2-94ad-b03f02e43c3f"
+    documentation="Definition: A digital asset is anything that exists only in digital form and comes with a distinct usage right&#xA;&#xA;Source: WikiPedia&#xA;&#xA;Source reference: https://en.wikipedia.org/wiki/Digital_asset&#xA;&#xA;Additional information: A digital asset, within the context of information technology (IT) in Europe, refers to any form of digital content or data that holds value and can be owned, controlled, or exchanged. It encompasses a wide range of electronic files, including but not limited to documents, images, audio files, videos, software, databases, and other digital resources.&#xA;&#xA;Digital assets are intangible and exist in a digital form, residing on various storage devices such as servers, computers, cloud platforms, or other electronic media. They are created, managed, and utilized by individuals, organizations, or entities for various purposes, including business operations, personal use, entertainment, education, research, and more.&#xA;&#xA;These assets are characterized by their ability to be easily duplicated, shared, and distributed across networks, enabling seamless access and transfer. However, their value lies in the intellectual property, information, or functionality they possess, rather than the physical medium on which they are stored.&#xA;&#xA;Digital assets often require specific software applications or platforms to be accessed, viewed, edited, or utilized effectively. For example, a document may require a word processing software, an image may require an image editing tool, or a video may require a media player. These software tools enable users to interact with and manipulate digital assets according to their needs.&#xA;&#xA;In the European IT context, digital assets are subject to various legal frameworks and regulations, including copyright laws, data protection regulations (such as the General Data Protection Regulation or GDPR), and intellectual property rights. These regulations aim to protect the ownership, privacy, and security of digital assets, ensuring that individuals and organizations have control over their creation, distribution, and usage.&#xA;&#xA;Furthermore, the European IT context emphasizes the importance of data privacy and security, particularly with the introduction of GDPR. This means that digital assets containing personal data must be handled and protected in compliance with the established regulations to safeguard individuals' privacy rights.&#xA;&#xA;In summary, a digital asset in the European IT context refers to any intangible, digitally stored content or data that holds value and can be owned, controlled, or exchanged. These assets encompass a wide range of electronic files and require specific software tools for effective utilization. They are subject to legal frameworks and regulations, emphasizing data privacy and security within the European Union.&#xA;&#xA;Example: Digital assets, as elements or components of information, have various applications within the European IT context. Here are a few examples:&#xA;&#xA;1. Intellectual Property Protection: Digital assets, such as copyrighted content, trademarks, and patents, are crucial for protecting intellectual property rights. In the European IT context, digital assets play a significant role in safeguarding innovations, software codes, and creative works from unauthorized use or infringement.&#xA;&#xA;2. Data Management and Storage: Digital assets encompass a wide range of data, including documents, images, videos, and audio files. In the European IT context, organizations utilize digital asset management systems to efficiently organize, store, and retrieve these assets. These systems ensure secure and compliant storage, enabling businesses to effectively manage their data and streamline workflows.&#xA;&#xA;3. E-commerce and Digital Marketing: Digital assets are integral to e-commerce and digital marketing strategies. In the European IT context, businesses leverage digital assets like product images, descriptions, and videos to enhance online shopping experiences. Additionally, digital marketing campaigns rely on assets such as banners, social media graphics, and interactive content to engage customers and drive conversions.&#xA;&#xA;4. Blockchain Technology: Digital assets can be represented and managed using blockchain technology. In the European IT context, blockchain-based digital assets enable secure and transparent transactions, particularly in areas like cryptocurrency, supply chain management, and digital identity verification. Blockchain ensures data integrity, immutability, and decentralized control over digital assets, enhancing trust and efficiency in various industries.&#xA;&#xA;5. Open Data Initiatives: Digital assets play a crucial role in open data initiatives, which aim to make public sector information more accessible and usable. In the European IT context, governments and organizations release digital assets, such as datasets, reports, and APIs, to foster innovation, research, and development. These assets can be utilized by businesses, researchers, and citizens to create new applications, services, and insights.&#xA;&#xA;Overall, digital assets are fundamental components of information in the European IT context, finding applications in intellectual property protection, data management, e-commerce, blockchain technology, and open data initiatives.&#xA;&#xA;LOST view: OV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalAssetBusinessObject&#xA;&#xA;ABB name: egovera:DigitalAssetBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalAssetBusinessObject&#xA;&#xA;Name: Digital Asset Information&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/InformationBusinessObject&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DigitalAssetBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DigitalAssetBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:DigitalAssetBusinessObject"/>
+  <properties
+      key="dct:title"
+      value="Digital Asset Information"/>
+  <properties
+      key="eira:definitionSource"
+      value="WikiPedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://en.wikipedia.org/wiki/Digital_asset"/>
+  <properties
+      key="skos:example"
+      value="Digital assets, as elements or components of information, have various applications within the European IT context. Here are a few examples:&#xA;&#xA;1. Intellectual Property Protection: Digital assets, such as copyrighted content, trademarks, and patents, are crucial for protecting intellectual property rights. In the European IT context, digital assets play a significant role in safeguarding innovations, software codes, and creative works from unauthorized use or infringement.&#xA;&#xA;2. Data Management and Storage: Digital assets encompass a wide range of data, including documents, images, videos, and audio files. In the European IT context, organizations utilize digital asset management systems to efficiently organize, store, and retrieve these assets. These systems ensure secure and compliant storage, enabling businesses to effectively manage their data and streamline workflows.&#xA;&#xA;3. E-commerce and Digital Marketing: Digital assets are integral to e-commerce and digital marketing strategies. In the European IT context, businesses leverage digital assets like product images, descriptions, and videos to enhance online shopping experiences. Additionally, digital marketing campaigns rely on assets such as banners, social media graphics, and interactive content to engage customers and drive conversions.&#xA;&#xA;4. Blockchain Technology: Digital assets can be represented and managed using blockchain technology. In the European IT context, blockchain-based digital assets enable secure and transparent transactions, particularly in areas like cryptocurrency, supply chain management, and digital identity verification. Blockchain ensures data integrity, immutability, and decentralized control over digital assets, enhancing trust and efficiency in various industries.&#xA;&#xA;5. Open Data Initiatives: Digital assets play a crucial role in open data initiatives, which aim to make public sector information more accessible and usable. In the European IT context, governments and organizations release digital assets, such as datasets, reports, and APIs, to foster innovation, research, and development. These assets can be utilized by businesses, researchers, and citizens to create new applications, services, and insights.&#xA;&#xA;Overall, digital assets are fundamental components of information in the European IT context, finding applications in intellectual property protection, data management, e-commerce, blockchain technology, and open data initiatives."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:note"
+      value="A digital asset, within the context of information technology (IT) in Europe, refers to any form of digital content or data that holds value and can be owned, controlled, or exchanged. It encompasses a wide range of electronic files, including but not limited to documents, images, audio files, videos, software, databases, and other digital resources.&#xA;&#xA;Digital assets are intangible and exist in a digital form, residing on various storage devices such as servers, computers, cloud platforms, or other electronic media. They are created, managed, and utilized by individuals, organizations, or entities for various purposes, including business operations, personal use, entertainment, education, research, and more.&#xA;&#xA;These assets are characterized by their ability to be easily duplicated, shared, and distributed across networks, enabling seamless access and transfer. However, their value lies in the intellectual property, information, or functionality they possess, rather than the physical medium on which they are stored.&#xA;&#xA;Digital assets often require specific software applications or platforms to be accessed, viewed, edited, or utilized effectively. For example, a document may require a word processing software, an image may require an image editing tool, or a video may require a media player. These software tools enable users to interact with and manipulate digital assets according to their needs.&#xA;&#xA;In the European IT context, digital assets are subject to various legal frameworks and regulations, including copyright laws, data protection regulations (such as the General Data Protection Regulation or GDPR), and intellectual property rights. These regulations aim to protect the ownership, privacy, and security of digital assets, ensuring that individuals and organizations have control over their creation, distribution, and usage.&#xA;&#xA;Furthermore, the European IT context emphasizes the importance of data privacy and security, particularly with the introduction of GDPR. This means that digital assets containing personal data must be handled and protected in compliance with the established regulations to safeguard individuals' privacy rights.&#xA;&#xA;In summary, a digital asset in the European IT context refers to any intangible, digitally stored content or data that holds value and can be owned, controlled, or exchanged. These assets encompass a wide range of electronic files and require specific software tools for effective utilization. They are subject to legal frameworks and regulations, emphasizing data privacy and security within the European Union."/>
+  <properties
+      key="skos:definition"
+      value="A digital asset is anything that exists only in digital form and comes with a distinct usage right"/>
+  <properties
+      key="eira:view"
+      value="OV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Organisational view [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="SV-Data Mapping Catalogue"/>
+  <properties
+      key="eira:view"
+      value="SV-Metadata Catalogue"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Data Policies and Contracts- Data Space"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/InformationBusinessObject"/>
+</archimate:BusinessObject>

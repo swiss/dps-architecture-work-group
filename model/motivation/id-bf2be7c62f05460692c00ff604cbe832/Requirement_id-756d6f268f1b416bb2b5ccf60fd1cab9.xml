@@ -1,0 +1,47 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="European Legal Act"
+    id="id-756d6f268f1b416bb2b5ccf60fd1cab9"
+    documentation="Definition: European Legal Act ABB is a Requirement enabling the adoption of laws by the Institutions of the European Union in order to exercise the powers given to them by the EU Treaties. They come in five forms: regulations, directives, decisions, recommendations and opinions.&#xA;&#xA;Source: Eur-Lex &#xA;&#xA;Source reference: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:ai0032&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): TOLAR (https://tolar.io/)is a tool implemented as the outcome of the Seduproject, Hashnet is in the process of evaluation by the European Blockchain Partnership to become one of the pilot protocols for European Blockchain Service Infrastructure. https://www.seedeuproject.eu/partners/hashnet/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Interoperability Saliency: European Legal Act ABB is salient for legal interoperability because it helps to achieve European legal and juridical certainty in the exchange of information&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EuropeanLegalActRequirement&#xA;&#xA;ABB name: eira:EuropeanLegalActRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EuropeanLegalActRequirement&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/EuropeanLegalActRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:EuropeanLegalActRequirement"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="European Legal Act ABB is a Requirement enabling the adoption of laws by the Institutions of the European Union in order to exercise the powers given to them by the EU Treaties. They come in five forms: regulations, directives, decisions, recommendations and opinions."/>
+  <properties
+      key="eira:definitionSource"
+      value="Eur-Lex "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:ai0032"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): TOLAR (https://tolar.io/)is a tool implemented as the outcome of the Seduproject, Hashnet is in the process of evaluation by the European Blockchain Partnership to become one of the pilot protocols for European Blockchain Service Infrastructure. https://www.seedeuproject.eu/partners/hashnet/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="European Legal Act ABB is salient for legal interoperability because it helps to achieve European legal and juridical certainty in the exchange of information"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/EuropeanLegalActRequirement"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Requirement>

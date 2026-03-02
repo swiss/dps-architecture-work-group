@@ -1,0 +1,54 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decentralized Identity Management"
+    id="id-028761f5e53a4c79aad3deeb397ee8ab"
+    documentation="Definition: Decentralized Identity Management is a concept where individuals have control over their digital identities without relying on a central authority. It enables users to manage their personal information, authentication, and authorization across various online services and platforms.&#xA;&#xA;Source: Wikipedia&#xA;&#xA;Source reference: https://en.wikipedia.org/wiki/Decentralized_identity&#xA;&#xA;Additional information: In decentralized identity management, individuals have the ability to create and control their digital identities using blockchain or distributed ledger technology. This approach eliminates the need for centralized identity providers, reducing the risk of data breaches and identity theft. Users can selectively share their personal information with different service providers, maintaining privacy and control over their data. Decentralized identity management also allows for interoperability between different systems, enabling seamless authentication and authorization across multiple platforms. It empowers individuals to have a self-sovereign identity, giving them the freedom to manage and protect their digital presence.&#xA;&#xA;Example: An example of decentralized identity management is the use of blockchain-based digital wallets. These wallets store an individual's personal information and cryptographic keys securely on the blockchain. When accessing online services, the individual can authenticate themselves using their wallet, eliminating the need for usernames and passwords. The wallet can selectively share relevant information with the service provider, ensuring privacy and reducing the risk of data breaches. Additionally, the individual can use the same wallet across different platforms, enabling seamless authentication and personalized experiences.&#xA;&#xA;LOST view: TVA-Identification and Access Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DecentralizedIdentityManagementApplicationService&#xA;&#xA;ABB name: egovera:DecentralizedIdentityManagementApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DecentralizedIdentityManagementApplicationService&#xA;&#xA;Name: Decentralized Identity Management Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DecentralizedIdentityManagementApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DecentralizedIdentityManagementApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Decentralized Identity Management Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DecentralizedIdentityManagementApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="Decentralized Identity Management is a concept where individuals have control over their digital identities without relying on a central authority. It enables users to manage their personal information, authentication, and authorization across various online services and platforms."/>
+  <properties
+      key="eira:definitionSource"
+      value="Wikipedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://en.wikipedia.org/wiki/Decentralized_identity"/>
+  <properties
+      key="skos:example"
+      value="An example of decentralized identity management is the use of blockchain-based digital wallets. These wallets store an individual's personal information and cryptographic keys securely on the blockchain. When accessing online services, the individual can authenticate themselves using their wallet, eliminating the need for usernames and passwords. The wallet can selectively share relevant information with the service provider, ensuring privacy and reducing the risk of data breaches. Additionally, the individual can use the same wallet across different platforms, enabling seamless authentication and personalized experiences."/>
+  <properties
+      key="skos:note"
+      value="In decentralized identity management, individuals have the ability to create and control their digital identities using blockchain or distributed ledger technology. This approach eliminates the need for centralized identity providers, reducing the risk of data breaches and identity theft. Users can selectively share their personal information with different service providers, maintaining privacy and control over their data. Decentralized identity management also allows for interoperability between different systems, enabling seamless authentication and authorization across multiple platforms. It empowers individuals to have a self-sovereign identity, giving them the freedom to manage and protect their digital presence."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Identification and Access Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Dataspace Enablers"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

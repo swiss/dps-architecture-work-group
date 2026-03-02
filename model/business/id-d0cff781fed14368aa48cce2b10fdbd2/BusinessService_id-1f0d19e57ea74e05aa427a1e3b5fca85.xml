@@ -1,0 +1,55 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Public Service"
+    id="id-1f0d19e57ea74e05aa427a1e3b5fca85"
+    documentation="Definition: Digital Public Service ABB is a Business Service that enables the implementation of a Public Administration digital business capability, provisioned via a digital service delivery mode by, or on behalf of a public administration. A Digital Public Service comprises any digital public service exposed to a cross-border dimension in the European Union.&#xA;&#xA;Source: EIF, ISA2 Core Vocabularies, IMM&#xA;&#xA;Source reference: [http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF][https://ec.europa.eu/isa2/actions/assessing-progress-being-made-towards-interoperability_en] [https://joinup.ec.europa.eu/catalogue/distribution/cpsv-ap-specification-v20-pdf]&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EUROPASS2 - Make better use of skills and opportunities across Europe. Europass is a service to help individuals to communicate their skills, qualifications and experience through the use of standardised documents templates. (http://ec.europa.eu/social/main.jsp?&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Digital Public Service ABB is salient for the organizational, semantic and technical interoperability because it represents the materialization of the service delivery in terms of (i) a common mechanism to give a response to a specific public administration procedure, (ii) data harmonization to facilitate the comprehension of the information, (iii) specific mechanisms to consume, share and reuse the information.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceBusinessService&#xA;&#xA;ABB name: eira:DigitalPublicServiceBusinessService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceBusinessService&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceBusinessService"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalPublicServiceBusinessService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digital Public Service ABB is a Business Service that enables the implementation of a Public Administration digital business capability, provisioned via a digital service delivery mode by, or on behalf of a public administration. A Digital Public Service comprises any digital public service exposed to a cross-border dimension in the European Union."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIF, ISA2 Core Vocabularies, IMM"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="[http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF][https://ec.europa.eu/isa2/actions/assessing-progress-being-made-towards-interoperability_en] [https://joinup.ec.europa.eu/catalogue/distribution/cpsv-ap-specification-v20-pdf]"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EUROPASS2 - Make better use of skills and opportunities across Europe. Europass is a service to help individuals to communicate their skills, qualifications and experience through the use of standardised documents templates. (http://ec.europa.eu/social/main.jsp?"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Digital Public Service ABB is salient for the organizational, semantic and technical interoperability because it represents the materialization of the service delivery in terms of (i) a common mechanism to give a response to a specific public administration procedure, (ii) data harmonization to facilitate the comprehension of the information, (iii) specific mechanisms to consume, share and reuse the information."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceBusinessService"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessService>

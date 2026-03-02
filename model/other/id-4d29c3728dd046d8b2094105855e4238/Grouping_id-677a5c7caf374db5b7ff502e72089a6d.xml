@@ -1,0 +1,52 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Enablers"
+    id="id-677a5c7caf374db5b7ff502e72089a6d"
+    documentation="Definition: Test Enablers ABB is a Grouping that refers to the applications and services that support the development and deployment of conformance testing and validation.&#xA;&#xA;Source: Inspired in European Comision&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/faqs/testing-and-experimentation-facilities-tefs-questions-and-answers&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Interoperability Testbed - The Test Bed allows users to execute predefined test cases on their systems in order to test the conformance to standards and requirements, simulate a web-service, validate content and test a complete message exchange protocol. The Testbed manages test cases and users, and orchestrates domain-specific components, the domain-specific logic is in separate components that are used via web services. Test results are provided in a standardised, machine-readable format. The Test Bed also offers a test registry and repository (TRR) to store test artefacts (assertions, test cases, validation schemas, etc.) and compile test services (validation services, simulator services, etc.). Please visit the following website for more information: https://ec.europa.eu/isa2/solutions/interoperability-test-bed_en&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Test Enablers Grouping ABB is salient for interoperability because testing and validation solutions services are relevant aspects to ensure that they are conformant to relevant standards enabling interoperability. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/TestEnablersGrouping&#xA;&#xA;ABB name: eira:TestEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TestEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/TestEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:TestEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Test Enablers ABB is a Grouping that refers to the applications and services that support the development and deployment of conformance testing and validation."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in European Comision"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/faqs/testing-and-experimentation-facilities-tefs-questions-and-answers"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Interoperability Testbed - The Test Bed allows users to execute predefined test cases on their systems in order to test the conformance to standards and requirements, simulate a web-service, validate content and test a complete message exchange protocol. The Testbed manages test cases and users, and orchestrates domain-specific components, the domain-specific logic is in separate components that are used via web services. Test results are provided in a standardised, machine-readable format. The Test Bed also offers a test registry and repository (TRR) to store test artefacts (assertions, test cases, validation schemas, etc.) and compile test services (validation services, simulator services, etc.). Please visit the following website for more information: https://ec.europa.eu/isa2/solutions/interoperability-test-bed_en"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Test Enablers Grouping ABB is salient for interoperability because testing and validation solutions services are relevant aspects to ensure that they are conformant to relevant standards enabling interoperability. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/TestEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

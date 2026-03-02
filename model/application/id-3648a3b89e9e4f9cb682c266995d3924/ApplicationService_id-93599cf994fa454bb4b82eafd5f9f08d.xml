@@ -1,0 +1,54 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Federated Data Catalogue Management"
+    id="id-93599cf994fa454bb4b82eafd5f9f08d"
+    documentation="Definition: Federated Data Catalogue Management refers to the practice of centrally managing and organizing metadata about data assets across multiple data catalogues within an organization. It involves creating a unified view of data assets, their attributes, and relationships, while allowing decentralized control and ownership of individual catalogues.&#xA;&#xA;Source: Techopedia&#xA;&#xA;Source reference: https://www.techopedia.com/definition/33133/federated-data-catalog-management&#xA;&#xA;Additional information: In a federated data catalogue management approach, each data catalogue retains its autonomy and maintains its own metadata, but a central management system is responsible for aggregating and harmonizing the metadata from all catalogues. This allows users to search, discover, and understand data assets across different catalogues, promoting data sharing, collaboration, and governance. The federated approach enables organizations to leverage existing catalogues, avoid data duplication, and maintain data lineage and provenance. It also facilitates compliance with data regulations and standards by providing a comprehensive view of data assets.&#xA;&#xA;Example: An organization with multiple business units may have separate data catalogues for each unit. With federated data catalogue management, a central system can integrate metadata from all catalogues, enabling users to search and discover data assets across units. For example, a data analyst in one business unit can easily find and access relevant datasets from another unit's catalogue without needing direct access to that catalogue. This promotes cross-functional collaboration, reduces data silos, and improves overall data governance and utilization.&#xA;&#xA;LOST view: TVA-Data Management Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/FederatedDataCatalogueManagementApplicationService&#xA;&#xA;ABB name: egovera:FederatedDataCatalogueManagementApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/FederatedDataCatalogueManagementApplicationService&#xA;&#xA;Name: Federated Data Catalogue Management Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/FederatedDataCatalogueManagementApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/FederatedDataCatalogueManagementApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Federated Data Catalogue Management Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:FederatedDataCatalogueManagementApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="Federated Data Catalogue Management refers to the practice of centrally managing and organizing metadata about data assets across multiple data catalogues within an organization. It involves creating a unified view of data assets, their attributes, and relationships, while allowing decentralized control and ownership of individual catalogues."/>
+  <properties
+      key="eira:definitionSource"
+      value="Techopedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.techopedia.com/definition/33133/federated-data-catalog-management"/>
+  <properties
+      key="skos:example"
+      value="An organization with multiple business units may have separate data catalogues for each unit. With federated data catalogue management, a central system can integrate metadata from all catalogues, enabling users to search and discover data assets across units. For example, a data analyst in one business unit can easily find and access relevant datasets from another unit's catalogue without needing direct access to that catalogue. This promotes cross-functional collaboration, reduces data silos, and improves overall data governance and utilization."/>
+  <properties
+      key="skos:note"
+      value="In a federated data catalogue management approach, each data catalogue retains its autonomy and maintains its own metadata, but a central management system is responsible for aggregating and harmonizing the metadata from all catalogues. This allows users to search, discover, and understand data assets across different catalogues, promoting data sharing, collaboration, and governance. The federated approach enables organizations to leverage existing catalogues, avoid data duplication, and maintain data lineage and provenance. It also facilitates compliance with data regulations and standards by providing a comprehensive view of data assets."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Data Management Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Dataspace Enablers"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

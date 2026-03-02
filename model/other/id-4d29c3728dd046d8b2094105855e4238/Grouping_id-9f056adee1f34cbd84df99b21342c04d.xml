@@ -1,0 +1,51 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Containerization Enablers"
+    id="id-9f056adee1f34cbd84df99b21342c04d"
+    documentation="Definition: Containerization Enablers ABB is a Grouping that refers to components and services that facilitate the packaging of applications into standardized units for development, shipment and deployment. This grouping includes two main elements: the Container and the Containers Orchestrator.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Source reference: N/A&#xA;&#xA;Additional information: Containerization Enablers ABB is a crucial component in modern software development and deployment processes. It includes the '[Container]' and '[Containers Orchestrator]' elements. The '[Container]' is a lightweight and portable software package that includes everything needed to run an application, ensuring a consistent and isolated environment for applications to run across different computing environments. The '[Containers Orchestrator]' is a software tool or platform that automates the deployment, management, and scaling of containerized applications, providing a centralized control plane to efficiently manage and coordinate the deployment and operation of containers across a cluster of machines or nodes.&#xA;&#xA;Example: An example of Containerization Enablers ABB in action is the use of Docker as a container platform to package an application and its dependencies into a single object, and Kubernetes as a container orchestrator to manage the deployment and scaling of the Docker containers across a cluster of servers in a cloud environment. This allows for efficient, reliable, and scalable deployment of applications.&#xA;&#xA;LOST view: TVA-Containerization Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ContainerizationEnablersGrouping&#xA;&#xA;ABB name: egovera:ContainerizationEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ContainerizationEnablersGrouping&#xA;&#xA;Name: Containerization EnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ContainerizationEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ContainerizationEnablersGrouping"/>
+  <properties
+      key="dct:title"
+      value="Containerization EnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="egovera:ContainerizationEnablersGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Containerization Enablers ABB is a Grouping that refers to components and services that facilitate the packaging of applications into standardized units for development, shipment and deployment. This grouping includes two main elements: the Container and the Containers Orchestrator."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="N/A"/>
+  <properties
+      key="skos:example"
+      value="An example of Containerization Enablers ABB in action is the use of Docker as a container platform to package an application and its dependencies into a single object, and Kubernetes as a container orchestrator to manage the deployment and scaling of the Docker containers across a cluster of servers in a cloud environment. This allows for efficient, reliable, and scalable deployment of applications."/>
+  <properties
+      key="skos:note"
+      value="Containerization Enablers ABB is a crucial component in modern software development and deployment processes. It includes the '[Container]' and '[Containers Orchestrator]' elements. The '[Container]' is a lightweight and portable software package that includes everything needed to run an application, ensuring a consistent and isolated environment for applications to run across different computing environments. The '[Containers Orchestrator]' is a software tool or platform that automates the deployment, management, and scaling of containerized applications, providing a centralized control plane to efficiently manage and coordinate the deployment and operation of containers across a cluster of machines or nodes."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Containerization Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Networking Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

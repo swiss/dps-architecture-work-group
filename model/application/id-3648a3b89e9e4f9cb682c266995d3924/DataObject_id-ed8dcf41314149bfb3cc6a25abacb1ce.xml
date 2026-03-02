@@ -1,0 +1,36 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Smart Data Models"
+    id="id-ed8dcf41314149bfb3cc6a25abacb1ce"
+    documentation="Description: A smart data model includes three elements: The schema, or technical representation of the model defining the technical data types and structure, the specification of a written document for human readers, and the examples of the payloads for NGSIv2 and NGSI-LD versions.&#xA;&#xA;Publisher: Fiware Foundation&#xA;&#xA;Source: https://www.fiware.org/smart-data-models/&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SmartDataModelsDataObject&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SmartDataModelsDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/MetadataCatalogueDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="Fiware Foundation"/>
+  <properties
+      key="dct:description"
+      value="A smart data model includes three elements: The schema, or technical representation of the model defining the technical data types and structure, the specification of a written document for human readers, and the examples of the payloads for NGSIv2 and NGSI-LD versions."/>
+  <properties
+      key="dct:source"
+      value="https://www.fiware.org/smart-data-models/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/SmartDataModelsDataObject"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/SmartDataModelsDataObject"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/MetadataCatalogueDataObject"/>
+</archimate:DataObject>

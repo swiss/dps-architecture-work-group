@@ -1,0 +1,47 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Creation of Interoperable European Solutions"
+    id="id-1c57eac9fdc3431b8f0edfb82b2034f4"
+    documentation="Definition: The Creation of Interoperable European Solutions Driver represents an external or internal condition that motivates the public organisation to define its goals and implement the changes necessary to create Digital Public Services. &#xA;&#xA;Source: ArchiMate&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/archimate3-doc/index.html&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;Viewpoint: Enterprise Architecture Framework alignment guidelines viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/CreationOfInteroperableEuropeanSolutionsDriver&#xA;&#xA;ABB name: eira:CreationOfInteroperableEuropeanSolutionsDriver&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/CreationOfInteroperableEuropeanSolutionsDriver&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/CreationOfInteroperableEuropeanSolutionsDriver"/>
+  <properties
+      key="dct:type"
+      value="eira:CreationOfInteroperableEuropeanSolutionsDriver"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="The Creation of Interoperable European Solutions Driver represents an external or internal condition that motivates the public organisation to define its goals and implement the changes necessary to create Digital Public Services. "/>
+  <properties
+      key="eira:definitionSource"
+      value="ArchiMate"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/archimate3-doc/index.html"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/CreationOfInteroperableEuropeanSolutionsDriver"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Driver>

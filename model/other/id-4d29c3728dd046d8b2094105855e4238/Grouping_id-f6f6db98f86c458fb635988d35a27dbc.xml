@@ -1,0 +1,53 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Dataset Catalogue Solutions"
+    id="id-f6f6db98f86c458fb635988d35a27dbc"
+    documentation="Definition: Business Agnostic Dataset Catalogue Solutions (ABB) is a grouping that covers a range of comprehensive data repositories and catalogues that provide access to a wide array of statistical and open data. These catalogues, which include the Eurostat Data Catalogue, the Official Portal for European Data, and CELLAR, serve as central platforms for accessing diverse datasets and metadata across various domains and geographical scopes. They are designed to be business agnostic, meaning they can be utilized across different industries and sectors.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The elements contained in the Business Agnostic Dataset Catalogue Solutions are primarily focused on providing access to European data. The Eurostat Data Catalogue is a comprehensive repository of statistical data and indicators maintained by EUROSTAT, the statistical office of the European Union (EU). It provides a structured and organized collection of datasets covering various domains such as economy, population, employment, agriculture, trade, and many others. The Official Portal for European Data serves as a central point of access to European open data from international, European Union, national, regional, local and geodata portals. CELLAR, on the other hand, is the common data repository of the Publications Office of the European Union, storing digital publications and metadata for use by humans and machines. These catalogues are designed to be business agnostic, meaning they can be utilized across different industries and sectors, providing valuable insights and information for decision-making and strategy development.&#xA;&#xA;Example: Examples of application for the Business Agnostic Dataset Catalogue Solutions could include a business analyst in the agriculture sector using the Eurostat Data Catalogue to access data on crop yields across the EU for comparative analysis, a data scientist using the Official Portal for European Data to gather data for a machine learning model predicting economic trends, or a researcher using CELLAR to access digital publications and metadata for a study on EU policy impacts.&#xA;&#xA;LOST view: SV-Datasets Catalogue Solutions&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDatasetCatalogueSolutionsGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticDatasetCatalogueSolutionsGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDatasetCatalogueSolutionsGrouping&#xA;&#xA;Name: Business Agnostic Dataset Catalogue Solutions Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDatasetCatalogueSolutionsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDatasetCatalogueSolutionsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Dataset Catalogue Solutions Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticDatasetCatalogueSolutionsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic Dataset Catalogue Solutions (ABB) is a grouping that covers a range of comprehensive data repositories and catalogues that provide access to a wide array of statistical and open data. These catalogues, which include the Eurostat Data Catalogue, the Official Portal for European Data, and CELLAR, serve as central platforms for accessing diverse datasets and metadata across various domains and geographical scopes. They are designed to be business agnostic, meaning they can be utilized across different industries and sectors."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="Examples of application for the Business Agnostic Dataset Catalogue Solutions could include a business analyst in the agriculture sector using the Eurostat Data Catalogue to access data on crop yields across the EU for comparative analysis, a data scientist using the Official Portal for European Data to gather data for a machine learning model predicting economic trends, or a researcher using CELLAR to access digital publications and metadata for a study on EU policy impacts."/>
+  <properties
+      key="skos:note"
+      value="The elements contained in the Business Agnostic Dataset Catalogue Solutions are primarily focused on providing access to European data. The Eurostat Data Catalogue is a comprehensive repository of statistical data and indicators maintained by EUROSTAT, the statistical office of the European Union (EU). It provides a structured and organized collection of datasets covering various domains such as economy, population, employment, agriculture, trade, and many others. The Official Portal for European Data serves as a central point of access to European open data from international, European Union, national, regional, local and geodata portals. CELLAR, on the other hand, is the common data repository of the Publications Office of the European Union, storing digital publications and metadata for use by humans and machines. These catalogues are designed to be business agnostic, meaning they can be utilized across different industries and sectors, providing valuable insights and information for decision-making and strategy development."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Datasets Catalogue Solutions"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

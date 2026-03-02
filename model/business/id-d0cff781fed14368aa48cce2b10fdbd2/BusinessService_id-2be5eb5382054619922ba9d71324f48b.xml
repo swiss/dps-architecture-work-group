@@ -1,0 +1,58 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Extraction, Transformation and Loading"
+    id="id-2be5eb5382054619922ba9d71324f48b"
+    documentation="Definition: Data Extraction, Transformation, and Loading (ETL) is a business service that involves extracting data from various sources, transforming it into a standardized format, and loading it into a target system or data repository. The ETL service enables organizations to collect, integrate, and consolidate data from diverse sources, ensuring data quality and consistency for analysis, reporting, and decision-making.&#xA;&#xA;Source: IEEE Computer Society&#xA;&#xA;Example: One example of the application of Data Extraction, Transformation, and Loading (ETL) within the context of IT interoperability in a digital public service at the European Commission is the integration of various data sources to provide a unified view of citizen information.&#xA;&#xA;1. Citizen Data Integration: The European Commission may have multiple systems and databases that store citizen data, such as personal details, addresses, and preferences. ETL processes can be employed to extract data from these disparate sources, transform it into a standardized format, and load it into a central data repository. This enables a comprehensive view of citizen information, facilitating efficient service delivery and personalized interactions.&#xA;&#xA;2. Cross-Border Data Exchange: The European Commission often collaborates with member states and other countries, requiring the exchange of data across borders. ETL can be utilized to extract relevant data from national databases, transform it into a common format, and load it into a shared data warehouse. This ensures seamless interoperability between different systems, enabling efficient cross-border data exchange for various purposes like law enforcement, taxation, or healthcare.&#xA;&#xA;3. Harmonization of Data Standards: Different departments or agencies within the European Commission may use different data standards and formats. ETL processes can be employed to extract data from these diverse sources, transform it into a standardized format, and load it into a common data model. This harmonization of data standards ensures interoperability and facilitates data sharing and analysis across different departments, enabling better decision-making and policy formulation.&#xA;&#xA;4. Real-time Data Integration: In certain scenarios, real-time data integration is crucial for effective decision-making. ETL processes can be utilized to extract data from various real-time sources, such as IoT devices or social media platforms, transform it into a usable format, and load it into a real-time analytics system. This enables the European Commission to monitor and respond to emerging trends, public sentiment, or critical events promptly.&#xA;&#xA;5. Data Quality Assurance: ETL processes can also play a vital role in ensuring data quality within the European Commission's digital public service. Extraction processes can include data validation and cleansing techniques to identify and rectify inconsistencies, errors, or duplications. Transformation processes can standardize and enrich the data, while loading processes can include data quality checks to ensure accuracy and completeness. This guarantees that reliable and high-quality data is available for decision-making and service delivery.&#xA;&#xA;Overall, the application of Data Extraction, Transformation, and Loading within the context of IT interoperability in a digital public service at the European Commission enables seamless data integration, harmonization, and quality assurance, facilitating efficient service delivery, cross-border collaboration, and evidence-based decision-making.&#xA;&#xA;LOST view: TVA-Data Management Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataExtractionTransformationAndLoadingBusinessService&#xA;&#xA;ABB name: egovera:DataExtractionTransformationAndLoadingBusinessService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataExtractionTransformationAndLoadingBusinessService&#xA;&#xA;Name: Data Extraction, Transformation and Loading Digital Public Service&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalPublicBusinessService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataExtractionTransformationAndLoadingBusinessService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataExtractionTransformationAndLoadingBusinessService"/>
+  <properties
+      key="dct:title"
+      value="Data Extraction, Transformation and Loading Digital Public Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataExtractionTransformationAndLoadingBusinessService"/>
+  <properties
+      key="eira:definitionSource"
+      value="IEEE Computer Society"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="One example of the application of Data Extraction, Transformation, and Loading (ETL) within the context of IT interoperability in a digital public service at the European Commission is the integration of various data sources to provide a unified view of citizen information.&#xA;&#xA;1. Citizen Data Integration: The European Commission may have multiple systems and databases that store citizen data, such as personal details, addresses, and preferences. ETL processes can be employed to extract data from these disparate sources, transform it into a standardized format, and load it into a central data repository. This enables a comprehensive view of citizen information, facilitating efficient service delivery and personalized interactions.&#xA;&#xA;2. Cross-Border Data Exchange: The European Commission often collaborates with member states and other countries, requiring the exchange of data across borders. ETL can be utilized to extract relevant data from national databases, transform it into a common format, and load it into a shared data warehouse. This ensures seamless interoperability between different systems, enabling efficient cross-border data exchange for various purposes like law enforcement, taxation, or healthcare.&#xA;&#xA;3. Harmonization of Data Standards: Different departments or agencies within the European Commission may use different data standards and formats. ETL processes can be employed to extract data from these diverse sources, transform it into a standardized format, and load it into a common data model. This harmonization of data standards ensures interoperability and facilitates data sharing and analysis across different departments, enabling better decision-making and policy formulation.&#xA;&#xA;4. Real-time Data Integration: In certain scenarios, real-time data integration is crucial for effective decision-making. ETL processes can be utilized to extract data from various real-time sources, such as IoT devices or social media platforms, transform it into a usable format, and load it into a real-time analytics system. This enables the European Commission to monitor and respond to emerging trends, public sentiment, or critical events promptly.&#xA;&#xA;5. Data Quality Assurance: ETL processes can also play a vital role in ensuring data quality within the European Commission's digital public service. Extraction processes can include data validation and cleansing techniques to identify and rectify inconsistencies, errors, or duplications. Transformation processes can standardize and enrich the data, while loading processes can include data quality checks to ensure accuracy and completeness. This guarantees that reliable and high-quality data is available for decision-making and service delivery.&#xA;&#xA;Overall, the application of Data Extraction, Transformation, and Loading within the context of IT interoperability in a digital public service at the European Commission enables seamless data integration, harmonization, and quality assurance, facilitating efficient service delivery, cross-border collaboration, and evidence-based decision-making."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="skos:definition"
+      value="Data Extraction, Transformation, and Loading (ETL) is a business service that involves extracting data from various sources, transforming it into a standardized format, and loading it into a target system or data repository. The ETL service enables organizations to collect, integrate, and consolidate data from diverse sources, ensuring data quality and consistency for analysis, reporting, and decision-making."/>
+  <properties
+      key="eira:view"
+      value="TVA-Data Management Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Organisational view [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalPublicBusinessService"/>
+</archimate:BusinessService>

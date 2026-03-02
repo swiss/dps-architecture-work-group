@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usability Requirements Catalogue"
+    id="id-553fa6d7c980427bb36a1192008ee6ba"
+    documentation="Definition: Usability Requirements Catalogue ABB is a grouping that covers a range of non-functional IT requirements that are crucial for ensuring the usability and accessibility of a system or application. This includes requirements related to accessibility, learnability, and API contracts. Each of these elements plays a key role in ensuring that the system or application is user-friendly, inclusive, and efficient, and that it complies with relevant laws and regulations.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Usability Requirements Catalogue ABB is a comprehensive collection of non-functional requirements that are essential for the development of user-friendly and accessible IT systems and applications. The catalogue includes 'Accessibility', which ensures that the system can be used by people with disabilities or impairments; 'Learnability', which measures how quickly and efficiently users can learn to use the system; and 'API contract', which specifies the rules and guidelines for how an API should behave. By adhering to these requirements, developers can create systems and applications that are inclusive, efficient, and compliant with relevant laws and regulations.&#xA;&#xA;Example: For instance, when developing a new web application, a developer might refer to the Usability Requirements Catalogue ABB to ensure that the application is accessible to users with disabilities. This could involve implementing features such as screen readers, keyboard navigation, and alternative text for images. The developer might also use the catalogue to ensure that the application is easy to learn and use, by creating clear and intuitive interfaces and providing well-organized documentation and help resources. Finally, the developer might refer to the 'API contract' requirement to ensure that the application's API is consistent, predictable, and easy to integrate with other systems.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/UsabilityRequirementsCatalogueGrouping&#xA;&#xA;ABB name: eira:UsabilityRequirementsCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/UsabilityRequirementsCatalogueGrouping&#xA;&#xA;Name: Usability Requirements Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/UsabilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/UsabilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Usability Requirements Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:UsabilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Usability Requirements Catalogue ABB is a grouping that covers a range of non-functional IT requirements that are crucial for ensuring the usability and accessibility of a system or application. This includes requirements related to accessibility, learnability, and API contracts. Each of these elements plays a key role in ensuring that the system or application is user-friendly, inclusive, and efficient, and that it complies with relevant laws and regulations."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, when developing a new web application, a developer might refer to the Usability Requirements Catalogue ABB to ensure that the application is accessible to users with disabilities. This could involve implementing features such as screen readers, keyboard navigation, and alternative text for images. The developer might also use the catalogue to ensure that the application is easy to learn and use, by creating clear and intuitive interfaces and providing well-organized documentation and help resources. Finally, the developer might refer to the 'API contract' requirement to ensure that the application's API is consistent, predictable, and easy to integrate with other systems."/>
+  <properties
+      key="skos:note"
+      value="The Usability Requirements Catalogue ABB is a comprehensive collection of non-functional requirements that are essential for the development of user-friendly and accessible IT systems and applications. The catalogue includes 'Accessibility', which ensures that the system can be used by people with disabilities or impairments; 'Learnability', which measures how quickly and efficiently users can learn to use the system; and 'API contract', which specifies the rules and guidelines for how an API should behave. By adhering to these requirements, developers can create systems and applications that are inclusive, efficient, and compliant with relevant laws and regulations."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

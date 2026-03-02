@@ -1,0 +1,49 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobile App"
+    id="id-d569a603457d47c1946fd9585c8a8ccf"
+    documentation="Definition: Mobile APP ABB is a Business Interface that corresponds to a computer program designed to run on a mobile device, such as a smartphone or tablet&#xA;&#xA;Source: ISO/IEC 29179:2012&#xA;&#xA;Source reference: https://www.iso.org/standard/45258.html&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU Council mobile app. https://play.google.com/store/apps/details?id=eu.europa.publications.eucouncil&amp;hl=en_US&amp;gl=US&amp;pli=1&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Interoperability Saliency: Mobile App ABB is salient for organizational, semantic and technical interoperability because it offers (i) a visual environment to interact with the public service procedures and data; (ii) an understanding of the information to be represented; and (iii) an elaborate mechanism to exchange data with public services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/MobileAppBusinessInterface&#xA;&#xA;ABB name: eira:MobileAppBusinessInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MobileAppBusinessInterface&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/MobileAppBusinessInterface"/>
+  <properties
+      key="dct:type"
+      value="eira:MobileAppBusinessInterface"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Mobile APP ABB is a Business Interface that corresponds to a computer program designed to run on a mobile device, such as a smartphone or tablet"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC 29179:2012"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/45258.html"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU Council mobile app. https://play.google.com/store/apps/details?id=eu.europa.publications.eucouncil&amp;hl=en_US&amp;gl=US&amp;pli=1"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Mobile App ABB is salient for organizational, semantic and technical interoperability because it offers (i) a visual environment to interact with the public service procedures and data; (ii) an understanding of the information to be represented; and (iii) an elaborate mechanism to exchange data with public services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/MobileAppBusinessInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessInterface>

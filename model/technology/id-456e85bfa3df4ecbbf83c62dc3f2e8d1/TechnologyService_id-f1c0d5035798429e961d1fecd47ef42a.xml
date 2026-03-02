@@ -1,0 +1,52 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Object-Oriented Database Manager"
+    id="id-f1c0d5035798429e961d1fecd47ef42a"
+    documentation="Definition: Object Oriented Database Manager ABB is a Technology Service that implements the behaviour of a software system that applies concepts of object-oriented programming, and applies them to the management of persistent objects on behalf of multiple users, with capabilities for security, integrity, recovery and contention management&#xA;&#xA;Source: Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/oodbms-object-oriented-database-management-system&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): PostgreSQL is an open source object-relational database system that has an edge over other relational databases as the software supports user-defined objects and their behaviors including operators, data types, domains, and indexes. This makes the database software more flexible and robust. https://www.postgresql.org/&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Object Oriented DatabaseManager ABB is salient for semantic interoperability because it implements data management using object-oriented specifications and their corresponding data representation to share the information with different public administration services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/Object-OrientedDatabaseManagerTechnologyService&#xA;&#xA;ABB name: eira:Object-OrientedDatabaseManagerTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/Object-OrientedDatabaseManagerTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/Object-OrientedDatabaseManagerTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:Object-OrientedDatabaseManagerTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Object Oriented Database Manager ABB is a Technology Service that implements the behaviour of a software system that applies concepts of object-oriented programming, and applies them to the management of persistent objects on behalf of multiple users, with capabilities for security, integrity, recovery and contention management"/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/oodbms-object-oriented-database-management-system"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): PostgreSQL is an open source object-relational database system that has an edge over other relational databases as the software supports user-defined objects and their behaviors including operators, data types, domains, and indexes. This makes the database software more flexible and robust. https://www.postgresql.org/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Object Oriented DatabaseManager ABB is salient for semantic interoperability because it implements data management using object-oriented specifications and their corresponding data representation to share the information with different public administration services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/Object-OrientedDatabaseManagerTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

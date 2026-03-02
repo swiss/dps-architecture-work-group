@@ -1,0 +1,54 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Interoperability Agreement"
+    id="id-3e9ea5551d074d52ae297e3e535c440e"
+    documentation="Definition: Organisational Interoperability Agreement ABB is a Contract formalising governance rules enabling collaboration between digital public services with enabling seamless interoperability enablement value.&#xA;&#xA;Source: Inspired in the works by ISA2, and the EIF-related works &#xA;&#xA;Source reference: https://ec.europa.eu/isa2/isa2_en&#xA;&#xA;Additional information: (*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector. The agreement should include purposes and goals, terms and conditions, governance, and the description of the channel(s). The EIRA© differentiates the following Interoperability Agreements: • Interoperability Service Agreement (between Public Service Consumers and Public Service Providers; • Interoperability Collaboration Agreement (between Organisations); or • Interoperability Provider Agreement (between Public Service Providers).&#xA;&#xA;Example: ICAO Service Level Agreement Template - A Service Level Agreement (SLA) is an example of Interoperability Agreement in which parties agree on the description of the services to be provided by one or several parties to the other one(s). The SLA tackles topics like: service description, optional services, exclusions, limitations, service levels, service credits, escalation procedure, reporting and points of contact. (https://www.icao.int/ESAF/Documents/APIRG/APIRG18/Docs/wp17_appendices_en.pdf)&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Interoperability Saliency: The Organisational Interoperability Agreement ABB is a key interoperability enabler (*) for governance and behavioural interoperability by (i) binding documents which set out the precise obligations of two parties cooperating across an ‘interface’ to achieve interoperability; (ii) enabling the collaborations and data flows established between the public digital services, and (iii) enabling digital business capabilities expected from the public digital services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/OrganisationalInteroperabilityAgreementContract&#xA;&#xA;ABB name: eira:OrganisationalInteroperabilityAgreementContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/OrganisationalInteroperabilityAgreementContract&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/OrganisationalInteroperabilityAgreementContract"/>
+  <properties
+      key="dct:type"
+      value="eira:OrganisationalInteroperabilityAgreementContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Organisational Interoperability Agreement ABB is a Contract formalising governance rules enabling collaboration between digital public services with enabling seamless interoperability enablement value."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the works by ISA2, and the EIF-related works "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/isa2_en"/>
+  <properties
+      key="skos:example"
+      value="ICAO Service Level Agreement Template - A Service Level Agreement (SLA) is an example of Interoperability Agreement in which parties agree on the description of the services to be provided by one or several parties to the other one(s). The SLA tackles topics like: service description, optional services, exclusions, limitations, service levels, service credits, escalation procedure, reporting and points of contact. (https://www.icao.int/ESAF/Documents/APIRG/APIRG18/Docs/wp17_appendices_en.pdf)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Organisational Interoperability Agreement ABB is a key interoperability enabler (*) for governance and behavioural interoperability by (i) binding documents which set out the precise obligations of two parties cooperating across an ‘interface’ to achieve interoperability; (ii) enabling the collaborations and data flows established between the public digital services, and (iii) enabling digital business capabilities expected from the public digital services."/>
+  <properties
+      key="skos:note"
+      value="(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector. The agreement should include purposes and goals, terms and conditions, governance, and the description of the channel(s). The EIRA© differentiates the following Interoperability Agreements: • Interoperability Service Agreement (between Public Service Consumers and Public Service Providers; • Interoperability Collaboration Agreement (between Organisations); or • Interoperability Provider Agreement (between Public Service Providers)."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/OrganisationalInteroperabilityAgreementContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Contract>

@@ -1,0 +1,53 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-Timestamp Creation"
+    id="id-85e0d29b27ce42e4b57628b25af811c1"
+    documentation="Definition: e-Timestamp Creation ABB is an Application Service that enables the recording of the date and time when a specific electronic document, data or transaction is created or modified. This ABB verifies the existence, integrity, and authenticity of an electronic document, data or transaction.&#xA;&#xA;Source: eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC. &#xA;&#xA;Source reference: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG&#xA;&#xA;Additional information: An ‘electronic time stamp’ means data in electronic form which binds other data in electronic form to a particular time establishing evidence that the latter data existed at that time.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): DigiStamp eTimeStamp® - DigiStamp eTimeStamp® protects the intellectual property in any computer file: •&#x9;Use Desktop and Web applications for on-demand protection; •&#x9;Plug the Timestamp Authority into the automated systems. Plug-in rigorous implementation of US &amp; EU standards: •&#x9;Secure, reliable, RFC 3161 timestamp cloud service; •&#x9;Archiving and Hash Chaining keyless security; •&#x9;Elliptic Curve Upgrade; Implementation of the Internet Engineering Task Force's RFC 3161 means DigiStamp timestamps are understood by data validation systems the world over: •&#x9;Implementation of ANSI X9.95 further increases the compatibility of our timestamps; • Compliance with IETF RFC 3628 gives credence to the trustworthiness of our Time Stamp Authorities.; • Conformance to IETF RFC 3126 makes our timestamps usable for long-term, legally binding agreements. https://www.digistamp.com/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The e-Timestamp Creation Service ABB  is salient for technical interoperability because it provides the functionalities required for e-Timestamp creation service.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/E-TimestampCreationApplicationService&#xA;&#xA;ABB name: eira:E-TimestampCreationApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/E-TimestampCreationApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/E-TimestampCreationApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:E-TimestampCreationApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="e-Timestamp Creation ABB is an Application Service that enables the recording of the date and time when a specific electronic document, data or transaction is created or modified. This ABB verifies the existence, integrity, and authenticity of an electronic document, data or transaction."/>
+  <properties
+      key="eira:definitionSource"
+      value="eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC. "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): DigiStamp eTimeStamp® - DigiStamp eTimeStamp® protects the intellectual property in any computer file: •&#x9;Use Desktop and Web applications for on-demand protection; •&#x9;Plug the Timestamp Authority into the automated systems. Plug-in rigorous implementation of US &amp; EU standards: •&#x9;Secure, reliable, RFC 3161 timestamp cloud service; •&#x9;Archiving and Hash Chaining keyless security; •&#x9;Elliptic Curve Upgrade; Implementation of the Internet Engineering Task Force's RFC 3161 means DigiStamp timestamps are understood by data validation systems the world over: •&#x9;Implementation of ANSI X9.95 further increases the compatibility of our timestamps; • Compliance with IETF RFC 3628 gives credence to the trustworthiness of our Time Stamp Authorities.; • Conformance to IETF RFC 3126 makes our timestamps usable for long-term, legally binding agreements. https://www.digistamp.com/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The e-Timestamp Creation Service ABB  is salient for technical interoperability because it provides the functionalities required for e-Timestamp creation service."/>
+  <properties
+      key="skos:note"
+      value="An ‘electronic time stamp’ means data in electronic form which binds other data in electronic form to a particular time establishing evidence that the latter data existed at that time."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/E-TimestampCreationApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Extensibility"
+    id="id-8a022651d16a4b4cbae5efcad361c17d"
+    documentation="Definition: Extensibility is an IT non-functional requirement that refers to the ability of a system to easily accommodate future changes or additions without requiring significant modifications to the existing system. This means that the system should be designed in a way that allows for new features, functionalities, and technologies to be added seamlessly, without disrupting the existing system's performance or stability. Extensibility is important for ensuring that the system remains relevant and adaptable to changing business needs and technological advancements. It also helps to reduce the cost and effort required for future upgrades and maintenance.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Extensibility is a non-functional requirement that refers to the ability of a system or application to be easily extended or modified without affecting its existing functionality. This requirement is important for organizations that need to adapt to changing business requirements or technological advancements.&#xA;&#xA;The Extensibility requirement can be achieved through the use of modular and scalable architectures that allow for the addition of new components or features. This can be achieved through the use of open standards, APIs, and other integration mechanisms that enable the integration of new functionality into the existing system.&#xA;&#xA;To ensure that the Extensibility requirement is met, it is important to establish clear guidelines and standards for the development and integration of new components. This includes defining the interfaces and protocols that will be used for communication between different components, as well as establishing testing and validation procedures to ensure that new components are compatible with the existing system.&#xA;&#xA;In addition, it is important to consider the impact of extensibility on system performance and scalability. This may require the use of distributed architectures, load balancing mechanisms, and other techniques to ensure that the system can handle the increased load and complexity that comes with the addition of new components.&#xA;&#xA;Overall, the Extensibility requirement is an important consideration for organizations that need to adapt to changing business requirements and technological advancements. By following the TOGAF guidelines and documentation, organizations can ensure that their systems are designed to be easily extended and modified, while maintaining their existing functionality and performance.&#xA;&#xA;Example: An example of the IT non-functional requirement 'Extensibility' could be that the software system should be designed in such a way that it can easily accommodate new features and functionalities in the future without requiring significant changes to the existing codebase. This means that the system should be modular, with clear separation of concerns and well-defined interfaces between different components, so that new modules can be added or existing ones can be modified without affecting the rest of the system. Additionally, the system should be designed with scalability in mind, so that it can handle increased load and data volumes as the user base grows.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ExtensibilityRequirement&#xA;&#xA;ABB name: eira:ExtensibilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ExtensibilityRequirement&#xA;&#xA;Name: Extensibility Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ExtensibilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Extensibility Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="An example of the IT non-functional requirement 'Extensibility' could be that the software system should be designed in such a way that it can easily accommodate new features and functionalities in the future without requiring significant changes to the existing codebase. This means that the system should be modular, with clear separation of concerns and well-defined interfaces between different components, so that new modules can be added or existing ones can be modified without affecting the rest of the system. Additionally, the system should be designed with scalability in mind, so that it can handle increased load and data volumes as the user base grows."/>
+  <properties
+      key="skos:definition"
+      value="Extensibility is an IT non-functional requirement that refers to the ability of a system to easily accommodate future changes or additions without requiring significant modifications to the existing system. This means that the system should be designed in a way that allows for new features, functionalities, and technologies to be added seamlessly, without disrupting the existing system's performance or stability. Extensibility is important for ensuring that the system remains relevant and adaptable to changing business needs and technological advancements. It also helps to reduce the cost and effort required for future upgrades and maintenance."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Extensibility is a non-functional requirement that refers to the ability of a system or application to be easily extended or modified without affecting its existing functionality. This requirement is important for organizations that need to adapt to changing business requirements or technological advancements.&#xA;&#xA;The Extensibility requirement can be achieved through the use of modular and scalable architectures that allow for the addition of new components or features. This can be achieved through the use of open standards, APIs, and other integration mechanisms that enable the integration of new functionality into the existing system.&#xA;&#xA;To ensure that the Extensibility requirement is met, it is important to establish clear guidelines and standards for the development and integration of new components. This includes defining the interfaces and protocols that will be used for communication between different components, as well as establishing testing and validation procedures to ensure that new components are compatible with the existing system.&#xA;&#xA;In addition, it is important to consider the impact of extensibility on system performance and scalability. This may require the use of distributed architectures, load balancing mechanisms, and other techniques to ensure that the system can handle the increased load and complexity that comes with the addition of new components.&#xA;&#xA;Overall, the Extensibility requirement is an important consideration for organizations that need to adapt to changing business requirements and technological advancements. By following the TOGAF guidelines and documentation, organizations can ensure that their systems are designed to be easily extended and modified, while maintaining their existing functionality and performance."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ExtensibilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:ExtensibilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

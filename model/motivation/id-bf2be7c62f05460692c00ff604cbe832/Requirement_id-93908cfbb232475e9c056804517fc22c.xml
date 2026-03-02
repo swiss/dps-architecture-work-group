@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Replication"
+    id="id-93908cfbb232475e9c056804517fc22c"
+    documentation="Definition: Replication is an IT non-functional requirement that refers to the ability of a system to duplicate or copy data or processes across multiple servers or locations. This is important for ensuring high availability and reliability of the system, as well as for disaster recovery purposes. Replication can be achieved through various techniques such as database replication, file replication, or server replication. The system should be able to handle replication in a seamless and efficient manner, without compromising performance or security.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Replication is a non-functional requirement that refers to the ability of a system to duplicate or copy data, processes, or services across multiple locations or instances. This requirement is important for ensuring high availability, fault tolerance, and disaster recovery capabilities.&#xD;&#xA;&#xD;&#xA;The Replication requirement can be further broken down into several sub-requirements, including:&#xD;&#xA;&#xD;&#xA;1. Data Replication: This refers to the ability of a system to replicate data across multiple locations or instances. This can be achieved through various techniques such as database replication, file replication, or object replication.&#xD;&#xA;&#xD;&#xA;2. Process Replication: This refers to the ability of a system to replicate processes or services across multiple locations or instances. This can be achieved through techniques such as load balancing, clustering, or virtualization.&#xD;&#xA;&#xD;&#xA;3. Synchronization: This refers to the ability of a system to ensure that replicated data, processes, or services are kept in sync across all instances. This can be achieved through techniques such as data synchronization, process synchronization, or service synchronization.&#xD;&#xA;&#xD;&#xA;4. Performance: This refers to the ability of a system to maintain performance levels even when replicating data, processes, or services across multiple locations or instances. This can be achieved through techniques such as caching, compression, or optimization.&#xD;&#xA;&#xD;&#xA;Overall, the Replication requirement is critical for ensuring that a system can provide high availability, fault tolerance, and disaster recovery capabilities. It is important to carefully consider the specific sub-requirements and techniques that will be used to achieve this requirement in order to ensure that the system is able to meet its performance and reliability goals.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Replication' is in a database system where data needs to be replicated across multiple servers for redundancy and fault tolerance. This ensures that if one server fails, the data can still be accessed from another server without any disruption to the system. The replication process should be seamless and transparent to the end-users, ensuring that they can access the data without any delay or interruption. Additionally, the replication process should be efficient and scalable, allowing for easy addition of new servers as the system grows.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ReplicationRequirement&#xA;&#xA;ABB name: eira:ReplicationRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ReplicationRequirement&#xA;&#xA;Name: Replication Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ReplicationRequirement"/>
+  <properties
+      key="dct:title"
+      value="Replication Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Replication' is in a database system where data needs to be replicated across multiple servers for redundancy and fault tolerance. This ensures that if one server fails, the data can still be accessed from another server without any disruption to the system. The replication process should be seamless and transparent to the end-users, ensuring that they can access the data without any delay or interruption. Additionally, the replication process should be efficient and scalable, allowing for easy addition of new servers as the system grows."/>
+  <properties
+      key="skos:definition"
+      value="Replication is an IT non-functional requirement that refers to the ability of a system to duplicate or copy data or processes across multiple servers or locations. This is important for ensuring high availability and reliability of the system, as well as for disaster recovery purposes. Replication can be achieved through various techniques such as database replication, file replication, or server replication. The system should be able to handle replication in a seamless and efficient manner, without compromising performance or security."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Replication is a non-functional requirement that refers to the ability of a system to duplicate or copy data, processes, or services across multiple locations or instances. This requirement is important for ensuring high availability, fault tolerance, and disaster recovery capabilities.&#xD;&#xA;&#xD;&#xA;The Replication requirement can be further broken down into several sub-requirements, including:&#xD;&#xA;&#xD;&#xA;1. Data Replication: This refers to the ability of a system to replicate data across multiple locations or instances. This can be achieved through various techniques such as database replication, file replication, or object replication.&#xD;&#xA;&#xD;&#xA;2. Process Replication: This refers to the ability of a system to replicate processes or services across multiple locations or instances. This can be achieved through techniques such as load balancing, clustering, or virtualization.&#xD;&#xA;&#xD;&#xA;3. Synchronization: This refers to the ability of a system to ensure that replicated data, processes, or services are kept in sync across all instances. This can be achieved through techniques such as data synchronization, process synchronization, or service synchronization.&#xD;&#xA;&#xD;&#xA;4. Performance: This refers to the ability of a system to maintain performance levels even when replicating data, processes, or services across multiple locations or instances. This can be achieved through techniques such as caching, compression, or optimization.&#xD;&#xA;&#xD;&#xA;Overall, the Replication requirement is critical for ensuring that a system can provide high availability, fault tolerance, and disaster recovery capabilities. It is important to carefully consider the specific sub-requirements and techniques that will be used to achieve this requirement in order to ensure that the system is able to meet its performance and reliability goals."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ReplicationRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:ReplicationRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

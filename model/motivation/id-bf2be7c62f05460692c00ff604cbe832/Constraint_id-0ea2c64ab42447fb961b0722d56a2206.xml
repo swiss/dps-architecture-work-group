@@ -1,0 +1,47 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution Assumption"
+    id="id-0ea2c64ab42447fb961b0722d56a2206"
+    documentation="Definition: Digital Solution Assumption ABB is a Constraint that refers to the factor that limits the realization of the exchange and sharing of data across different platforms&#xA;&#xA;Source: ISA2-EIF&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/eif_en/&#xA;&#xA;Viewpoint: EIRA Ontology viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionAssumptionConstraint&#xA;&#xA;ABB name: eira:DigitalSolutionAssumptionConstraint&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionAssumptionConstraint&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionAssumptionConstraint"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionAssumptionConstraint"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digital Solution Assumption ABB is a Constraint that refers to the factor that limits the realization of the exchange and sharing of data across different platforms"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2-EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/eif_en/"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionAssumptionConstraint"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Constraint>

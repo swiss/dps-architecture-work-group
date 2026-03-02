@@ -1,0 +1,58 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eSignature"
+    id="id-7569cca69048477a9a31400c92691977"
+    documentation="Definition: The [eSignature] ABB is a digital equivalent of a handwritten signature or stamped seal. It offers a secure and verifiable means of signing documents and digital transactions within the European Union's digital framework. As an Architecture Building Block (ABB) of EIRA, eSignatures are integral to ensuring interoperability and trusted exchanges across different sectors and borders. They provide authenticity, integrity, and non-repudiation to digital communications and transactions, aligning with the EU's standards and regulations for digital services and cross-border interoperability. This integration facilitates seamless, efficient, and secure digital interactions within the public sector, promoting a unified digital experience across the EU.&#xA;&#xA;Source: EIRA team&#xA;&#xA;Additional information: In the context of IT interoperability, an eSignature refers to a digital representation of an individual's handwritten signature that is used to authenticate and validate electronic documents, transactions, or communications. It serves as a legally binding equivalent to a traditional handwritten signature, ensuring the integrity, authenticity, and non-repudiation of electronic data.&#xA;&#xA;Within the European Commission's digital public service framework, the eSignature plays a crucial role in facilitating secure and efficient electronic interactions between citizens, businesses, and public authorities. It enables the seamless exchange of information, documents, and transactions in a digital environment, eliminating the need for physical paperwork and enabling remote access to services.&#xA;&#xA;The eSignature technology leverages cryptographic algorithms and digital certificates to create a unique digital fingerprint of the signer, which is securely attached to the electronic document or message. This digital fingerprint, also known as a digital signature, is generated using the signer's private key, which is securely stored on a cryptographic device such as a smart card or a hardware token.&#xA;&#xA;When a document or transaction requires authentication, the eSignature solution verifies the integrity of the document by checking if it has been tampered with since the signature was applied. It also verifies the authenticity of the signer by validating the digital certificate associated with the eSignature. This certificate, issued by a trusted certification authority, confirms the identity of the signer and ensures that the eSignature is linked to a specific individual or entity.&#xA;&#xA;Furthermore, the eSignature provides non-repudiation, meaning that the signer cannot deny their involvement in the signed document or transaction. This is achieved through the use of asymmetric encryption, where the signer's private key is used to create the digital signature, while the corresponding public key is used to verify it. As the private key is securely held by the signer, it is virtually impossible for anyone else to generate a valid digital signature on their behalf.&#xA;&#xA;The European Commission's eSignature solution adheres to the relevant legal framework, such as the eIDAS Regulation (electronic Identification, Authentication, and Trust Services), which sets the standards for electronic transactions within the European Union. It ensures that eSignatures generated within the framework are legally recognized and accepted across member states, promoting cross-border interoperability and harmonization.&#xA;&#xA;By incorporating eSignature technology into its digital public service infrastructure, the European Commission aims to enhance the efficiency, security, and trustworthiness of electronic interactions. It enables citizens and businesses to securely sign and exchange documents, submit applications, authenticate themselves, and access various online services, all while ensuring compliance with legal requirements and fostering interoperability across different systems and platforms.&#xA;&#xA;LOST view: TVA-Trust Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ESignatureBusinessService&#xA;&#xA;ABB name: egovera:ESignatureBusinessService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ESignatureBusinessService&#xA;&#xA;Name: eSignature Digital Public Service&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalPublicBusinessService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ESignatureBusinessService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ESignatureBusinessService"/>
+  <properties
+      key="dct:title"
+      value="eSignature Digital Public Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:ESignatureBusinessService"/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA team"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:note"
+      value="In the context of IT interoperability, an eSignature refers to a digital representation of an individual's handwritten signature that is used to authenticate and validate electronic documents, transactions, or communications. It serves as a legally binding equivalent to a traditional handwritten signature, ensuring the integrity, authenticity, and non-repudiation of electronic data.&#xA;&#xA;Within the European Commission's digital public service framework, the eSignature plays a crucial role in facilitating secure and efficient electronic interactions between citizens, businesses, and public authorities. It enables the seamless exchange of information, documents, and transactions in a digital environment, eliminating the need for physical paperwork and enabling remote access to services.&#xA;&#xA;The eSignature technology leverages cryptographic algorithms and digital certificates to create a unique digital fingerprint of the signer, which is securely attached to the electronic document or message. This digital fingerprint, also known as a digital signature, is generated using the signer's private key, which is securely stored on a cryptographic device such as a smart card or a hardware token.&#xA;&#xA;When a document or transaction requires authentication, the eSignature solution verifies the integrity of the document by checking if it has been tampered with since the signature was applied. It also verifies the authenticity of the signer by validating the digital certificate associated with the eSignature. This certificate, issued by a trusted certification authority, confirms the identity of the signer and ensures that the eSignature is linked to a specific individual or entity.&#xA;&#xA;Furthermore, the eSignature provides non-repudiation, meaning that the signer cannot deny their involvement in the signed document or transaction. This is achieved through the use of asymmetric encryption, where the signer's private key is used to create the digital signature, while the corresponding public key is used to verify it. As the private key is securely held by the signer, it is virtually impossible for anyone else to generate a valid digital signature on their behalf.&#xA;&#xA;The European Commission's eSignature solution adheres to the relevant legal framework, such as the eIDAS Regulation (electronic Identification, Authentication, and Trust Services), which sets the standards for electronic transactions within the European Union. It ensures that eSignatures generated within the framework are legally recognized and accepted across member states, promoting cross-border interoperability and harmonization.&#xA;&#xA;By incorporating eSignature technology into its digital public service infrastructure, the European Commission aims to enhance the efficiency, security, and trustworthiness of electronic interactions. It enables citizens and businesses to securely sign and exchange documents, submit applications, authenticate themselves, and access various online services, all while ensuring compliance with legal requirements and fostering interoperability across different systems and platforms."/>
+  <properties
+      key="skos:definition"
+      value="The [eSignature] ABB is a digital equivalent of a handwritten signature or stamped seal. It offers a secure and verifiable means of signing documents and digital transactions within the European Union's digital framework. As an Architecture Building Block (ABB) of EIRA, eSignatures are integral to ensuring interoperability and trusted exchanges across different sectors and borders. They provide authenticity, integrity, and non-repudiation to digital communications and transactions, aligning with the EU's standards and regulations for digital services and cross-border interoperability. This integration facilitates seamless, efficient, and secure digital interactions within the public sector, promoting a unified digital experience across the EU."/>
+  <properties
+      key="eira:view"
+      value="TVA-Trust Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Organisational view [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalPublicBusinessService"/>
+</archimate:BusinessService>

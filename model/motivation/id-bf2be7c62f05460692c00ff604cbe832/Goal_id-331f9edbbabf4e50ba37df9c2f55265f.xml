@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliance Monitoring and Auditing"
+    id="id-331f9edbbabf4e50ba37df9c2f55265f"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Compliance Monitoring and Auditing&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: Compliance monitoring and auditing is a concept in IT architecture that ensures that an organization's IT systems and processes comply with relevant laws, regulations, and industry standards. This concept involves the continuous monitoring of IT systems and processes to identify any potential compliance issues and the implementation of corrective actions to address them. Compliance monitoring and auditing also involves regular audits to assess the effectiveness of an organization's compliance program and identify areas for improvement. By implementing a robust compliance monitoring and auditing program, organizations can ensure that they are operating within legal and regulatory boundaries, protecting their reputation, and avoiding costly fines and penalties.&#xA;&#xA;Example: Compliance Monitoring and Auditing:&#xA;Decision: Implementing mechanisms for continuous compliance monitoring, internal auditing, and vulnerability assessments.&#xA;Rationale: Regular monitoring, auditing, and vulnerability assessments help identify compliance gaps, ensure ongoing adherence to regulations, and proactively address potential security risks.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ComplianceMonitoringAndAuditingGoal&#xA;&#xA;ABB name: eira:ComplianceMonitoringAndAuditingGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947604&#xA;&#xA;Name: Architecture Decision Record about Compliance Monitoring and Auditing&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947604"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Compliance Monitoring and Auditing"/>
+  <properties
+      key="skos:example"
+      value="Compliance Monitoring and Auditing:&#xA;Decision: Implementing mechanisms for continuous compliance monitoring, internal auditing, and vulnerability assessments.&#xA;Rationale: Regular monitoring, auditing, and vulnerability assessments help identify compliance gaps, ensure ongoing adherence to regulations, and proactively address potential security risks."/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="Compliance monitoring and auditing is a concept in IT architecture that ensures that an organization's IT systems and processes comply with relevant laws, regulations, and industry standards. This concept involves the continuous monitoring of IT systems and processes to identify any potential compliance issues and the implementation of corrective actions to address them. Compliance monitoring and auditing also involves regular audits to assess the effectiveness of an organization's compliance program and identify areas for improvement. By implementing a robust compliance monitoring and auditing program, organizations can ensure that they are operating within legal and regulatory boundaries, protecting their reputation, and avoiding costly fines and penalties."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ComplianceMonitoringAndAuditingGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:ComplianceMonitoringAndAuditingGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Compliance Monitoring and Auditing"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

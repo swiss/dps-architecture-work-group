@@ -1,0 +1,49 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Format"
+    id="id-69f3ed15661c42cfbdd9a4afa1d31792"
+    documentation="Definition: Data Format ABB is a Data Object that enables the methods and structures in which data is organized and structured within a file or dataset&#xA;&#xA;Source: Inspired in Common European Research Forma&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/eu-semantic-interoperability-catalogue/solution/common-european-research-information-format/about&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): European Data Format, a simple and flexible format for the exchange and storage of multichannel biological and physical signals. It was developed by a few European 'medical' engineers who first met at the 1987 international Sleep Congress in Copenhagen. https://www.edfplus.info/). CSV is also a data format https://www.loc.gov/preservation/digital/formats/fdd/fdd000323.shtml&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Interoperability Saliency: The Data Format Data Object ABB is a key interoperability enabler and salient for semantic interoperability because it provides a common and structured method to organise data, ensuring data quality and successful data exchanges between public administrations and digital public services&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataFormatDataObject&#xA;&#xA;ABB name: eira:DataFormatDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataFormatDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataFormatDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:DataFormatDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Format ABB is a Data Object that enables the methods and structures in which data is organized and structured within a file or dataset"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Common European Research Forma"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/eu-semantic-interoperability-catalogue/solution/common-european-research-information-format/about"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): European Data Format, a simple and flexible format for the exchange and storage of multichannel biological and physical signals. It was developed by a few European 'medical' engineers who first met at the 1987 international Sleep Congress in Copenhagen. https://www.edfplus.info/). CSV is also a data format https://www.loc.gov/preservation/digital/formats/fdd/fdd000323.shtml"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Format Data Object ABB is a key interoperability enabler and salient for semantic interoperability because it provides a common and structured method to organise data, ensuring data quality and successful data exchanges between public administrations and digital public services"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataFormatDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Subscription Deployment"
+    id="id-2f0406f225574f1c8066f81f827682e9"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Data Subscription Deployment&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: The Data Subscription Deployment ADR is a decision made in IT architecture that involves the deployment of data subscriptions to enable real-time data access and analysis. This concept involves the use of data subscriptions to provide a continuous stream of data to applications, which can be used to make informed decisions in real-time. The deployment of data subscriptions can be done through various methods, including API integration, webhooks, and other data integration tools. This concept is particularly useful in industries such as finance, healthcare, and retail, where real-time data analysis is critical for decision-making. The Data Subscription Deployment concept can help organizations to improve their operational efficiency, reduce costs, and enhance customer experience by providing real-time insights into their business operations.&#xA;&#xA;Example: Decision: The Data Exchanger operates the Data Consumer Data Subscription capability&#xA;Consequence: --&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataSubscriptionDeploymentGoal&#xA;&#xA;ABB name: eira:DataSubscriptionDeploymentGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947764&#xA;&#xA;Name: Architecture Decision Record about Data Subscription Deployment&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947764"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Data Subscription Deployment"/>
+  <properties
+      key="skos:example"
+      value="Decision: The Data Exchanger operates the Data Consumer Data Subscription capability&#xA;Consequence: --"/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="The Data Subscription Deployment ADR is a decision made in IT architecture that involves the deployment of data subscriptions to enable real-time data access and analysis. This concept involves the use of data subscriptions to provide a continuous stream of data to applications, which can be used to make informed decisions in real-time. The deployment of data subscriptions can be done through various methods, including API integration, webhooks, and other data integration tools. This concept is particularly useful in industries such as finance, healthcare, and retail, where real-time data analysis is critical for decision-making. The Data Subscription Deployment concept can help organizations to improve their operational efficiency, reduce costs, and enhance customer experience by providing real-time insights into their business operations."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataSubscriptionDeploymentGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:DataSubscriptionDeploymentGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Data Subscription Deployment"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

@@ -1,0 +1,57 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperable Digital Public Service Implementation Orientation"
+    id="id-1fa5751196d7432887fa0bcdee6e8a63"
+    documentation="Definition: Interoperable Digital Public Service Implementation Orientation ABB is a Constraint that implements the approach that a digital public service owner has to follow to implement their digital public services.&#xA;&#xA;Source: European Interoperability Framework (EIF)&#xA;&#xA;Source reference: http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF&#xA;&#xA;Additional information: Studying the implementation orientation facilitate Member States in understanding the implementation impacts on the interoperability and the functioning of the digital public services from different perspectives.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The four implementation orientations identified in IDPSIO, integration, technology, governance, and legal (see the Joinup IDPSIO solution home page: https://joinup.ec.europa.eu/collection/european-interoperability-reference-architecture-eira/solution/egovera/release/v210).&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: Interoperable Digital Public Service Implementation Orientation ABB is salient for governance interoperability because it supports digital public service owners in deciding the approach to follow to implement their digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/InteroperableDigitalPublicServiceImplementationOrientationConstraint&#xA;&#xA;ABB name: eira:InteroperableDigitalPublicServiceImplementationOrientationConstraint&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/InteroperableDigitalPublicServiceImplementationOrientationConstraint&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/InteroperableDigitalPublicServiceImplementationOrientationConstraint"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperableDigitalPublicServiceImplementationOrientationConstraint"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Interoperable Digital Public Service Implementation Orientation ABB is a Constraint that implements the approach that a digital public service owner has to follow to implement their digital public services."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Interoperability Framework (EIF)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The four implementation orientations identified in IDPSIO, integration, technology, governance, and legal (see the Joinup IDPSIO solution home page: https://joinup.ec.europa.eu/collection/european-interoperability-reference-architecture-eira/solution/egovera/release/v210)."/>
+  <properties
+      key="eira:iopSaliency"
+      value="Interoperable Digital Public Service Implementation Orientation ABB is salient for governance interoperability because it supports digital public service owners in deciding the approach to follow to implement their digital public services."/>
+  <properties
+      key="skos:note"
+      value="Studying the implementation orientation facilitate Member States in understanding the implementation impacts on the interoperability and the functioning of the digital public services from different perspectives."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/InteroperableDigitalPublicServiceImplementationOrientationConstraint"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Constraint>

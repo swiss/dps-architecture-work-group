@@ -1,0 +1,41 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Architect Data Spaces Concerns"
+    id="id-1bef677b1ab84cd492d9f81aadc087d5"
+    documentation="Definition: Information Architect Data Spaces Concerns ABB is a Grouping that covers the processes an information architect should follow, and the relation/influence of process related with other roles' processes, to read/assess/understand an eGovERA model in order to understand/develop a Data Spaces solution/architecture. It includes elements such as Semantic view and Organisational view.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Information Architect Data Spaces Concerns ABB is a crucial tool for information architects working on Data Spaces solutions or architectures. It provides a structured approach to understanding and developing these solutions, taking into account the interplay between different roles and processes. The Semantic view element refers to the understanding and interpretation of the data, its meaning and relationships. The Organisational view element, on the other hand, pertains to the understanding of the organizational structure, roles, responsibilities, and processes that are involved in the management and use of the data.&#xA;&#xA;Example: For instance, when developing a Data Spaces solution for a government agency, an information architect would use the Semantic view to understand the meaning and relationships of the data that the agency handles. They would use the Organisational view to understand the agency's structure, roles, and processes, and how these factors would influence the management and use of the data in the Data Spaces solution.&#xA;&#xA;LOST view: [A] How to read the model&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/InformationArchitectDataSpacesConcernsGrouping&#xA;&#xA;ABB name: egovera:InformationArchitectDataSpacesConcernsGrouping&#xA;&#xA;EIRA concept: eira:None&#xA;&#xA;Last modification: 2023-11-19&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/InformationArchitectDataSpacesConcernsGrouping&#xA;&#xA;Name: Information Architect Data Spaces Concerns Catalogue&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/InformationArchitectDataSpacesConcernsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-19"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/InformationArchitectDataSpacesConcernsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Information Architect Data Spaces Concerns Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:InformationArchitectDataSpacesConcernsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Information Architect Data Spaces Concerns ABB is a Grouping that covers the processes an information architect should follow, and the relation/influence of process related with other roles' processes, to read/assess/understand an eGovERA model in order to understand/develop a Data Spaces solution/architecture. It includes elements such as Semantic view and Organisational view."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, when developing a Data Spaces solution for a government agency, an information architect would use the Semantic view to understand the meaning and relationships of the data that the agency handles. They would use the Organisational view to understand the agency's structure, roles, and processes, and how these factors would influence the management and use of the data in the Data Spaces solution."/>
+  <properties
+      key="skos:note"
+      value="The Information Architect Data Spaces Concerns ABB is a crucial tool for information architects working on Data Spaces solutions or architectures. It provides a structured approach to understanding and developing these solutions, taking into account the interplay between different roles and processes. The Semantic view element refers to the understanding and interpretation of the data, its meaning and relationships. The Organisational view element, on the other hand, pertains to the understanding of the organizational structure, roles, responsibilities, and processes that are involved in the management and use of the data."/>
+  <properties
+      key="eira:concept"
+      value="eira:None"/>
+  <properties
+      key="eira:view"
+      value="[A] How to read the model"/>
+</archimate:Grouping>

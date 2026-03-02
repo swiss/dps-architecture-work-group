@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inmutable Database Manager"
+    id="id-7e825cc3357848f99176bbfe4fb6a5b4"
+    documentation="Definition: Immutable Database Manager ABB is a Technology Service that enables the procedure to manage data that cannot be (or shouldn't be) deleted or modified.&#xA;&#xA;Source: ODBMS&#xA;&#xA;Source reference: https://www.odbms.org/2015/10/the-rise-of-immutable-data-stores/&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): immubd is a database written in Go, but unlike other databases, it is immutable: history is preserved and can't be changed without clients noticing. immudb can be used both as a key-value store, or as a relational database (SQL). immudb can be run as full database server with replicas or easily embedded as a lightweight database into application. https://docs.immudb.io/master/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Immutable Database Manager ABB is salient for technical interoperability because it establishes the mechanism to store information and also, manages that the stored information is cannot be deleted or modified.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/InmutableDatabaseManagerTechnologyService&#xA;&#xA;ABB name: eira:InmutableDatabaseManagerTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/InmutableDatabaseManagerTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/InmutableDatabaseManagerTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:InmutableDatabaseManagerTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Immutable Database Manager ABB is a Technology Service that enables the procedure to manage data that cannot be (or shouldn't be) deleted or modified."/>
+  <properties
+      key="eira:definitionSource"
+      value="ODBMS"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.odbms.org/2015/10/the-rise-of-immutable-data-stores/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): immubd is a database written in Go, but unlike other databases, it is immutable: history is preserved and can't be changed without clients noticing. immudb can be used both as a key-value store, or as a relational database (SQL). immudb can be run as full database server with replicas or easily embedded as a lightweight database into application. https://docs.immudb.io/master/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Immutable Database Manager ABB is salient for technical interoperability because it establishes the mechanism to store information and also, manages that the stored information is cannot be deleted or modified."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/InmutableDatabaseManagerTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

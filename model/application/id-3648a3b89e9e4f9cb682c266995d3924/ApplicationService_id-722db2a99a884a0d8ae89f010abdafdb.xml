@@ -1,0 +1,54 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Observability"
+    id="id-722db2a99a884a0d8ae89f010abdafdb"
+    documentation="Definition: Observability is a concept in IT that refers to the ability to gain insights into the internal state and behavior of a system by analyzing its external outputs. It involves collecting and analyzing various metrics, logs, traces, and other data points to understand the system's performance, health, and potential issues.&#xA;&#xA;Source: Observability in Distributed Systems&#xA;&#xA;Source reference: https://www.oreilly.com/library/view/observability-in-distributed/9781492033431/&#xA;&#xA;Additional information: Observability goes beyond traditional monitoring by providing a holistic view of a system's internal workings. It focuses on capturing and analyzing data that can help in troubleshooting, debugging, and optimizing the system's performance. By collecting and correlating data from different sources, such as application logs, infrastructure metrics, and distributed traces, observability enables IT teams to gain deep insights into the system's behavior and identify patterns or anomalies that may impact its performance or reliability. It helps in understanding the cause and effect relationships within the system, making it easier to diagnose and resolve issues.&#xA;&#xA;Example: An example of observability in practice is the monitoring of a cloud-based application. By collecting metrics on response times, error rates, and resource utilization, along with analyzing logs and distributed traces, IT teams can gain a comprehensive understanding of the application's performance. They can identify bottlenecks, pinpoint the root cause of issues, and make informed decisions to optimize the application's architecture or infrastructure. Observability enables proactive monitoring and troubleshooting, leading to improved system reliability and better user experiences.&#xA;&#xA;LOST view: TVA-Observability and Monitoring Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ObservabilityApplicationService&#xA;&#xA;ABB name: egovera:ObservabilityApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ObservabilityApplicationService&#xA;&#xA;Name: Observability Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ObservabilityApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ObservabilityApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Observability Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:ObservabilityApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="Observability is a concept in IT that refers to the ability to gain insights into the internal state and behavior of a system by analyzing its external outputs. It involves collecting and analyzing various metrics, logs, traces, and other data points to understand the system's performance, health, and potential issues."/>
+  <properties
+      key="eira:definitionSource"
+      value="Observability in Distributed Systems"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.oreilly.com/library/view/observability-in-distributed/9781492033431/"/>
+  <properties
+      key="skos:example"
+      value="An example of observability in practice is the monitoring of a cloud-based application. By collecting metrics on response times, error rates, and resource utilization, along with analyzing logs and distributed traces, IT teams can gain a comprehensive understanding of the application's performance. They can identify bottlenecks, pinpoint the root cause of issues, and make informed decisions to optimize the application's architecture or infrastructure. Observability enables proactive monitoring and troubleshooting, leading to improved system reliability and better user experiences."/>
+  <properties
+      key="skos:note"
+      value="Observability goes beyond traditional monitoring by providing a holistic view of a system's internal workings. It focuses on capturing and analyzing data that can help in troubleshooting, debugging, and optimizing the system's performance. By collecting and correlating data from different sources, such as application logs, infrastructure metrics, and distributed traces, observability enables IT teams to gain deep insights into the system's behavior and identify patterns or anomalies that may impact its performance or reliability. It helps in understanding the cause and effect relationships within the system, making it easier to diagnose and resolve issues."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Observability and Monitoring Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Dataspace Enablers"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

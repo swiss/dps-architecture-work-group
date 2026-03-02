@@ -1,0 +1,49 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forms Structure"
+    id="id-15e9aa9c61484f60a19595b41254a19b"
+    documentation="Definition: Forms Structure ABB is a Data Object that enables the implementation of the layout and organization of the fields, labels and controls on a form used to collect or display data.&#xA;&#xA;Source: Inspired in Science Direct &#xA;&#xA;Source reference: https://www.sciencedirect.com/topics/computer-science/formal-structure&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Standard forms for public procurement - o help you publish EU public procurement data in the Official Journal, the European Commission has created standard forms aligned with each of the EU legal bases in place for publishing this data, namely: - TED schema forms set out in Regulation (EU) 2015/1986; - eForms set out in Regulation (EU) 2019/1780. https://simap.ted.europa.eu/standard-forms-for-public-procurement&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Interoperability Saliency: The Forms Structure Data Object ABB is salient for semantic interoperability because the harmonisation of forms structures can contribute to data accessibility and reuse.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FormsStructureDataObject&#xA;&#xA;ABB name: eira:FormsStructureDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FormsStructureDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/FormsStructureDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:FormsStructureDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Forms Structure ABB is a Data Object that enables the implementation of the layout and organization of the fields, labels and controls on a form used to collect or display data."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Science Direct "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.sciencedirect.com/topics/computer-science/formal-structure"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Standard forms for public procurement - o help you publish EU public procurement data in the Official Journal, the European Commission has created standard forms aligned with each of the EU legal bases in place for publishing this data, namely: - TED schema forms set out in Regulation (EU) 2015/1986; - eForms set out in Regulation (EU) 2019/1780. https://simap.ted.europa.eu/standard-forms-for-public-procurement"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Forms Structure Data Object ABB is salient for semantic interoperability because the harmonisation of forms structures can contribute to data accessibility and reuse."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/FormsStructureDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

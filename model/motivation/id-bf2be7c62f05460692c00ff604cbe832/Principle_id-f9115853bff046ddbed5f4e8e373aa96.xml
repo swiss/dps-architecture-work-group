@@ -1,0 +1,45 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reuse, before buy, before build"
+    id="id-f9115853bff046ddbed5f4e8e373aa96"
+    documentation="Definition: Existing IT systems are reused, before deciding upon buying or even building them. Taxpayers money can only be spent once. Reusing existing systems is a lot cheaper that buying new systems or even building them. In most cases, the requirements of public administrations are not very specific, and existing systems are sufficient to support the processes. It may seem that the costs of building new IT systems can be acceptable, but the costs of the maintenance and support of these systems are often forgotten and are much higher than the cost related to the initial development. When requirements for IT support arise, it is first determined whether systems that provide similar functionality are already available in the organization or otherwise in the market.Requirements that are not supported by existing systems are critically analyzed to determine whether they are really essential.Processes are adapted to existing systems or standard systems that are available in the market, when possible and acceptable.Building new IT systems is only considered a last resort when no existing systems exist or cannot fulfil essential requirements.&quot;&quot;&#xA;&#xA;Source: Reusability Underlying Principle (4) of the European Interoperability Framework (EIF)&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/reusability&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/reuse-buy-build&#xA;&#xA;ABB name: elap:reuse-buy-build&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Reuse, before buy, before build&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:reuse-buy-build"/>
+  <properties
+      key="dct:title"
+      value="Reuse, before buy, before build"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/reuse-buy-build"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="Reusability Underlying Principle (4) of the European Interoperability Framework (EIF)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/reusability"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:definition"
+      value="Existing IT systems are reused, before deciding upon buying or even building them. Taxpayers money can only be spent once. Reusing existing systems is a lot cheaper that buying new systems or even building them. In most cases, the requirements of public administrations are not very specific, and existing systems are sufficient to support the processes. It may seem that the costs of building new IT systems can be acceptable, but the costs of the maintenance and support of these systems are often forgotten and are much higher than the cost related to the initial development. When requirements for IT support arise, it is first determined whether systems that provide similar functionality are already available in the organization or otherwise in the market.Requirements that are not supported by existing systems are critically analyzed to determine whether they are really essential.Processes are adapted to existing systems or standard systems that are available in the market, when possible and acceptable.Building new IT systems is only considered a last resort when no existing systems exist or cannot fulfil essential requirements.&quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

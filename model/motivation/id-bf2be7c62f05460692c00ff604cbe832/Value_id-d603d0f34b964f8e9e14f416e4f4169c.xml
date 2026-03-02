@@ -1,0 +1,44 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delivery Capacity"
+    id="id-d603d0f34b964f8e9e14f416e4f4169c"
+    documentation="Definition: The Delivery Capacity Value ABB refers to the ability of public administrations to deliver public services, programs, and policies effectively and efficiently to citizens and stakeholders. It encompasses the overall performance, effectiveness, and responsiveness of public administration in meeting the needs and expectations of the public.&#xA;&#xA;Source: Public Administration Reform: A Comparative Analysis&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;Viewpoint: Enterprise Architecture Framework alignment guidelines viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DeliveryCapacityValue&#xA;&#xA;ABB name: eira:DeliveryCapacityValue&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DeliveryCapacityValue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DeliveryCapacityValue"/>
+  <properties
+      key="dct:type"
+      value="eira:DeliveryCapacityValue"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="The Delivery Capacity Value ABB refers to the ability of public administrations to deliver public services, programs, and policies effectively and efficiently to citizens and stakeholders. It encompasses the overall performance, effectiveness, and responsiveness of public administration in meeting the needs and expectations of the public."/>
+  <properties
+      key="eira:definitionSource"
+      value="Public Administration Reform: A Comparative Analysis"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DeliveryCapacityValue"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Value>

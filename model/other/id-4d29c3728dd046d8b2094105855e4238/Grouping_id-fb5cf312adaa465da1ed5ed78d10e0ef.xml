@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Public Service Strategy (Public Policy Cycle) Principle Catalogue"
+    id="id-fb5cf312adaa465da1ed5ed78d10e0ef"
+    documentation="Definition: Digital Public Service Strategy (Public Policy Cycle) Principle Catalogue ABB is a grouping that covers a range of principles and strategies related to the implementation and management of digital public services. These principles include accessibility, accountability, best fit public service implementation orientation, care from cradle to grave, data sovereignty, deployment fit (Cloud-first approach), digital first, digital partnership, digital sovereignty and autonomy, evidence-based public policy, social participation, transparency of internal information systems, and transparency of the administrative environment.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The catalogue is a comprehensive collection of principles and strategies that guide the implementation, management, and evolution of digital public services. 'Accessibility' ensures services are available to all citizens, 'Accountability' ensures responsible use of resources and power, 'Best fit Public Service Implementation Orientation' guides the implementation process, 'Care from cradle to grave' ensures lifelong support for citizens, 'Data Sovereignty' ensures citizens' data rights, 'Deployment fit (Cloud-first approach)' guides the deployment of services, 'Digital First' prioritizes digital solutions, 'Digital Partnership' encourages collaboration, 'Digital sovereignty and autonomy' ensures digital independence, 'Evidence based Public Policy' ensures policies are based on factual data, 'Social participation' encourages citizen involvement, 'Transparency of internal information systems' ensures openness about system operations, and 'Transparency of the administrative environment' ensures openness about administrative processes.&#xA;&#xA;Example: An example of 'Accessibility' could be a government website that is designed to be user-friendly for all citizens, including those with disabilities. An example of 'Accountability' could be a public service agency that regularly publishes reports on its spending and activities. An example of 'Best fit Public Service Implementation Orientation' could be a government agency that carefully selects the most suitable software for its needs, rather than simply choosing the most popular or cheapest option. An example of 'Care from cradle to grave' could be a government health service that provides care for citizens from birth to old age.&#xA;&#xA;LOST view: Architecture Principles view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalPublicServiceStrategyPrincipleCatalogueGrouping&#xA;&#xA;ABB name: egovera:DigitalPublicServiceStrategyPrincipleCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalPublicServiceStrategyPrincipleCatalogueGrouping&#xA;&#xA;Name: Digital Public Service Strategy (Public Policy Cycle) Principle Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DigitalPublicServiceStrategyPrincipleCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DigitalPublicServiceStrategyPrincipleCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Digital Public Service Strategy (Public Policy Cycle) Principle Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:DigitalPublicServiceStrategyPrincipleCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Digital Public Service Strategy (Public Policy Cycle) Principle Catalogue ABB is a grouping that covers a range of principles and strategies related to the implementation and management of digital public services. These principles include accessibility, accountability, best fit public service implementation orientation, care from cradle to grave, data sovereignty, deployment fit (Cloud-first approach), digital first, digital partnership, digital sovereignty and autonomy, evidence-based public policy, social participation, transparency of internal information systems, and transparency of the administrative environment."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of 'Accessibility' could be a government website that is designed to be user-friendly for all citizens, including those with disabilities. An example of 'Accountability' could be a public service agency that regularly publishes reports on its spending and activities. An example of 'Best fit Public Service Implementation Orientation' could be a government agency that carefully selects the most suitable software for its needs, rather than simply choosing the most popular or cheapest option. An example of 'Care from cradle to grave' could be a government health service that provides care for citizens from birth to old age."/>
+  <properties
+      key="skos:note"
+      value="The catalogue is a comprehensive collection of principles and strategies that guide the implementation, management, and evolution of digital public services. 'Accessibility' ensures services are available to all citizens, 'Accountability' ensures responsible use of resources and power, 'Best fit Public Service Implementation Orientation' guides the implementation process, 'Care from cradle to grave' ensures lifelong support for citizens, 'Data Sovereignty' ensures citizens' data rights, 'Deployment fit (Cloud-first approach)' guides the deployment of services, 'Digital First' prioritizes digital solutions, 'Digital Partnership' encourages collaboration, 'Digital sovereignty and autonomy' ensures digital independence, 'Evidence based Public Policy' ensures policies are based on factual data, 'Social participation' encourages citizen involvement, 'Transparency of internal information systems' ensures openness about system operations, and 'Transparency of the administrative environment' ensures openness about administrative processes."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

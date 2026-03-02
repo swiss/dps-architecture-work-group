@@ -1,0 +1,45 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RDF Serialisations"
+    id="id-434fd0bf39a84ff3b86a7910a4c820b9"
+    documentation="Definition: RDF serialization can be defined as the process of encoding RDF (Resource Description Framework) data into a specific format or syntax that enables the storage, transmission, and exchange of structured data in a machine-readable manner. It involves transforming RDF triples into a serialized form, allowing data to be easily parsed, interpreted, and processed by both humans and computer systems.&#xA;&#xA;Source: W3C&#xA;&#xA;Source reference: https://www.w3.org/TR/rdf11-primer/&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/RDFSerialisationsRepresentation&#xA;&#xA;ABB name: egovera:RDFSerialisationsRepresentation&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/RDFSerialisationsRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="skos:definition"
+      value="RDF serialization can be defined as the process of encoding RDF (Resource Description Framework) data into a specific format or syntax that enables the storage, transmission, and exchange of structured data in a machine-readable manner. It involves transforming RDF triples into a serialized form, allowing data to be easily parsed, interpreted, and processed by both humans and computer systems."/>
+  <properties
+      key="eira:definitionSource"
+      value="W3C"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.w3.org/TR/rdf11-primer/"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/RDFSerialisationsRepresentation"/>
+  <properties
+      key="dct:type"
+      value="egovera:RDFSerialisationsRepresentation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/RDFSerialisationsRepresentation"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

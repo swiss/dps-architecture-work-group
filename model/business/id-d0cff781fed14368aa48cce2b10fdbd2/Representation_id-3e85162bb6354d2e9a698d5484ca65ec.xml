@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RDF-S"
+    id="id-3e85162bb6354d2e9a698d5484ca65ec"
+    documentation="Description: RDF Schema provides a data-modelling vocabulary for RDF data. RDF Schema is an extension of the basic RDF vocabulary.&#xA;&#xA;Publisher: W3C&#xA;&#xA;Source: https://www.w3.org/TR/rdf12-schema/&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/RDF-SRepresentation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/RDF-SRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="W3C"/>
+  <properties
+      key="dct:description"
+      value="RDF Schema provides a data-modelling vocabulary for RDF data. RDF Schema is an extension of the basic RDF vocabulary."/>
+  <properties
+      key="dct:source"
+      value="https://www.w3.org/TR/rdf12-schema/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/RDF-SRepresentation"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/RDF-SRepresentation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

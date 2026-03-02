@@ -1,0 +1,50 @@
+<archimate:Equipment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Physical Communication Infrastructure"
+    id="id-f6717aec056f409db97964bf04f5c5dd"
+    documentation="Definition: The Physical Communication Infrastructure ABB is an Equipment that enables components to exchange data.&#xA;&#xA;Source: Law Insider&#xA;&#xA;Source reference: https://www.lawinsider.com/dictionary/communication-infrastructure&#xA;&#xA;Additional information: The Physical Communication Infrastructure includes but is not limited to fixed links, radio communication transmitters, fibre/copper cable, towers, switches, base stations. Customer premise equipment is not included.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Physical Communication Infrastructure ABB is salient for technical interoperability because it provides the infrastructure in charge of bringing the data exchange and communication between public administration services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PhysicalCommunicationInfrastructureEquipment&#xA;&#xA;ABB name: eira:PhysicalCommunicationInfrastructureEquipment&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PhysicalCommunicationInfrastructureEquipment&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PhysicalCommunicationInfrastructureEquipment"/>
+  <properties
+      key="dct:type"
+      value="eira:PhysicalCommunicationInfrastructureEquipment"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="The Physical Communication Infrastructure ABB is an Equipment that enables components to exchange data."/>
+  <properties
+      key="eira:definitionSource"
+      value="Law Insider"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.lawinsider.com/dictionary/communication-infrastructure"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Physical Communication Infrastructure ABB is salient for technical interoperability because it provides the infrastructure in charge of bringing the data exchange and communication between public administration services."/>
+  <properties
+      key="skos:note"
+      value="The Physical Communication Infrastructure includes but is not limited to fixed links, radio communication transmitters, fibre/copper cable, towers, switches, base stations. Customer premise equipment is not included."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PhysicalCommunicationInfrastructureEquipment"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Equipment>

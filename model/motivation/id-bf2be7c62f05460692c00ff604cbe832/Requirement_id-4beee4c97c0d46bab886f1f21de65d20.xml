@@ -1,0 +1,39 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution Non-Functional Requirement"
+    id="id-4beee4c97c0d46bab886f1f21de65d20"
+    documentation="Definition: The [Digital Solution Non-Functional Requirement] ABB refers to criteria that specify the operational qualities such as performance, security, usability, and reliability of a digital solution, rather than its specific behaviors or functions.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionNon-FunctionalRequirementRequirement&#xA;&#xA;ABB name: eira:DigitalSolutionNon-FunctionalRequirementRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionNon-FunctionalRequirementRequirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionNon-FunctionalRequirementRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionNon-FunctionalRequirementRequirement"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionNon-FunctionalRequirementRequirement"/>
+  <properties
+      key="skos:definition"
+      value="The [Digital Solution Non-Functional Requirement] ABB refers to criteria that specify the operational qualities such as performance, security, usability, and reliability of a digital solution, rather than its specific behaviors or functions."/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+</archimate:Requirement>

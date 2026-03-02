@@ -1,0 +1,49 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Orchestration"
+    id="id-8d64a7722d84459a9fe0e092f6aa9417"
+    documentation="Definition: Orchestration ABB is an Application component that enables the coordination and management of the execution of multiple components or services within an application or system.&#xA;&#xA;Source: W3C &#xA;&#xA;Source reference: https://www.w3.org/TR/ws-arch/&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Activiti - Activiti is an open-source workflow engine written in Java that can execute business processes described in BPMN 2.0. Activiti supports open standards such as BPMN and DMN with open REST APIs for demanding human- and system-centric processes. It provides business intelligence and audit logs features for free. And with building the solution on business processes, Activiti help to structure the software, think about user tasks, external systems and timers that need to be managed, think about transaction boundaries of the application. Building that kind of features becomes easier when structuring an application around a business process. Managing wait states, timers and asynchronous continuations becomes easier. A business process can express that structure more compact than working with the fundamental instruments that the Java platform offers like JDBC and JMS. Activiti also makes possible to link in Java or scripting for jobs. https://www.activiti.org/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Orchestration Component ABB  is salient for technical interoperability because it provides a set of various methods to manage existing business processes or define and establish new ones. BPM components also execute business process documented through accepted modelling techniques, as recommended by the EIF n.28: &quot;Document your business processes using commonly accepted modelling techniques and agree on how these processes should be aligned to deliver a European public service.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/OrchestrationApplicationComponent&#xA;&#xA;ABB name: eira:OrchestrationApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/OrchestrationApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/OrchestrationApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:OrchestrationApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Orchestration ABB is an Application component that enables the coordination and management of the execution of multiple components or services within an application or system."/>
+  <properties
+      key="eira:definitionSource"
+      value="W3C "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.w3.org/TR/ws-arch/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Activiti - Activiti is an open-source workflow engine written in Java that can execute business processes described in BPMN 2.0. Activiti supports open standards such as BPMN and DMN with open REST APIs for demanding human- and system-centric processes. It provides business intelligence and audit logs features for free. And with building the solution on business processes, Activiti help to structure the software, think about user tasks, external systems and timers that need to be managed, think about transaction boundaries of the application. Building that kind of features becomes easier when structuring an application around a business process. Managing wait states, timers and asynchronous continuations becomes easier. A business process can express that structure more compact than working with the fundamental instruments that the Java platform offers like JDBC and JMS. Activiti also makes possible to link in Java or scripting for jobs. https://www.activiti.org/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Orchestration Component ABB  is salient for technical interoperability because it provides a set of various methods to manage existing business processes or define and establish new ones. BPM components also execute business process documented through accepted modelling techniques, as recommended by the EIF n.28: &quot;Document your business processes using commonly accepted modelling techniques and agree on how these processes should be aligned to deliver a European public service.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/OrchestrationApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,50 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Forms Structure Catalogue"
+    id="id-e5e06a246a954ca39677efed69d55696"
+    documentation="Definition: Business Agnostic Forms Structure Catalogue ABB is a grouping that covers a variety of form structures that are applicable across different business domains. These form structures are designed to be versatile and adaptable to various business needs, regardless of the industry or sector. The catalogue includes forms such as Contact Form, Feedback Form, Survey Form, Registration Form, and Order Form.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Business Agnostic Forms Structure Catalogue ABB is a comprehensive collection of form structures that are not specific to any business or industry. These forms are designed to be adaptable and versatile, allowing them to be used in a variety of different business contexts. The Contact Form is used for collecting basic information about a person or entity, the Feedback Form is used for gathering feedback or opinions, the Survey Form is used for conducting surveys or polls, the Registration Form is used for registering users or participants, and the Order Form is used for placing orders or making purchases. Each form structure can be customized to suit the specific needs of the business, making this catalogue a valuable resource for any business.&#xA;&#xA;Example: Examples of application for the Business Agnostic Forms Structure Catalogue ABB could be a retail business using the Order Form for customers to place orders, a research institution using the Survey Form to conduct a study, a service provider using the Feedback Form to gather customer feedback, an event organizer using the Registration Form to register participants, or a company using the Contact Form on their website for visitors to get in touch.&#xA;&#xA;LOST view: SV-Forms Structure&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticFormsStructureCatalogueGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticFormsStructureCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticFormsStructureCatalogueGrouping&#xA;&#xA;Name: Business Agnostic Forms Structure Catalogue Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticFormsStructureCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticFormsStructureCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Forms Structure Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticFormsStructureCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic Forms Structure Catalogue ABB is a grouping that covers a variety of form structures that are applicable across different business domains. These form structures are designed to be versatile and adaptable to various business needs, regardless of the industry or sector. The catalogue includes forms such as Contact Form, Feedback Form, Survey Form, Registration Form, and Order Form."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="Examples of application for the Business Agnostic Forms Structure Catalogue ABB could be a retail business using the Order Form for customers to place orders, a research institution using the Survey Form to conduct a study, a service provider using the Feedback Form to gather customer feedback, an event organizer using the Registration Form to register participants, or a company using the Contact Form on their website for visitors to get in touch."/>
+  <properties
+      key="skos:note"
+      value="The Business Agnostic Forms Structure Catalogue ABB is a comprehensive collection of form structures that are not specific to any business or industry. These forms are designed to be adaptable and versatile, allowing them to be used in a variety of different business contexts. The Contact Form is used for collecting basic information about a person or entity, the Feedback Form is used for gathering feedback or opinions, the Survey Form is used for conducting surveys or polls, the Registration Form is used for registering users or participants, and the Order Form is used for placing orders or making purchases. Each form structure can be customized to suit the specific needs of the business, making this catalogue a valuable resource for any business."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Forms Structure"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

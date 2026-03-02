@@ -1,0 +1,57 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Interoperability Agreement"
+    id="id-531b1863391446f69bf4230bcda6e4ec"
+    documentation="Definition: Legal Interoperability Agreement ABB is a Contract formalizing governance rules enabling collaboration between digital public services.&#xA;&#xA;Source: EIF &#xA;&#xA;Source reference: https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf#page=27&#xA;&#xA;Additional information: The legal Interoperability Agreement ABB is a specialisation of the Legal Agreement. It aims to coordinate or harmonize efficient exchange models between digital public services within a Public Administration and/or cross Public Administrations.&#xA;&#xA;Example: RDA-CODATA - Agreement that provides the guidelines and principles on the legal interoperability of research data. (http://www.codata.org/uploads/Legal%20Interoperability%20Principles%20and%20Implementation%20Guidelines_Final2.pdf)&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Legal Interoperability Agreement ABB is a key interoperability enabler (*) for governance, organizational and legal interoperability by (i) foundations and requirements that enable the seamless exchange of data, information, and knowledge; and (ii) agreement on digital business capabilities that can map locally aligned processes between public administrations.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegalInteroperabilityAgreementContract&#xA;&#xA;ABB name: eira:LegalInteroperabilityAgreementContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegalInteroperabilityAgreementContract&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LegalInteroperabilityAgreementContract"/>
+  <properties
+      key="dct:type"
+      value="eira:LegalInteroperabilityAgreementContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Legal Interoperability Agreement ABB is a Contract formalizing governance rules enabling collaboration between digital public services."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIF "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf#page=27"/>
+  <properties
+      key="skos:example"
+      value="RDA-CODATA - Agreement that provides the guidelines and principles on the legal interoperability of research data. (http://www.codata.org/uploads/Legal%20Interoperability%20Principles%20and%20Implementation%20Guidelines_Final2.pdf)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Legal Interoperability Agreement ABB is a key interoperability enabler (*) for governance, organizational and legal interoperability by (i) foundations and requirements that enable the seamless exchange of data, information, and knowledge; and (ii) agreement on digital business capabilities that can map locally aligned processes between public administrations."/>
+  <properties
+      key="skos:note"
+      value="The legal Interoperability Agreement ABB is a specialisation of the Legal Agreement. It aims to coordinate or harmonize efficient exchange models between digital public services within a Public Administration and/or cross Public Administrations."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LegalInteroperabilityAgreementContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Contract>

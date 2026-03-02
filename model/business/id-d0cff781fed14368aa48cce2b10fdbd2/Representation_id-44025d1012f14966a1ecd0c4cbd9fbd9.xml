@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RML"
+    id="id-44025d1012f14966a1ecd0c4cbd9fbd9"
+    documentation="Description: The RDF Mapping Language (RML) is a technical specification that provides a standardized approach for transforming structured data from various formats into RDF (Resource Description Framework). RML enables the mapping of data from sources such as databases, spreadsheets, or APIs to RDF, which allows for semantic integration and interoperability. It provides a flexible and extensible mapping language that defines how the source data should be transformed into RDF triples. RML supports complex mappings, allowing for data extraction, transformation, and enrichment during the conversion process. By utilizing RML, technical teams can efficiently convert diverse data sources into RDF, facilitating seamless integration and utilization of structured data within the semantic web and linked data ecosystems.&#xA;&#xA;Publisher: rml.io&#xA;&#xA;Source: https://rml.io/specs/rml/&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/RMLRepresentation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/RMLRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="rml.io"/>
+  <properties
+      key="dct:description"
+      value="The RDF Mapping Language (RML) is a technical specification that provides a standardized approach for transforming structured data from various formats into RDF (Resource Description Framework). RML enables the mapping of data from sources such as databases, spreadsheets, or APIs to RDF, which allows for semantic integration and interoperability. It provides a flexible and extensible mapping language that defines how the source data should be transformed into RDF triples. RML supports complex mappings, allowing for data extraction, transformation, and enrichment during the conversion process. By utilizing RML, technical teams can efficiently convert diverse data sources into RDF, facilitating seamless integration and utilization of structured data within the semantic web and linked data ecosystems."/>
+  <properties
+      key="dct:source"
+      value="https://rml.io/specs/rml/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/RMLRepresentation"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/RMLRepresentation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

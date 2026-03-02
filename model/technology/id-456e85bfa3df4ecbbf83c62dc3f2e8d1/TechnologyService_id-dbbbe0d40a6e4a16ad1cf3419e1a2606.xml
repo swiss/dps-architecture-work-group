@@ -1,0 +1,48 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Database Cache Manager"
+    id="id-dbbbe0d40a6e4a16ad1cf3419e1a2606"
+    documentation="Definition: Database Cache Manager ABB is a Technology Service that implements the behaviour of a software system that manages the caching of frequently accessed data in memory&#xA;&#xA;Source: Inspired in the definition provided by relebant database vendors&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Redis, The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker. https://redis.io/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Database Cache Manager ABB is salient for semantic interoperability due to implementing a mechanism to manage data in memory to provide to the public administration consumers efficiently and in a short time response. It also facilitates data sharing and reuse using common data exchange models and serialisations.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DatabaseCacheManagerTechnologyService&#xA;&#xA;ABB name: eira:DatabaseCacheManagerTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DatabaseCacheManagerTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DatabaseCacheManagerTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:DatabaseCacheManagerTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Database Cache Manager ABB is a Technology Service that implements the behaviour of a software system that manages the caching of frequently accessed data in memory"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the definition provided by relebant database vendors"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Redis, The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker. https://redis.io/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Database Cache Manager ABB is salient for semantic interoperability due to implementing a mechanism to manage data in memory to provide to the public administration consumers efficiently and in a short time response. It also facilitates data sharing and reuse using common data exchange models and serialisations."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DatabaseCacheManagerTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

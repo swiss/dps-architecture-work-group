@@ -1,0 +1,55 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Policy"
+    id="id-0cca36c9f1d944c3b9f6a736d03138cd"
+    documentation="Definition: Data Policy ABB is a Business Object aiming to form the guiding framework in which data management can operate.&#xA;&#xA;Source: OECD &#xA;&#xA;Source reference: https://stats.oecd.org/glossary/detail.asp?ID=4454&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU SCIENCE HUB - The European Commission's science and knowledge service - JRC's Data policy: The JRC's data policy is driven by transparency with the aim of contributing to innovation. It is a pillar of the development and implementation of scientific knowledge management at the JRC. It follows the commitments and regulatory basis of the Commission Decision on the reuse of Commission documents (2011/833/EU). The objectives for adopting and implementing the JRC data policy include: • Share and use data on the basis of the JRC Open Data principles: fully, freely, openly and timely; • To be transparent on the reasons for restricted access to certain data; • Provide a coordinated approach to the acquisition of data by the JRC; • Facilitate management, broaden access and use of JRC data; • Reinforce goals of Horizon 2020; • Support EU implementation of the G8 Open Data Charter; • Continuously support evidence-based decision making and research; • Ensure that JRC data is made available through the EU Open Data Portal. For a successful implementation process, the JRC's data policy lays down implementation principles with respect to responsible entities, overall implementation guidelines, and their individual elements like data management plans, as well as the monitoring of its implementation. https://ec.europa.eu/jrc/en/about/jrc-in-brief/data-policy&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Data Policy ABB is salient for semantic interoperability because it provides a guiding framework to manage data and information according to interoperability principles as stated in the EIF recommendation n° 30: &quot;Perceive data and information as a public asset that should be appropriately generated, collected, managed, shared, protected and preserved.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataPolicyBusinessObject&#xA;&#xA;ABB name: eira:DataPolicyBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataPolicyBusinessObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataPolicyBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="eira:DataPolicyBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Policy ABB is a Business Object aiming to form the guiding framework in which data management can operate."/>
+  <properties
+      key="eira:definitionSource"
+      value="OECD "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://stats.oecd.org/glossary/detail.asp?ID=4454"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU SCIENCE HUB - The European Commission's science and knowledge service - JRC's Data policy: The JRC's data policy is driven by transparency with the aim of contributing to innovation. It is a pillar of the development and implementation of scientific knowledge management at the JRC. It follows the commitments and regulatory basis of the Commission Decision on the reuse of Commission documents (2011/833/EU). The objectives for adopting and implementing the JRC data policy include: • Share and use data on the basis of the JRC Open Data principles: fully, freely, openly and timely; • To be transparent on the reasons for restricted access to certain data; • Provide a coordinated approach to the acquisition of data by the JRC; • Facilitate management, broaden access and use of JRC data; • Reinforce goals of Horizon 2020; • Support EU implementation of the G8 Open Data Charter; • Continuously support evidence-based decision making and research; • Ensure that JRC data is made available through the EU Open Data Portal. For a successful implementation process, the JRC's data policy lays down implementation principles with respect to responsible entities, overall implementation guidelines, and their individual elements like data management plans, as well as the monitoring of its implementation. https://ec.europa.eu/jrc/en/about/jrc-in-brief/data-policy"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Policy ABB is salient for semantic interoperability because it provides a guiding framework to manage data and information according to interoperability principles as stated in the EIF recommendation n° 30: &quot;Perceive data and information as a public asset that should be appropriately generated, collected, managed, shared, protected and preserved.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataPolicyBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:BusinessObject>

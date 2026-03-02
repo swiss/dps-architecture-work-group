@@ -1,0 +1,52 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Cloud Computing Facility"
+    id="id-5391eb73ae5b4494bf05974c95f419f2"
+    documentation="Definition: Public Cloud Computing Facility ABB is a Facility that enables a cloud infrastructure that is shared among multiple users and organizations and is typically managed by a third-party service provider&#xA;&#xA;Source: Inpired in Redhat&#xA;&#xA;Source reference: https://www.redhat.com/en/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): JRC- Development of the EU Green Public Procurement (GPP)- Critaria for Data Centres, Server Rooms and Cloud Services. https://ec.europa.eu/environment/gpp/pdf/jrc118558_2020_0605_data_centres_technical_report_jrc_clean_with_id.pdf&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: Public Cloud Facilities ABB is salient for organizational and technical interoperability because it establishes the business rules and responsibilities to deploy and deliver public administration services remotely.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicCloudComputingFacilityFacility&#xA;&#xA;ABB name: eira:PublicCloudComputingFacilityFacility&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicCloudComputingFacilityFacility&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PublicCloudComputingFacilityFacility"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicCloudComputingFacilityFacility"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Public Cloud Computing Facility ABB is a Facility that enables a cloud infrastructure that is shared among multiple users and organizations and is typically managed by a third-party service provider"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inpired in Redhat"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.redhat.com/en/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): JRC- Development of the EU Green Public Procurement (GPP)- Critaria for Data Centres, Server Rooms and Cloud Services. https://ec.europa.eu/environment/gpp/pdf/jrc118558_2020_0605_data_centres_technical_report_jrc_clean_with_id.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Public Cloud Facilities ABB is salient for organizational and technical interoperability because it establishes the business rules and responsibilities to deploy and deliver public administration services remotely."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PublicCloudComputingFacilityFacility"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Facility>

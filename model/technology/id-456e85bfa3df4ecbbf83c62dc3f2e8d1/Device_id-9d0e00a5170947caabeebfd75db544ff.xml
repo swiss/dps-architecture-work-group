@@ -1,0 +1,47 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sensor"
+    id="id-9d0e00a5170947caabeebfd75db544ff"
+    documentation="Definition: Sensor ABB is a Device that that detects and responds to events or changes in the physical environment.&#xA;&#xA;Source: Inspired in SAREF&#xA;&#xA;Source reference: https://saref.etsi.org/core/Sensor&#xA;&#xA;Additional information: Sensors convert physical inputs into electrical signals that can be processed and analyzed by electronic systems or software&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Sensor ABB is salient for technical interoperability because it provides needed observational elements to measure specific elements that serve to improve eGovernance services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SensorDevice&#xA;&#xA;ABB name: eira:SensorDevice&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SensorDevice&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SensorDevice"/>
+  <properties
+      key="dct:type"
+      value="eira:SensorDevice"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Sensor ABB is a Device that that detects and responds to events or changes in the physical environment."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in SAREF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://saref.etsi.org/core/Sensor"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Sensor ABB is salient for technical interoperability because it provides needed observational elements to measure specific elements that serve to improve eGovernance services."/>
+  <properties
+      key="skos:note"
+      value="Sensors convert physical inputs into electrical signals that can be processed and analyzed by electronic systems or software"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SensorDevice"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Device>

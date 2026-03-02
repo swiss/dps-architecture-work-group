@@ -1,0 +1,53 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantic Interoperability Agreement"
+    id="id-831cf12982c949ba8ad4a778b2c2e011"
+    documentation="Definition: Semantic interoperability agreement ABB is a Contract formalizing governance rules enabling collaboration between digital public services with ontological value.&#xA;&#xA;Source: Joinup &#xA;&#xA;Source reference: https://joinup.ec.europa.eu/sites/default/files/document/2015-03/Process&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): e-Invoicing Semantic Data Model - The semantic data model includes only the essential information elements that an electronic invoice needs to ensure legal (including fiscal) compliance and to enable interoperability for cross-border, cross-sector and for domestic trade. The semantic data model may be used by public and private sector organisations for public procurement invoicing and took into account the physical and financial supply chain perspective, reflecting both private and public sector requirements, with a view to allowing the full straight-through processing of an electronic invoice. https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/2017/06/28/CEN+Publishes+eInvoicing+Semantic+Data+Model&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Interoperability Saliency: The Semantic Interoperability Agreement ABB is a key interoperability enabler (*) for governance interoperability by enabling the understanding of information and collaboration between digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SemanticInteroperabilityAgreementContract&#xA;&#xA;ABB name: eira:SemanticInteroperabilityAgreementContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SemanticInteroperabilityAgreementContract&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SemanticInteroperabilityAgreementContract"/>
+  <properties
+      key="dct:type"
+      value="eira:SemanticInteroperabilityAgreementContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Semantic interoperability agreement ABB is a Contract formalizing governance rules enabling collaboration between digital public services with ontological value."/>
+  <properties
+      key="eira:definitionSource"
+      value="Joinup "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/sites/default/files/document/2015-03/Process"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): e-Invoicing Semantic Data Model - The semantic data model includes only the essential information elements that an electronic invoice needs to ensure legal (including fiscal) compliance and to enable interoperability for cross-border, cross-sector and for domestic trade. The semantic data model may be used by public and private sector organisations for public procurement invoicing and took into account the physical and financial supply chain perspective, reflecting both private and public sector requirements, with a view to allowing the full straight-through processing of an electronic invoice. https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/2017/06/28/CEN+Publishes+eInvoicing+Semantic+Data+Model"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Semantic Interoperability Agreement ABB is a key interoperability enabler (*) for governance interoperability by enabling the understanding of information and collaboration between digital public services."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SemanticInteroperabilityAgreementContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Contract>

@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="European Data Sharing Principles Catalogue"
+    id="id-cec3ade8603c489889c968bf149bb010"
+    documentation="Definition: European Data Sharing Principles Catalogue (EDSPC) is a grouping that covers a range of principles related to data sharing within the European context. These principles include Self Determination, Inclusion, Fundamental Rights, Consumer Protection, Fair Competition, Citizen Participation, Sustainability, and Data Altruism. Each principle represents a key aspect of data sharing and management in Europe, reflecting the region's commitment to privacy, inclusivity, and sustainability.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The European Data Sharing Principles Catalogue is a comprehensive list of principles that guide data sharing practices in Europe. 'Self Determination' refers to the ability of individuals or organizations to control their own data. 'Inclusion' ensures that all individuals and organizations have equal access to data resources. 'Fundamental Rights' protect the basic rights of individuals in relation to data, such as privacy and freedom of expression. 'Consumer Protection' safeguards consumers from harmful data practices. 'Fair Competition' promotes a level playing field in the data market. 'Citizen Participation' encourages public involvement in data-related decisions. 'Sustainability' emphasizes the long-term viability of data practices. Finally, 'Data Altruism' encourages the voluntary sharing of data for the common good.&#xA;&#xA;Example: An example of the application of these principles can be seen in the European Union's General Data Protection Regulation (GDPR). This regulation embodies principles such as Self Determination, Fundamental Rights, and Consumer Protection by giving individuals control over their personal data and protecting them from harmful data practices. Similarly, initiatives that promote open data or data philanthropy reflect the principles of Inclusion, Citizen Participation, and Data Altruism.&#xA;&#xA;LOST view: Architecture Principles view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EuropeanDataSharingPrinciplesCatalogueGrouping&#xA;&#xA;ABB name: egovera:EuropeanDataSharingPrinciplesCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EuropeanDataSharingPrinciplesCatalogueGrouping&#xA;&#xA;Name: European Data Sharing Principles Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/EuropeanDataSharingPrinciplesCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/EuropeanDataSharingPrinciplesCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="European Data Sharing Principles Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:EuropeanDataSharingPrinciplesCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="European Data Sharing Principles Catalogue (EDSPC) is a grouping that covers a range of principles related to data sharing within the European context. These principles include Self Determination, Inclusion, Fundamental Rights, Consumer Protection, Fair Competition, Citizen Participation, Sustainability, and Data Altruism. Each principle represents a key aspect of data sharing and management in Europe, reflecting the region's commitment to privacy, inclusivity, and sustainability."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of the application of these principles can be seen in the European Union's General Data Protection Regulation (GDPR). This regulation embodies principles such as Self Determination, Fundamental Rights, and Consumer Protection by giving individuals control over their personal data and protecting them from harmful data practices. Similarly, initiatives that promote open data or data philanthropy reflect the principles of Inclusion, Citizen Participation, and Data Altruism."/>
+  <properties
+      key="skos:note"
+      value="The European Data Sharing Principles Catalogue is a comprehensive list of principles that guide data sharing practices in Europe. 'Self Determination' refers to the ability of individuals or organizations to control their own data. 'Inclusion' ensures that all individuals and organizations have equal access to data resources. 'Fundamental Rights' protect the basic rights of individuals in relation to data, such as privacy and freedom of expression. 'Consumer Protection' safeguards consumers from harmful data practices. 'Fair Competition' promotes a level playing field in the data market. 'Citizen Participation' encourages public involvement in data-related decisions. 'Sustainability' emphasizes the long-term viability of data practices. Finally, 'Data Altruism' encourages the voluntary sharing of data for the common good."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

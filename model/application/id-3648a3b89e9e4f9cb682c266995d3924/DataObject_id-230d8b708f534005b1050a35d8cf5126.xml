@@ -1,0 +1,45 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CELLAR"
+    id="id-230d8b708f534005b1050a35d8cf5126"
+    documentation="Description: Cellar is the common data repository of the Publications Office of the European Union. Digital publications and metadata are stored in and disseminated via Cellar, in order to be used by humans and machines. Aiming to transparently serve users, Cellar stores multilingual publications and metadata, it is open to all EU citizens and provides machine-readable data.&#xA;&#xA;Publisher: The Publications Office of the European Union&#xA;&#xA;Source: https://op.europa.eu/en/web/cellar/cellar-data/metadata/knowledge-graph&#xA;&#xA;LOST view: SV-Datasets Catalogue Solutions&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/CELLARDataObject&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/CELLARDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataSetCatalogueDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="The Publications Office of the European Union"/>
+  <properties
+      key="dct:description"
+      value="Cellar is the common data repository of the Publications Office of the European Union. Digital publications and metadata are stored in and disseminated via Cellar, in order to be used by humans and machines. Aiming to transparently serve users, Cellar stores multilingual publications and metadata, it is open to all EU citizens and provides machine-readable data."/>
+  <properties
+      key="dct:source"
+      value="https://op.europa.eu/en/web/cellar/cellar-data/metadata/knowledge-graph"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/CELLARDataObject"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/CELLARDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Datasets Catalogue Solutions"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataSetCatalogueDataObject"/>
+</archimate:DataObject>

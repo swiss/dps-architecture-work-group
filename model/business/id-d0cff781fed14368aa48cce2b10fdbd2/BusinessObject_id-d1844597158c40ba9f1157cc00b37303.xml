@@ -1,0 +1,52 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Public Service Catalogue"
+    id="id-d1844597158c40ba9f1157cc00b37303"
+    documentation="Definition: Digital Public Service Catalogue ABB is a Business Object that enables the index of active digital public services, and their descriptions, that are provided by a public administration. This ABB is a key interoperability enabler (*) for sharing/PROVISIONING and reusing/CONSUMING of front-office public services.&#xA;&#xA;Source: ISA2 Core Vocabularies (https://joinup.ec.europa.eu/catalogue/distribution/cpsv-ap-specification-v20-pdf)&#xA;&#xA;Synonym: Public Service Registry, Public Service Inventory&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): FEDICT service catalogue - FEDICT, part of the Federal Public Service Policy and Support of Belgium, offers a public service catalogue. Here are a few examples of the offered services: Company data (company information and certificates), Digiflow (access to online certificates), E-mail Relay (relay of e-mail to and from the federal public services and institutions, as a protection to viruses and spam), eBirth (birth online notification and transfer of statistics), eDepot (for notaries), Federal Authentication Service (authentication of individuals for access to online government applications), etc.(http://www.fedict.belgium.be/en/service_catalogue)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Interoperability Saliency: The Digital Public Service Catalogue ABB is a key interoperability enabler (*) for organisational and structural interoperability by (i) ensuring the provision/consumption of front-office digital public services, and (ii) making public and discoverable catalogues of data about public services to favour the use of common models.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceCatalogueBusinessObject&#xA;&#xA;ABB name: eira:DigitalPublicServiceCatalogueBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceCatalogueBusinessObject&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceCatalogueBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalPublicServiceCatalogueBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value="Public Service Registry, Public Service Inventory"/>
+  <properties
+      key="skos:definition"
+      value="Digital Public Service Catalogue ABB is a Business Object that enables the index of active digital public services, and their descriptions, that are provided by a public administration. This ABB is a key interoperability enabler (*) for sharing/PROVISIONING and reusing/CONSUMING of front-office public services."/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2 Core Vocabularies (https://joinup.ec.europa.eu/catalogue/distribution/cpsv-ap-specification-v20-pdf)"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): FEDICT service catalogue - FEDICT, part of the Federal Public Service Policy and Support of Belgium, offers a public service catalogue. Here are a few examples of the offered services: Company data (company information and certificates), Digiflow (access to online certificates), E-mail Relay (relay of e-mail to and from the federal public services and institutions, as a protection to viruses and spam), eBirth (birth online notification and transfer of statistics), eDepot (for notaries), Federal Authentication Service (authentication of individuals for access to online government applications), etc.(http://www.fedict.belgium.be/en/service_catalogue)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Digital Public Service Catalogue ABB is a key interoperability enabler (*) for organisational and structural interoperability by (i) ensuring the provision/consumption of front-office digital public services, and (ii) making public and discoverable catalogues of data about public services to favour the use of common models."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceCatalogueBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessObject>

@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backup"
+    id="id-151846ec24cf42d48e97ecd45652769b"
+    documentation="Definition: Backup ABB is a is a Technology Service that implements the behaviour of a software tool that create a copy of important data or information to ensure that it can be recovered in case of data loss, corruption, or system failure&#xA;&#xA;Source: Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/backup-server&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Backup Archiving Recovery Open Sourced (bareos) is  a  set  of computer programs that permits you (or the system administrator) to manage backup, recovery, and verification of computer data across a network  of  computers of  different  kinds.   In  technical  terms,  it  is a network Client/Server based backup program.  Bareos is relatively easy to use and efficient,  while  offering  many  advanced storage  management  features that make it easy to find and recover lost or damaged files. Due to its modular design, Bareos is  scalable  from  small  single  computer  systems  to systems consisting of hundreds of computers located over a large network.. https://www.bareos.com/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Backup System ABB is salient for technical interoperability because it provides a secure mechanism to recover important information in case of unexpected behaviour of public administration services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/BackupTechnologyService&#xA;&#xA;ABB name: eira:BackupTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/BackupTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/BackupTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:BackupTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Backup ABB is a is a Technology Service that implements the behaviour of a software tool that create a copy of important data or information to ensure that it can be recovered in case of data loss, corruption, or system failure"/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/backup-server"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Backup Archiving Recovery Open Sourced (bareos) is  a  set  of computer programs that permits you (or the system administrator) to manage backup, recovery, and verification of computer data across a network  of  computers of  different  kinds.   In  technical  terms,  it  is a network Client/Server based backup program.  Bareos is relatively easy to use and efficient,  while  offering  many  advanced storage  management  features that make it easy to find and recover lost or damaged files. Due to its modular design, Bareos is  scalable  from  small  single  computer  systems  to systems consisting of hundreds of computers located over a large network.. https://www.bareos.com/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Backup System ABB is salient for technical interoperability because it provides a secure mechanism to recover important information in case of unexpected behaviour of public administration services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/BackupTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Workplace Enablers"
+    id="id-8c8db734813d459d9d97d743ad0e0218"
+    documentation="Definition: Digital Workplace Enablers is a Grouping that refers to components or services that enable the collaboration of work aspects while security and privacy are ensured.&#xA;&#xA;Source: European Comission&#xA;&#xA;Source reference: https://ec.europa.eu/info/publications/digital-workplace-strategy_en&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Set of IT tools used by European Commission officials, workers, etc. There is a new strategy put in place by the Commission to improve the work of the different roles involved. https://europa.eu/digitec/news/digital-workplace-european-commission/&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Digital Workplace Enablers Grouping ABB is salient for technical interoperability because it tools, components or services that allow the free collaboration of work aspects while security and privacy are ensured. The free collaboration is relevant for interoperability because allows to enable and maintain digital public services without the need of being at the Organisation responsible for digital public services head quarters&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalWorkplaceEnablersGrouping&#xA;&#xA;ABB name: eira:DigitalWorkplaceEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalWorkplaceEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalWorkplaceEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalWorkplaceEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digital Workplace Enablers is a Grouping that refers to components or services that enable the collaboration of work aspects while security and privacy are ensured."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Comission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/info/publications/digital-workplace-strategy_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Set of IT tools used by European Commission officials, workers, etc. There is a new strategy put in place by the Commission to improve the work of the different roles involved. https://europa.eu/digitec/news/digital-workplace-european-commission/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Digital Workplace Enablers Grouping ABB is salient for technical interoperability because it tools, components or services that allow the free collaboration of work aspects while security and privacy are ensured. The free collaboration is relevant for interoperability because allows to enable and maintain digital public services without the need of being at the Organisation responsible for digital public services head quarters"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalWorkplaceEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

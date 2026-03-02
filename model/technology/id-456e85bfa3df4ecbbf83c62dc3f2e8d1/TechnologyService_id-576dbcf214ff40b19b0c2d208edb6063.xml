@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IaaS"
+    id="id-576dbcf214ff40b19b0c2d208edb6063"
+    documentation="Definition: IaaS ABB is a Technology Service that enables the procedures to implement a standardized, highly automated offering in which computing resources owned by a service provider, complemented by storage and networking capabilities, are offered to customers on demand. Resources are scalable and elastic in near real-time and metered by use. Self-service interfaces, including an API and a graphical user interface (GUI), are exposed directly to customers. Resources may be single-tenant or multitenant and are hosted by the service provider or on-premises in a customer’s data centre.&#xA;&#xA;Source: Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/infrastructure-as-a-service-iaas&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):  EBSI, the European Blockchain Service Infrastructure. lockchain Services Infrastructure (EBSI) aims to leverage the power of blockchain for the public good. EBSI is an initiative of the European Commission and the European Blockchain Partnership. what are databricks&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The IaaS ABB is salient for technical interoperability because it provides the needed infrastructure to store information and virtualize software tools related to public administration.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/IaaSTechnologyService&#xA;&#xA;ABB name: eira:IaaSTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/IaaSTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/IaaSTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:IaaSTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="IaaS ABB is a Technology Service that enables the procedures to implement a standardized, highly automated offering in which computing resources owned by a service provider, complemented by storage and networking capabilities, are offered to customers on demand. Resources are scalable and elastic in near real-time and metered by use. Self-service interfaces, including an API and a graphical user interface (GUI), are exposed directly to customers. Resources may be single-tenant or multitenant and are hosted by the service provider or on-premises in a customer’s data centre."/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/infrastructure-as-a-service-iaas"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):  EBSI, the European Blockchain Service Infrastructure. lockchain Services Infrastructure (EBSI) aims to leverage the power of blockchain for the public good. EBSI is an initiative of the European Commission and the European Blockchain Partnership. what are databricks"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The IaaS ABB is salient for technical interoperability because it provides the needed infrastructure to store information and virtualize software tools related to public administration."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/IaaSTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

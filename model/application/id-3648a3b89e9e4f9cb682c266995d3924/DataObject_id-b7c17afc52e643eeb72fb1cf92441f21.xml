@@ -1,0 +1,53 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Mapping"
+    id="id-b7c17afc52e643eeb72fb1cf92441f21"
+    documentation="Definition: Data mapping ABB is a Data Object aiming to bring equivalence in a relationship between two data items with ontological value.&#xA;&#xA;Source: Inspired in &quot;Data Mapping for Data Warehouse Design&quot; book&#xA;&#xA;Source reference: https://www.sciencedirect.com/book/9780128051856/data-mapping-for-data-warehouse-design&#xA;&#xA;Additional information: Data mapping is used for a wide variety of tasks, including: - Data mediation between a data source and a destination; - Data transformation; - Identification of data relationships as part of data lineage analysis; - Discovery of hidden sensitive data such as the last four digits of a social security number hidden in another user id as part of a data masking or de-identification project; - Consolidation of multiple databases into a single database and identifying redundant columns of data for consolidation or elimination.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Microsoft Dynamics CRM Mapping Schema - Microsoft Dynamics CRM contains several data sets which comprise of different objects, such as Leads, Opportunities, and Competitors. Each of these data sets has several fields like Name, Account Owner, City, Country, Job Title, and more. The application has a defined schema along with attributes, enumerations, and mapping rules. Therefore, if a new record is to be added to the schema of a data object, a data map needs to be created from the data source to the Microsoft Dynamics CRM account.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Data Mapping ABB is a key interoperability enabler because it supports to achieve legal behavioral interoperability by enabling the exchange of data, information, and knowledge between digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataMappingDataObject&#xA;&#xA;ABB name: eira:DataMappingDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataMappingDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataMappingDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:DataMappingDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data mapping ABB is a Data Object aiming to bring equivalence in a relationship between two data items with ontological value."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in &quot;Data Mapping for Data Warehouse Design&quot; book"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.sciencedirect.com/book/9780128051856/data-mapping-for-data-warehouse-design"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Microsoft Dynamics CRM Mapping Schema - Microsoft Dynamics CRM contains several data sets which comprise of different objects, such as Leads, Opportunities, and Competitors. Each of these data sets has several fields like Name, Account Owner, City, Country, Job Title, and more. The application has a defined schema along with attributes, enumerations, and mapping rules. Therefore, if a new record is to be added to the schema of a data object, a data map needs to be created from the data source to the Microsoft Dynamics CRM account."/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Mapping ABB is a key interoperability enabler because it supports to achieve legal behavioral interoperability by enabling the exchange of data, information, and knowledge between digital public services."/>
+  <properties
+      key="skos:note"
+      value="Data mapping is used for a wide variety of tasks, including: - Data mediation between a data source and a destination; - Data transformation; - Identification of data relationships as part of data lineage analysis; - Discovery of hidden sensitive data such as the last four digits of a social security number hidden in another user id as part of a data masking or de-identification project; - Consolidation of multiple databases into a single database and identifying redundant columns of data for consolidation or elimination."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataMappingDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:DataObject>

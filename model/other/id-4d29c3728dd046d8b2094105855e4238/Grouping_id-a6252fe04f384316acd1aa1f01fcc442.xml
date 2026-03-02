@@ -1,0 +1,48 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trust Enablers"
+    id="id-a6252fe04f384316acd1aa1f01fcc442"
+    documentation="Definition: Trust Enablers ABB is a Grouping that refers to components and services that facilitate the establishment and maintenance of secure-cross borders transactions and interactions.&#xA;&#xA;Source: Inspired in eIDAS&#xA;&#xA;Source reference: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Trust Enablers Grouping is salient for interoperability because it comprises the set of tools, services and applications that allow to secure the digital public services across borders. Trust enablers are focused on transactions and interactions between parties (services, platforms, individuals) related to services. By applying those mechanisms identities, and timestamps (amongst other aspects) can be guaranteed and ensure the trustworthy data exchange&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TrustEnablersGrouping&#xA;&#xA;ABB name: eira:TrustEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TrustEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/TrustEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:TrustEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Trust Enablers ABB is a Grouping that refers to components and services that facilitate the establishment and maintenance of secure-cross borders transactions and interactions."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in eIDAS"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Trust Enablers Grouping is salient for interoperability because it comprises the set of tools, services and applications that allow to secure the digital public services across borders. Trust enablers are focused on transactions and interactions between parties (services, platforms, individuals) related to services. By applying those mechanisms identities, and timestamps (amongst other aspects) can be guaranteed and ensure the trustworthy data exchange"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/TrustEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

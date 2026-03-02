@@ -1,0 +1,53 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Representation"
+    id="id-39208caf97914de39182dbefdbc53894"
+    documentation="Definition: Data Representation ABB is a Representation refers to the method or mechanism in which data is encoded and stored in a computer system. It involves transforming data from its original form into a format that can be processed and manipulated by a computer&#xA;&#xA;Source: Inspired in ArchiMate® definition&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/archimate3-doc/chap08.html#_Toc10045383&#xA;&#xA;Additional information: (*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ESPD data - XML representation: European Single Procurement Document (ESPD) is a self-declaration of the businesses' financial status, abilities and suitability for a public procurement procedure. It is available in all EU languages and used as a preliminary evidence of fulfilment of the conditions required in public procurement procedures across the EU. Thanks to the ESPD, the tenderers no longer have to provide full documentary evidence and different forms previously used in the EU procurement, which means a significant simplification of access to cross-border tendering opportunities. [...] The online form can be filled in, printed and then sent to the buyer together with the rest of the bid. (https://ec.europa.eu/tools/espd/filter?lang=en)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Data Representation ABB is a key interoperability enabler because it ensures a common and unambiguous interpretation of Data (*).&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataRepresentationRepresentation&#xA;&#xA;ABB name: eira:DataRepresentationRepresentation&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataRepresentationRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataRepresentationRepresentation"/>
+  <properties
+      key="dct:type"
+      value="eira:DataRepresentationRepresentation"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Representation ABB is a Representation refers to the method or mechanism in which data is encoded and stored in a computer system. It involves transforming data from its original form into a format that can be processed and manipulated by a computer"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in ArchiMate® definition"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/archimate3-doc/chap08.html#_Toc10045383"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ESPD data - XML representation: European Single Procurement Document (ESPD) is a self-declaration of the businesses' financial status, abilities and suitability for a public procurement procedure. It is available in all EU languages and used as a preliminary evidence of fulfilment of the conditions required in public procurement procedures across the EU. Thanks to the ESPD, the tenderers no longer have to provide full documentary evidence and different forms previously used in the EU procurement, which means a significant simplification of access to cross-border tendering opportunities. [...] The online form can be filled in, printed and then sent to the buyer together with the rest of the bid. (https://ec.europa.eu/tools/espd/filter?lang=en)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Representation ABB is a key interoperability enabler because it ensures a common and unambiguous interpretation of Data (*)."/>
+  <properties
+      key="skos:note"
+      value="(*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataRepresentationRepresentation"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Representation>

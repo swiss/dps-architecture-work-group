@@ -1,0 +1,53 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registered Electronic Delivery"
+    id="id-61f9a0571ca147ed806b53e94d30ddf1"
+    documentation="Definition: Registered Electronic Delivery ABB is an Application Service that enables the procedures to transmit sensitive or confidential documents and messages between parties. &#xA;&#xA;Source: eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xA;&#xA;Source reference: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG&#xA;&#xA;Additional information: A registered Electronic Delivery shares functionalities that i) makes it possible to transmit data between third parties by electronic means and ii) provides evidence relating to the handling of the transmitted data, including proof of sending and receiving the data, and iii) that protects transmitted data against the risk of loss, theft, damage or any unauthorised alterations;&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Qualified electronic registered delivery services listed with CEF Trusted List Browser tool Qualified electronic registered delivery services are listed on https://webgate.ec.europa.eu/tl-browser/#/search/1 and https://webgate.ec.europa.eu/tl-browser/#/search/1&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Registered Electronic Delivery Service ABB  is salient for technical interoperability because it provides  the functionalities related to the handling of data transmission.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/RegisteredElectronicDeliveryApplicationService&#xA;&#xA;ABB name: eira:RegisteredElectronicDeliveryApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/RegisteredElectronicDeliveryApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/RegisteredElectronicDeliveryApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:RegisteredElectronicDeliveryApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Registered Electronic Delivery ABB is an Application Service that enables the procedures to transmit sensitive or confidential documents and messages between parties. "/>
+  <properties
+      key="eira:definitionSource"
+      value="eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC."/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Qualified electronic registered delivery services listed with CEF Trusted List Browser tool Qualified electronic registered delivery services are listed on https://webgate.ec.europa.eu/tl-browser/#/search/1 and https://webgate.ec.europa.eu/tl-browser/#/search/1"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Registered Electronic Delivery Service ABB  is salient for technical interoperability because it provides  the functionalities related to the handling of data transmission."/>
+  <properties
+      key="skos:note"
+      value="A registered Electronic Delivery shares functionalities that i) makes it possible to transmit data between third parties by electronic means and ii) provides evidence relating to the handling of the transmitted data, including proof of sending and receiving the data, and iii) that protects transmitted data against the risk of loss, theft, damage or any unauthorised alterations;"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/RegisteredElectronicDeliveryApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

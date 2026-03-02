@@ -1,0 +1,57 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Agreement"
+    id="id-af917d92ec524bc187ccfdb45cbabb7b"
+    documentation="Definition: Organisational Agreement ABB is a Contract enabling any agreement to which the Organisation or any Restricted Subsidiary is a party pursuant. &#xA;&#xA;Source: Inspired in the Law Insider dictionary definition &#xA;&#xA;Source reference: https://www.lawinsider.com/dictionary/organizational-agreement&#xA;&#xA;Synonym: Governance Agreement&#xA;&#xA;Additional information: For example (among other things), fees are paid to the organisation or to a delegated party in exchange for organizational, managing, consulting or similar services.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): DSI Organisational Agreement: The Trust and Golden agreement hereby consent to this assignment by SAC of its rights under the Organizational Agreement to DSI and the assumption by DSI of SAC's interest in such Agreement and the duties and obligations thereunder, and agree, subject to the terms and conditions of said Agreement, to look to DSI for the performance of the duties and obligations formerly owed by SAC under said Agreement. https://www.sec.gov/Archives/edgar/data/1618181/000119312518153039/d419625dex42.htm&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Governance viewpoint&#xA;&#xA;Interoperability Saliency: The Organisational Agreement ABB is relevant for governance and behavioural interoperability because it sets the foundations and management for (i) controlling the collaborations and data flows established between public digital services, and (ii) specifying the digital business capabilities expected from the public digital services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/OrganisationalAgreementContract&#xA;&#xA;ABB name: eira:OrganisationalAgreementContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/OrganisationalAgreementContract&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/OrganisationalAgreementContract"/>
+  <properties
+      key="dct:type"
+      value="eira:OrganisationalAgreementContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value="Governance Agreement"/>
+  <properties
+      key="skos:definition"
+      value="Organisational Agreement ABB is a Contract enabling any agreement to which the Organisation or any Restricted Subsidiary is a party pursuant. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the Law Insider dictionary definition "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.lawinsider.com/dictionary/organizational-agreement"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): DSI Organisational Agreement: The Trust and Golden agreement hereby consent to this assignment by SAC of its rights under the Organizational Agreement to DSI and the assumption by DSI of SAC's interest in such Agreement and the duties and obligations thereunder, and agree, subject to the terms and conditions of said Agreement, to look to DSI for the performance of the duties and obligations formerly owed by SAC under said Agreement. https://www.sec.gov/Archives/edgar/data/1618181/000119312518153039/d419625dex42.htm"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Organisational Agreement ABB is relevant for governance and behavioural interoperability because it sets the foundations and management for (i) controlling the collaborations and data flows established between public digital services, and (ii) specifying the digital business capabilities expected from the public digital services."/>
+  <properties
+      key="skos:note"
+      value="For example (among other things), fees are paid to the organisation or to a delegated party in exchange for organizational, managing, consulting or similar services."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/OrganisationalAgreementContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Contract>

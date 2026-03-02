@@ -1,0 +1,51 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Impact Assessments"
+    id="id-33fdd46d576545c9907c2e80062b49c2"
+    documentation="Definition: Privacy Impact Assessments (PIAs) are a systematic process used to identify and evaluate the potential privacy risks and impacts of a project, system, or initiative. It involves assessing the collection, use, disclosure, and retention of personal information, and determining the necessary measures to mitigate privacy risks and ensure compliance with privacy laws and regulations.&#xA;&#xA;Source: Office of the Privacy Commissioner of Canada&#xA;&#xA;Source reference: https://www.priv.gc.ca/en/privacy-topics/privacy-impact-assessments/02_05_d_15_pia/&#xA;&#xA;Additional information: PIAs are conducted to ensure that privacy considerations are integrated into the design and implementation of IT systems or projects. They help organizations identify and address privacy risks, protect individuals' personal information, and enhance transparency and accountability. PIAs typically involve a comprehensive analysis of the data flows, data handling practices, security measures, and legal requirements associated with the project. The assessment results in recommendations and strategies to minimize privacy risks, such as implementing privacy-enhancing technologies, adopting privacy policies, or obtaining individuals' consent for data processing.&#xA;&#xA;Example: An example of applying PIAs is when a government agency plans to implement a new online portal for citizens to access public services. Before launching the portal, a PIA is conducted to assess the potential privacy risks associated with the collection and storage of personal information. The assessment may identify the need for encryption of data in transit and at rest, secure user authentication mechanisms, and clear privacy notices. By conducting a PIA, the agency can ensure that privacy protections are built into the portal's design and that individuals' personal information is handled in compliance with privacy laws.&#xA;&#xA;LOST view: TVA-Privacy Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/PrivacyImpactAssessmentsApplicationService&#xA;&#xA;ABB name: egovera:PrivacyImpactAssessmentsApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/PrivacyImpactAssessmentsApplicationService&#xA;&#xA;Name: Privacy Impact Assessments Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/PrivacyImpactAssessmentsApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/PrivacyImpactAssessmentsApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Privacy Impact Assessments Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:PrivacyImpactAssessmentsApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="Privacy Impact Assessments (PIAs) are a systematic process used to identify and evaluate the potential privacy risks and impacts of a project, system, or initiative. It involves assessing the collection, use, disclosure, and retention of personal information, and determining the necessary measures to mitigate privacy risks and ensure compliance with privacy laws and regulations."/>
+  <properties
+      key="eira:definitionSource"
+      value="Office of the Privacy Commissioner of Canada"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.priv.gc.ca/en/privacy-topics/privacy-impact-assessments/02_05_d_15_pia/"/>
+  <properties
+      key="skos:example"
+      value="An example of applying PIAs is when a government agency plans to implement a new online portal for citizens to access public services. Before launching the portal, a PIA is conducted to assess the potential privacy risks associated with the collection and storage of personal information. The assessment may identify the need for encryption of data in transit and at rest, secure user authentication mechanisms, and clear privacy notices. By conducting a PIA, the agency can ensure that privacy protections are built into the portal's design and that individuals' personal information is handled in compliance with privacy laws."/>
+  <properties
+      key="skos:note"
+      value="PIAs are conducted to ensure that privacy considerations are integrated into the design and implementation of IT systems or projects. They help organizations identify and address privacy risks, protect individuals' personal information, and enhance transparency and accountability. PIAs typically involve a comprehensive analysis of the data flows, data handling practices, security measures, and legal requirements associated with the project. The assessment results in recommendations and strategies to minimize privacy risks, such as implementing privacy-enhancing technologies, adopting privacy policies, or obtaining individuals' consent for data processing."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Privacy Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

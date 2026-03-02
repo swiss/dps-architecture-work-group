@@ -1,0 +1,54 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Integration Plugins Manager"
+    id="id-fdf0dc9ed001449988e7809af27181bd"
+    documentation="Definition: The Data Integration Plugins Manager is a software component that facilitates the management and integration of various plugins within a data integration system. It provides a centralized platform for installing, configuring, and maintaining plugins, allowing users to easily extend the functionality of their data integration workflows.&#xA;&#xA;Source: Techopedia&#xA;&#xA;Source reference: https://www.techopedia.com/definition/32662/data-integration&#xA;&#xA;Additional information: The Data Integration Plugins Manager acts as a repository for plugins, which are software modules that enhance the capabilities of the data integration system. It allows users to discover, install, and update plugins seamlessly, eliminating the need for manual installation and configuration. The manager provides a user-friendly interface to browse available plugins, view their descriptions, and manage their settings. It also ensures compatibility between plugins and the data integration system, preventing conflicts and ensuring smooth integration. The Data Integration Plugins Manager simplifies the process of extending the functionality of a data integration system, enabling users to tailor their workflows to specific requirements and integrate with a wide range of data sources and systems.&#xA;&#xA;Example: An example of the Data Integration Plugins Manager in action is a data integration platform used by a marketing team. The manager allows the team to easily add plugins for social media data extraction, CRM integration, and email campaign automation. They can browse the available plugins, select the ones that suit their needs, and install them with a few clicks. The manager ensures that the plugins are compatible with the data integration platform and provides options to configure their settings. With the Data Integration Plugins Manager, the marketing team can quickly enhance their data integration workflows, streamline their processes, and gain valuable insights from various data sources.&#xA;&#xA;LOST view: TVA-Data Management Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataIntegrationPluginsManagerApplicationService&#xA;&#xA;ABB name: egovera:DataIntegrationPluginsManagerApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataIntegrationPluginsManagerApplicationService&#xA;&#xA;Name: Data Integration Plugins Manager Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataIntegrationPluginsManagerApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataIntegrationPluginsManagerApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Data Integration Plugins Manager Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataIntegrationPluginsManagerApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="The Data Integration Plugins Manager is a software component that facilitates the management and integration of various plugins within a data integration system. It provides a centralized platform for installing, configuring, and maintaining plugins, allowing users to easily extend the functionality of their data integration workflows."/>
+  <properties
+      key="eira:definitionSource"
+      value="Techopedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.techopedia.com/definition/32662/data-integration"/>
+  <properties
+      key="skos:example"
+      value="An example of the Data Integration Plugins Manager in action is a data integration platform used by a marketing team. The manager allows the team to easily add plugins for social media data extraction, CRM integration, and email campaign automation. They can browse the available plugins, select the ones that suit their needs, and install them with a few clicks. The manager ensures that the plugins are compatible with the data integration platform and provides options to configure their settings. With the Data Integration Plugins Manager, the marketing team can quickly enhance their data integration workflows, streamline their processes, and gain valuable insights from various data sources."/>
+  <properties
+      key="skos:note"
+      value="The Data Integration Plugins Manager acts as a repository for plugins, which are software modules that enhance the capabilities of the data integration system. It allows users to discover, install, and update plugins seamlessly, eliminating the need for manual installation and configuration. The manager provides a user-friendly interface to browse available plugins, view their descriptions, and manage their settings. It also ensures compatibility between plugins and the data integration system, preventing conflicts and ensuring smooth integration. The Data Integration Plugins Manager simplifies the process of extending the functionality of a data integration system, enabling users to tailor their workflows to specific requirements and integrate with a wide range of data sources and systems."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Data Management Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Dataspace Enablers"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

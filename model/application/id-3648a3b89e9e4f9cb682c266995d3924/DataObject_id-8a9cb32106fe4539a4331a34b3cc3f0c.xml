@@ -1,0 +1,47 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reference Data Asset"
+    id="id-8a9cb32106fe4539a4331a34b3cc3f0c"
+    documentation="Description: This resource is a distinct reference data asset (like authority table, taxonomy, thesaurus, ontology, …) maintained by an organisation like the EU vocabularies. The nature of the asset can be described by concepts from the AT dataset type.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;Publisher: Publications Office of the European Union&#xA;&#xA;LOST view: SV-Agnostic Reference Data&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ReferenceDataAssetDataObject&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ReferenceDataAssetDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/ReferenceData&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="Publications Office of the European Union"/>
+  <properties
+      key="dct:description"
+      value="This resource is a distinct reference data asset (like authority table, taxonomy, thesaurus, ontology, …) maintained by an organisation like the EU vocabularies. The nature of the asset can be described by concepts from the AT dataset type."/>
+  <properties
+      key="dct:source"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ReferenceDataAssetDataObject"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ReferenceDataAssetDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Reference Data"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/ReferenceData"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:DataObject>

@@ -1,0 +1,53 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical Governance content"
+    id="id-388de92fa20c4d15b9de494a88d6c5b4"
+    documentation="Definition: Technical Governance Content ABB is a Grouping that formalises decisions on technical frameworks, institutional arrangements, organisational structures, roles and responsibilities, policies, agreements and other aspects of ensuring and monitoring public services at national and EU levels&#xA;&#xA;Source: Inspired in EIF&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/sites/default/files/eif_brochure_final.pdf&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TechnicalGovernanceContentGrouping&#xA;&#xA;ABB name: eira:TechnicalGovernanceContentGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TechnicalGovernanceContentGrouping&#xA;&#xA;Interoperability Layer: Technical&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/TechnicalGovernanceContentGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:TechnicalGovernanceContentGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Technical Governance Content ABB is a Grouping that formalises decisions on technical frameworks, institutional arrangements, organisational structures, roles and responsibilities, policies, agreements and other aspects of ensuring and monitoring public services at national and EU levels"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/sites/default/files/eif_brochure_final.pdf"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/TechnicalGovernanceContentGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="Technical"/>
+</archimate:Grouping>

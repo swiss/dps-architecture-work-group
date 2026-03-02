@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auditability"
+    id="id-22a04fbfa57a483daabb9ad525b39b00"
+    documentation="Definition: Auditability is an IT non-functional requirement that refers to the ability of a system to provide a complete and accurate record of all activities and transactions that occur within it. This includes the ability to track changes made to data, monitor user access and permissions, and generate reports that can be used for compliance, regulatory, or legal purposes. The audit trail should be secure, tamper-proof, and easily accessible to authorized personnel. The purpose of auditability is to ensure accountability, transparency, and integrity of the system's operations.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Auditability is a non-functional requirement that refers to the ability of a system to provide a complete and accurate record of all transactions and activities that occur within the system. This includes the ability to track and record all user actions, system events, and data changes, as well as the ability to generate reports and alerts based on this information.&#xA;&#xA;The Auditability requirement is important for ensuring the integrity and security of a system, as well as for compliance with regulatory and legal requirements. It also helps to identify and investigate any potential security breaches or fraudulent activities.&#xA;&#xA;To meet the Auditability requirement, a system must have the following capabilities:&#xA;&#xA;1. Logging and tracking: The system must be able to log and track all user actions, system events, and data changes, including the date, time, and user responsible for each action.&#xA;&#xA;2. Reporting and analysis: The system must be able to generate reports and alerts based on the logged information, allowing administrators to identify and investigate any suspicious activity.&#xA;&#xA;3. Security and access control: The system must have robust security and access control mechanisms in place to prevent unauthorized access to the audit logs and to ensure the integrity of the logged information.&#xA;&#xA;4. Retention and archiving: The system must be able to retain and archive audit logs for a specified period of time, in accordance with regulatory and legal requirements.&#xA;&#xA;Overall, the Auditability requirement is an essential aspect of any system design, ensuring that the system is secure, compliant, and transparent in its operations.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Auditability' could be for a financial management system to track and record all changes made to financial data, including who made the change, when it was made, and what the previous and new values were. This would allow for auditing and compliance purposes, as well as ensuring the accuracy and integrity of financial data.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuditabilityRequirement&#xA;&#xA;ABB name: eira:AuditabilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuditabilityRequirement&#xA;&#xA;Name: Auditability Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AuditabilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Auditability Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Auditability' could be for a financial management system to track and record all changes made to financial data, including who made the change, when it was made, and what the previous and new values were. This would allow for auditing and compliance purposes, as well as ensuring the accuracy and integrity of financial data."/>
+  <properties
+      key="skos:definition"
+      value="Auditability is an IT non-functional requirement that refers to the ability of a system to provide a complete and accurate record of all activities and transactions that occur within it. This includes the ability to track changes made to data, monitor user access and permissions, and generate reports that can be used for compliance, regulatory, or legal purposes. The audit trail should be secure, tamper-proof, and easily accessible to authorized personnel. The purpose of auditability is to ensure accountability, transparency, and integrity of the system's operations."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Auditability is a non-functional requirement that refers to the ability of a system to provide a complete and accurate record of all transactions and activities that occur within the system. This includes the ability to track and record all user actions, system events, and data changes, as well as the ability to generate reports and alerts based on this information.&#xA;&#xA;The Auditability requirement is important for ensuring the integrity and security of a system, as well as for compliance with regulatory and legal requirements. It also helps to identify and investigate any potential security breaches or fraudulent activities.&#xA;&#xA;To meet the Auditability requirement, a system must have the following capabilities:&#xA;&#xA;1. Logging and tracking: The system must be able to log and track all user actions, system events, and data changes, including the date, time, and user responsible for each action.&#xA;&#xA;2. Reporting and analysis: The system must be able to generate reports and alerts based on the logged information, allowing administrators to identify and investigate any suspicious activity.&#xA;&#xA;3. Security and access control: The system must have robust security and access control mechanisms in place to prevent unauthorized access to the audit logs and to ensure the integrity of the logged information.&#xA;&#xA;4. Retention and archiving: The system must be able to retain and archive audit logs for a specified period of time, in accordance with regulatory and legal requirements.&#xA;&#xA;Overall, the Auditability requirement is an essential aspect of any system design, ensuring that the system is secure, compliant, and transparent in its operations."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AuditabilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:AuditabilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

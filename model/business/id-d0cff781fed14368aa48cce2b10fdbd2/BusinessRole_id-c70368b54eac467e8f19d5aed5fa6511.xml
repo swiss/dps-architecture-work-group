@@ -1,0 +1,55 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Public Service Consumer"
+    id="id-c70368b54eac467e8f19d5aed5fa6511"
+    documentation="Definition: Digital Public Service Consumer ABB is a Business Role representing the entities able to access and consume public services provided by a public authority.&#xA;&#xA;Source: Inspired on the information available in Digital Public Services  in the Digital Economy and Society Index&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/desi-digital-public-services&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Blocks (ABB) can be instantiated as a Solution Building Block (SBB): UK Local Goverment- Transforming public services, using technology and digital tools and approaches- Case Studies (https://www.local.gov.uk/our-support/efficiency-and-productivity/transforming-public-services-using-technology-and-digital) or UNDP- COVID 19 Open Source Digital Toolkit (https://www.undp.org/sgtechcentre/digital-tools-covid-19) &#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Digital Public Service Consumer ABB is salient for organizational, semantic and technical interoperability due to it (i) provides digital business rules to consume data; (ii) enables a common understanding of the data to be exchanged with the public authority; and (iii) establish the needed mechanism to consume the information automatically.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceConsumerBusinessRole&#xA;&#xA;ABB name: eira:DigitalPublicServiceConsumerBusinessRole&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceConsumerBusinessRole&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceConsumerBusinessRole"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalPublicServiceConsumerBusinessRole"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digital Public Service Consumer ABB is a Business Role representing the entities able to access and consume public services provided by a public authority."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired on the information available in Digital Public Services  in the Digital Economy and Society Index"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/desi-digital-public-services"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Blocks (ABB) can be instantiated as a Solution Building Block (SBB): UK Local Goverment- Transforming public services, using technology and digital tools and approaches- Case Studies (https://www.local.gov.uk/our-support/efficiency-and-productivity/transforming-public-services-using-technology-and-digital) or UNDP- COVID 19 Open Source Digital Toolkit (https://www.undp.org/sgtechcentre/digital-tools-covid-19) "/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Digital Public Service Consumer ABB is salient for organizational, semantic and technical interoperability due to it (i) provides digital business rules to consume data; (ii) enables a common understanding of the data to be exchanged with the public authority; and (iii) establish the needed mechanism to consume the information automatically."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceConsumerBusinessRole"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessRole>

@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SKOS"
+    id="id-8d4b1846674943ca87e6be0883a25eb9"
+    documentation="Description:  SKOS plays a crucial role in improving information retrieval, data integration, and semantic interoperability, as it provides a standardized approach to representing and exchanging knowledge. By utilizing SKOS, businesses can enhance the discoverability and accessibility of their knowledge resources, leading to more effective search, navigation, and analysis of information within their systems and applications.&#xA;&#xA;Publisher: W3C&#xA;&#xA;Source: https://www.w3.org/2004/02/skos/&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SKOSRepresentation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SKOSRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="W3C"/>
+  <properties
+      key="dct:description"
+      value=" SKOS plays a crucial role in improving information retrieval, data integration, and semantic interoperability, as it provides a standardized approach to representing and exchanging knowledge. By utilizing SKOS, businesses can enhance the discoverability and accessibility of their knowledge resources, leading to more effective search, navigation, and analysis of information within their systems and applications."/>
+  <properties
+      key="dct:source"
+      value="https://www.w3.org/2004/02/skos/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/SKOSRepresentation"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/SKOSRepresentation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

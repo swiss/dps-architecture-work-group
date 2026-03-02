@@ -1,0 +1,55 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Exchange"
+    id="id-f01f07656e764f84b69487afbe87ec5b"
+    documentation="Definition: Data Exchange ABB is an Application Component that enables the implementation of the procedure to transfer data between different individuals, organizations or systems.&#xA;&#xA;Source: EIFv2 &#xA;&#xA;Source reference: http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Open e-TrustEx - Open e-TrustEx is a secure document exchange platform. Solution for European public administration that needs to electronically exchange information with other entities in a secure way. Open e-TrustEx is a cross-sector, open source tool that helps administrations to exchange structured and unstructured documents and to connect to pan-European e-delivery infrastructures with reduced investment. For Commission services, DG Informatics operates the e-TrustEx platform for a fee.(https://ec.europa.eu/isa2/solutions/open-e-trustex_en)&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Data Exchange Component ABB is salient for technical interoperability because it provides the implementation of the functionalities to enable a secure and trustworthy data exchange between different ICT systems as stated in the EIF: &quot;Define a common security and privacy framework and establish processes for public services to ensure secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataExchangeApplicationComponent&#xA;&#xA;ABB name: eira:DataExchangeApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataExchangeApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataExchangeApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:DataExchangeApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Exchange ABB is an Application Component that enables the implementation of the procedure to transfer data between different individuals, organizations or systems."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIFv2 "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Open e-TrustEx - Open e-TrustEx is a secure document exchange platform. Solution for European public administration that needs to electronically exchange information with other entities in a secure way. Open e-TrustEx is a cross-sector, open source tool that helps administrations to exchange structured and unstructured documents and to connect to pan-European e-delivery infrastructures with reduced investment. For Commission services, DG Informatics operates the e-TrustEx platform for a fee.(https://ec.europa.eu/isa2/solutions/open-e-trustex_en)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Exchange Component ABB is salient for technical interoperability because it provides the implementation of the functionalities to enable a secure and trustworthy data exchange between different ICT systems as stated in the EIF: &quot;Define a common security and privacy framework and establish processes for public services to ensure secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataExchangeApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

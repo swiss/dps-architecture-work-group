@@ -1,0 +1,50 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geo-spatial Data Format Solutions"
+    id="id-4822de1892214dbd8bacee49efc513df"
+    documentation="Definition: Geo-spatial Data Format is a grouping that covers various formats used for encoding, storing, and exchanging geospatial data. These formats include GeoJSON, KML, and GML, each of which serves a unique purpose and is used in different applications. They provide a standardized and flexible way to represent geographic features and their associated attributes, facilitating the exchange of geographic data between different systems and applications.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: GeoJSON is a format for encoding geospatial data in JSON (JavaScript Object Notation), providing a standard and flexible way to represent geographic features, such as points, lines, and polygons, along with their associated attributes. Keyhole Markup Language (KML) is an XML notation for expressing geographic annotation and visualization within two-dimensional maps and three-dimensional Earth browsers, developed for use with Google Earth. Geography Markup Language (GML) is an XML-based format used to encode geographic information, including the geometry and properties of geographic features, facilitating the exchange of geographic data between different systems and applications.&#xA;&#xA;Example: GeoJSON is often used in web applications that need to visualize geographic data, such as interactive maps. KML is commonly used to create and share geographic data with Google Earth and other Earth browsers. GML is used in a variety of domains, including geographic information systems (GIS), web mapping, and location-based services.&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/Geo-spatialDataFormatSolutionsGrouping&#xA;&#xA;ABB name: egovera:Geo-spatialDataFormatSolutionsGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/Geo-spatialDataFormatSolutionsGrouping&#xA;&#xA;Name: Geo-spatial Data Format Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/Geo-spatialDataFormatSolutionsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/Geo-spatialDataFormatSolutionsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Geo-spatial Data Format Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:Geo-spatialDataFormatSolutionsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Geo-spatial Data Format is a grouping that covers various formats used for encoding, storing, and exchanging geospatial data. These formats include GeoJSON, KML, and GML, each of which serves a unique purpose and is used in different applications. They provide a standardized and flexible way to represent geographic features and their associated attributes, facilitating the exchange of geographic data between different systems and applications."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="GeoJSON is often used in web applications that need to visualize geographic data, such as interactive maps. KML is commonly used to create and share geographic data with Google Earth and other Earth browsers. GML is used in a variety of domains, including geographic information systems (GIS), web mapping, and location-based services."/>
+  <properties
+      key="skos:note"
+      value="GeoJSON is a format for encoding geospatial data in JSON (JavaScript Object Notation), providing a standard and flexible way to represent geographic features, such as points, lines, and polygons, along with their associated attributes. Keyhole Markup Language (KML) is an XML notation for expressing geographic annotation and visualization within two-dimensional maps and three-dimensional Earth browsers, developed for use with Google Earth. Geography Markup Language (GML) is an XML-based format used to encode geographic information, including the geometry and properties of geographic features, facilitating the exchange of geographic data between different systems and applications."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

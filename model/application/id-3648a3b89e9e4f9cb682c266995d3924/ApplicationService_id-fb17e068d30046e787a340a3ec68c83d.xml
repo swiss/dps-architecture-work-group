@@ -1,0 +1,51 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Extraction, Transformation and Loading"
+    id="id-fb17e068d30046e787a340a3ec68c83d"
+    documentation="Definition: Data Extraction, Transformation, and Loading ABB is an Application Service that enables the processes to extract data from various sources, transform the data to specific data models and load the data into a target data store.&#xA;&#xA;Source: Inspired in definitions from referent companies of IT sector&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Eurostat transformation service - The transformation service allows datasets to be converted from one file format to another, optionally performing additional tasks, such as mapping and transcoding. The service is operational but is currently only available for internal consumption within Eurostat. However, the source code of both web service and software component is available in the SDMX webspace: http://ec.europa.eu/eurostat/web/sdmx-infospace/validation-transformation/transformation-services&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Data Extraction, Transformation, and Loading Service ABB  is salient for technical interoperability  because it provides the functionalities to transform internal data structures to common and agreed interoperable formats as stated in the EIF recommendation n° 41: &quot;Establish procedures and processes to integrate the opening of data in your common business processes, working routines, and in the development of new information systems.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataExtractionTransformationAndLoadingApplicationService&#xA;&#xA;ABB name: eira:DataExtractionTransformationAndLoadingApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataExtractionTransformationAndLoadingApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataExtractionTransformationAndLoadingApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:DataExtractionTransformationAndLoadingApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Extraction, Transformation, and Loading ABB is an Application Service that enables the processes to extract data from various sources, transform the data to specific data models and load the data into a target data store."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in definitions from referent companies of IT sector"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Eurostat transformation service - The transformation service allows datasets to be converted from one file format to another, optionally performing additional tasks, such as mapping and transcoding. The service is operational but is currently only available for internal consumption within Eurostat. However, the source code of both web service and software component is available in the SDMX webspace: http://ec.europa.eu/eurostat/web/sdmx-infospace/validation-transformation/transformation-services"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Extraction, Transformation, and Loading Service ABB  is salient for technical interoperability  because it provides the functionalities to transform internal data structures to common and agreed interoperable formats as stated in the EIF recommendation n° 41: &quot;Establish procedures and processes to integrate the opening of data in your common business processes, working routines, and in the development of new information systems.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataExtractionTransformationAndLoadingApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

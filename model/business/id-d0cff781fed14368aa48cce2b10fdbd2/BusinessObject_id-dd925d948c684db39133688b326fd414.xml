@@ -1,0 +1,56 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information"
+    id="id-dd925d948c684db39133688b326fd414"
+    documentation="Definition: Information ABB is a Business Object describing business facts, assets, or opinions that are exchanged in the context of a digital public service to support its delivery. Information is enacted via interpretation rules (expressed in an ontology) of data and considering knowledge of a given context. Examples include an invoice, a medical prescription, a driving license.&#xA;&#xA;Source: TOGAF guide about business capabilities, TOGAF definition of information &#xA;&#xA;Source reference: (https://www2.opengroup.org/ogsys/catalog/g161)), (http://pubs.opengroup.org/architecture/togaf9-doc/arch/)&#xA;&#xA;Synonym: Business Facts, Business Data, Business Opinions&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Surveillance3 - Surveillance information: Published Surveillance information (Business Information) on Europa: Textile category 1 - Cotton yarn, not put up for retail sale [Council Regulation (EEC) No 3030/93] from Belarus in 2015: see URL for details(http://ec.europa.eu/taxation_customs/dds2/surv/surv_data_list.jsp?Lang=en&amp;survNumber=670010&amp;survType=1&amp;startDate=20150101&amp;originCode=BY)&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Information ABB  is salient for organisational interoperability because it represents the data being exchanged between organisations. Its interoperability needs to be guaranteed using organisational and semantic interoperability specifications.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/InformationBusinessObject&#xA;&#xA;ABB name: eira:InformationBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/InformationBusinessObject&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/InformationBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="eira:InformationBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value="Business Facts, Business Data, Business Opinions"/>
+  <properties
+      key="skos:definition"
+      value="Information ABB is a Business Object describing business facts, assets, or opinions that are exchanged in the context of a digital public service to support its delivery. Information is enacted via interpretation rules (expressed in an ontology) of data and considering knowledge of a given context. Examples include an invoice, a medical prescription, a driving license."/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF guide about business capabilities, TOGAF definition of information "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="(https://www2.opengroup.org/ogsys/catalog/g161)), (http://pubs.opengroup.org/architecture/togaf9-doc/arch/)"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Surveillance3 - Surveillance information: Published Surveillance information (Business Information) on Europa: Textile category 1 - Cotton yarn, not put up for retail sale [Council Regulation (EEC) No 3030/93] from Belarus in 2015: see URL for details(http://ec.europa.eu/taxation_customs/dds2/surv/surv_data_list.jsp?Lang=en&amp;survNumber=670010&amp;survType=1&amp;startDate=20150101&amp;originCode=BY)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Information ABB  is salient for organisational interoperability because it represents the data being exchanged between organisations. Its interoperability needs to be guaranteed using organisational and semantic interoperability specifications."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/InformationBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessObject>

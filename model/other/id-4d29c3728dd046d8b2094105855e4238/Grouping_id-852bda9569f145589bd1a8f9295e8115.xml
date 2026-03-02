@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Architecture Framework (EAF) alignment guidelines"
+    id="id-852bda9569f145589bd1a8f9295e8115"
+    documentation="Definition: Enterprise Architecture Framework (EAF) alignment guidelines ABB is a Grouping that covers the process of establishing a harmonious relationship between the European Interoperability Reference Architecture (EIRA) model and any given Enterprise Architecture Framework (EAF). The aim is to make the EIRA model fully compliant with the chosen EAF, promoting uniformity across the architectural ecosystem.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The EAF alignment guidelines serve as an integral part of the process, aiming to establish a harmonious relationship between the European Interoperability Reference Architecture (EIRA) model and any given Enterprise Architecture Framework (EAF). The ultimate goal is to make the EIRA model fully compliant with the chosen EAF, promoting uniformity across the architectural ecosystem. The elements contained within these guidelines include Interoperable European Solution, Achieve Interoperability, Creation of Interoperable European Solutions, European Interoperability Reference Architecture, Coordination Capacity, Regulatory Capacity, Delivery Capacity, Analytical Capacity, EIRA Ontology, Public Administration, Architecture Principle, Constraints, Assumptions and Decisions, Shared Legal Content, Shared Organisational Content, Digital Solution Requirement, Iternational Data Spaces Reference Architecture Model (IDS-RAM), Data Spaces Business Alliance, Eclipse Dataspace Components, JRC Data Spaces Knowledge Base, FIWARE for Data Spaces, Gaia-X Data Spaces Community.&#xA;&#xA;Example: An example of the application of the EAF alignment guidelines could be the process of aligning a national public administration's enterprise architecture with the EIRA model. This would involve assessing the current architecture, identifying gaps and areas of non-compliance, and implementing changes to achieve alignment. The guidelines would provide a roadmap for this process, outlining the necessary steps and considerations.&#xA;&#xA;LOST view: Enterprise Architecture Framework alignment guidelines view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EnterpriseArchitectureFrameworkAlignmentGuidelinesGrouping&#xA;&#xA;ABB name: eira:EnterpriseArchitectureFrameworkAlignmentGuidelinesGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EnterpriseArchitectureFrameworkAlignmentGuidelinesGrouping&#xA;&#xA;Name: Enterprise Architecture Framework (EAF) Alignment Guidelines Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/EnterpriseArchitectureFrameworkAlignmentGuidelinesGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/EnterpriseArchitectureFrameworkAlignmentGuidelinesGrouping"/>
+  <properties
+      key="dct:title"
+      value="Enterprise Architecture Framework (EAF) Alignment Guidelines Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:EnterpriseArchitectureFrameworkAlignmentGuidelinesGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Enterprise Architecture Framework (EAF) alignment guidelines ABB is a Grouping that covers the process of establishing a harmonious relationship between the European Interoperability Reference Architecture (EIRA) model and any given Enterprise Architecture Framework (EAF). The aim is to make the EIRA model fully compliant with the chosen EAF, promoting uniformity across the architectural ecosystem."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of the application of the EAF alignment guidelines could be the process of aligning a national public administration's enterprise architecture with the EIRA model. This would involve assessing the current architecture, identifying gaps and areas of non-compliance, and implementing changes to achieve alignment. The guidelines would provide a roadmap for this process, outlining the necessary steps and considerations."/>
+  <properties
+      key="skos:note"
+      value="The EAF alignment guidelines serve as an integral part of the process, aiming to establish a harmonious relationship between the European Interoperability Reference Architecture (EIRA) model and any given Enterprise Architecture Framework (EAF). The ultimate goal is to make the EIRA model fully compliant with the chosen EAF, promoting uniformity across the architectural ecosystem. The elements contained within these guidelines include Interoperable European Solution, Achieve Interoperability, Creation of Interoperable European Solutions, European Interoperability Reference Architecture, Coordination Capacity, Regulatory Capacity, Delivery Capacity, Analytical Capacity, EIRA Ontology, Public Administration, Architecture Principle, Constraints, Assumptions and Decisions, Shared Legal Content, Shared Organisational Content, Digital Solution Requirement, Iternational Data Spaces Reference Architecture Model (IDS-RAM), Data Spaces Business Alliance, Eclipse Dataspace Components, JRC Data Spaces Knowledge Base, FIWARE for Data Spaces, Gaia-X Data Spaces Community."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Enterprise Architecture Framework alignment guidelines view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

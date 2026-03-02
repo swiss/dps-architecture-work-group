@@ -1,0 +1,58 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shared Platform"
+    id="id-0cef956dfbb14678993b9823e0229599"
+    documentation="Definition: Shared Platform ABB is an Application Component supporting the reuse and efficiency, enabling organisations to leverage common sets of tools. his approach helps organizations optimize costs, improve resource utilisation, and foster innovation and collaboration. Shared Platforms facilitate better data management and exchange, provide scalability and flexibility, and help maintain consistency and compliance across different applications and services within the enterprise.&#xA;&#xA;Source: Inspired in definitions from referent companies of IT sector&#xA;&#xA;Additional information: This convergence power is based on the instrumental nature and efficiencies  of these resources for enabling common problem-solving approaches. The degree of achievement could range from an ideal perfect shared platform (i.e. no interoperability barriers from the technical perspective) to an imperfect or even null shared platform (i.e. some interoperability barriers from the technical perspective). The level of technical interoperability will constrain digital public services cross levels in a public administration, cross public administrations, and cross borders. The shared platform enables: i) structural interoperability with technical resources supporting reusing and/or sharing of digital public services (i.e. service registry service); ii) behavioural interoperability with technical resources supporting exchanging capabilities of data, information or knowledge with internal/external peers (i.e. Technical interfaces); and iii) governance interoperability with technical resources supporting the assurance and control of collaboration with internal/external peers exchanging data, information, and knowledge(i.e. Technical Interoperability Agreements). Shared Platform offers a harmonised repository of business and technological resources that are essential for the dissemination of unique business functionalities. It is the cornerstone of a digital ecosystem, invariably interfacing with constituents through APIs or providing bespoke connectivity solutions like direct data access, thus ensuring that the organisation's digital fabric is both resilient and adaptive.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Commission proposed a framework for a European Digital Identity which will be available to all EU citizens, residents, and businesses in the EU. Citizens will be able to prove their identity and share electronic documents from their European Digital Identity wallets with the click of a button on their phone. They will be able to access online services with their national digital identification, which will be recognised throughout Europe. Very large platforms will be required to accept the use of European Digital Identity wallets upon request of the user, for example to prove their age.(https://ec.europa.eu/commission/presscorner/detail/en/IP_21_2663)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Shared Platform ABB is a key interoperability enabler because it supports to achieve technical interoperability with public policy goals convergence value by  all in all enabling i) the provision/consumption of  back-office digital public services,  ii) the exchange of data, information, and knowledge between digital public services and individuals , and iii) collaboration between digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SharedPlatformApplicationComponent&#xA;&#xA;ABB name: eira:SharedPlatformApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SharedPlatformApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SharedPlatformApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:type"
+      value="eira:SharedPlatformApplicationComponent"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="Shared Platform ABB is an Application Component supporting the reuse and efficiency, enabling organisations to leverage common sets of tools. his approach helps organizations optimize costs, improve resource utilisation, and foster innovation and collaboration. Shared Platforms facilitate better data management and exchange, provide scalability and flexibility, and help maintain consistency and compliance across different applications and services within the enterprise."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in definitions from referent companies of IT sector"/>
+  <properties
+      key="eira:definitionSource"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Shared Platform ABB is a key interoperability enabler because it supports to achieve technical interoperability with public policy goals convergence value by  all in all enabling i) the provision/consumption of  back-office digital public services,  ii) the exchange of data, information, and knowledge between digital public services and individuals , and iii) collaboration between digital public services."/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Commission proposed a framework for a European Digital Identity which will be available to all EU citizens, residents, and businesses in the EU. Citizens will be able to prove their identity and share electronic documents from their European Digital Identity wallets with the click of a button on their phone. They will be able to access online services with their national digital identification, which will be recognised throughout Europe. Very large platforms will be required to accept the use of European Digital Identity wallets upon request of the user, for example to prove their age.(https://ec.europa.eu/commission/presscorner/detail/en/IP_21_2663)"/>
+  <properties
+      key="skos:note"
+      value="This convergence power is based on the instrumental nature and efficiencies  of these resources for enabling common problem-solving approaches. The degree of achievement could range from an ideal perfect shared platform (i.e. no interoperability barriers from the technical perspective) to an imperfect or even null shared platform (i.e. some interoperability barriers from the technical perspective). The level of technical interoperability will constrain digital public services cross levels in a public administration, cross public administrations, and cross borders. The shared platform enables: i) structural interoperability with technical resources supporting reusing and/or sharing of digital public services (i.e. service registry service); ii) behavioural interoperability with technical resources supporting exchanging capabilities of data, information or knowledge with internal/external peers (i.e. Technical interfaces); and iii) governance interoperability with technical resources supporting the assurance and control of collaboration with internal/external peers exchanging data, information, and knowledge(i.e. Technical Interoperability Agreements). Shared Platform offers a harmonised repository of business and technological resources that are essential for the dissemination of unique business functionalities. It is the cornerstone of a digital ecosystem, invariably interfacing with constituents through APIs or providing bespoke connectivity solutions like direct data access, thus ensuring that the organisation's digital fabric is both resilient and adaptive."/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperable European Solution viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SharedPlatformApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

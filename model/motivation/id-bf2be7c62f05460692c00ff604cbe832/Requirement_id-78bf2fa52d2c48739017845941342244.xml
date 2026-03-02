@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security"
+    id="id-78bf2fa52d2c48739017845941342244"
+    documentation="Definition: Security is a non-functional requirement that refers to the ability of a system to protect itself against unauthorized access, data breaches, and other malicious activities. It involves implementing measures such as encryption, access controls, firewalls, and intrusion detection systems to safeguard the system and its data. Security is essential for any system that handles sensitive information or performs critical functions, as a breach can result in significant financial, legal, and reputational damage. Therefore, security must be a top priority in the design, development, and deployment of any IT system.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, guidelines, and documentation, the non-functional requirement of &quot;Security&quot; refers to the ability of a system to protect against unauthorized access, modification, or destruction of data. This requirement encompasses a range of security measures, including authentication, authorization, encryption, and auditing.&#xA;&#xA;To meet the Security requirement, a system must be designed to ensure that only authorized users can access sensitive data or perform certain actions. This may involve implementing strong passwords, multi-factor authentication, or other access control mechanisms. Additionally, the system must be able to detect and prevent unauthorized access attempts, such as through intrusion detection systems or firewalls.&#xA;&#xA;Another aspect of the Security requirement is data protection. This involves ensuring that data is encrypted both in transit and at rest, and that appropriate measures are in place to prevent data loss or corruption. The system must also be able to recover from security incidents, such as by restoring data from backups or rolling back transactions.&#xA;&#xA;Finally, the Security requirement includes auditing and monitoring capabilities. The system must be able to track user activity and generate audit logs, which can be used to investigate security incidents or comply with regulatory requirements. This may involve implementing logging and monitoring tools, as well as establishing policies and procedures for reviewing and analyzing audit data.&#xA;&#xA;Example: One example of an IT non-functional requirement for security could be that the system must have a secure login process that includes multi-factor authentication and password complexity requirements to prevent unauthorized access.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SecurityRequirement&#xA;&#xA;ABB name: eira:SecurityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SecurityRequirement&#xA;&#xA;Name: Security Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SecurityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Security Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of an IT non-functional requirement for security could be that the system must have a secure login process that includes multi-factor authentication and password complexity requirements to prevent unauthorized access."/>
+  <properties
+      key="skos:definition"
+      value="Security is a non-functional requirement that refers to the ability of a system to protect itself against unauthorized access, data breaches, and other malicious activities. It involves implementing measures such as encryption, access controls, firewalls, and intrusion detection systems to safeguard the system and its data. Security is essential for any system that handles sensitive information or performs critical functions, as a breach can result in significant financial, legal, and reputational damage. Therefore, security must be a top priority in the design, development, and deployment of any IT system."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, guidelines, and documentation, the non-functional requirement of &quot;Security&quot; refers to the ability of a system to protect against unauthorized access, modification, or destruction of data. This requirement encompasses a range of security measures, including authentication, authorization, encryption, and auditing.&#xA;&#xA;To meet the Security requirement, a system must be designed to ensure that only authorized users can access sensitive data or perform certain actions. This may involve implementing strong passwords, multi-factor authentication, or other access control mechanisms. Additionally, the system must be able to detect and prevent unauthorized access attempts, such as through intrusion detection systems or firewalls.&#xA;&#xA;Another aspect of the Security requirement is data protection. This involves ensuring that data is encrypted both in transit and at rest, and that appropriate measures are in place to prevent data loss or corruption. The system must also be able to recover from security incidents, such as by restoring data from backups or rolling back transactions.&#xA;&#xA;Finally, the Security requirement includes auditing and monitoring capabilities. The system must be able to track user activity and generate audit logs, which can be used to investigate security incidents or comply with regulatory requirements. This may involve implementing logging and monitoring tools, as well as establishing policies and procedures for reviewing and analyzing audit data."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SecurityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:SecurityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

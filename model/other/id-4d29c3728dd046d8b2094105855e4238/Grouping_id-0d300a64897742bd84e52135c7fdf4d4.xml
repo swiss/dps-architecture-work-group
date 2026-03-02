@@ -1,0 +1,18 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jurisdiction"
+    id="id-0d300a64897742bd84e52135c7fdf4d4"
+    documentation="Definition: Jurisdiction ABB is a Grouping that refers to the limits or territory within which authority may be exercised.&#xA;&#xA;Source: CPV&#xA;&#xA;Source reference: https://semiceu.github.io/Core-Person-Vocabulary/releases/2.00/#Jurisdiction&#xA;&#xA;">
+  <properties
+      key="skos:definition"
+      value="Jurisdiction ABB is a Grouping that refers to the limits or territory within which authority may be exercised."/>
+  <properties
+      key="eira:definitionSource"
+      value="CPV"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://semiceu.github.io/Core-Person-Vocabulary/releases/2.00/#Jurisdiction"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+</archimate:Grouping>

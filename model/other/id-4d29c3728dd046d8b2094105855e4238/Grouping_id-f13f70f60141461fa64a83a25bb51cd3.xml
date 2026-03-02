@@ -1,0 +1,51 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Content Delivery Infrastructure Enablers"
+    id="id-f13f70f60141461fa64a83a25bb51cd3"
+    documentation="Definition: Content Delivery Infrastructure Enablers ABB is a Grouping that refers to the set of components and services that enable the delivery of digital content such as web pages, videos, images, and audio files to end-users&#xA;&#xA;Source: Inspired in the definition provided by relebant cloud service organizations.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): DIGIT/C Hosting Service - DIGIT/C offers a high availability and high performance hosting infrastructure that is being comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites. http://ec.europa.eu/ipg/build/infrastructure/index_en.htm&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Content Delivery Infrastructure Enablers ABB is salient for semantic and technical interoperability because it provides ICT systems to manipulate, reuse and share batch and streaming data related to public administration services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ContentDeliveryInfrastructureEnablersGrouping&#xA;&#xA;ABB name: eira:ContentDeliveryInfrastructureEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ContentDeliveryInfrastructureEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ContentDeliveryInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:ContentDeliveryInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Content Delivery Infrastructure Enablers ABB is a Grouping that refers to the set of components and services that enable the delivery of digital content such as web pages, videos, images, and audio files to end-users"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the definition provided by relebant cloud service organizations."/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): DIGIT/C Hosting Service - DIGIT/C offers a high availability and high performance hosting infrastructure that is being comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites. http://ec.europa.eu/ipg/build/infrastructure/index_en.htm"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Content Delivery Infrastructure Enablers ABB is salient for semantic and technical interoperability because it provides ICT systems to manipulate, reuse and share batch and streaming data related to public administration services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ContentDeliveryInfrastructureEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

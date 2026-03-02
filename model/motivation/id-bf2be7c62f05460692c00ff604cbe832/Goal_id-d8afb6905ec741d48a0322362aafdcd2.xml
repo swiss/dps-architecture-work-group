@@ -1,0 +1,51 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Agenda"
+    id="id-d8afb6905ec741d48a0322362aafdcd2"
+    documentation="Definition: Digital Agenda ABB is a Goal that describes all the measures required or planned in a systematic way to support public policy in adopting the digital transformation.&#xA;&#xA;Source: Inspired on the contents of the EU Digital Agenda&#xA;&#xA;Source reference: https://www.europarl.europa.eu/factsheets/en/sheet/64/digital-agenda-for-europe&#xA;&#xA;Additional information: Do not confuse Digital Agenda with Digitalisation Roadmap. An Agenda focuses on goals and priorities, e.g. protecting citizens and freedoms, developing a strong and vibrant economic base, building a climate-neutral, green, fair and social Europe, promoting European interests and values on the global stage, etc. A Roadmap focuses on the actions and deadlines that need to be executed to realise the Agenda.&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Digital Agenda for Europe. See https://www.europarl.europa.eu/factsheets/en/sheet/64/digital-agenda-for-europe. The widespread, rapid and extensive development of digital service platforms, as well as debates on public data spaces and new technologies such as artificial intelligence, affect all areas of our society. Many new ways to communicate, shop or access information online have been integrated into our daily lives and are constantly evolving. The European digital agenda for the decade 2020-2030 addresses these issues by focusing on creating secure digital spaces and services, creating a level playing field in digital markets with large platforms and strengthening Europe’s digital sovereignty, while contributing to the European goal of climate neutrality by 2050.&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Governance viewpoint&#xA;&#xA;Interoperability Saliency: The Digital Agenda ABB is salient for governance interoperability since it establishes the main goals and priorities that the digital public services are expected to support (e.g., the overall aim of the Digital Agenda is to deliver sustainable economic and social benefits from a digital single market based on fast and ultra-fast internet and interoperable applications).&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalAgendaGoal&#xA;&#xA;ABB name: eira:DigitalAgendaGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalAgendaGoal&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalAgendaGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalAgendaGoal"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Digital Agenda ABB is a Goal that describes all the measures required or planned in a systematic way to support public policy in adopting the digital transformation."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired on the contents of the EU Digital Agenda"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.europarl.europa.eu/factsheets/en/sheet/64/digital-agenda-for-europe"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Digital Agenda for Europe. See https://www.europarl.europa.eu/factsheets/en/sheet/64/digital-agenda-for-europe. The widespread, rapid and extensive development of digital service platforms, as well as debates on public data spaces and new technologies such as artificial intelligence, affect all areas of our society. Many new ways to communicate, shop or access information online have been integrated into our daily lives and are constantly evolving. The European digital agenda for the decade 2020-2030 addresses these issues by focusing on creating secure digital spaces and services, creating a level playing field in digital markets with large platforms and strengthening Europe’s digital sovereignty, while contributing to the European goal of climate neutrality by 2050."/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Digital Agenda ABB is salient for governance interoperability since it establishes the main goals and priorities that the digital public services are expected to support (e.g., the overall aim of the Digital Agenda is to deliver sustainable economic and social benefits from a digital single market based on fast and ultra-fast internet and interoperable applications)."/>
+  <properties
+      key="skos:note"
+      value="Do not confuse Digital Agenda with Digitalisation Roadmap. An Agenda focuses on goals and priorities, e.g. protecting citizens and freedoms, developing a strong and vibrant economic base, building a climate-neutral, green, fair and social Europe, promoting European interests and values on the global stage, etc. A Roadmap focuses on the actions and deadlines that need to be executed to realise the Agenda."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalAgendaGoal"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Goal>

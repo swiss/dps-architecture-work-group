@@ -1,0 +1,55 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data"
+    id="id-0a0c68e5a94a465aab78b5b693e824fc"
+    documentation="Definition: Data ABB is a Data Object that enables the implementation of digital or non-digital information that is collected, stored, or processed by a computer system or other information technology infrastructure. This information can take many forms, including text, numbers, images, video, audio, and more. &#xA;&#xA;Source: ISO-IEC-2382-1 * 1993 * &#xA;&#xA;Source reference: https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:ed-1:v1:en&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): https://www.eea.europa.eu/data-and-maps/dashboards/emissions-trading-viewer-1&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Data ABB is salient for semantic interoperability because it represents the most important mean of interaction between ICT systems of organisations in order to ensure interoperability as stated in the EIF recommendation n° 30: &quot;Perceive data and information as a public asset that should be appropriately generated, collected, managed, shared, protected and preserved.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataDataObject&#xA;&#xA;ABB name: eira:DataDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:DataDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data ABB is a Data Object that enables the implementation of digital or non-digital information that is collected, stored, or processed by a computer system or other information technology infrastructure. This information can take many forms, including text, numbers, images, video, audio, and more. "/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO-IEC-2382-1 * 1993 * "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:ed-1:v1:en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): https://www.eea.europa.eu/data-and-maps/dashboards/emissions-trading-viewer-1"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data ABB is salient for semantic interoperability because it represents the most important mean of interaction between ICT systems of organisations in order to ensure interoperability as stated in the EIF recommendation n° 30: &quot;Perceive data and information as a public asset that should be appropriately generated, collected, managed, shared, protected and preserved.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

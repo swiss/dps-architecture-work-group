@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authentication Mechanism"
+    id="id-d63982affbce43de95810dfd0b165bd9"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Authentication Mechanism&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: Authentication Mechanism is a crucial concept in IT architecture that refers to the process of verifying the identity of a user or system before granting access to resources or services. It involves the use of various methods such as passwords, biometric identification, smart cards, and tokens to ensure that only authorized users can access sensitive information or perform critical operations. The choice of authentication mechanism depends on the level of security required, the complexity of the system, and the user experience. A well-designed authentication mechanism can prevent unauthorized access, protect against cyber threats, and enhance the overall security of the IT infrastructure.&#xA;&#xA;Example: Authentication Mechanism:&#xA;Decision: Implementing multi-factor authentication (MFA) using time-based one-time passwords (TOTP).&#xA;Rationale: MFA adds an extra layer of security by requiring users to provide a second form of authentication, reducing the risk of unauthorized access even if credentials are compromised. TOTP is a widely supported and secure method for generating one-time passwords.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuthenticationMechanismGoal&#xA;&#xA;ABB name: eira:AuthenticationMechanismGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947643&#xA;&#xA;Name: Architecture Decision Record about Authentication Mechanism&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947643"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Authentication Mechanism"/>
+  <properties
+      key="skos:example"
+      value="Authentication Mechanism:&#xA;Decision: Implementing multi-factor authentication (MFA) using time-based one-time passwords (TOTP).&#xA;Rationale: MFA adds an extra layer of security by requiring users to provide a second form of authentication, reducing the risk of unauthorized access even if credentials are compromised. TOTP is a widely supported and secure method for generating one-time passwords."/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="Authentication Mechanism is a crucial concept in IT architecture that refers to the process of verifying the identity of a user or system before granting access to resources or services. It involves the use of various methods such as passwords, biometric identification, smart cards, and tokens to ensure that only authorized users can access sensitive information or perform critical operations. The choice of authentication mechanism depends on the level of security required, the complexity of the system, and the user experience. A well-designed authentication mechanism can prevent unauthorized access, protect against cyber threats, and enhance the overall security of the IT infrastructure."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AuthenticationMechanismGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:AuthenticationMechanismGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Authentication Mechanism"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

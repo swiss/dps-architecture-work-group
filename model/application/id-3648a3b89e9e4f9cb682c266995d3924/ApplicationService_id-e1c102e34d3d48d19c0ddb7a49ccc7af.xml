@@ -1,0 +1,42 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Europe eSignature's DSS open-source library"
+    id="id-e1c102e34d3d48d19c0ddb7a49ccc7af"
+    documentation="Description: DSS (Digital Signature Services) is an open-source software library for digital signature creation, validation, and extension, designed to help digital solutions achieve compliance with the eIDAS Regulation.&#xA;&#xA;Publisher: European Commission&#xA;&#xA;Source: https://ec.europa.eu/digital-building-blocks/wikis/display/DIGITAL/Digital+Signature+Service+-++DSS&#xA;&#xA;LOST view: TVA-Trust Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalEuropeESignaturesDSSOpen-sourceLibraryApplicationService&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalEuropeESignaturesDSSOpen-sourceLibraryApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Realises: http://data.europa.eu/dr8/E-SignatureCreationApplicationService&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="European Commission"/>
+  <properties
+      key="dct:description"
+      value="DSS (Digital Signature Services) is an open-source software library for digital signature creation, validation, and extension, designed to help digital solutions achieve compliance with the eIDAS Regulation."/>
+  <properties
+      key="dct:source"
+      value="https://ec.europa.eu/digital-building-blocks/wikis/display/DIGITAL/Digital+Signature+Service+-++DSS"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DigitalEuropeESignaturesDSSOpen-sourceLibraryApplicationService"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DigitalEuropeESignaturesDSSOpen-sourceLibraryApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Trust Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Trust Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/E-SignatureCreationApplicationService"/>
+</archimate:ApplicationService>

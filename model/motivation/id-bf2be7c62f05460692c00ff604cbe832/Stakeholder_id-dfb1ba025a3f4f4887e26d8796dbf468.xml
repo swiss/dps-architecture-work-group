@@ -1,0 +1,50 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business"
+    id="id-dfb1ba025a3f4f4887e26d8796dbf468"
+    documentation="Definition: Business ABB is a Stakeholder that correspond to an individual, group, or organization that has an interest or stake in the success or failure of a particular product or service. Indeed, they focus on making, buying or selling goods or even, providing services in pursuing a benefit.&#xA;&#xA;Source: Inspired in definition provided by relevant consultancy services&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/business-process-as-a-service-bpaas&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):  The instance of an Economic Operator that is using a digital public service to submit a tender.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Business ABB is salient for behavioural and organizational interoperability because it permits the identification of a specific stakeholder, which in turn allows the identification of its rights, permissions, and digital business capabilities. It also allows the security assurance and control configuration associated with this stakeholder, the discovery of data types that it can provide, as well as other aspects necessary to assure, monitor and control the exchange of data between this stakeholder and the digital public services providing to or consuming data from this stakeholder.   &#xA;&#xA;Identifier: http://data.europa.eu/dr8/BusinessStakeholder&#xA;&#xA;ABB name: eira:BusinessStakeholder&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/BusinessStakeholder&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/BusinessStakeholder"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessStakeholder"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Business ABB is a Stakeholder that correspond to an individual, group, or organization that has an interest or stake in the success or failure of a particular product or service. Indeed, they focus on making, buying or selling goods or even, providing services in pursuing a benefit."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in definition provided by relevant consultancy services"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/business-process-as-a-service-bpaas"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):  The instance of an Economic Operator that is using a digital public service to submit a tender."/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Business ABB is salient for behavioural and organizational interoperability because it permits the identification of a specific stakeholder, which in turn allows the identification of its rights, permissions, and digital business capabilities. It also allows the security assurance and control configuration associated with this stakeholder, the discovery of data types that it can provide, as well as other aspects necessary to assure, monitor and control the exchange of data between this stakeholder and the digital public services providing to or consuming data from this stakeholder.   "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/BusinessStakeholder"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Stakeholder>

@@ -1,0 +1,52 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Machine Learning"
+    id="id-bc10ffd08ee241c6bd6ca805174e6f3d"
+    documentation="Definition: Machine Learning ABB is a Technology service that enables the procedures for implementing algorithms and models that can learn from and make predictions on data&#xA;&#xA;Source: European Comision-White paper on AI&#xA;&#xA;Source reference: https://commission.europa.eu/system/files/2020-02/commission-white-paper-artificial-intelligence-feb2020_en.pdf&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): AI Whatch Artificial Intelligence in public administrations. https://publications.jrc.ec.europa.eu/repository/bitstream/JRC120399/jrc120399_misuraca-ai-watch_public-services_30062020_def.pdf&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Machine Learning ABB is salient for semantic interoperability because it refers to the generation of newer insights (knowledge) from public data to generate (i) new curated datasets and/or (ii) new public data assets based on the combination of other public data.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MachineLearningTechnologyService&#xA;&#xA;ABB name: eira:MachineLearningTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MachineLearningTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/MachineLearningTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:MachineLearningTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Machine Learning ABB is a Technology service that enables the procedures for implementing algorithms and models that can learn from and make predictions on data"/>
+  <properties
+      key="eira:definitionSource"
+      value="European Comision-White paper on AI"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://commission.europa.eu/system/files/2020-02/commission-white-paper-artificial-intelligence-feb2020_en.pdf"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): AI Whatch Artificial Intelligence in public administrations. https://publications.jrc.ec.europa.eu/repository/bitstream/JRC120399/jrc120399_misuraca-ai-watch_public-services_30062020_def.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Machine Learning ABB is salient for semantic interoperability because it refers to the generation of newer insights (knowledge) from public data to generate (i) new curated datasets and/or (ii) new public data assets based on the combination of other public data."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/MachineLearningTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

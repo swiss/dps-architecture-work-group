@@ -1,0 +1,48 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulated Professions DB"
+    id="id-23ee5e9ee8ff4057a13d2a18c19a001d"
+    documentation="Description: The database contains information on regulated professions, statistics on migrating professionals, contact points and competent authorities, as provided by EU Member States, EEA countries, the UK and Switzerland.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;Publisher: European Commission&#xA;&#xA;Source: https://ec.europa.eu/growth/tools-databases/regprof/home&#xA;&#xA;LOST view: SV-Agnostic Reference Data&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/RegulatedProfessionsDBDataObject&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/RegulatedProfessionsDBDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/ReferenceData&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="European Commission"/>
+  <properties
+      key="dct:description"
+      value="The database contains information on regulated professions, statistics on migrating professionals, contact points and competent authorities, as provided by EU Member States, EEA countries, the UK and Switzerland."/>
+  <properties
+      key="dct:source"
+      value="https://ec.europa.eu/growth/tools-databases/regprof/home"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/RegulatedProfessionsDBDataObject"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/RegulatedProfessionsDBDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Reference Data"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/ReferenceData"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:DataObject>

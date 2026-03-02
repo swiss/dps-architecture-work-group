@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Social participation"
+    id="id-e5ff28dad7314365803758b6a16b8374"
+    documentation="Definition: Social participation refers to Promoting Civic Participation and  Transparency of Government Decision-Making Processes covering policies concerning ICT. The usage of digital environments can promote new kinds of sociability, support, and usability or revive certainly lost facets of social ties.The construction of more effective public services, as well as new kinds of communication and interaction between citizens and the various levels of government, can all be facilitated by the use of digital tools. Even more public involvement in various levels of local management processes is possible with their use. These fresh working alliances also contribute to the legitimacy and increased transparency of public activity. Some examples of social participation are:• E-democracy• E-participation• Government-to-citizen (G2C)• Citizen-to-government (C2G)• Citizen-to-citizen (C2C)• Open governance partnership• Grass-root activism and social networking• Political campaigns• Online media• I-voting• Mechanisms: e-petitions, online consultation and crowd-sourcing platforms etc. The implications of social participation are related to the creation and implementation of policies that include as the backbone, the citizens and businesses. Additionally, to policies that govern, it is relevant that public administrations implement tools that foster, enable and ensure stakeholders participation. &quot;&quot;&#xA;&#xA;Source: Digital Democracy of European Citizen Action Service (ECAS)&#xA;&#xA;Source reference: https://ecas.org/digital-democracy/&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/social-participation&#xA;&#xA;ABB name: elap:SocialParticipationPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Social participation&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:SocialParticipationPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Social participation"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/social-participation"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="Digital Democracy of European Citizen Action Service (ECAS)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ecas.org/digital-democracy/"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="Social participation refers to Promoting Civic Participation and  Transparency of Government Decision-Making Processes covering policies concerning ICT. The usage of digital environments can promote new kinds of sociability, support, and usability or revive certainly lost facets of social ties.The construction of more effective public services, as well as new kinds of communication and interaction between citizens and the various levels of government, can all be facilitated by the use of digital tools. Even more public involvement in various levels of local management processes is possible with their use. These fresh working alliances also contribute to the legitimacy and increased transparency of public activity. Some examples of social participation are:• E-democracy• E-participation• Government-to-citizen (G2C)• Citizen-to-government (C2G)• Citizen-to-citizen (C2C)• Open governance partnership• Grass-root activism and social networking• Political campaigns• Online media• I-voting• Mechanisms: e-petitions, online consultation and crowd-sourcing platforms etc. The implications of social participation are related to the creation and implementation of policies that include as the backbone, the citizens and businesses. Additionally, to policies that govern, it is relevant that public administrations implement tools that foster, enable and ensure stakeholders participation. &quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

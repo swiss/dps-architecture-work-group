@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Availability"
+    id="id-f1a46b2007814042932b18e58d2ef139"
+    documentation="Definition: Availability is a non-functional requirement that refers to the ability of a system or application to be accessible and operational at all times. It is a measure of the system's reliability and the ability to provide uninterrupted service to users. This requirement is critical for systems that are used in mission-critical environments, such as healthcare, finance, and transportation. High availability is achieved through redundancy, fault tolerance, and disaster recovery mechanisms that ensure that the system can continue to function even in the event of hardware or software failures.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Availability is a non-functional requirement that refers to the ability of a system or application to be accessible and usable by authorized users at all times. This requirement is critical for ensuring that the system or application is always available for use, regardless of any potential disruptions or failures.&#xA;&#xA;To meet the Availability requirement, the system or application must be designed and implemented with a high degree of resilience, fault tolerance, and redundancy. This may involve the use of redundant hardware, software, and network components, as well as the implementation of backup and recovery procedures to ensure that data is not lost in the event of a failure.&#xA;&#xA;Additionally, the system or application must be designed to handle high levels of traffic and usage, without experiencing performance degradation or downtime. This may involve the use of load balancing and other performance optimization techniques to ensure that the system can handle peak loads without impacting availability.&#xA;&#xA;Overall, the Availability requirement is critical for ensuring that the system or application is always accessible and usable by authorized users, and must be carefully considered and addressed during the design and implementation phases of the project.&#xA;&#xA;Example: One example of an IT non-functional requirement for availability could be for a banking system to have a 99.99% uptime, meaning that the system should be available for use by customers 99.99% of the time. This requirement ensures that customers can access their accounts and perform transactions at any time without experiencing downtime or system failures.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AvailabilityRequirement&#xA;&#xA;ABB name: eira:AvailabilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AvailabilityRequirement&#xA;&#xA;Name: Availability Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AvailabilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Availability Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of an IT non-functional requirement for availability could be for a banking system to have a 99.99% uptime, meaning that the system should be available for use by customers 99.99% of the time. This requirement ensures that customers can access their accounts and perform transactions at any time without experiencing downtime or system failures."/>
+  <properties
+      key="skos:definition"
+      value="Availability is a non-functional requirement that refers to the ability of a system or application to be accessible and operational at all times. It is a measure of the system's reliability and the ability to provide uninterrupted service to users. This requirement is critical for systems that are used in mission-critical environments, such as healthcare, finance, and transportation. High availability is achieved through redundancy, fault tolerance, and disaster recovery mechanisms that ensure that the system can continue to function even in the event of hardware or software failures."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Availability is a non-functional requirement that refers to the ability of a system or application to be accessible and usable by authorized users at all times. This requirement is critical for ensuring that the system or application is always available for use, regardless of any potential disruptions or failures.&#xA;&#xA;To meet the Availability requirement, the system or application must be designed and implemented with a high degree of resilience, fault tolerance, and redundancy. This may involve the use of redundant hardware, software, and network components, as well as the implementation of backup and recovery procedures to ensure that data is not lost in the event of a failure.&#xA;&#xA;Additionally, the system or application must be designed to handle high levels of traffic and usage, without experiencing performance degradation or downtime. This may involve the use of load balancing and other performance optimization techniques to ensure that the system can handle peak loads without impacting availability.&#xA;&#xA;Overall, the Availability requirement is critical for ensuring that the system or application is always accessible and usable by authorized users, and must be carefully considered and addressed during the design and implementation phases of the project."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AvailabilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:AvailabilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

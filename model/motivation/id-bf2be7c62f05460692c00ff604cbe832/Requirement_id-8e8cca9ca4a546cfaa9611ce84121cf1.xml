@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Clauses"
+    id="id-8e8cca9ca4a546cfaa9611ce84121cf1"
+    documentation="Definition: Legal clauses ABB is a Requirement that refers to specific points or topics that permit to specify a legal document. &#xA;&#xA;Source: European Comision&#xA;&#xA;Source reference: https://commission.europa.eu/law/law-making-process/types-eu-law_en&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Clause 6 - Description of the transfer(s): The details of the transfer(s), and in particular the categories of personal data that are transferred and the purpose(s) for which they are transferred, are specified in Annex I.B. (http://data.europa.eu/eli/dec_impl/2021/914/oj)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegalClausesRequirement&#xA;&#xA;ABB name: eira:LegalClausesRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegalClausesRequirement&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LegalClausesRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:LegalClausesRequirement"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Legal clauses ABB is a Requirement that refers to specific points or topics that permit to specify a legal document. "/>
+  <properties
+      key="eira:definitionSource"
+      value="European Comision"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://commission.europa.eu/law/law-making-process/types-eu-law_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Clause 6 - Description of the transfer(s): The details of the transfer(s), and in particular the categories of personal data that are transferred and the purpose(s) for which they are transferred, are specified in Annex I.B. (http://data.europa.eu/eli/dec_impl/2021/914/oj)"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LegalClausesRequirement"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Requirement>

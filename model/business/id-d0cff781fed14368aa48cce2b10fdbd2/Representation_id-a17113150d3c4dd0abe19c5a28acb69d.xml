@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPARQL-CSV"
+    id="id-a17113150d3c4dd0abe19c5a28acb69d"
+    documentation="Description: The SPARQL Results CSV Results Format is a lossy encoding of a table of results. It does not encode all the details of each RDF term in the results but instead just gives a string without indicating the type of the term (IRI, Literal, Literal with datatype, Literal with language, or blank node). This makes it simple to consume data, such as text and numbers, in applications without needing to understand the details of RDF. In some applications, guesses as to which elements are hyperlinks are made pragmatically, for example, guessing that strings starting &quot;http://&quot; are links.&#xA;&#xA;Publisher: W3C&#xA;&#xA;Source: https://www.w3.org/TR/sparql11-results-csv-tsv/&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SPARQL-CSVRepresentation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SPARQL-CSVRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="W3C"/>
+  <properties
+      key="dct:description"
+      value="The SPARQL Results CSV Results Format is a lossy encoding of a table of results. It does not encode all the details of each RDF term in the results but instead just gives a string without indicating the type of the term (IRI, Literal, Literal with datatype, Literal with language, or blank node). This makes it simple to consume data, such as text and numbers, in applications without needing to understand the details of RDF. In some applications, guesses as to which elements are hyperlinks are made pragmatically, for example, guessing that strings starting &quot;http://&quot; are links."/>
+  <properties
+      key="dct:source"
+      value="https://www.w3.org/TR/sparql11-results-csv-tsv/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/SPARQL-CSVRepresentation"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/SPARQL-CSVRepresentation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

@@ -1,0 +1,51 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Observability and Monitoring Enablers"
+    id="id-147d4bd4fcf8466f876626c8d55ada1c"
+    documentation="Definition: Observability and Monitoring Enablers ABB is a Grouping that refers to components and services that facilitate the collection, analysis, and interpretation of data to gain insights into the performance, health, and potential issues of various systems, networks, applications, and services. It includes the concepts of Observability and Monitoring, which involve tracking and understanding the internal state and behavior of a system through its external outputs, and observing and tracking the performance and health of IT infrastructure, respectively.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Source reference: N/A&#xA;&#xA;Additional information: Observability and Monitoring Enablers ABB is a crucial aspect of IT operations, as it allows for the proactive identification and resolution of issues, ensuring optimal performance and reliability of IT infrastructure. Observability involves the collection and analysis of various metrics, logs, traces, and other data points, providing insights into the system's performance, health, and potential issues. On the other hand, Monitoring involves observing and tracking the performance, availability, and health of systems, networks, applications, and services, generating alerts or reports to facilitate informed decision-making and troubleshooting.&#xA;&#xA;Example: Examples of Observability and Monitoring Enablers ABB in action include the use of application performance monitoring (APM) tools to track and analyze the performance of software applications, network monitoring tools to observe and manage network performance and reliability, and log management solutions to collect, analyze, and visualize log data for insights into system behavior and potential issues.&#xA;&#xA;LOST view: TVA-Observability and Monitoring Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ObservabilityAndMonitoringEnablersGrouping&#xA;&#xA;ABB name: egovera:ObservabilityAndMonitoringEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ObservabilityAndMonitoringEnablersGrouping&#xA;&#xA;Name: Observability And Monitoring EnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ObservabilityAndMonitoringEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ObservabilityAndMonitoringEnablersGrouping"/>
+  <properties
+      key="dct:title"
+      value="Observability And Monitoring EnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="egovera:ObservabilityAndMonitoringEnablersGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Observability and Monitoring Enablers ABB is a Grouping that refers to components and services that facilitate the collection, analysis, and interpretation of data to gain insights into the performance, health, and potential issues of various systems, networks, applications, and services. It includes the concepts of Observability and Monitoring, which involve tracking and understanding the internal state and behavior of a system through its external outputs, and observing and tracking the performance and health of IT infrastructure, respectively."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="N/A"/>
+  <properties
+      key="skos:example"
+      value="Examples of Observability and Monitoring Enablers ABB in action include the use of application performance monitoring (APM) tools to track and analyze the performance of software applications, network monitoring tools to observe and manage network performance and reliability, and log management solutions to collect, analyze, and visualize log data for insights into system behavior and potential issues."/>
+  <properties
+      key="skos:note"
+      value="Observability and Monitoring Enablers ABB is a crucial aspect of IT operations, as it allows for the proactive identification and resolution of issues, ensuring optimal performance and reliability of IT infrastructure. Observability involves the collection and analysis of various metrics, logs, traces, and other data points, providing insights into the system's performance, health, and potential issues. On the other hand, Monitoring involves observing and tracking the performance, availability, and health of systems, networks, applications, and services, generating alerts or reports to facilitate informed decision-making and troubleshooting."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Observability and Monitoring Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Networking Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

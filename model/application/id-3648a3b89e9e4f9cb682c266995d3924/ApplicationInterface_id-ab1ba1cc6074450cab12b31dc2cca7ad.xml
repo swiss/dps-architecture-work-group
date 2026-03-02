@@ -1,0 +1,48 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financial Management"
+    id="id-ab1ba1cc6074450cab12b31dc2cca7ad"
+    documentation="Definition: The Financial Management Application Service refers to a software service that facilitates the management and processing of financial operations and transactions within an organization. It encompasses a range of functionalities, including budgeting, accounting, financial planning, reporting, invoicing, and payment processing. The service streamlines financial processes, ensures accurate recording and tracking of financial data, and provides insights into the organization's financial performance. It may integrate with other systems such as Enterprise Resource Planning (ERP) systems, banking platforms, and payment gateways to enable seamless financial operations&#xA;&#xA;Source: International Journal of Public Administration and Management Research (IJPAMR)&#xA;&#xA;Source reference: https://www.researchgate.net/publication/331892729_The_Role_of_Financial_Management_Information_Systems_in_the_Public_Sector&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/FinancialManagementApplicationInterface&#xA;&#xA;ABB name: egovera:FinancialManagementApplicationInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/FinancialManagementApplicationInterface&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/WebServiceApplicationInterface&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="The Financial Management Application Service refers to a software service that facilitates the management and processing of financial operations and transactions within an organization. It encompasses a range of functionalities, including budgeting, accounting, financial planning, reporting, invoicing, and payment processing. The service streamlines financial processes, ensures accurate recording and tracking of financial data, and provides insights into the organization's financial performance. It may integrate with other systems such as Enterprise Resource Planning (ERP) systems, banking platforms, and payment gateways to enable seamless financial operations"/>
+  <properties
+      key="eira:definitionSource"
+      value="International Journal of Public Administration and Management Research (IJPAMR)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.researchgate.net/publication/331892729_The_Role_of_Financial_Management_Information_Systems_in_the_Public_Sector"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/FinancialManagementApplicationInterface"/>
+  <properties
+      key="dct:type"
+      value="egovera:FinancialManagementApplicationInterface"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Management Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Application Integration Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/FinancialManagementApplicationInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/WebServiceApplicationInterface"/>
+</archimate:ApplicationInterface>

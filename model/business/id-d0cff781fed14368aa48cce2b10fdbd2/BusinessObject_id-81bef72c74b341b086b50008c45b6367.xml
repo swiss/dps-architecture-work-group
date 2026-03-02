@@ -1,0 +1,42 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Governance Guidelines"
+    id="id-81bef72c74b341b086b50008c45b6367"
+    documentation="Definition: Data Governance Guidelines can be defined as a set of principles, rules, and practices that provide direction and guidance for managing and controlling data assets within an organization. These guidelines outline the framework for ensuring data quality, integrity, privacy, security, and compliance throughout the data lifecycle, including data collection, storage, usage, and sharing.&#xA;&#xA;Source: Data Governance Institute&#xA;&#xA;Source reference: https://datagovernance.com/goals-and-principles-for-data-governance/&#xA;&#xA;LOST view: SV-Governance Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataGovernanceGuidelinesBusinessObject&#xA;&#xA;ABB name: egovera:DataGovernanceGuidelinesBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataGovernanceGuidelinesBusinessObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataPolicy&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="Data Governance Guidelines can be defined as a set of principles, rules, and practices that provide direction and guidance for managing and controlling data assets within an organization. These guidelines outline the framework for ensuring data quality, integrity, privacy, security, and compliance throughout the data lifecycle, including data collection, storage, usage, and sharing."/>
+  <properties
+      key="eira:definitionSource"
+      value="Data Governance Institute"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://datagovernance.com/goals-and-principles-for-data-governance/"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataGovernanceGuidelinesBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataGovernanceGuidelinesBusinessObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataGovernanceGuidelinesBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataPolicy"/>
+</archimate:BusinessObject>

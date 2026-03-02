@@ -1,0 +1,48 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Best fit Public Service Implementation Orientation"
+    id="id-4393277865a84f2f8ee8df243a0b788b"
+    documentation="Definition: The implementation of digital public services has a focus on integration, technology, governance or legal. Experience shows that a focused approach is a critical success factor in the implementation of digital public services. An assessment of the context is made prior to the implementation in order to determine the best focus.The priority of the implementation activities is determined by the chosen focus.Use mechanisms provided by the European Commission to plan and align the strategy with real needs. An example is IDPSIO, the IDPSIO (Interoperable Digital Public Services Implementation Orientation) Assessment Tool aims to support digital public service owners in deciding the approach to follow in order to implement their digital public services.&quot;&quot;&#xA;&#xA;Source: COM(2017) 134 final ANNEX 2 COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS European Interoperability Framework - Implementation Strategy&#xA;&#xA;Source reference: https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52017DC0134&#xA;&#xA;Additional information: Experience shows that a focused approach is a critical success factor in the implementation of digital public services.&#xA;EUR-Lex is your online gateway to EU Law. It provides the official and most comprehensive access to EU legal documents. It is available in all of the EU’s 24 official languages and is updated daily&#xA;&#xA;LOST view: OV-Governance Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/best-fit-public-service-implementation-orientation&#xA;&#xA;ABB name: elap:best-fit-public-service-implementation-orientation&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Best fit Public Service Implementation Orientation&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:best-fit-public-service-implementation-orientation"/>
+  <properties
+      key="dct:title"
+      value="Best fit Public Service Implementation Orientation"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/best-fit-public-service-implementation-orientation"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="skos:note"
+      value="Experience shows that a focused approach is a critical success factor in the implementation of digital public services.&#xA;EUR-Lex is your online gateway to EU Law. It provides the official and most comprehensive access to EU legal documents. It is available in all of the EU’s 24 official languages and is updated daily"/>
+  <properties
+      key="eira:definitionSource"
+      value="COM(2017) 134 final ANNEX 2 COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS European Interoperability Framework - Implementation Strategy"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52017DC0134"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="OV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="LV-Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:definition"
+      value="The implementation of digital public services has a focus on integration, technology, governance or legal. Experience shows that a focused approach is a critical success factor in the implementation of digital public services. An assessment of the context is made prior to the implementation in order to determine the best focus.The priority of the implementation activities is determined by the chosen focus.Use mechanisms provided by the European Commission to plan and align the strategy with real needs. An example is IDPSIO, the IDPSIO (Interoperable Digital Public Services Implementation Orientation) Assessment Tool aims to support digital public service owners in deciding the approach to follow in order to implement their digital public services.&quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

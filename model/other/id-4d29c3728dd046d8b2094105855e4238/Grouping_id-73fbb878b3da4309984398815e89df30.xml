@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agility Requirements Catalogue"
+    id="id-73fbb878b3da4309984398815e89df30"
+    documentation="Definition: Agility Requirements Catalogue ABB is a grouping that covers a set of IT non-functional requirements that contribute to the agility of a software or system. These requirements, including configurability, compatibility, maintainability, and deployability, are crucial for ensuring that the system can adapt to changing needs and environments, can function seamlessly with other systems, can be easily modified and maintained, and can be efficiently deployed and installed.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Agility Requirements Catalogue ABB comprises of four key elements: Configurability, Compatibility, Maintainability, and Deployability. Configurability refers to the system's ability to be easily customized or modified to meet specific needs, without requiring extensive programming knowledge. Compatibility ensures that the system can function properly with other systems, hardware, or environments, and can be easily upgraded or migrated. Maintainability refers to the ease with which the system can be modified, updated, or repaired, contributing to its long-term sustainability. Deployability involves the ease and efficiency with which the software can be deployed and installed on different platforms, reducing downtime and minimizing risk of errors.&#xA;&#xA;Example: An example of the application of the Agility Requirements Catalogue ABB could be in the development of a new software system. The developers would need to ensure that the system is configurable, allowing users to easily customize it to their needs. They would also need to ensure that it is compatible with a range of other systems, software, and hardware to ensure wide usability. The system should be maintainable, with clear documentation and a modular design to allow for easy updates and repairs. Finally, the system should be easily deployable, with a straightforward installation process that minimizes disruption to the existing system.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgilityRequirementsCatalogueGrouping&#xA;&#xA;ABB name: eira:AgilityRequirementsCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgilityRequirementsCatalogueGrouping&#xA;&#xA;Name: Agility Requirements Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AgilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AgilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Agility Requirements Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:AgilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Agility Requirements Catalogue ABB is a grouping that covers a set of IT non-functional requirements that contribute to the agility of a software or system. These requirements, including configurability, compatibility, maintainability, and deployability, are crucial for ensuring that the system can adapt to changing needs and environments, can function seamlessly with other systems, can be easily modified and maintained, and can be efficiently deployed and installed."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of the application of the Agility Requirements Catalogue ABB could be in the development of a new software system. The developers would need to ensure that the system is configurable, allowing users to easily customize it to their needs. They would also need to ensure that it is compatible with a range of other systems, software, and hardware to ensure wide usability. The system should be maintainable, with clear documentation and a modular design to allow for easy updates and repairs. Finally, the system should be easily deployable, with a straightforward installation process that minimizes disruption to the existing system."/>
+  <properties
+      key="skos:note"
+      value="The Agility Requirements Catalogue ABB comprises of four key elements: Configurability, Compatibility, Maintainability, and Deployability. Configurability refers to the system's ability to be easily customized or modified to meet specific needs, without requiring extensive programming knowledge. Compatibility ensures that the system can function properly with other systems, hardware, or environments, and can be easily upgraded or migrated. Maintainability refers to the ease with which the system can be modified, updated, or repaired, contributing to its long-term sustainability. Deployability involves the ease and efficiency with which the software can be deployed and installed on different platforms, reducing downtime and minimizing risk of errors."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

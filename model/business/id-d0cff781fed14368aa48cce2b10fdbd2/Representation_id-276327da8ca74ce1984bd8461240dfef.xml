@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OWL2"
+    id="id-276327da8ca74ce1984bd8461240dfef"
+    documentation="Description: The OWL2 (Web Ontology Language) specification is a technical framework that enables computers to understand and reason about structured knowledge. It provides tools for creating ontologies, which define concepts, properties, and relationships in a domain. By using OWL2, computers can accurately interpret data, make logical deductions, and draw new conclusions. This facilitates tasks like information retrieval, data integration, and intelligent data processing. OWL2's standardized approach enhances communication and interoperability between systems, making it easier to share and leverage knowledge effectively.&#xA;&#xA;Publisher: W3C&#xA;&#xA;Source: https://www.w3.org/TR/owl2-syntax/&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/OWL2Representation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/OWL2Representation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="W3C"/>
+  <properties
+      key="dct:description"
+      value="The OWL2 (Web Ontology Language) specification is a technical framework that enables computers to understand and reason about structured knowledge. It provides tools for creating ontologies, which define concepts, properties, and relationships in a domain. By using OWL2, computers can accurately interpret data, make logical deductions, and draw new conclusions. This facilitates tasks like information retrieval, data integration, and intelligent data processing. OWL2's standardized approach enhances communication and interoperability between systems, making it easier to share and leverage knowledge effectively."/>
+  <properties
+      key="dct:source"
+      value="https://www.w3.org/TR/owl2-syntax/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/OWL2Representation"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/OWL2Representation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

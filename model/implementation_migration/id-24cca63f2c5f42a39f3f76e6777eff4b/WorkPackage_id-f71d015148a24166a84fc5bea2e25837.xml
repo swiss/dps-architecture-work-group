@@ -1,0 +1,52 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitalisation Roadmap"
+    id="id-f71d015148a24166a84fc5bea2e25837"
+    documentation="Definition: Digitaliation Roadmap ABB is a Work Package that corresponds to a high-level vision and strategy referring to long-term business goal an organization wants to achieve, including digital initiatives and goals the organization will drive.&#xA;&#xA;Source: Inspired in referent consultancy companies and IEEE&#xA;&#xA;Source reference: https://roadmaps.ieee.org/guide-to-technology-roadmaps&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Digital roadmap for organising mobility authorities (OMAs). (https://cerre.eu/publications/mobility-as-a-service-maas-digital-roadmap-public-transport-authorities/)&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Governance viewpoint&#xA;&#xA;Interoperability Saliency: Digitalization Roadmap ABB is salient for the governance, semantic and technical interoperability because it commonly offers (i) a transversal vision of existing reusable standards applied in the digitalization of the public sector, (ii) actions to ensure data exchange between digital services; (iii) technological software and assets that should be included in the digitalization of public administrations.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalisationRoadmapWorkPackage&#xA;&#xA;ABB name: eira:DigitalisationRoadmapWorkPackage&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalisationRoadmapWorkPackage&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalisationRoadmapWorkPackage"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalisationRoadmapWorkPackage"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digitaliation Roadmap ABB is a Work Package that corresponds to a high-level vision and strategy referring to long-term business goal an organization wants to achieve, including digital initiatives and goals the organization will drive."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in referent consultancy companies and IEEE"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://roadmaps.ieee.org/guide-to-technology-roadmaps"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Digital roadmap for organising mobility authorities (OMAs). (https://cerre.eu/publications/mobility-as-a-service-maas-digital-roadmap-public-transport-authorities/)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Digitalization Roadmap ABB is salient for the governance, semantic and technical interoperability because it commonly offers (i) a transversal vision of existing reusable standards applied in the digitalization of the public sector, (ii) actions to ensure data exchange between digital services; (iii) technological software and assets that should be included in the digitalization of public administrations."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalisationRoadmapWorkPackage"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:WorkPackage>

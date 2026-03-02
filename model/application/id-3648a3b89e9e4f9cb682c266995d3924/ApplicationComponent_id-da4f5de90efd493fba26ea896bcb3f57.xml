@@ -1,0 +1,49 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forms Management"
+    id="id-da4f5de90efd493fba26ea896bcb3f57"
+    documentation="Definition: Forms Management ABB is an Application Component that enables the implementation of i) dynamic creation, ii) distribution and ii) analysis of forms and online surveys.&#xA;&#xA;Source: ISA2 - EIA Action&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/taxonomy/term/http_e_f_fdata_ceuropa_ceu_fdr8_fFormsManagementComponent&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Form Tools - Form Tools is a forms framework written in PHP and MySQL. You download and install the script on your own website. At its heart, Form Tools is a web form creator, processor, data storage and access script. It was originally designed to work with any existing web form, but has since been expanded to create forms automatically as well. Form Tools is extremely versatile in how it integrates with your forms. You can use the bundled Form Builder module to create the forms automatically on your website (no programming or HTML skills necessary); you can use the PHP API to integrate your own custom form with the script; or you can simply POST your form to Form Tools, and just use it to store the form data. Anything goes! You can read about the different integration methods / form creation methods here. Form Tools works by creating custom database tables to store your unique form data. It provides a range of functionality customized to your data set, such as allowing you to view, update, cross-reference and export your submission data, create subsets of your data for viewing/editing by client accounts, data visualizations, and much more. https://formtools.org/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Forms Management Component ABB  is salient for technical interoperability because it provides  the implementation of the functionalities  of dynamic creation, distribution and analysis of forms and online surveys as stated in the EIF: &quot; Catalogues help others to find reusable resources (e.g. services, data, software, data models). Various types of catalogue exist, e.g. directories of services, libraries of software components, open data portals, registries of base registries, metadata catalogues, catalogues of standards, specifications and guidelines. Commonly agreed descriptions of the services, data, registries and interoperable solutions published in catalogues are needed to enable interoperability between catalogues.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FormsManagementApplicationComponent&#xA;&#xA;ABB name: eira:FormsManagementApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FormsManagementApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/FormsManagementApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:FormsManagementApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Forms Management ABB is an Application Component that enables the implementation of i) dynamic creation, ii) distribution and ii) analysis of forms and online surveys."/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2 - EIA Action"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/taxonomy/term/http_e_f_fdata_ceuropa_ceu_fdr8_fFormsManagementComponent"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Form Tools - Form Tools is a forms framework written in PHP and MySQL. You download and install the script on your own website. At its heart, Form Tools is a web form creator, processor, data storage and access script. It was originally designed to work with any existing web form, but has since been expanded to create forms automatically as well. Form Tools is extremely versatile in how it integrates with your forms. You can use the bundled Form Builder module to create the forms automatically on your website (no programming or HTML skills necessary); you can use the PHP API to integrate your own custom form with the script; or you can simply POST your form to Form Tools, and just use it to store the form data. Anything goes! You can read about the different integration methods / form creation methods here. Form Tools works by creating custom database tables to store your unique form data. It provides a range of functionality customized to your data set, such as allowing you to view, update, cross-reference and export your submission data, create subsets of your data for viewing/editing by client accounts, data visualizations, and much more. https://formtools.org/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Forms Management Component ABB  is salient for technical interoperability because it provides  the implementation of the functionalities  of dynamic creation, distribution and analysis of forms and online surveys as stated in the EIF: &quot; Catalogues help others to find reusable resources (e.g. services, data, software, data models). Various types of catalogue exist, e.g. directories of services, libraries of software components, open data portals, registries of base registries, metadata catalogues, catalogues of standards, specifications and guidelines. Commonly agreed descriptions of the services, data, registries and interoperable solutions published in catalogues are needed to enable interoperability between catalogues.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/FormsManagementApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

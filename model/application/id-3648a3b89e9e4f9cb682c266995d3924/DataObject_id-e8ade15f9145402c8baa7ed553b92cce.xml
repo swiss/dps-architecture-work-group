@@ -1,0 +1,48 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Multimedia Object Metadata"
+    id="id-e8ade15f9145402c8baa7ed553b92cce"
+    documentation="Definition: Multimedia Object Metadata refers to structured information that describes and provides context to multimedia assets such as images, videos, audio files, and other multimedia content. It includes attributes such as title, creator, date, format, resolution, duration, keywords, and other descriptive information that helps identify, organize, and retrieve multimedia assets. Multimedia Object Metadata plays a crucial role in enabling efficient search, discovery, and management of multimedia content in various applications and systems.&#xA;&#xA;Source: W3C&#xA;&#xA;Source reference: https://www.w3.org/standards/&#xA;&#xA;LOST view: SV-Business Agnostic Metadata&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/MultimediaObjectMetadataDataObject&#xA;&#xA;ABB name: egovera:MultimediaObjectMetadataDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/MultimediaObjectMetadataDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataSetDataObject&#xA;&#xA;">
+  <properties
+      key="skos:definition"
+      value="Multimedia Object Metadata refers to structured information that describes and provides context to multimedia assets such as images, videos, audio files, and other multimedia content. It includes attributes such as title, creator, date, format, resolution, duration, keywords, and other descriptive information that helps identify, organize, and retrieve multimedia assets. Multimedia Object Metadata plays a crucial role in enabling efficient search, discovery, and management of multimedia content in various applications and systems."/>
+  <properties
+      key="eira:definitionSource"
+      value="W3C"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.w3.org/standards/"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/MultimediaObjectMetadataDataObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:MultimediaObjectMetadataDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic Metadata"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/MultimediaObjectMetadataDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataSetDataObject"/>
+</archimate:DataObject>

@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Orientation"
+    id="id-b15fd58b4ef047cb91b62ded14088c2a"
+    documentation="Definition: Service orientation is a way of thinking in terms of services and service-based development and the outcomes of services. Being user-centred or remaining \&quot;user-led,\&quot; is possible with a service-oriented strategy. It entails offering services that employ the best technological solutions to provide better results. By making this change, the organization will put user demands and goals at the centre of its vision, culture, and operations. After then, make sure that everyone supports it and owns it so that decisions and technology are driven by user demands.A service-oriented strategy entails developing an IT platform made up of numerous systems, each one tailored to carry out particular tasks. You can change one aspect of a systems functionality with a tech stack made up of separate components without changing the operation of the entire system. Certain components can be digitalized more quickly because of this function fragmentation, which also offers a distribution strategy that allows for independently distributed functions. Communication with external programs is also made possible by separate systems where each software tool is designed to carry out a specific task using a well-defined interface.There are a variety of technologies that can be applied to this service orientation approach such as SOAP, REST API and GraphQL.  At the organisational level, public administrations need to establish the proper agreements that allow collaboration and common mechanisms to provide relevant information through the desired Service Oriented Architecture. At the technical level, the organisations in charge of implementing and delivery of digital public services will need to determine which is the best approach to fit their needs. There are different approaches such as SAP, RESTApi or GraphQL, taking into account the relevant aspects of the services, the organisation responsible for the service should select the more sustainable and efficient way of implementing the SOA approach. &quot;&quot;&#xA;&#xA;Source: Open Group&#xA;&#xA;Source reference: https://web.archive.org/web/20160819141303/http://opengroup.org/soa/source-book/soa/soa.htm&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/service-orientation&#xA;&#xA;ABB name: elap:ServiceOrientationPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Service Orientation&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:ServiceOrientationPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Service Orientation"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/service-orientation"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="Open Group"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://web.archive.org/web/20160819141303/http://opengroup.org/soa/source-book/soa/soa.htm"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="Service orientation is a way of thinking in terms of services and service-based development and the outcomes of services. Being user-centred or remaining \&quot;user-led,\&quot; is possible with a service-oriented strategy. It entails offering services that employ the best technological solutions to provide better results. By making this change, the organization will put user demands and goals at the centre of its vision, culture, and operations. After then, make sure that everyone supports it and owns it so that decisions and technology are driven by user demands.A service-oriented strategy entails developing an IT platform made up of numerous systems, each one tailored to carry out particular tasks. You can change one aspect of a systems functionality with a tech stack made up of separate components without changing the operation of the entire system. Certain components can be digitalized more quickly because of this function fragmentation, which also offers a distribution strategy that allows for independently distributed functions. Communication with external programs is also made possible by separate systems where each software tool is designed to carry out a specific task using a well-defined interface.There are a variety of technologies that can be applied to this service orientation approach such as SOAP, REST API and GraphQL.  At the organisational level, public administrations need to establish the proper agreements that allow collaboration and common mechanisms to provide relevant information through the desired Service Oriented Architecture. At the technical level, the organisations in charge of implementing and delivery of digital public services will need to determine which is the best approach to fit their needs. There are different approaches such as SAP, RESTApi or GraphQL, taking into account the relevant aspects of the services, the organisation responsible for the service should select the more sustainable and efficient way of implementing the SOA approach. &quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

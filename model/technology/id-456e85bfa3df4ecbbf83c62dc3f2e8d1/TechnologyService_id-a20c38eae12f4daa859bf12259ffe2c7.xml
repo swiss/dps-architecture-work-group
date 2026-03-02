@@ -1,0 +1,52 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Service Bus"
+    id="id-a20c38eae12f4daa859bf12259ffe2c7"
+    documentation="Definition: Enterprise Service Bus ABB is a Technology Service that enables integration between applications by acting as a centralized component to perform the transformation in data models, handle connectivity, perform message routing, convert communication protocols and manage the composition of multiple requests.&#xA;&#xA;Source: Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/documents/1405237&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): eXTra Enterprise Service Bus (eESB), eESB is an Enterprise Service Bus for exchanging data between the institutes of the German pension insurance. To connect the services within one institute EJB-Technology is used. The communication with external partners and between the different institutes of the German pension insurance is based on SOAP-WebServices. As data structure for the general communication the eXTra-Standard is used to address the responsible service applications. https://joinup.ec.europa.eu/collection/egovernment/solution/extra-enterprise-service-bus-eesb/about&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Enterprise Service Bus ABB is salient for semantic and technical interoperability due to it ensuring (i) data sharing across different public service applications and infrastructures using specific enhanced datasets with metadata, and (ii) providing data sharing mechanism using open specifications and open data standards.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EnterpriseServiceBusTechnologyService&#xA;&#xA;ABB name: eira:EnterpriseServiceBusTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EnterpriseServiceBusTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/EnterpriseServiceBusTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:EnterpriseServiceBusTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Enterprise Service Bus ABB is a Technology Service that enables integration between applications by acting as a centralized component to perform the transformation in data models, handle connectivity, perform message routing, convert communication protocols and manage the composition of multiple requests."/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/documents/1405237"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): eXTra Enterprise Service Bus (eESB), eESB is an Enterprise Service Bus for exchanging data between the institutes of the German pension insurance. To connect the services within one institute EJB-Technology is used. The communication with external partners and between the different institutes of the German pension insurance is based on SOAP-WebServices. As data structure for the general communication the eXTra-Standard is used to address the responsible service applications. https://joinup.ec.europa.eu/collection/egovernment/solution/extra-enterprise-service-bus-eesb/about"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Enterprise Service Bus ABB is salient for semantic and technical interoperability due to it ensuring (i) data sharing across different public service applications and infrastructures using specific enhanced datasets with metadata, and (ii) providing data sharing mechanism using open specifications and open data standards."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/EnterpriseServiceBusTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identification and Access Enablers"
+    id="id-94a05c1009114f23ad15187364459a97"
+    documentation="Definition: Identification and Access Enablers ABB is a Grouping that refers to components to enable the secure identification and authentication of users, systems and services into a platform. &#xA;&#xA;Source: World Bank&#xA;&#xA;Source reference: https://id4d.worldbank.org/guide/enablers&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU Login - EU Login is the European Commission's user authentication service. It allows authorised users to access a wide range of Commission web services. EU Login is the entry gate to sign in to different European Commission services and/or other systems. EU Login verifies your identity and allows recovering your personal settings, history and access rights in a secure way. You can sign in using social media accounts or the EU Login account. EU Login supports a variety of verification methods: •&#x9;Password; •&#x9;ECAS Mobile App PIN code; • ECAS Mobile App QR code; • On mobile authentication; • Mobile phone + SMS; • Token and Token CRAM. https://webgate.ec.europa.eu/cas/about.html&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Identification and Access Enablers Grouping ABB is salient for interoperability because it is composed of the different tools, mechanisms and platforms that can ensure the access rights, and the confidentiality of data. In general terms, identification and authentication are relevant aspects that can enable trustworthy data exchanges or harm data in interoperable digital services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/IdentificationAndAccessEnablersGrouping&#xA;&#xA;ABB name: eira:IdentificationAndAccessEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/IdentificationAndAccessEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/IdentificationAndAccessEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:IdentificationAndAccessEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Identification and Access Enablers ABB is a Grouping that refers to components to enable the secure identification and authentication of users, systems and services into a platform. "/>
+  <properties
+      key="eira:definitionSource"
+      value="World Bank"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://id4d.worldbank.org/guide/enablers"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU Login - EU Login is the European Commission's user authentication service. It allows authorised users to access a wide range of Commission web services. EU Login is the entry gate to sign in to different European Commission services and/or other systems. EU Login verifies your identity and allows recovering your personal settings, history and access rights in a secure way. You can sign in using social media accounts or the EU Login account. EU Login supports a variety of verification methods: •&#x9;Password; •&#x9;ECAS Mobile App PIN code; • ECAS Mobile App QR code; • On mobile authentication; • Mobile phone + SMS; • Token and Token CRAM. https://webgate.ec.europa.eu/cas/about.html"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Identification and Access Enablers Grouping ABB is salient for interoperability because it is composed of the different tools, mechanisms and platforms that can ensure the access rights, and the confidentiality of data. In general terms, identification and authentication are relevant aspects that can enable trustworthy data exchanges or harm data in interoperable digital services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/IdentificationAndAccessEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

@@ -1,0 +1,49 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schedule Management"
+    id="id-45488a61f767454e97c7b9b9e1be3080"
+    documentation="Definition: Schedule Management Component ABB is an Application Component that enables the implementation of the procedures to manage time and events in the achievement of the goals and delivery of public services. &#xA;&#xA;Source: Inspired in Public Works and Goverment Services Canada&#xA;&#xA;Source reference: https://buyandsell.gc.ca/cds/public/2016/11/23/c7b27e0ac41ad50ffae2f12b0a837875/ABES.PROD.PW_PWZ.B014.E10051.ATTA001.PDF&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Chronos is a replacement for cron. It is a distributed and fault-tolerant scheduler that runs on top of Apache Mesos that can be used for job orchestration. It supports custom Mesos executors as well as the default command executor. Thus by default, Chronos executes sh (on most systems bash) scripts. https://sourceforge.net/projects/chronos.mirror/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Schedule Management Application Component ABB is salient for technical interoperability because it implements the orchestration of different events within digital public services within specific platforms but can be reused and extended in a high-level approach to enable interoperability of digital public services and the different delivery models. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/ScheduleManagementApplicationComponent&#xA;&#xA;ABB name: eira:ScheduleManagementApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ScheduleManagementApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ScheduleManagementApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:ScheduleManagementApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Schedule Management Component ABB is an Application Component that enables the implementation of the procedures to manage time and events in the achievement of the goals and delivery of public services. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Public Works and Goverment Services Canada"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://buyandsell.gc.ca/cds/public/2016/11/23/c7b27e0ac41ad50ffae2f12b0a837875/ABES.PROD.PW_PWZ.B014.E10051.ATTA001.PDF"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Chronos is a replacement for cron. It is a distributed and fault-tolerant scheduler that runs on top of Apache Mesos that can be used for job orchestration. It supports custom Mesos executors as well as the default command executor. Thus by default, Chronos executes sh (on most systems bash) scripts. https://sourceforge.net/projects/chronos.mirror/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Schedule Management Application Component ABB is salient for technical interoperability because it implements the orchestration of different events within digital public services within specific platforms but can be reused and extended in a high-level approach to enable interoperability of digital public services and the different delivery models. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ScheduleManagementApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

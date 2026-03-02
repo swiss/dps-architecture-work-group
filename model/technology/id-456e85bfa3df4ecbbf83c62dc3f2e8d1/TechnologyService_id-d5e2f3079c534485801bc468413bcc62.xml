@@ -1,0 +1,52 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Web Server"
+    id="id-d5e2f3079c534485801bc468413bcc62"
+    documentation="Definition: Web Server ABB is a Technology Service that implements the behaviour of a type of server software that handles HTTP (Hypertext Transfer Protocol) requests sent by clients, typically web browsers, and delivers web content back to the client in response &#xA;&#xA;Source: Inspired in ISA2-EIF&#xA;&#xA;Source reference: https://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_1&amp;format=PDF&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): DIGIT/C Hosting Service - DIGIT/C offers a high availability and high performance hosting infrastructure that is being comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites. http://ec.europa.eu/ipg/build/infrastructure/index_en.htm&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Streaming Server is salient for semantic technical interoperability because it provides ICT systems to manage data streams related to public digital services. This ABB provides real-time interaction with the data following up streaming open specifications and metadata (if needed).&#xA;&#xA;Identifier: http://data.europa.eu/dr8/WebServerTechnologyService&#xA;&#xA;ABB name: eira:WebServerTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/WebServerTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/WebServerTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:WebServerTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Web Server ABB is a Technology Service that implements the behaviour of a type of server software that handles HTTP (Hypertext Transfer Protocol) requests sent by clients, typically web browsers, and delivers web content back to the client in response "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in ISA2-EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_1&amp;format=PDF"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): DIGIT/C Hosting Service - DIGIT/C offers a high availability and high performance hosting infrastructure that is being comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites. http://ec.europa.eu/ipg/build/infrastructure/index_en.htm"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Streaming Server is salient for semantic technical interoperability because it provides ICT systems to manage data streams related to public digital services. This ABB provides real-time interaction with the data following up streaming open specifications and metadata (if needed)."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/WebServerTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

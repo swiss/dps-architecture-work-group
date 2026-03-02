@@ -1,0 +1,52 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GraphQL Server"
+    id="id-7c3d20456a854425ae9e5d34b9531802"
+    documentation="Definition: GraphQL ABB is a Technology Service that implements the behaviour of a server-side runtime that execute queries using a type system you define for your data&#xA;&#xA;Source: GraphQL&#xA;&#xA;Source reference: https://graphql.org/learn/&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Github is using GraphQL Server and API to allow users retreive the required data without having additional information that is not relevant for its purpose. https://docs.github.com/es/graphql&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: GraphQL Server ABB contributes to the semantic and technical interoperability because it set up the API that permits (i) access to the public administration information using semantics, (ii) exposes API following up common specifications related to GraphQL language.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/GraphQLServerTechnologyService&#xA;&#xA;ABB name: eira:GraphQLServerTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/GraphQLServerTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/GraphQLServerTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:GraphQLServerTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="GraphQL ABB is a Technology Service that implements the behaviour of a server-side runtime that execute queries using a type system you define for your data"/>
+  <properties
+      key="eira:definitionSource"
+      value="GraphQL"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://graphql.org/learn/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Github is using GraphQL Server and API to allow users retreive the required data without having additional information that is not relevant for its purpose. https://docs.github.com/es/graphql"/>
+  <properties
+      key="eira:iopSaliency"
+      value="GraphQL Server ABB contributes to the semantic and technical interoperability because it set up the API that permits (i) access to the public administration information using semantics, (ii) exposes API following up common specifications related to GraphQL language."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/GraphQLServerTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

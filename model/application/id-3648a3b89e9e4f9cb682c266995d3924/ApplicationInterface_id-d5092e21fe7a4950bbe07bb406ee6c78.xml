@@ -1,0 +1,49 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Web Service"
+    id="id-d5092e21fe7a4950bbe07bb406ee6c78"
+    documentation="Definition: Web Service ABB is an Application Interface that enables interoperability between different applications or systems over the Internet&#xA;&#xA;Source: W3C &#xA;&#xA;Source reference: https://www.w3.org/TR/2004/NOTE-ws-arch-20040211/#relwwwrest&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Web Services Description Language (WSDL) - WSDL is an XML format for describing network services as a set of endpoints operating on messages containing either document-oriented or procedure-oriented information. The operations and messages are described abstractly, and then bound to a concrete network protocol and message format to define an endpoint. https://www.w3.org/TR/wsdl.html&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Web Service Application Interface ABB is salient for interoperability because, from the beginning, Web services can be interoperable by design. By putting in place web services, interoperability can be guaranteed between systems and applications, and therefore, among digital public services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/WebServiceApplicationInterface&#xA;&#xA;ABB name: eira:WebServiceApplicationInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/WebServiceApplicationInterface&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/WebServiceApplicationInterface"/>
+  <properties
+      key="dct:type"
+      value="eira:WebServiceApplicationInterface"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Web Service ABB is an Application Interface that enables interoperability between different applications or systems over the Internet"/>
+  <properties
+      key="eira:definitionSource"
+      value="W3C "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.w3.org/TR/2004/NOTE-ws-arch-20040211/#relwwwrest"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Web Services Description Language (WSDL) - WSDL is an XML format for describing network services as a set of endpoints operating on messages containing either document-oriented or procedure-oriented information. The operations and messages are described abstractly, and then bound to a concrete network protocol and message format to define an endpoint. https://www.w3.org/TR/wsdl.html"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Web Service Application Interface ABB is salient for interoperability because, from the beginning, Web services can be interoperable by design. By putting in place web services, interoperability can be guaranteed between systems and applications, and therefore, among digital public services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/WebServiceApplicationInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationInterface>

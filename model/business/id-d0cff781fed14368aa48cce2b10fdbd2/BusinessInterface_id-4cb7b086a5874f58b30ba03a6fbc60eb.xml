@@ -1,0 +1,49 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service App"
+    id="id-4cb7b086a5874f58b30ba03a6fbc60eb"
+    documentation="Definition: Service APP ABB is a Business Interface is a a type of software application that provides specific functionality to other applications or users within a larger system. Service applications are designed to operate in the background and provide specific services, such as database access, messaging, authentication, or other functionality, to other applications that require those services&#xA;&#xA;Source: Inspired in ETSI TR 103 290 &#xA;&#xA;Source reference: https://www.etsi.org/deliver/etsi_tr/103200_103299/103290/01.01.01_60/tr_103290v010101p.pdf&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EUROTRACE is a powerful and flexible software application that provides the structures and tools for the management of statistical data. EUROTRACE can be used as a production system for the integration, validation and management of statistical datasets and can be used with the following DBMS: MS ACCESS, ORACLE, SQL Server. https://joinup.ec.europa.eu/sites/default/files/document/2014-04/Eurotrace%20DBMS%202.6%20UG_EN.pdf&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Interoperability Saliency: Service App ABB is salient for organizational, semantic and technical interoperability because it establishes the mechanisms to provide data and services to public service consumers. The Service App ABB will identify and implement needed mechanisms to (i) deliver data according to the digital service procedures, and (ii) enable service and data discovery. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/ServiceAppBusinessInterface&#xA;&#xA;ABB name: eira:ServiceAppBusinessInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ServiceAppBusinessInterface&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ServiceAppBusinessInterface"/>
+  <properties
+      key="dct:type"
+      value="eira:ServiceAppBusinessInterface"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Service APP ABB is a Business Interface is a a type of software application that provides specific functionality to other applications or users within a larger system. Service applications are designed to operate in the background and provide specific services, such as database access, messaging, authentication, or other functionality, to other applications that require those services"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in ETSI TR 103 290 "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.etsi.org/deliver/etsi_tr/103200_103299/103290/01.01.01_60/tr_103290v010101p.pdf"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EUROTRACE is a powerful and flexible software application that provides the structures and tools for the management of statistical data. EUROTRACE can be used as a production system for the integration, validation and management of statistical datasets and can be used with the following DBMS: MS ACCESS, ORACLE, SQL Server. https://joinup.ec.europa.eu/sites/default/files/document/2014-04/Eurotrace%20DBMS%202.6%20UG_EN.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Service App ABB is salient for organizational, semantic and technical interoperability because it establishes the mechanisms to provide data and services to public service consumers. The Service App ABB will identify and implement needed mechanisms to (i) deliver data according to the digital service procedures, and (ii) enable service and data discovery. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ServiceAppBusinessInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessInterface>

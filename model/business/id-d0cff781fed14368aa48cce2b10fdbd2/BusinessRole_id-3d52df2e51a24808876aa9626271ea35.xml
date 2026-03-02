@@ -1,0 +1,47 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Provider"
+    id="id-3d52df2e51a24808876aa9626271ea35"
+    documentation="Definition: The Data Provider ABB is a Business Role that is responsible for providing data to other roles or systems, either by producing, collecting, transforming, or delivering data. Data providers may also be accountable for the quality, security, and availability of the data they provide.&#xA;&#xA;Source: DAMA-DMBOK2&#xA;&#xA;Source reference: https://datacrossroads.nl/2019/12/13/data-management-and-data-governance-104-the-yin-force-of-data-governance-part-2-roles/&#xA;&#xA;Additional information: The role of Data Provider is not limited to the initial creation or collection of data, but also includes the transformation or delivery of data to other roles or systems. For example, a data engineer who extracts, transforms, and loads data from various sources into a data warehouse is a data provider, as well as a data analyst who prepares and publishes data reports or dashboards. Data providers should ensure that the data they provide meets the quality, security, and availability requirements defined by the data owners and the data governance policies. Data providers should also document and communicate the metadata, lineage, and provenance of the data they provide, as well as any issues or limitations that may affect its use. Data providers should collaborate with data consumers to understand their data needs and expectations, and provide feedback and suggestions for data improvement.&#xA;&#xA;Example: Examples of data providers are data entry clerks, data engineers, data analysts, and data publishers.&#xA;&#xA;LOST view: OV-Data Spaces&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataProviderBusinessRole&#xA;&#xA;ABB name: egovera:DataProviderBusinessRole&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataOwnerBusinessRole&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataProviderBusinessRole"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataProviderBusinessRole"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="eira:definitionSource"
+      value="DAMA-DMBOK2"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://datacrossroads.nl/2019/12/13/data-management-and-data-governance-104-the-yin-force-of-data-governance-part-2-roles/"/>
+  <properties
+      key="skos:example"
+      value="Examples of data providers are data entry clerks, data engineers, data analysts, and data publishers."/>
+  <properties
+      key="skos:note"
+      value="The role of Data Provider is not limited to the initial creation or collection of data, but also includes the transformation or delivery of data to other roles or systems. For example, a data engineer who extracts, transforms, and loads data from various sources into a data warehouse is a data provider, as well as a data analyst who prepares and publishes data reports or dashboards. Data providers should ensure that the data they provide meets the quality, security, and availability requirements defined by the data owners and the data governance policies. Data providers should also document and communicate the metadata, lineage, and provenance of the data they provide, as well as any issues or limitations that may affect its use. Data providers should collaborate with data consumers to understand their data needs and expectations, and provide feedback and suggestions for data improvement."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataOwnerBusinessRole"/>
+  <properties
+      key="skos:definition"
+      value="The Data Provider ABB is a Business Role that is responsible for providing data to other roles or systems, either by producing, collecting, transforming, or delivering data. Data providers may also be accountable for the quality, security, and availability of the data they provide."/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessRole>

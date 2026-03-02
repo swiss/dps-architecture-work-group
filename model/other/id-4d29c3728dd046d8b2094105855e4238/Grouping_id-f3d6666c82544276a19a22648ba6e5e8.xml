@@ -1,0 +1,51 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Computing Infrastructure Enablers"
+    id="id-f3d6666c82544276a19a22648ba6e5e8"
+    documentation="Definition: Computing Infrastructure Enablers ABB is a Grouping that refers to components and services that provide the development, deployment, and management of virtual and computing infrastructure&#xA;&#xA;Source: Inspired in Redhat&#xA;&#xA;Source reference: https://www.redhat.com/en/topics/virtualization/what-is-a-virtual-machine&#xA;&#xA;Synonym:  &#xA;&#xA;Additional information:  &#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): DIGIT/C Hosting Service - DIGIT/C offers a high availability and high performance hosting infrastructure that is being comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites. http://ec.europa.eu/ipg/build/infrastructure/index_en.htm&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Computing Infrastructure Enablers ABB is salient for organizational and technical interoperability due to it providing (i) mechanisms to ensure the correct publication of public administration digital services, and (ii) physical elements that permit to host of public administration services in a standardised manner.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ComputingInfrastructureEnablersGrouping&#xA;&#xA;ABB name: eira:ComputingInfrastructureEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ComputingInfrastructureEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ComputingInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:ComputingInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value=" "/>
+  <properties
+      key="skos:definition"
+      value="Computing Infrastructure Enablers ABB is a Grouping that refers to components and services that provide the development, deployment, and management of virtual and computing infrastructure"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Redhat"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.redhat.com/en/topics/virtualization/what-is-a-virtual-machine"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): DIGIT/C Hosting Service - DIGIT/C offers a high availability and high performance hosting infrastructure that is being comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites. http://ec.europa.eu/ipg/build/infrastructure/index_en.htm"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Computing Infrastructure Enablers ABB is salient for organizational and technical interoperability due to it providing (i) mechanisms to ensure the correct publication of public administration digital services, and (ii) physical elements that permit to host of public administration services in a standardised manner."/>
+  <properties
+      key="skos:note"
+      value=" "/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ComputingInfrastructureEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

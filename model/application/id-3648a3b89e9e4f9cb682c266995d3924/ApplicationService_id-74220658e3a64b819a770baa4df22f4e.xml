@@ -1,0 +1,45 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Natural-Language Processing (NLP)"
+    id="id-74220658e3a64b819a770baa4df22f4e"
+    documentation="Definition: Natural-Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. The ultimate objective of NLP is to enable computers to understand, interpret, and generate human language in a valuable way.&#xA;&#xA;Source: TechTarget&#xA;&#xA;Source reference: https://www.techtarget.com/searchenterpriseai/definition/natural-language-processing-NLP&#xA;&#xA;Additional information: NLP encompasses a range of computational techniques that work together to allow computers to process and analyze large amounts of natural language data. The challenges in NLP involve speech recognition, natural language understanding, and natural language generation. NLP uses algorithms to identify and extract the rules such that the unstructured language data is converted into a form that computers can understand. When the data is structured, NLP can perform a variety of tasks, including translation, sentiment analysis, relationship extraction, recognition of named entities, and topic segmentation. Advances in machine learning and deep learning have significantly improved the effectiveness of NLP, enabling more complex applications and improving accuracy.&#xA;&#xA;Example: Services like Google Translate and DeepL use NLP to provide real-time translation between languages.&#xA;Siri, Alexa, and Google Assistant use NLP to understand and respond to voice commands.&#xA;Businesses use NLP to analyze customer feedback on social media to determine overall sentiment towards products or services.&#xA;Websites often feature chatbots that use NLP to understand and respond to customer inquiries without human intervention.&#xA;NLP is used to automatically generate summaries of long documents, saving time for readers who need to quickly understand the main points.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/Natural-LanguageProcessingApplicationService&#xA;&#xA;ABB name: egovera:Natural-LanguageProcessingApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/Natural-LanguageProcessingApplicationService&#xA;&#xA;Name: Natural-Language Processing (NLP) Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/Natural-LanguageProcessingApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/Natural-LanguageProcessingApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Natural-Language Processing (NLP) Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:Natural-LanguageProcessingApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="Natural-Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. The ultimate objective of NLP is to enable computers to understand, interpret, and generate human language in a valuable way."/>
+  <properties
+      key="eira:definitionSource"
+      value="TechTarget"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.techtarget.com/searchenterpriseai/definition/natural-language-processing-NLP"/>
+  <properties
+      key="skos:example"
+      value="Services like Google Translate and DeepL use NLP to provide real-time translation between languages.&#xA;Siri, Alexa, and Google Assistant use NLP to understand and respond to voice commands.&#xA;Businesses use NLP to analyze customer feedback on social media to determine overall sentiment towards products or services.&#xA;Websites often feature chatbots that use NLP to understand and respond to customer inquiries without human intervention.&#xA;NLP is used to automatically generate summaries of long documents, saving time for readers who need to quickly understand the main points."/>
+  <properties
+      key="skos:note"
+      value="NLP encompasses a range of computational techniques that work together to allow computers to process and analyze large amounts of natural language data. The challenges in NLP involve speech recognition, natural language understanding, and natural language generation. NLP uses algorithms to identify and extract the rules such that the unstructured language data is converted into a form that computers can understand. When the data is structured, NLP can perform a variety of tasks, including translation, sentiment analysis, relationship extraction, recognition of named entities, and topic segmentation. Advances in machine learning and deep learning have significantly improved the effectiveness of NLP, enabling more complex applications and improving accuracy."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

@@ -1,0 +1,71 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shared Organisational Content"
+    id="id-2e87c2fa283642cc946f6afa4333806b"
+    documentation="Definition: Shared Organisational Content ABB is a Grouping setting organizational (re)usable resources with convergence power, to public policy goals attainment, enabling to reuse and share digital assets, knowledge repositories, best practices, and expertise across departments and agencies. This facilitates seamless collaboration, enhances efficiency, and fosters innovation in the development and delivery of Digital Public Services, aligning with the overarching goal of improving citizen experiences and outcomes.&#xA;&#xA;Source: EUR-LEX&#xA;&#xA;Source reference: (https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32021R0695&amp;qid=1646736486403)&#xA;&#xA;Additional information: This convergence power is based on the enabling communication and harmonization nature of these resources influencing collaboration cross levels in a public administration, cross public administrations, and cross borders. The degree of achievement could range from an ideal perfect shared governance framework (i.e. no interoperability barriers from the organisational perspective) to an imperfect or even null shared governance framework (i.e. some interoperability barriers from the organizational perspective). The level of organizational interoperability will constrain digital public services cross levels in a public administration, cross public administrations, and cross borders. The shared governance framework enables: i) structural interoperability with organisational resources supporting reusing and/or sharing of digital public services (i.e. public services catalogues); ii) behavioural interoperability with organisational resources supporting exchanging capabilities of data, information or knowledge with internal/external peers (i.e. user experience patterns and service delivery mode); and iii) governance interoperability with governance resources supporting the assurance and control of collaboration with internal/external peers exchanging data, information, and knowledge (i.e. Organisational Interoperability Agreements).&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The recent economic and financial crisis revealed weaknesses in the EU's economic governance. The EU responded by taking a wide range of measures to strengthen its governance and to facilitate a return to sustainable economic growth, job creation, financial stability and sound public finances.(https://ec.europa.eu/info/sites/default/files/eu-economic-governance-explained.pdf)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Shared Organisational Content ABB is a key interoperability enabler (*) for the governance, behavioural and structural enablers. This ABB is salient for legal interoperability because it defines the public policy goals that enable enabling i) sharing/provisioning/reusing/consumption of understandings and agreements on digital public services,  ii) the exchange of data, information, and knowledge between digital public services, and iii) collaboration between digital public services&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SharedOrganisationalContentGrouping&#xA;&#xA;ABB name: eira:SharedOrganisationalContentGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-06-10&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SharedOrganisationalContentGrouping&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SharedOrganisationalContentGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:SharedOrganisationalContentGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-06-10"/>
+  <properties
+      key="skos:definition"
+      value="Shared Organisational Content ABB is a Grouping setting organizational (re)usable resources with convergence power, to public policy goals attainment, enabling to reuse and share digital assets, knowledge repositories, best practices, and expertise across departments and agencies. This facilitates seamless collaboration, enhances efficiency, and fosters innovation in the development and delivery of Digital Public Services, aligning with the overarching goal of improving citizen experiences and outcomes."/>
+  <properties
+      key="eira:definitionSource"
+      value="EUR-LEX"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="(https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32021R0695&amp;qid=1646736486403)"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The recent economic and financial crisis revealed weaknesses in the EU's economic governance. The EU responded by taking a wide range of measures to strengthen its governance and to facilitate a return to sustainable economic growth, job creation, financial stability and sound public finances.(https://ec.europa.eu/info/sites/default/files/eu-economic-governance-explained.pdf)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Shared Organisational Content ABB is a key interoperability enabler (*) for the governance, behavioural and structural enablers. This ABB is salient for legal interoperability because it defines the public policy goals that enable enabling i) sharing/provisioning/reusing/consumption of understandings and agreements on digital public services,  ii) the exchange of data, information, and knowledge between digital public services, and iii) collaboration between digital public services"/>
+  <properties
+      key="skos:note"
+      value="This convergence power is based on the enabling communication and harmonization nature of these resources influencing collaboration cross levels in a public administration, cross public administrations, and cross borders. The degree of achievement could range from an ideal perfect shared governance framework (i.e. no interoperability barriers from the organisational perspective) to an imperfect or even null shared governance framework (i.e. some interoperability barriers from the organizational perspective). The level of organizational interoperability will constrain digital public services cross levels in a public administration, cross public administrations, and cross borders. The shared governance framework enables: i) structural interoperability with organisational resources supporting reusing and/or sharing of digital public services (i.e. public services catalogues); ii) behavioural interoperability with organisational resources supporting exchanging capabilities of data, information or knowledge with internal/external peers (i.e. user experience patterns and service delivery mode); and iii) governance interoperability with governance resources supporting the assurance and control of collaboration with internal/external peers exchanging data, information, and knowledge (i.e. Organisational Interoperability Agreements)."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="eira:view"
+      value="EIRA Ontology view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperable European Solution viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SharedOrganisationalContentGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Grouping>

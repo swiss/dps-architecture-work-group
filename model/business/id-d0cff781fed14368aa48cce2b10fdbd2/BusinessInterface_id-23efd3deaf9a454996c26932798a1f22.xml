@@ -1,0 +1,49 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Web App"
+    id="id-23efd3deaf9a454996c26932798a1f22"
+    documentation="Definition: Web APP ABB is a Business Interface that corresponds to a computer program that runs on a web browser and is accessible through the internet&#xA;&#xA;Source: ISO/IEC/IEEE 23026:2015&#xA;&#xA;Source reference: https://www.iso.org/obp/ui/#iso:std:iso-iec-ieee:23026:ed-1:v1:en&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Digital Signature Service (DSS) Web Application. https://ec.europa.eu/digital-building-blocks/DSS/webapp-demo/home&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Interoperability Saliency: Web App ABB is salient for organizational, semantic and technical interoperability because it offers (i) a visual environment to interact with the public service procedures and data; (ii) an understanding of the information to be represented; and (iii) an elaborate mechanism to exchange data with public services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/WebAppBusinessInterface&#xA;&#xA;ABB name: eira:WebAppBusinessInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/WebAppBusinessInterface&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/WebAppBusinessInterface"/>
+  <properties
+      key="dct:type"
+      value="eira:WebAppBusinessInterface"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Web APP ABB is a Business Interface that corresponds to a computer program that runs on a web browser and is accessible through the internet"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 23026:2015"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/obp/ui/#iso:std:iso-iec-ieee:23026:ed-1:v1:en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Digital Signature Service (DSS) Web Application. https://ec.europa.eu/digital-building-blocks/DSS/webapp-demo/home"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Web App ABB is salient for organizational, semantic and technical interoperability because it offers (i) a visual environment to interact with the public service procedures and data; (ii) an understanding of the information to be represented; and (iii) an elaborate mechanism to exchange data with public services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/WebAppBusinessInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessInterface>

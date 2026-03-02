@@ -1,0 +1,48 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Code of Conduct for Energy Efficiency in Data Centres"
+    id="id-521ebc1717934898848ddc1c747c86e9"
+    documentation="Description: This voluntary code of conduct was developed by the European Commission's Joint Research Centre to improve the energy efficiency and environmental sustainability of data centers. It provides guidelines and best practices for data center operators to reduce their environmental impact.&#xA;&#xA;Additional information: The European Code of Conduct for Data Centres is a voluntary initiative managed by the Joint Research Centre (JRC), the European Commission’s science and knowledge service. It primarily addresses data centre owners and operators, and secondly the supply chain and service providers. The Code of Conduct aims to reduce energy consumption in data centres in a cost-effective manner without hampering their critical function.&#xA;&#xA;Example: A data centre operator could conduct an energy audit to identify areas where energy is being wasted. For example, they might find that their servers are using more power than necessary during off-peak hours. Based on these findings, they could create an Action Plan to reduce energy usage, such as implementing server virtualization to consolidate workloads and reduce the number of physical servers needed, or using energy-efficient cooling systems.&#xA;&#xA;Publisher: Joint Research Centre&#xA;&#xA;Source: https://joint-research-centre.ec.europa.eu/scientific-activities-z/energy-efficiency/energy-efficiency-products/code-conduct-ict/code-conduct-energy-efficiency-data-centres_en&#xA;&#xA;LOST view: OV-Data Spaces&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/CodeOfConductForEnergyEfficiencyInDataCentresContract&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/CodeOfConductForEnergyEfficiencyInDataCentresContract&#xA;&#xA;Name: Code of Conduct for Energy Efficiency in Data Centres&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Realises: http://data.europa.eu/dr8/OrganisationalAgreementContract&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/CodeOfConductForEnergyEfficiencyInDataCentresContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:description"
+      value="This voluntary code of conduct was developed by the European Commission's Joint Research Centre to improve the energy efficiency and environmental sustainability of data centers. It provides guidelines and best practices for data center operators to reduce their environmental impact."/>
+  <properties
+      key="skos:example"
+      value="A data centre operator could conduct an energy audit to identify areas where energy is being wasted. For example, they might find that their servers are using more power than necessary during off-peak hours. Based on these findings, they could create an Action Plan to reduce energy usage, such as implementing server virtualization to consolidate workloads and reduce the number of physical servers needed, or using energy-efficient cooling systems."/>
+  <properties
+      key="skos:note"
+      value="The European Code of Conduct for Data Centres is a voluntary initiative managed by the Joint Research Centre (JRC), the European Commission’s science and knowledge service. It primarily addresses data centre owners and operators, and secondly the supply chain and service providers. The Code of Conduct aims to reduce energy consumption in data centres in a cost-effective manner without hampering their critical function."/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/CodeOfConductForEnergyEfficiencyInDataCentresContract"/>
+  <properties
+      key="dct:title"
+      value="Code of Conduct for Energy Efficiency in Data Centres"/>
+  <properties
+      key="dct:publisher"
+      value="Joint Research Centre"/>
+  <properties
+      key="dct:source"
+      value="https://joint-research-centre.ec.europa.eu/scientific-activities-z/energy-efficiency/energy-efficiency-products/code-conduct-ict/code-conduct-energy-efficiency-data-centres_en"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/OrganisationalAgreementContract"/>
+</archimate:Contract>

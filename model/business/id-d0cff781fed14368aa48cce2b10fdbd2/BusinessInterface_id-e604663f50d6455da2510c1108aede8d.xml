@@ -1,0 +1,49 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adaptive Configuration"
+    id="id-e604663f50d6455da2510c1108aede8d"
+    documentation="Definition: Adaptive Configuration ABB is a Business Interface that refers to the ability of a system or application to dynamically adjust its settings or configuration based on changing conditions or user preferences. This allows the system to optimize its performance and adapt to different environments or situations.&#xA;&#xA;Source: INSPIRED in Science Direct &#xA;&#xA;Source reference: https://www.sciencedirect.com/topics/engineering/adaptive-systems&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): An example of adaptive configuration is the automatic configuration that mobile phones include to keep the signal for using mobile data. Another aspect that is also related to Data is the &quot;Adaptive Data Rate&quot; Adaptive Data Rate (ADR) is a mechanism for optimizing data rates, airtime and energy consumption in the network. The ADR mechanism controls the following transmission parameters of an end device: 1. Spreading factor; 2. Bandwidth; 3. Transmission power. https://www.thethingsnetwork.org/docs/lorawan/adaptive-data-rate/&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Interoperability Saliency: Adaptive Configuration ABB is salient for organizational, semantic and technical interoperability because it establishes the mechanism to adapt the procedures and data delivery according to the data consumption needs.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AdaptiveConfigurationBusinessInterface&#xA;&#xA;ABB name: eira:AdaptiveConfigurationBusinessInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AdaptiveConfigurationBusinessInterface&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AdaptiveConfigurationBusinessInterface"/>
+  <properties
+      key="dct:type"
+      value="eira:AdaptiveConfigurationBusinessInterface"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Adaptive Configuration ABB is a Business Interface that refers to the ability of a system or application to dynamically adjust its settings or configuration based on changing conditions or user preferences. This allows the system to optimize its performance and adapt to different environments or situations."/>
+  <properties
+      key="eira:definitionSource"
+      value="INSPIRED in Science Direct "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.sciencedirect.com/topics/engineering/adaptive-systems"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): An example of adaptive configuration is the automatic configuration that mobile phones include to keep the signal for using mobile data. Another aspect that is also related to Data is the &quot;Adaptive Data Rate&quot; Adaptive Data Rate (ADR) is a mechanism for optimizing data rates, airtime and energy consumption in the network. The ADR mechanism controls the following transmission parameters of an end device: 1. Spreading factor; 2. Bandwidth; 3. Transmission power. https://www.thethingsnetwork.org/docs/lorawan/adaptive-data-rate/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Adaptive Configuration ABB is salient for organizational, semantic and technical interoperability because it establishes the mechanism to adapt the procedures and data delivery according to the data consumption needs."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AdaptiveConfigurationBusinessInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessInterface>

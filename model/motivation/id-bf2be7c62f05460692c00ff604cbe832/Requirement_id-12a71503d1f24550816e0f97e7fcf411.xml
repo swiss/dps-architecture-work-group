@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alerts and monitoring"
+    id="id-12a71503d1f24550816e0f97e7fcf411"
+    documentation="Definition: Alerts and monitoring are non-functional requirements that ensure that the system can detect and reporting any issues or anomalies that may arise during its operation. This includes the ability to monitor system performance, detect errors, and notify relevant stakeholders in real-time. The alerts and monitoring system should be designed to provide timely and accurate information to enable quick and effective decision-making, as well as to ensure that the system is always available and performing optimally. This requirement is critical for ensuring the reliability, availability, and performance of the system.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, 'Alerts and monitoring' is a non-functional requirement that pertains to the system's ability to detect and report errors, failures, and other critical events. This requirement is essential for ensuring the system's reliability, availability, and performance.&#xA;&#xA;To meet this requirement, the system must be equipped with monitoring tools and mechanisms that can track and analyze various system metrics, such as CPU usage, memory utilization, network traffic, and disk space. These tools should be able to generate alerts and notifications when predefined thresholds are exceeded or when specific events occur.&#xA;&#xA;The alerts and notifications should be sent to the appropriate stakeholders, such as system administrators, support teams, or business users, depending on the severity and impact of the event. The alerts should provide sufficient information to enable the stakeholders to take appropriate actions, such as investigating the root cause of the problem, applying corrective measures, or escalating the issue to higher levels of management.&#xA;&#xA;The monitoring tools should also be able to generate reports and dashboards that provide insights into the system's performance and health. These reports should be customizable and configurable to meet the specific needs of different stakeholders.&#xA;&#xA;Overall, the 'Alerts and monitoring' non-functional requirement is critical for ensuring the system's reliability, availability, and performance. By providing real-time visibility into the system's health and performance, the monitoring tools enable stakeholders to proactively identify and resolve issues before they escalate into major problems.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Alerts and monitoring' could be for a financial institution's online banking system to have real-time monitoring of all transactions and user activity, with alerts triggered for any suspicious or potentially fraudulent activity. This would help ensure the security and integrity of the system and protect both the institution and its customers from potential financial losses.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AlertsAndMonitoringRequirement&#xA;&#xA;ABB name: eira:AlertsAndMonitoringRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/AlertsandmonitoringRequirement&#xA;&#xA;Name: Alerts and monitoring Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/AlertsandmonitoringRequirement"/>
+  <properties
+      key="dct:title"
+      value="Alerts and monitoring Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Alerts and monitoring' could be for a financial institution's online banking system to have real-time monitoring of all transactions and user activity, with alerts triggered for any suspicious or potentially fraudulent activity. This would help ensure the security and integrity of the system and protect both the institution and its customers from potential financial losses."/>
+  <properties
+      key="skos:definition"
+      value="Alerts and monitoring are non-functional requirements that ensure that the system can detect and reporting any issues or anomalies that may arise during its operation. This includes the ability to monitor system performance, detect errors, and notify relevant stakeholders in real-time. The alerts and monitoring system should be designed to provide timely and accurate information to enable quick and effective decision-making, as well as to ensure that the system is always available and performing optimally. This requirement is critical for ensuring the reliability, availability, and performance of the system."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, 'Alerts and monitoring' is a non-functional requirement that pertains to the system's ability to detect and report errors, failures, and other critical events. This requirement is essential for ensuring the system's reliability, availability, and performance.&#xA;&#xA;To meet this requirement, the system must be equipped with monitoring tools and mechanisms that can track and analyze various system metrics, such as CPU usage, memory utilization, network traffic, and disk space. These tools should be able to generate alerts and notifications when predefined thresholds are exceeded or when specific events occur.&#xA;&#xA;The alerts and notifications should be sent to the appropriate stakeholders, such as system administrators, support teams, or business users, depending on the severity and impact of the event. The alerts should provide sufficient information to enable the stakeholders to take appropriate actions, such as investigating the root cause of the problem, applying corrective measures, or escalating the issue to higher levels of management.&#xA;&#xA;The monitoring tools should also be able to generate reports and dashboards that provide insights into the system's performance and health. These reports should be customizable and configurable to meet the specific needs of different stakeholders.&#xA;&#xA;Overall, the 'Alerts and monitoring' non-functional requirement is critical for ensuring the system's reliability, availability, and performance. By providing real-time visibility into the system's health and performance, the monitoring tools enable stakeholders to proactively identify and resolve issues before they escalate into major problems."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AlertsAndMonitoringRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:AlertsAndMonitoringRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

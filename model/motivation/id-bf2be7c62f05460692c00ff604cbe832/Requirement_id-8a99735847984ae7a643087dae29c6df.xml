@@ -1,0 +1,47 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="National Legal Act"
+    id="id-8a99735847984ae7a643087dae29c6df"
+    documentation="Definition: National Legal Act ABB is a Requirement enabling the adoption of laws on a national level.&#xA;&#xA;Source: Eur-Lex &#xA;&#xA;Source reference: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:ai0032&#xA;&#xA;Example: he following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica. https://www.boe.es/eli/es/rd/2010/01/08/4. The example provider is a National Regulation from Spanish National Government regulating the Interoperability Scheme. &#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Interoperability Saliency: National Legal Act ABB is salient for legal interoperability because it helps to achieve different EU member states legal and juridical certainty in the exchange of information for public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/NationalLegalActRequirement&#xA;&#xA;ABB name: eira:NationalLegalActRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/NationalLegalActRequirement&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/NationalLegalActRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:NationalLegalActRequirement"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="National Legal Act ABB is a Requirement enabling the adoption of laws on a national level."/>
+  <properties
+      key="eira:definitionSource"
+      value="Eur-Lex "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM:ai0032"/>
+  <properties
+      key="skos:example"
+      value="he following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica. https://www.boe.es/eli/es/rd/2010/01/08/4. The example provider is a National Regulation from Spanish National Government regulating the Interoperability Scheme. "/>
+  <properties
+      key="eira:iopSaliency"
+      value="National Legal Act ABB is salient for legal interoperability because it helps to achieve different EU member states legal and juridical certainty in the exchange of information for public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/NationalLegalActRequirement"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Requirement>

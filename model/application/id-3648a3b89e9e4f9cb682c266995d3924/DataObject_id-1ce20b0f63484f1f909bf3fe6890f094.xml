@@ -1,0 +1,49 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hash Code"
+    id="id-1ce20b0f63484f1f909bf3fe6890f094"
+    documentation="Definition: Hash Code ABB is a Data Object that enables the implementation of a numeric or alphanumeric string obtained by the application of an algorithm that turns a variable amount of data into a small, fixed-length value&#xA;&#xA;Source: Inspired in CROS&#xA;&#xA;Source reference: https://ec.europa.eu/eurostat/cros/content/data-hashing_en&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The hash code is a relevant tool used, for instance, in the personal data pseudonymisation technique. https://edps.europa.eu/sites/edp/files/publication/19-10-30_aepd-edps_paper_hash_final_en.pdf&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Interoperability Saliency: The Hash Code Data Object ABB is salient for semantic interoperability because it supports semantic interoperability by providing alphanumeric strings comprising a variable amount of data. This enables and supports interoperability by reducing data and changing from comprehensible data to anonymised strings. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/HashCodeDataObject&#xA;&#xA;ABB name: eira:HashCodeDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/HashCodeDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/HashCodeDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:type"
+      value="eira:HashCodeDataObject"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in CROS"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/eurostat/cros/content/data-hashing_en"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Hash Code Data Object ABB is salient for semantic interoperability because it supports semantic interoperability by providing alphanumeric strings comprising a variable amount of data. This enables and supports interoperability by reducing data and changing from comprehensible data to anonymised strings. "/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/HashCodeDataObject"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="skos:definition"
+      value="Hash Code ABB is a Data Object that enables the implementation of a numeric or alphanumeric string obtained by the application of an algorithm that turns a variable amount of data into a small, fixed-length value"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The hash code is a relevant tool used, for instance, in the personal data pseudonymisation technique. https://edps.europa.eu/sites/edp/files/publication/19-10-30_aepd-edps_paper_hash_final_en.pdf"/>
+  <properties
+      key="skos:note"/>
+</archimate:DataObject>

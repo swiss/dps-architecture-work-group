@@ -1,0 +1,48 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eInvoicing"
+    id="id-edef61e5442a477e8a73f654c3af8939"
+    documentation="Definition: The eInvoicing application service refers to a digital service that enables the electronic creation, exchange, and processing of invoices between businesses or organizations. It leverages web-based technologies and standards to facilitate the seamless and secure transmission of invoices over the internet. The service provides functionalities such as invoice generation, digital signature, data validation, encryption, and integration with existing accounting or enterprise systems. It aims to streamline the invoicing process, reduce manual effort, enhance accuracy, and enable faster payment cycles.&#xA;&#xA;Source: European Commission&#xA;&#xA;Source reference: https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eInvoicing&#xA;&#xA;LOST view: TVA-API Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EInvoicingApplicationInterface&#xA;&#xA;ABB name: egovera:EInvoicingApplicationInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EInvoicingApplicationInterface&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="egovera:EInvoicingApplicationInterface"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="The eInvoicing application service refers to a digital service that enables the electronic creation, exchange, and processing of invoices between businesses or organizations. It leverages web-based technologies and standards to facilitate the seamless and secure transmission of invoices over the internet. The service provides functionalities such as invoice generation, digital signature, data validation, encryption, and integration with existing accounting or enterprise systems. It aims to streamline the invoicing process, reduce manual effort, enhance accuracy, and enable faster payment cycles."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Commission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eInvoicing"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/EInvoicingApplicationInterface"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/EInvoicingApplicationInterface"/>
+  <properties
+      key="eira:view"
+      value="TVA-API Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Management Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Application Integration Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationInterface>

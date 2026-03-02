@@ -1,0 +1,50 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Blockchain"
+    id="id-cd95297a0a8040be990a993dcf397d16"
+    documentation="Definition: Blockchain ABB is an Application Component that implements a set of rules and processes to enable secure and transparent transactions and record-keeping for sharing of information, enabling permanent, immutable, and transparent recording of data and transactions. &#xA;&#xA;Source: Inspired in European Blockchain Strategy&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/library/european-blockchain-strategy-brochure&#xA;&#xA;Additional information: In the creation of the Blockchain component, several actors such as developer, user, architect, regulator, operator, membership services, etc. are present in a blockchain that provides a solution to a blockchain-based business network. Each actor and component present in a blockchain plays a major role to make the network more secure and reliable.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Fishcoin Project, is a project using Blockchain technologies for seafood traceability. https://fishcoin.co/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Blockchain Application Component ABB is salient for interoperability because it implements a set of elements needed and used by blockchain services. Those aspects are peer network, smart contracts, membership, events, ledger, system integration, wallet, and system management. All listed components can be part of a digital public service enhancing trustability and enabling interoperability in a secure and reliable way. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/BlockchainApplicationComponent&#xA;&#xA;ABB name: eira:BlockchainApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/BlockchainApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/BlockchainApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:BlockchainApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Blockchain ABB is an Application Component that implements a set of rules and processes to enable secure and transparent transactions and record-keeping for sharing of information, enabling permanent, immutable, and transparent recording of data and transactions. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in European Blockchain Strategy"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/library/european-blockchain-strategy-brochure"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Fishcoin Project, is a project using Blockchain technologies for seafood traceability. https://fishcoin.co/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Blockchain Application Component ABB is salient for interoperability because it implements a set of elements needed and used by blockchain services. Those aspects are peer network, smart contracts, membership, events, ledger, system integration, wallet, and system management. All listed components can be part of a digital public service enhancing trustability and enabling interoperability in a secure and reliable way. "/>
+  <properties
+      key="skos:note"
+      value="In the creation of the Blockchain component, several actors such as developer, user, architect, regulator, operator, membership services, etc. are present in a blockchain that provides a solution to a blockchain-based business network. Each actor and component present in a blockchain plays a major role to make the network more secure and reliable."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/BlockchainApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

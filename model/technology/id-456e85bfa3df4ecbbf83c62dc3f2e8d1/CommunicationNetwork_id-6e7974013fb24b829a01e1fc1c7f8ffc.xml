@@ -1,0 +1,52 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Private Network"
+    id="id-6e7974013fb24b829a01e1fc1c7f8ffc"
+    documentation="Definition: Private Network ABB is a Communication Network that enables the implementation of a network used for realising the physical communication among Interoperable European Solution (e.g. sTESTA), and cannot be accessed by the public.&#xA;&#xA;Source: ISA2 - EIA Action&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/actions/towards-european-interoperability-architecture_en/&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ECC Report 301. https://docdb.cept.org/download/1395&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Private Network ABB is salient for technical interoperability because it implements and establishes the basis of the network of the public administration private area for exchanging, storing and sharing information at the internal level. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/PrivateNetworkCommunicationNetwork&#xA;&#xA;ABB name: eira:PrivateNetworkCommunicationNetwork&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PrivateNetworkCommunicationNetwork&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PrivateNetworkCommunicationNetwork"/>
+  <properties
+      key="dct:type"
+      value="eira:PrivateNetworkCommunicationNetwork"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Private Network ABB is a Communication Network that enables the implementation of a network used for realising the physical communication among Interoperable European Solution (e.g. sTESTA), and cannot be accessed by the public."/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2 - EIA Action"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/actions/towards-european-interoperability-architecture_en/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ECC Report 301. https://docdb.cept.org/download/1395"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Private Network ABB is salient for technical interoperability because it implements and establishes the basis of the network of the public administration private area for exchanging, storing and sharing information at the internal level. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PrivateNetworkCommunicationNetwork"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:CommunicationNetwork>

@@ -1,0 +1,51 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eProfessional Qualification"
+    id="id-50a3683cea7f4ae8b5cc564cae188405"
+    documentation="Definition: The eProfessional Qualification web service is a specialized application service that enables the management, verification, and processing of professional qualification-related information and services over the internet. It provides a standardized and secure interface for accessing and exchanging data related to professional qualifications, such as certifications, licenses, skills, and credentials. The eProfessional Qualification web service facilitates tasks such as qualification verification, applicant registration and assessment, qualification tracking, and reporting. It allows authorized stakeholders, including individuals, organizations, and regulatory bodies, to interact with the system and access accurate and up-to-date information regarding professional qualifications. The web service follows industry standards, protocols, and security measures to ensure the integrity, privacy, and reliability of the qualification data exchange.&#xA;&#xA;Source: European Qualifications Framework (EQF)&#xA;&#xA;Source reference: https://ec.europa.eu/ploteus/en/content/european-qualifications-framework-eqf&#xA;&#xA;LOST view: TVA-API Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EProfessionalQualificationApplicationInterface&#xA;&#xA;ABB name: egovera:EProfessionalQualificationApplicationInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EProfessionalQualificationApplicationInterface&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/WebServiceApplicationInterface&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="The eProfessional Qualification web service is a specialized application service that enables the management, verification, and processing of professional qualification-related information and services over the internet. It provides a standardized and secure interface for accessing and exchanging data related to professional qualifications, such as certifications, licenses, skills, and credentials. The eProfessional Qualification web service facilitates tasks such as qualification verification, applicant registration and assessment, qualification tracking, and reporting. It allows authorized stakeholders, including individuals, organizations, and regulatory bodies, to interact with the system and access accurate and up-to-date information regarding professional qualifications. The web service follows industry standards, protocols, and security measures to ensure the integrity, privacy, and reliability of the qualification data exchange."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Qualifications Framework (EQF)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/ploteus/en/content/european-qualifications-framework-eqf"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/EProfessionalQualificationApplicationInterface"/>
+  <properties
+      key="dct:type"
+      value="egovera:EProfessionalQualificationApplicationInterface"/>
+  <properties
+      key="eira:view"
+      value="TVA-API Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Management Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Application Integration Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/EProfessionalQualificationApplicationInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/WebServiceApplicationInterface"/>
+</archimate:ApplicationInterface>

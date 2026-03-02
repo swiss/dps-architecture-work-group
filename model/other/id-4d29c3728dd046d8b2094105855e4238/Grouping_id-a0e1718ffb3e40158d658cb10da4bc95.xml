@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge Discovery Enablers"
+    id="id-a0e1718ffb3e40158d658cb10da4bc95"
+    documentation="Definition: Knowledge discovery Enablers ABB is a Grouping that refers to components and services that facilitate the process of discovering insights and knowledge from data&#xA;&#xA;Source: European Comission-Open Science&#xA;&#xA;Source reference: https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science_en&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): CELLAR. Cellar metadata is stored in a knowledge graph, and more specifically in a triple store. A SPARQL interface is used to query the metadata. https://op.europa.eu/en/web/cellar/cellar-data/metadata/knowledge-graph&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Knowledge Discovery Enablers Grouping ABB is salient for technical interoperability because it comprises tools, data services and components that enable and enhance the knowledge discovery process from data and information. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/KnowledgeDiscoveryEnablersGrouping&#xA;&#xA;ABB name: eira:KnowledgeDiscoveryEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/KnowledgeDiscoveryEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/KnowledgeDiscoveryEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:KnowledgeDiscoveryEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Knowledge discovery Enablers ABB is a Grouping that refers to components and services that facilitate the process of discovering insights and knowledge from data"/>
+  <properties
+      key="eira:definitionSource"
+      value="European Comission-Open Science"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): CELLAR. Cellar metadata is stored in a knowledge graph, and more specifically in a triple store. A SPARQL interface is used to query the metadata. https://op.europa.eu/en/web/cellar/cellar-data/metadata/knowledge-graph"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Knowledge Discovery Enablers Grouping ABB is salient for technical interoperability because it comprises tools, data services and components that enable and enhance the knowledge discovery process from data and information. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/KnowledgeDiscoveryEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

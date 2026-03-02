@@ -1,0 +1,49 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authorisation"
+    id="id-01f47c40c8e540b4a9bd2fb82affa4e2"
+    documentation="Definition: Authorisation ABB is an Application Service that enables processes to formalise the electronic identification of a natural or legal person, or the origin and integrity of data in the electronic form to be confirmed&#xA;&#xA;Source: Joinup&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/taxonomy/term/http_e_f_fdata_ceuropa_ceu_fdr8_fIdentityManagementService&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Users roles are managed and linked to EU Login accounts (https://ec.europa.eu/research/participants/docs/h2020-funding-guide/user-account-and-roles/roles-and-access-rights_en.htm). EU Login is the entry gate to sign in to different European Commission services and/or other systems. EU Login verifies your identity and allows recovering your personal settings, history and access rights in a secure way. You can sign in using social media accounts or the EU Login account.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Authorisation Application Service ABB is salient for interoperability because it represents the identifications of actors (natural or legal persons) involved in system interactions, ensuring that the service and the data contained are accessed by actors with granted permissions. Additionally, this can be used as part of the data integrity process to identify the origin of certain data. In general, authorisation services allow for the maintenance of control and integrity of the available data, ensuring its quality when exchanged. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuthorisationApplicationService&#xA;&#xA;ABB name: eira:AuthorisationApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuthorisationApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AuthorisationApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:AuthorisationApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Authorisation ABB is an Application Service that enables processes to formalise the electronic identification of a natural or legal person, or the origin and integrity of data in the electronic form to be confirmed"/>
+  <properties
+      key="eira:definitionSource"
+      value="Joinup"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/taxonomy/term/http_e_f_fdata_ceuropa_ceu_fdr8_fIdentityManagementService"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Users roles are managed and linked to EU Login accounts (https://ec.europa.eu/research/participants/docs/h2020-funding-guide/user-account-and-roles/roles-and-access-rights_en.htm). EU Login is the entry gate to sign in to different European Commission services and/or other systems. EU Login verifies your identity and allows recovering your personal settings, history and access rights in a secure way. You can sign in using social media accounts or the EU Login account."/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Authorisation Application Service ABB is salient for interoperability because it represents the identifications of actors (natural or legal persons) involved in system interactions, ensuring that the service and the data contained are accessed by actors with granted permissions. Additionally, this can be used as part of the data integrity process to identify the origin of certain data. In general, authorisation services allow for the maintenance of control and integrity of the available data, ensuring its quality when exchanged. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AuthorisationApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

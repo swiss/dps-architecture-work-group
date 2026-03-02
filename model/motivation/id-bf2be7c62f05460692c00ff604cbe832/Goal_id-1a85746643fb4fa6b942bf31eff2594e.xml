@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Database Sharding"
+    id="id-1a85746643fb4fa6b942bf31eff2594e"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Database Sharding&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: Database sharding ADR is a decision to choose the technique used in distributed databases to improve scalability and performance. It involves partitioning a large database into smaller, more manageable pieces called shards, which are distributed across multiple servers. Each shard contains a subset of the data, and queries are routed to the appropriate shard based on a predefined sharding key. This allows for faster query processing and reduces the risk of data loss or downtime in the event of a server failure. However, implementing database sharding requires careful planning and coordination to ensure data consistency and availability.&#xA;&#xA;Example: Database Sharding:&#xA;Decision: Implementing database sharding to distribute data across multiple database instances.&#xA;Rationale: Sharding allows for horizontal scaling of the database by splitting data into smaller partitions and distributing them across multiple database servers, improving performance and accommodating increased data volume.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DatabaseShardingGoal&#xA;&#xA;ABB name: eira:DatabaseShardingGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947693&#xA;&#xA;Name: Architecture Decision Record about Database Sharding&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947693"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Database Sharding"/>
+  <properties
+      key="skos:example"
+      value="Database Sharding:&#xA;Decision: Implementing database sharding to distribute data across multiple database instances.&#xA;Rationale: Sharding allows for horizontal scaling of the database by splitting data into smaller partitions and distributing them across multiple database servers, improving performance and accommodating increased data volume."/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="Database sharding ADR is a decision to choose the technique used in distributed databases to improve scalability and performance. It involves partitioning a large database into smaller, more manageable pieces called shards, which are distributed across multiple servers. Each shard contains a subset of the data, and queries are routed to the appropriate shard based on a predefined sharding key. This allows for faster query processing and reduces the risk of data loss or downtime in the event of a server failure. However, implementing database sharding requires careful planning and coordination to ensure data consistency and availability."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DatabaseShardingGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:DatabaseShardingGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Database Sharding"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

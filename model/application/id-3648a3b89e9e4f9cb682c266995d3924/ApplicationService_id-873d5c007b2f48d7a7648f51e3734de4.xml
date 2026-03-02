@@ -1,0 +1,51 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distributed Ledger"
+    id="id-873d5c007b2f48d7a7648f51e3734de4"
+    documentation="Definition: A distributed ledger is a decentralized database that maintains a continuously growing list of records, called blocks, which are linked and secured using cryptography. Unlike traditional centralized databases, a distributed ledger is replicated and synchronized across multiple nodes or computers in a network, ensuring transparency, immutability, and consensus among participants.&#xA;&#xA;Source: Investopedia&#xA;&#xA;Source reference: https://www.investopedia.com/terms/d/distributed-ledger.asp&#xA;&#xA;Additional information: Distributed ledgers, often based on blockchain technology, enable participants to have a shared view of the database without relying on a central authority. Each participant in the network has a copy of the entire ledger, and any changes or additions to the ledger require consensus among the participants. This distributed and consensus-driven approach enhances security, as altering a single record would require tampering with all copies of the ledger across the network. Distributed ledgers find applications in various industries, including finance, supply chain management, healthcare, and voting systems, where transparency, traceability, and trust are crucial.&#xA;&#xA;Example: One example of a distributed ledger application is cryptocurrency, such as Bitcoin. In the Bitcoin network, transactions are recorded in blocks, which are added to the blockchain by miners. Each participant in the network has a copy of the entire blockchain, ensuring transparency and preventing double-spending. Another example is supply chain management, where distributed ledgers can track the movement of goods from the point of origin to the end consumer, providing transparency and reducing fraud.&#xA;&#xA;LOST view: TVA-Trust Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DistributedLedgerApplicationService&#xA;&#xA;ABB name: egovera:DistributedLedgerApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DistributedLedgerApplicationService&#xA;&#xA;Name: Distributed Ledger Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DistributedLedgerApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DistributedLedgerApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Distributed Ledger Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DistributedLedgerApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="A distributed ledger is a decentralized database that maintains a continuously growing list of records, called blocks, which are linked and secured using cryptography. Unlike traditional centralized databases, a distributed ledger is replicated and synchronized across multiple nodes or computers in a network, ensuring transparency, immutability, and consensus among participants."/>
+  <properties
+      key="eira:definitionSource"
+      value="Investopedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.investopedia.com/terms/d/distributed-ledger.asp"/>
+  <properties
+      key="skos:example"
+      value="One example of a distributed ledger application is cryptocurrency, such as Bitcoin. In the Bitcoin network, transactions are recorded in blocks, which are added to the blockchain by miners. Each participant in the network has a copy of the entire blockchain, ensuring transparency and preventing double-spending. Another example is supply chain management, where distributed ledgers can track the movement of goods from the point of origin to the end consumer, providing transparency and reducing fraud."/>
+  <properties
+      key="skos:note"
+      value="Distributed ledgers, often based on blockchain technology, enable participants to have a shared view of the database without relying on a central authority. Each participant in the network has a copy of the entire ledger, and any changes or additions to the ledger require consensus among the participants. This distributed and consensus-driven approach enhances security, as altering a single record would require tampering with all copies of the ledger across the network. Distributed ledgers find applications in various industries, including finance, supply chain management, healthcare, and voting systems, where transparency, traceability, and trust are crucial."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Trust Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

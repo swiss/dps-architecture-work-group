@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintainability"
+    id="id-7950db81193d4bfeb9b3318d5d54916b"
+    documentation="Definition: Maintainability is an important non-functional requirement in IT that refers to the ease with which a software system can be modified, updated, or repaired. A maintainable system is one that can be easily understood, tested, and modified without causing any unintended consequences or errors. This requirement is critical for ensuring that the system can be adapted to changing business needs or technological advancements, and that it can be maintained over time without incurring excessive costs or downtime. Factors that contribute to maintainability include clear documentation, modular design, and adherence to coding standards and best practices.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Maintainability is a non-functional requirement that refers to the ease with which a system can be modified, updated, or repaired. This requirement is important because it ensures that the system can be adapted to changing business needs and technological advancements without incurring excessive costs or downtime.&#xA;&#xA;To achieve Maintainability, the system should be designed with modularity, scalability, and flexibility in mind. This means that the system should be composed of independent components that can be easily replaced or upgraded without affecting the rest of the system. Additionally, the system should be able to handle increased usage or data volumes without requiring significant changes to the underlying architecture.&#xA;&#xA;To ensure Maintainability, the system should also be well-documented and adhere to established coding standards and best practices. This will make it easier for developers to understand and modify the system as needed. Additionally, the system should be tested thoroughly to ensure that any changes or updates do not introduce new bugs or issues.&#xA;&#xA;Overall, Maintainability is an important non-functional requirement that ensures the long-term viability and adaptability of a system. By designing with Maintainability in mind, organizations can ensure that their systems remain effective and efficient in the face of changing business needs and technological advancements.&#xA;&#xA;Example: The software system should be designed in a way that allows for easy maintenance and updates to be made without disrupting the overall functionality of the system. This includes clear and concise documentation, modular code structure, and the ability to easily identify and fix bugs or errors.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MaintainabilityRequirement&#xA;&#xA;ABB name: eira:MaintainabilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MaintainabilityRequirement&#xA;&#xA;Name: Maintainability Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/MaintainabilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Maintainability Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="The software system should be designed in a way that allows for easy maintenance and updates to be made without disrupting the overall functionality of the system. This includes clear and concise documentation, modular code structure, and the ability to easily identify and fix bugs or errors."/>
+  <properties
+      key="skos:definition"
+      value="Maintainability is an important non-functional requirement in IT that refers to the ease with which a software system can be modified, updated, or repaired. A maintainable system is one that can be easily understood, tested, and modified without causing any unintended consequences or errors. This requirement is critical for ensuring that the system can be adapted to changing business needs or technological advancements, and that it can be maintained over time without incurring excessive costs or downtime. Factors that contribute to maintainability include clear documentation, modular design, and adherence to coding standards and best practices."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Maintainability is a non-functional requirement that refers to the ease with which a system can be modified, updated, or repaired. This requirement is important because it ensures that the system can be adapted to changing business needs and technological advancements without incurring excessive costs or downtime.&#xA;&#xA;To achieve Maintainability, the system should be designed with modularity, scalability, and flexibility in mind. This means that the system should be composed of independent components that can be easily replaced or upgraded without affecting the rest of the system. Additionally, the system should be able to handle increased usage or data volumes without requiring significant changes to the underlying architecture.&#xA;&#xA;To ensure Maintainability, the system should also be well-documented and adhere to established coding standards and best practices. This will make it easier for developers to understand and modify the system as needed. Additionally, the system should be tested thoroughly to ensure that any changes or updates do not introduce new bugs or issues.&#xA;&#xA;Overall, Maintainability is an important non-functional requirement that ensures the long-term viability and adaptability of a system. By designing with Maintainability in mind, organizations can ensure that their systems remain effective and efficient in the face of changing business needs and technological advancements."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/MaintainabilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:MaintainabilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

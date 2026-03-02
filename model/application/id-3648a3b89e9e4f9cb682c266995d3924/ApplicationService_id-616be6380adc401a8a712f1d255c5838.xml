@@ -1,0 +1,60 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Intelligence"
+    id="id-616be6380adc401a8a712f1d255c5838"
+    documentation="Definition: Business Intelligence (BI) is a technology-driven process for analyzing data and presenting actionable information to help executives, managers and other corporate end users make informed business decisions.&#xA;&#xA;Source: TechTarget&#xA;&#xA;Source reference: https://searchbusinessanalytics.techtarget.com/definition/business-intelligence-BI&#xA;&#xA;Additional information: Business Intelligence encompasses a wide variety of tools, applications and methodologies that enable organizations to collect data from internal systems and external sources, prepare it for analysis, develop and run queries against the data, and create reports, dashboards and data visualizations to make the analytical results available to corporate decision-makers. BI can include data mining, online analytical processing, querying and reporting. Companies use BI to improve decision making, cut costs and identify new business opportunities. BI is more than just corporate reporting and more than a set of tools to coax data out of enterprise systems.&#xA;&#xA;Example: A retail company could use BI to track customer buying habits and use that data to develop new marketing strategies. This could involve analyzing the demographics and purchasing habits of customers to identify trends, manage inventory and increase sales.&#xA;&#xA;A healthcare organization could use BI to track patient satisfaction levels, efficiency of care, and then implement changes for improvement based on these metrics.&#xA;&#xA;A financial institution could use BI to detect fraudulent credit card transactions and monitor customer data to assess risk and manage customer relationships more effectively.&#xA;&#xA;LOST view: TVA-Analytics Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessIntelligenceApplicationService&#xA;&#xA;ABB name: egovera:BusinessIntelligenceApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessIntelligenceApplicationService&#xA;&#xA;Name: Business Intelligence Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessIntelligenceApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessIntelligenceApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Business Intelligence Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessIntelligenceApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="Business Intelligence (BI) is a technology-driven process for analyzing data and presenting actionable information to help executives, managers and other corporate end users make informed business decisions."/>
+  <properties
+      key="eira:definitionSource"
+      value="TechTarget"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://searchbusinessanalytics.techtarget.com/definition/business-intelligence-BI"/>
+  <properties
+      key="skos:example"
+      value="A retail company could use BI to track customer buying habits and use that data to develop new marketing strategies. This could involve analyzing the demographics and purchasing habits of customers to identify trends, manage inventory and increase sales.&#xA;&#xA;A healthcare organization could use BI to track patient satisfaction levels, efficiency of care, and then implement changes for improvement based on these metrics.&#xA;&#xA;A financial institution could use BI to detect fraudulent credit card transactions and monitor customer data to assess risk and manage customer relationships more effectively."/>
+  <properties
+      key="skos:note"
+      value="Business Intelligence encompasses a wide variety of tools, applications and methodologies that enable organizations to collect data from internal systems and external sources, prepare it for analysis, develop and run queries against the data, and create reports, dashboards and data visualizations to make the analytical results available to corporate decision-makers. BI can include data mining, online analytical processing, querying and reporting. Companies use BI to improve decision making, cut costs and identify new business opportunities. BI is more than just corporate reporting and more than a set of tools to coax data out of enterprise systems."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Analytics Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Analytics Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Computing Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

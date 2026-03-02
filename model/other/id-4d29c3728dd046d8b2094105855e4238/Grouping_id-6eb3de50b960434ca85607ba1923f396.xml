@@ -1,0 +1,51 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Containers Infrastructure Enablers"
+    id="id-6eb3de50b960434ca85607ba1923f396"
+    documentation="Definition: Containers Infrastructure Enabler ABB is a Grouping of components and services enabling a virtual packaging code and isolated applications for deployment of public services.&#xA;&#xA;Source: Inspired in referent cloud service providers &#xA;&#xA;Source reference:  &#xA;&#xA;Synonym:  &#xA;&#xA;Additional information:  &#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenSHIFT is a secure and an enterprise-grade cloud-based container orchestration system with Kubernetes at the backend. It can be used both as a Red Hat Container Orchestration Engine and Platform-as-a-Service (PaaS). https://github.com/openshift/origin&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Containers Infrastructure Enablers ABB is salient for organizational interoperability due to setting up the rules and business process to establish and manage the virtual tools that permit determining the functionality of the public digital services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ContainersInfrastructureEnablersGrouping&#xA;&#xA;ABB name: eira:ContainersInfrastructureEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ContainersInfrastructureEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ContainersInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:ContainersInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value=" "/>
+  <properties
+      key="skos:definition"
+      value="Containers Infrastructure Enabler ABB is a Grouping of components and services enabling a virtual packaging code and isolated applications for deployment of public services."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in referent cloud service providers "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value=" "/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenSHIFT is a secure and an enterprise-grade cloud-based container orchestration system with Kubernetes at the backend. It can be used both as a Red Hat Container Orchestration Engine and Platform-as-a-Service (PaaS). https://github.com/openshift/origin"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Containers Infrastructure Enablers ABB is salient for organizational interoperability due to setting up the rules and business process to establish and manage the virtual tools that permit determining the functionality of the public digital services."/>
+  <properties
+      key="skos:note"
+      value=" "/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ContainersInfrastructureEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

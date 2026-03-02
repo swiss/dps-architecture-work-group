@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schedule Management Enablers"
+    id="id-11af58210ec74546b7bbb7553fffb337"
+    documentation="Definition: Schedule Management Enablers ABB is a Grouping that enables the implementation of components and services to create, distribute and manage events at different scales inside a cloud platform.&#xA;&#xA;Source: Inspired in Redhat&#xA;&#xA;Source reference: https://www.redhat.com/en/topics/cloud-computing/what-is-cloud-management&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Chronos is a replacement for cron. It is a distributed and fault-tolerant scheduler that runs on top of Apache Mesos that can be used for job orchestration. It supports custom Mesos executors as well as the default command executor. Thus by default, Chronos executes sh (on most systems bash) scripts. https://sourceforge.net/projects/chronos.mirror/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Schedule Management Enablers Grouping ABB is salient for technical interoperability because it comprises the different services and tools that allow to organise and manage events within a platform for the delivery of a digital public service. It enables interoperability by allowing the management of events through a single point of access (for users and administrations) and the reuse of such information to an overall relationship between public administration and stakeholders. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/ScheduleManagementEnablersGrouping&#xA;&#xA;ABB name: eira:ScheduleManagementEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ScheduleManagementEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="eira:ScheduleManagementEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Schedule Management Enablers ABB is a Grouping that enables the implementation of components and services to create, distribute and manage events at different scales inside a cloud platform."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Redhat"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.redhat.com/en/topics/cloud-computing/what-is-cloud-management"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Chronos is a replacement for cron. It is a distributed and fault-tolerant scheduler that runs on top of Apache Mesos that can be used for job orchestration. It supports custom Mesos executors as well as the default command executor. Thus by default, Chronos executes sh (on most systems bash) scripts. https://sourceforge.net/projects/chronos.mirror/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Schedule Management Enablers Grouping ABB is salient for technical interoperability because it comprises the different services and tools that allow to organise and manage events within a platform for the delivery of a digital public service. It enables interoperability by allowing the management of events through a single point of access (for users and administrations) and the reuse of such information to an overall relationship between public administration and stakeholders. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ScheduleManagementEnablersGrouping"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ScheduleManagementEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

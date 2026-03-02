@@ -1,0 +1,49 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Virtualization"
+    id="id-9bf560ada5d842b582e6969e89208a07"
+    documentation="Definition: Data Virtualization ABB is an Application Component that implements the functionality of retrieving and manipulating data without requiring technical details about the data format or location.&#xA;&#xA;Source: Joinup&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/sites/default/files/inline-files/Data%20visualisation%20service%20definition.pdf&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Virtuoso. Virtuoso Universal Server is modern platform built on existing open standards that harnesses the power of Hyperlinks (functioning as Super Keys) for breaking down data silos that impede both user and enterprise ability. For example, Virtuoso's core SQL &amp; SPARQL powers many Enterprise Knowledge Graph initiatives just as it does DBpedia and a majority of nodes in the Linked Open Data Cloud -- the world's largest publicly accessible Knowledge Graph. https://big-data-test-infrastructure.ec.europa.eu/service-offering/virtuoso_en&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Data Virtualization Component ABB is salient for technical interoperability because it realises the services established and defined by the Data Virtualization Service ABB, collaborating with enabling interoperability between public services that generate, process or consume data. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataVirtualizationApplicationComponent&#xA;&#xA;ABB name: eira:DataVirtualizationApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataVirtualizationApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataVirtualizationApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:DataVirtualizationApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Virtualization ABB is an Application Component that implements the functionality of retrieving and manipulating data without requiring technical details about the data format or location."/>
+  <properties
+      key="eira:definitionSource"
+      value="Joinup"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/sites/default/files/inline-files/Data%20visualisation%20service%20definition.pdf"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Virtuoso. Virtuoso Universal Server is modern platform built on existing open standards that harnesses the power of Hyperlinks (functioning as Super Keys) for breaking down data silos that impede both user and enterprise ability. For example, Virtuoso's core SQL &amp; SPARQL powers many Enterprise Knowledge Graph initiatives just as it does DBpedia and a majority of nodes in the Linked Open Data Cloud -- the world's largest publicly accessible Knowledge Graph. https://big-data-test-infrastructure.ec.europa.eu/service-offering/virtuoso_en"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Virtualization Component ABB is salient for technical interoperability because it realises the services established and defined by the Data Virtualization Service ABB, collaborating with enabling interoperability between public services that generate, process or consume data. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataVirtualizationApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

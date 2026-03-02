@@ -1,0 +1,51 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security by Design"
+    id="id-244bf4725c1548b9afb2fb9a6d9eec8d"
+    documentation="Definition: Security by design refers to one of the prime principles found in any standard and in any practice throughout the whole of IT. &#xA;&#xA;Source: https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/2-underlying-principles-european-public-services#2.4&#xA;&#xA;Additional information: Security by design encompasses the protection of valuable assets, by securing them safely within the boundaries of organizations, taking into account the ownership of the assets. This means that in any circumstance, one has to attend to the valuable property, being 'data' and 'technology' as a whole, both by securing access to (data)assets and by securing the proliferation of data(assets) outside the boundaries, for which one is responsible.&#xA;&#xA;Security by design (or secure by design), sometimes abbreviated “SbD,” is a new industry term for a range of security practices built on one fundamental idea — that security should be built into a product by design, instead of being added on later by third-party products and services. &#xA;The European Interoperability Framework is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services.&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/security-design&#xA;&#xA;ABB name: elap:security-design&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Security by Design&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="dct:title"
+      value="Security by Design"/>
+  <properties
+      key="dct:type"
+      value="elap:security-design"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/2-underlying-principles-european-public-services#2.4"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/security-design"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="OV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="OV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="SV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+  <properties
+      key="skos:definition"
+      value="Security by design refers to one of the prime principles found in any standard and in any practice throughout the whole of IT. "/>
+  <properties
+      key="skos:note"
+      value="Security by design encompasses the protection of valuable assets, by securing them safely within the boundaries of organizations, taking into account the ownership of the assets. This means that in any circumstance, one has to attend to the valuable property, being 'data' and 'technology' as a whole, both by securing access to (data)assets and by securing the proliferation of data(assets) outside the boundaries, for which one is responsible.&#xA;&#xA;Security by design (or secure by design), sometimes abbreviated “SbD,” is a new industry term for a range of security practices built on one fundamental idea — that security should be built into a product by design, instead of being added on later by third-party products and services. &#xA;The European Interoperability Framework is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services."/>
+</archimate:Principle>

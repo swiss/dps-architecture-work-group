@@ -1,0 +1,56 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delegation of Powers Provisioning Digital Public Services"
+    id="id-fdee9cfdc52b4bc8a655bc6eeba7ad70"
+    documentation="Definition: Delegation of Powers Provisioning Digital Public Services ABB is an Assessment representing the extent to which the digital public service delivery is delegated to lower public administrative tiers or to private organisations acting on behalf of the public administration.&#xA;&#xA;Source: Scientific Foundations of Digital Governance and Transformation&#xA;&#xA;Source reference: https://books.google.gr/books?id=IB5iEAAAQBAJ&amp;pg=PA298&amp;lpg=PA298&amp;dq=Delegation+of+Powers+Provisioning+Digital+Public+Services&amp;source=bl&amp;ots=jyuzPhj0Q8&amp;sig=ACfU3U1-hD4udfrf3Ye_7Ywly0FATpCu6Q&amp;hl=el&amp;sa=X&amp;ved=2ahUKEwjHhuyQ-KT3AhUEt6QKHTNbCCwQ6AF6BAgPEAM#v=onepage&amp;q=Delegation%20of%20Powers%20Provisioning%20Digital%20Public%20Services&amp;f=false&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OECD Designing and Delivering public services in the digital age (https://goingdigital.oecd.org/data/notes/No22_ToolkitNote_DigitalGovernment.pdf)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Delegation of Powers provisioning Digital Public Services ABB is salient for the legal interoperability due to it enables (i) the delegation of powers to local authorities to implement rules and metrics to monitor the digital public services; and (ii) the establishment of rules to balance the digital public services consumption.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DelegationOfPowersProvisioningDigitalPublicServicesAssessment&#xA;&#xA;ABB name: eira:DelegationOfPowersProvisioningDigitalPublicServicesAssessment&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DelegationOfPowersProvisioningDigitalPublicServicesAssessment&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DelegationOfPowersProvisioningDigitalPublicServicesAssessment"/>
+  <properties
+      key="dct:type"
+      value="eira:DelegationOfPowersProvisioningDigitalPublicServicesAssessment"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Delegation of Powers Provisioning Digital Public Services ABB is an Assessment representing the extent to which the digital public service delivery is delegated to lower public administrative tiers or to private organisations acting on behalf of the public administration."/>
+  <properties
+      key="eira:definitionSource"
+      value="Scientific Foundations of Digital Governance and Transformation"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://books.google.gr/books?id=IB5iEAAAQBAJ&amp;pg=PA298&amp;lpg=PA298&amp;dq=Delegation+of+Powers+Provisioning+Digital+Public+Services&amp;source=bl&amp;ots=jyuzPhj0Q8&amp;sig=ACfU3U1-hD4udfrf3Ye_7Ywly0FATpCu6Q&amp;hl=el&amp;sa=X&amp;ved=2ahUKEwjHhuyQ-KT3AhUEt6QKHTNbCCwQ6AF6BAgPEAM#v=onepage&amp;q=Delegation%20of%20Powers%20Provisioning%20Digital%20Public%20Services&amp;f=false"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OECD Designing and Delivering public services in the digital age (https://goingdigital.oecd.org/data/notes/No22_ToolkitNote_DigitalGovernment.pdf)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Delegation of Powers provisioning Digital Public Services ABB is salient for the legal interoperability due to it enables (i) the delegation of powers to local authorities to implement rules and metrics to monitor the digital public services; and (ii) the establishment of rules to balance the digital public services consumption."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DelegationOfPowersProvisioningDigitalPublicServicesAssessment"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Assessment>

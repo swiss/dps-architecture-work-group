@@ -1,0 +1,49 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Private Subnetwork"
+    id="id-d69085b35eec46e4916599713c91e9fe"
+    documentation="Definition: Private Subnetwork ABB is a Communication Network that enables the implementation of a subset of a larger network that is isolated and only accessible to a specific group of devices or users&#xA;&#xA;Source: ISA2 - EIA Action&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/actions/towards-european-interoperability-architecture_en/&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ECC Report 301. https://docdb.cept.org/download/1395&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The private subnetwork ABB is salient for technical interoperability because it provides custom private areas to share internal information about specific public administration internal services. These areas are only accessible by a restricted number of people and/or devices.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PrivateSubnetworkCommunicationNetwork&#xA;&#xA;ABB name: eira:PrivateSubnetworkCommunicationNetwork&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PrivateSubnetworkCommunicationNetwork&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PrivateSubnetworkCommunicationNetwork"/>
+  <properties
+      key="dct:type"
+      value="eira:PrivateSubnetworkCommunicationNetwork"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Private Subnetwork ABB is a Communication Network that enables the implementation of a subset of a larger network that is isolated and only accessible to a specific group of devices or users"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2 - EIA Action"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/actions/towards-european-interoperability-architecture_en/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ECC Report 301. https://docdb.cept.org/download/1395"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The private subnetwork ABB is salient for technical interoperability because it provides custom private areas to share internal information about specific public administration internal services. These areas are only accessible by a restricted number of people and/or devices."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PrivateSubnetworkCommunicationNetwork"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:CommunicationNetwork>

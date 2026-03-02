@@ -1,0 +1,54 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message Broker"
+    id="id-931728fd9eec4c7283eed65e7f1efd9d"
+    documentation="Definition: A message broker is an intermediary software component that facilitates communication between different applications by enabling asynchronous message-based communication. It acts as a central hub where applications can publish messages and subscribe to receive messages based on specific criteria. The message broker ensures reliable delivery of messages, decouples applications from each other, and provides features like message routing, transformation, and filtering.&#xA;&#xA;Source: Techopedia&#xA;&#xA;Source reference: https://www.techopedia.com/definition/28536/message-broker&#xA;&#xA;Additional information: Message brokers play a crucial role in distributed systems and service-oriented architectures, where multiple applications need to exchange information in a scalable and decoupled manner. They provide a reliable and efficient way to handle the communication between applications, allowing them to operate independently and asynchronously. Message brokers can handle various messaging patterns like publish/subscribe, request/reply, and point-to-point, and often support different messaging protocols such as AMQP, MQTT, or JMS.&#xA;&#xA;Example: An example of a message broker is Apache Kafka, a popular distributed streaming platform. In this scenario, multiple producers can publish messages to Kafka topics, and multiple consumers can subscribe to these topics to receive the messages. The message broker ensures that messages are reliably stored and delivered to the appropriate consumers, even if they are offline or experiencing temporary failures. This enables real-time data processing, event-driven architectures, and scalable data streaming applications.&#xA;&#xA;LOST view: TVA-Messaging Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/MessageBrokerApplicationService&#xA;&#xA;ABB name: egovera:MessageBrokerApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/MessageBrokerApplicationService&#xA;&#xA;Name: Message Broker Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/MessageBrokerApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/MessageBrokerApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Message Broker Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:MessageBrokerApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="A message broker is an intermediary software component that facilitates communication between different applications by enabling asynchronous message-based communication. It acts as a central hub where applications can publish messages and subscribe to receive messages based on specific criteria. The message broker ensures reliable delivery of messages, decouples applications from each other, and provides features like message routing, transformation, and filtering."/>
+  <properties
+      key="eira:definitionSource"
+      value="Techopedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.techopedia.com/definition/28536/message-broker"/>
+  <properties
+      key="skos:example"
+      value="An example of a message broker is Apache Kafka, a popular distributed streaming platform. In this scenario, multiple producers can publish messages to Kafka topics, and multiple consumers can subscribe to these topics to receive the messages. The message broker ensures that messages are reliably stored and delivered to the appropriate consumers, even if they are offline or experiencing temporary failures. This enables real-time data processing, event-driven architectures, and scalable data streaming applications."/>
+  <properties
+      key="skos:note"
+      value="Message brokers play a crucial role in distributed systems and service-oriented architectures, where multiple applications need to exchange information in a scalable and decoupled manner. They provide a reliable and efficient way to handle the communication between applications, allowing them to operate independently and asynchronously. Message brokers can handle various messaging patterns like publish/subscribe, request/reply, and point-to-point, and often support different messaging protocols such as AMQP, MQTT, or JMS."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Messaging Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Dataspace Enablers"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

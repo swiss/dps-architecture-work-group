@@ -1,0 +1,64 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity Management"
+    id="id-afb0ffbe9ebe4dbfbf6d327fe15c7b7f"
+    documentation="Definition: Identity Management ABB is an Application Service that enables the set of processes, policies and technologies used to manage and secure digital entities of individuals, devices and applications.&#xA;&#xA;Source: Inspired in eIDAS&#xA;&#xA;Source reference: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910&amp;from=EN&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU Login - EU Login is the European Commission's user authentication service. It allows authorised users to access a wide range of Commission web services. EU Login is the entry gate to sign in to different European Commission services and/or other systems. EU Login verifies your identity and allows recovering your personal settings, history and access rights in a secure way. You can sign in using social media accounts or the EU Login account. EU Login supports a variety of verification methods: • Password; • ECAS Mobile App PIN code; • ECAS Mobile App QR code; • On mobile authentication; • Mobile phone + SMS; • Token and Token CRAM. https://webgate.ec.europa.eu/cas/manuals/EU_Login_Tutorial_1.1.pdf&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: TVA-Identification and Access Enablers [Motivation]&#xA;&#xA;Interoperability Saliency: The Identity Management Application Service is salient for interoperability because it can help in the management of digital identities for individuals, devices and applications, ensuring and enabling that information on digital public services is available under the proper conditions and to the specific target. This can ensure and enhance the quality of data meant to be exchanged through interoperable systems, applications and digital public services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/IdentityManagementApplicationService&#xA;&#xA;ABB name: eira:IdentityManagementApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/IdentityManagementApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/IdentityManagementApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:IdentityManagementApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Identity Management ABB is an Application Service that enables the set of processes, policies and technologies used to manage and secure digital entities of individuals, devices and applications."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in eIDAS"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910&amp;from=EN"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU Login - EU Login is the European Commission's user authentication service. It allows authorised users to access a wide range of Commission web services. EU Login is the entry gate to sign in to different European Commission services and/or other systems. EU Login verifies your identity and allows recovering your personal settings, history and access rights in a secure way. You can sign in using social media accounts or the EU Login account. EU Login supports a variety of verification methods: • Password; • ECAS Mobile App PIN code; • ECAS Mobile App QR code; • On mobile authentication; • Mobile phone + SMS; • Token and Token CRAM. https://webgate.ec.europa.eu/cas/manuals/EU_Login_Tutorial_1.1.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Identity Management Application Service is salient for interoperability because it can help in the management of digital identities for individuals, devices and applications, ensuring and enabling that information on digital public services is available under the proper conditions and to the specific target. This can ensure and enhance the quality of data meant to be exchanged through interoperable systems, applications and digital public services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/IdentityManagementApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Identification and Access Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVA-Dataspace Enablers"/>
+  <properties
+      key="eira:view"
+      value="TVI-Management Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Identity and Access Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

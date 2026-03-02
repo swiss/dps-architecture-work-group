@@ -1,0 +1,23 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Functional content"
+    id="id-64699ae9cf3b403880b867c27908f0d5">
+  <properties
+      key="skos:definition"
+      value="Organizational Functional Framework ABB is a Grouping that defines tha functional areas to support the understanding on how the organization operates"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/sites/default/files/eif_brochure_final.pdf"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+</archimate:Grouping>

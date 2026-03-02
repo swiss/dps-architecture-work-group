@@ -1,0 +1,45 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Findability"
+    id="id-bf86c39d9ac0428abb1874b98af632f5"
+    documentation="Definition: Metadata and data should be easy to find for both humans and computers Global and universal identification of metadata and data must be achieved by globally unique and persistent identifiers.Enriched (Meta)Data refers to data enrichment, regardless of any specific purpose or use. Metadata needs to be linked to the data that is described. Metadata and data should promote the discovery of digital resources.  Data provided must be properly described, ensuring data quality and its discovery. Data and metadata with a high level of standardisation and reuse of already available tools (vocabularies, etc) that allow its discoverability and reuse. Key aspects to make data findable are: Has a persistent identifier, has rich metadata, and is searchable and discoverable online.&#xA;&#xA;Source: FAIR Principles&#xA;&#xA;Source reference: https://www.go-fair.org/fair-principles/&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/data-findability&#xA;&#xA;ABB name: elap:data-findability&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Data Findability&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="dct:title"
+      value="Data Findability"/>
+  <properties
+      key="dct:type"
+      value="elap:data-findability"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="FAIR Principles"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.go-fair.org/fair-principles/"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/data-findability"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+  <properties
+      key="skos:definition"
+      value="Metadata and data should be easy to find for both humans and computers Global and universal identification of metadata and data must be achieved by globally unique and persistent identifiers.Enriched (Meta)Data refers to data enrichment, regardless of any specific purpose or use. Metadata needs to be linked to the data that is described. Metadata and data should promote the discovery of digital resources.  Data provided must be properly described, ensuring data quality and its discovery. Data and metadata with a high level of standardisation and reuse of already available tools (vocabularies, etc) that allow its discoverability and reuse. Key aspects to make data findable are: Has a persistent identifier, has rich metadata, and is searchable and discoverable online."/>
+</archimate:Principle>

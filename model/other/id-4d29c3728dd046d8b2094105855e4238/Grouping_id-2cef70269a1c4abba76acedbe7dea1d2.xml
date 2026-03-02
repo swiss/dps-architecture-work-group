@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Artificial Intelligence Infrastructure Enablers"
+    id="id-2cef70269a1c4abba76acedbe7dea1d2"
+    documentation="Definition: Artificial Intelligence Infrastructure Enablers ABB is a Grouping that refers to a set of components that facilitate the development and deployment of artificial intelligence applications&#xA;&#xA;Source: European Comission&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/library/definition-artificial-intelligence-main-capabilities-and-scientific-disciplines&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): AI Whatch Artificial Intelligence in public administrations. https://publications.jrc.ec.europa.eu/repository/bitstream/JRC120399/jrc120399_misuraca-ai-watch_public-services_30062020_def.pdf&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Artificial Intelligence Infrastructure Enablers ABB is salient for semantic interoperability because it refers to the generation of newer insights (knowledge) from public data to generate (i) new curated datasets and/or (ii) new public data assets based on the combination of other public data.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ArtificialIntelligenceInfrastructureEnablersGrouping&#xA;&#xA;ABB name: eira:ArtificialIntelligenceInfrastructureEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ArtificialIntelligenceInfrastructureEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ArtificialIntelligenceInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:ArtificialIntelligenceInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Artificial Intelligence Infrastructure Enablers ABB is a Grouping that refers to a set of components that facilitate the development and deployment of artificial intelligence applications"/>
+  <properties
+      key="eira:definitionSource"
+      value="European Comission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/library/definition-artificial-intelligence-main-capabilities-and-scientific-disciplines"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): AI Whatch Artificial Intelligence in public administrations. https://publications.jrc.ec.europa.eu/repository/bitstream/JRC120399/jrc120399_misuraca-ai-watch_public-services_30062020_def.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Artificial Intelligence Infrastructure Enablers ABB is salient for semantic interoperability because it refers to the generation of newer insights (knowledge) from public data to generate (i) new curated datasets and/or (ii) new public data assets based on the combination of other public data."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ArtificialIntelligenceInfrastructureEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

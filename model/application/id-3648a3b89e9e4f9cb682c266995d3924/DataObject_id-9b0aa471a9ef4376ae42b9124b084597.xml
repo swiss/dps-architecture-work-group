@@ -1,0 +1,53 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataset"
+    id="id-9b0aa471a9ef4376ae42b9124b084597"
+    documentation="Definition: Dataset ABB is a Data Object representing a collection of related data that is organized and presented in a structured format &#xA;&#xA;Source: Inpired in the Open Data and Re-use of public sector inforamtion directive&#xA;&#xA;Source reference: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L1024&amp;from=EN#d1e1012-56-1&#xA;&#xA;Additional information: It is useful to remember that when a common interconnecting infrastructure for base registries is available, legislation is used to force its use. The use of interconnecting infrastructure prevents the proliferation of pointto-point interconnections. Stakeholders should be involved in developing the legislation and be given enough time to prepare for implementation.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): European Union Data Portal - The European Union Open Data Portal (EU ODP) gives you access to open data published by EU institutions and bodies. All the data you can find via this catalogue are free to use and reuse for commercial or non-commercial purposes. (https://data.europa.eu/euodp/data/dataset)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Data Set ABB is salient for semantic interoperability because it provides a collection of data to be shared or exchanged between ICT systmes as stated in the EIF recommendation n° 30: &quot;Perceive data and information as a public asset that should be appropriately generated, collected, managed, shared, protected and preserved.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DatasetDataObject&#xA;&#xA;ABB name: eira:DatasetDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DatasetDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DatasetDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:DatasetDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Dataset ABB is a Data Object representing a collection of related data that is organized and presented in a structured format "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inpired in the Open Data and Re-use of public sector inforamtion directive"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L1024&amp;from=EN#d1e1012-56-1"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): European Union Data Portal - The European Union Open Data Portal (EU ODP) gives you access to open data published by EU institutions and bodies. All the data you can find via this catalogue are free to use and reuse for commercial or non-commercial purposes. (https://data.europa.eu/euodp/data/dataset)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Set ABB is salient for semantic interoperability because it provides a collection of data to be shared or exchanged between ICT systmes as stated in the EIF recommendation n° 30: &quot;Perceive data and information as a public asset that should be appropriately generated, collected, managed, shared, protected and preserved.&quot;"/>
+  <properties
+      key="skos:note"
+      value="It is useful to remember that when a common interconnecting infrastructure for base registries is available, legislation is used to force its use. The use of interconnecting infrastructure prevents the proliferation of pointto-point interconnections. Stakeholders should be involved in developing the legislation and be given enough time to prepare for implementation."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DatasetDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

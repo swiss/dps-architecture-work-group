@@ -1,0 +1,53 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hosting Facility"
+    id="id-2d6397d0778848079a42239c843dde62"
+    documentation="Definition: Hosting Facility ABB is a Facility that enables components and services to make public services available on the Internet for their use.&#xA;&#xA;Source: Law Insider&#xA;&#xA;Source reference: https://www.lawinsider.com/dictionary/hosting-facility#:~:text=Hosting%20Facility%20means%20a%20third,for%20use%20by%20End%20Users.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): DIGIT/C Hosting Facility - DIGIT/C offers a high availability and high-performance hosting infrastructure that is comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites. The dynamic sites supported by the standard Apache web servers are mainly sites based on Coldfusion and in some cases also sites using CGI scripts. Dynamic sites based on particular technologies (i.e. Weblogic) are being hosted on individual application servers and are being integrated with the other related sites using reverse proxy mappings. Direct HTTP access to the back-end web servers hosting the static sites is denied by the standard web server configuration. http://ec.europa.eu/ipg/build/infrastructure/index_en.htm &#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: Hosting Facility ABB is salient for the technical interoperability because it establish the set up of IT systems to deliver the different public administration digital services and architectures that permit to integrate data from different infrastructure and remove existing IT silos in public administration.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/HostingFacilityFacility&#xA;&#xA;ABB name: eira:HostingFacilityFacility&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/HostingFacilityFacility&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/HostingFacilityFacility"/>
+  <properties
+      key="dct:type"
+      value="eira:HostingFacilityFacility"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Hosting Facility ABB is a Facility that enables components and services to make public services available on the Internet for their use."/>
+  <properties
+      key="eira:definitionSource"
+      value="Law Insider"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.lawinsider.com/dictionary/hosting-facility#:~:text=Hosting%20Facility%20means%20a%20third,for%20use%20by%20End%20Users."/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): DIGIT/C Hosting Facility - DIGIT/C offers a high availability and high-performance hosting infrastructure that is comprised, among other elements, of back-end web server instances and application servers for hosting and serving both static and dynamic sites. The dynamic sites supported by the standard Apache web servers are mainly sites based on Coldfusion and in some cases also sites using CGI scripts. Dynamic sites based on particular technologies (i.e. Weblogic) are being hosted on individual application servers and are being integrated with the other related sites using reverse proxy mappings. Direct HTTP access to the back-end web servers hosting the static sites is denied by the standard web server configuration. http://ec.europa.eu/ipg/build/infrastructure/index_en.htm "/>
+  <properties
+      key="eira:iopSaliency"
+      value="Hosting Facility ABB is salient for the technical interoperability because it establish the set up of IT systems to deliver the different public administration digital services and architectures that permit to integrate data from different infrastructure and remove existing IT silos in public administration."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/HostingFacilityFacility"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Facility>

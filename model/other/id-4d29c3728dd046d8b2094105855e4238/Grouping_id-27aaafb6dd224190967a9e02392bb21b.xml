@@ -1,0 +1,51 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Messaging Enablers"
+    id="id-27aaafb6dd224190967a9e02392bb21b"
+    documentation="Definition: Messaging Enablers ABB is a Grouping that refers to components and services that facilitate asynchronous message-based communication between different applications. This is achieved through the use of intermediary software components such as a Message Broker, which acts as a central hub for the publishing and receiving of messages based on specific criteria. The Messaging Enablers ensure reliable delivery of messages, decoupling of applications from each other, and provide features like message routing, transformation, and filtering.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Source reference: N/A&#xA;&#xA;Additional information: Messaging Enablers are crucial in modern software architecture, especially in microservices architecture where different services need to communicate with each other. They provide a way for these services to communicate asynchronously, which means that the sender and receiver do not need to interact with the message queue at the same time. This decoupling allows for greater flexibility and scalability. The Message Broker, a key component of the Messaging Enablers, ensures that messages are delivered reliably, even if the receiver is not available at the time the message is sent. It also provides features like message routing, which directs messages based on their content or other criteria; transformation, which converts messages to a format the receiver can understand; and filtering, which controls which messages a receiver gets based on specific criteria.&#xA;&#xA;Example: An example of Messaging Enablers in use could be an e-commerce platform. When a customer places an order, the order service publishes a message to the message broker. The inventory service, which is subscribed to these types of messages, receives the message and updates the inventory. The shipping service, also subscribed to these messages, receives the message and arranges for the order to be shipped. In this scenario, the Message Broker enables these different services to communicate and coordinate with each other to fulfill the order.&#xA;&#xA;LOST view: TVA-Messaging Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/MessagingEnablersGrouping&#xA;&#xA;ABB name: egovera:MessagingEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/MessagingEnablersGrouping&#xA;&#xA;Name: Messaging EnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/MessagingEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/MessagingEnablersGrouping"/>
+  <properties
+      key="dct:title"
+      value="Messaging EnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="egovera:MessagingEnablersGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Messaging Enablers ABB is a Grouping that refers to components and services that facilitate asynchronous message-based communication between different applications. This is achieved through the use of intermediary software components such as a Message Broker, which acts as a central hub for the publishing and receiving of messages based on specific criteria. The Messaging Enablers ensure reliable delivery of messages, decoupling of applications from each other, and provide features like message routing, transformation, and filtering."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="N/A"/>
+  <properties
+      key="skos:example"
+      value="An example of Messaging Enablers in use could be an e-commerce platform. When a customer places an order, the order service publishes a message to the message broker. The inventory service, which is subscribed to these types of messages, receives the message and updates the inventory. The shipping service, also subscribed to these messages, receives the message and arranges for the order to be shipped. In this scenario, the Message Broker enables these different services to communicate and coordinate with each other to fulfill the order."/>
+  <properties
+      key="skos:note"
+      value="Messaging Enablers are crucial in modern software architecture, especially in microservices architecture where different services need to communicate with each other. They provide a way for these services to communicate asynchronously, which means that the sender and receiver do not need to interact with the message queue at the same time. This decoupling allows for greater flexibility and scalability. The Message Broker, a key component of the Messaging Enablers, ensures that messages are delivered reliably, even if the receiver is not available at the time the message is sent. It also provides features like message routing, which directs messages based on their content or other criteria; transformation, which converts messages to a format the receiver can understand; and filtering, which controls which messages a receiver gets based on specific criteria."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Messaging Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Networking Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

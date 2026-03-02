@@ -1,0 +1,51 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge"
+    id="id-292b2d0bf11149b3a285c2015d0d4849"
+    documentation="Definition: Knowledge ABB is a Representation that refers to a perceptible form of stored information in a human/artificial memory representing the understanding and awareness that a person has about a particular subject, topic, or area of study. Knowledge is generally context related.&#xA;&#xA;Source: FREE DICTIONARY&#xA;&#xA;Source reference: https://encyclopedia2.thefreedictionary.com/knowledge&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Core Vocabularies for public administration. https://joinup.ec.europa.eu/collection/semic-support-centre/core-vocabularies&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/KnowledgeRepresentation&#xA;&#xA;ABB name: eira:KnowledgeRepresentation&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/KnowledgeRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/KnowledgeRepresentation"/>
+  <properties
+      key="dct:type"
+      value="eira:KnowledgeRepresentation"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Knowledge ABB is a Representation that refers to a perceptible form of stored information in a human/artificial memory representing the understanding and awareness that a person has about a particular subject, topic, or area of study. Knowledge is generally context related."/>
+  <properties
+      key="eira:definitionSource"
+      value="FREE DICTIONARY"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://encyclopedia2.thefreedictionary.com/knowledge"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Core Vocabularies for public administration. https://joinup.ec.europa.eu/collection/semic-support-centre/core-vocabularies"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/KnowledgeRepresentation"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Representation>

@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Incident Response Plan"
+    id="id-5553422da5884579a7eda3008dfe7de3"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Security Incident Response Plan&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: The Security Incident Response Plan is a concept that outlines the procedures and protocols that must be followed in the event of a security breach or incident. The plan typically includes steps for identifying the incident, containing the damage, investigating the cause, and restoring normal operations. It also includes guidelines for communication with stakeholders, such as customers, employees, and regulatory bodies. A well-designed Security Incident Response Plan can help minimize the impact of a security incident and reduce the risk of future incidents.&#xA;&#xA;Example: Security Incident Response Plan:&#xA;Decision: Establishing a security incident response plan to handle and respond to security breaches or incidents promptly and effectively.&#xA;Rationale: A well-defined incident response plan helps mitigate the impact of security incidents, comply with incident reporting requirements, and facilitate the recovery and restoration of systems and data.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SecurityIncidentResponsePlanGoal&#xA;&#xA;ABB name: eira:SecurityIncidentResponsePlanGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947794&#xA;&#xA;Name: Architecture Decision Record about Security Incident Response Plan&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947794"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Security Incident Response Plan"/>
+  <properties
+      key="skos:example"
+      value="Security Incident Response Plan:&#xA;Decision: Establishing a security incident response plan to handle and respond to security breaches or incidents promptly and effectively.&#xA;Rationale: A well-defined incident response plan helps mitigate the impact of security incidents, comply with incident reporting requirements, and facilitate the recovery and restoration of systems and data."/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="The Security Incident Response Plan is a concept that outlines the procedures and protocols that must be followed in the event of a security breach or incident. The plan typically includes steps for identifying the incident, containing the damage, investigating the cause, and restoring normal operations. It also includes guidelines for communication with stakeholders, such as customers, employees, and regulatory bodies. A well-designed Security Incident Response Plan can help minimize the impact of a security incident and reduce the risk of future incidents."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SecurityIncidentResponsePlanGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:SecurityIncidentResponsePlanGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Security Incident Response Plan"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

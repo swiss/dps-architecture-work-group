@@ -1,0 +1,52 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Discovery and Catalogue"
+    id="id-fc796e3bfee44e498bc941c2829d1042"
+    documentation="Definition: API Discovery and Catalogue Service ABB is an Application Service that enables the discovery and/or maintenance of the API Catalogue ABB.&#xA;&#xA;Source: Inspired in Gartner &#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/application-programming-interface&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): RapidAPI - RapidAPI is a collection of predefined APIs that are free to test, specifically updated for 2021. https://rapidapi.com/collection/list-of-free-apis&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Interoperability Saliency: API Discovery and Catalogue Application Service ABB is a key interoperability enabler (*) for structural and behavioural interoperability by enabling and maintaining API Catalogues for public administration services. This is a key aspect enabling interoperability as it contributes to the discovery of APIs through catalogues.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/APIDiscoveryAndCatalogueApplicationService&#xA;&#xA;ABB name: eira:APIDiscoveryAndCatalogueApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/APIDiscoveryAndCatalogueApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/APIDiscoveryAndCatalogueApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:APIDiscoveryAndCatalogueApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="API Discovery and Catalogue Service ABB is an Application Service that enables the discovery and/or maintenance of the API Catalogue ABB."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Gartner "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/application-programming-interface"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): RapidAPI - RapidAPI is a collection of predefined APIs that are free to test, specifically updated for 2021. https://rapidapi.com/collection/list-of-free-apis"/>
+  <properties
+      key="eira:iopSaliency"
+      value="API Discovery and Catalogue Application Service ABB is a key interoperability enabler (*) for structural and behavioural interoperability by enabling and maintaining API Catalogues for public administration services. This is a key aspect enabling interoperability as it contributes to the discovery of APIs through catalogues."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/APIDiscoveryAndCatalogueApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

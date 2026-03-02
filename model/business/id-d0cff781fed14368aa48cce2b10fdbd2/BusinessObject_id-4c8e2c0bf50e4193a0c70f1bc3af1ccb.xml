@@ -1,0 +1,49 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conformance Test Scenario"
+    id="id-4c8e2c0bf50e4193a0c70f1bc3af1ccb"
+    documentation="Definition: Conformance Test Scenario ABB is a Business Object specifying a sequence of actions for the execution of a test. Also known as a test script or manual test script.&#xA;&#xA;Source: NIST&#xA;&#xA;Source reference: https://www.nist.gov/itl/ssd/information-systems-group/overview-conformance-testing&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): SoapUI - SoapUI is the world's most widely-used open source API testing tool for SOAP and REST APIs. SoapUI offers SOAP Web Services functional testing, REST API functional testing, WSDL coverage, message assertion testing and test refactoring. Scenario-based tests should be directly tied to user stories, which were probably provided by the product owner or some business stakeholder. Under ideal circumstances, these tests should be the user stories, so that business stakeholders can both easily help the tester develop the test cases and understand the results. [https://www.soapui.org/testing-dojo/best-practices/scenario-based-testing.html][https://www.soapui.org/testing-dojo/world-of-api-testing/test-first.html]&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Conformance Testing Scenario ABB  is salient for technical interoperability because it provides a document of a list of activities for the execution of interoperability tests.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ConformanceTestScenarioBusinessObject&#xA;&#xA;ABB name: eira:ConformanceTestScenarioBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ConformanceTestScenarioBusinessObject&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ConformanceTestScenarioBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="eira:ConformanceTestScenarioBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Conformance Test Scenario ABB is a Business Object specifying a sequence of actions for the execution of a test. Also known as a test script or manual test script."/>
+  <properties
+      key="eira:definitionSource"
+      value="NIST"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.nist.gov/itl/ssd/information-systems-group/overview-conformance-testing"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): SoapUI - SoapUI is the world's most widely-used open source API testing tool for SOAP and REST APIs. SoapUI offers SOAP Web Services functional testing, REST API functional testing, WSDL coverage, message assertion testing and test refactoring. Scenario-based tests should be directly tied to user stories, which were probably provided by the product owner or some business stakeholder. Under ideal circumstances, these tests should be the user stories, so that business stakeholders can both easily help the tester develop the test cases and understand the results. [https://www.soapui.org/testing-dojo/best-practices/scenario-based-testing.html][https://www.soapui.org/testing-dojo/world-of-api-testing/test-first.html]"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Conformance Testing Scenario ABB  is salient for technical interoperability because it provides a document of a list of activities for the execution of interoperability tests."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ConformanceTestScenarioBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:BusinessObject>

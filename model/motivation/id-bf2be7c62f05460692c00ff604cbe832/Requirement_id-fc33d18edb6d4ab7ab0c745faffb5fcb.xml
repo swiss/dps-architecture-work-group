@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Binding Instrument"
+    id="id-fc33d18edb6d4ab7ab0c745faffb5fcb"
+    documentation="Definition: Binding Instrument ABB is a Business Object involving an obligation, which is available to the European institutions to carry out their tasks.&#xA;&#xA;Source: Eur-Lex &#xA;&#xA;Source reference: http://eur-lex.europa.eu/summary/glossary/community_legal_instruments.html&#xA;&#xA;Additional information: Additional Information: The European binding instruments listed in Article 288 of the Treaty on the Functioning of the European Union are: The European binding instruments listed in Article 288 of the Treaty on the Functioning of the European Union are: - regulations: these are binding in their entirety and directly applicable in all EU countries; - directives: these bind the EU countries as to the results to be achieved; they have to be transposed into the national legal framework and thus leave margin for manoeuvre as to the form and means of implementation; - decisions: these are fully binding on those to whom they are addressed; - recommendations and opinions: these are non-binding, declaratory instruments.&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Directive (EU) 2019/790 of the European Parliament and of the Council of 17 April 2019 on copyright and related rights in the Digital Single Market and amending Directives 96/9/EC and 2001/29/EC (Text with EEA relevance.). http://data.europa.eu/eli/dir/2019/790/oj&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Interoperability Saliency: The Binding Instrument ABB is relevant for legal and governance interoperability as, by being a specialisation of the Legal Act, it makes mandatory the implementation of the policy (and therefore the underlying interoperability implications).&#xA;&#xA;Identifier: http://data.europa.eu/dr8/BindingInstrumentRequirement&#xA;&#xA;ABB name: eira:BindingInstrumentRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/BindingInstrumentRequirement&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/BindingInstrumentRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:BindingInstrumentRequirement"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Binding Instrument ABB is a Business Object involving an obligation, which is available to the European institutions to carry out their tasks."/>
+  <properties
+      key="eira:definitionSource"
+      value="Eur-Lex "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://eur-lex.europa.eu/summary/glossary/community_legal_instruments.html"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Directive (EU) 2019/790 of the European Parliament and of the Council of 17 April 2019 on copyright and related rights in the Digital Single Market and amending Directives 96/9/EC and 2001/29/EC (Text with EEA relevance.). http://data.europa.eu/eli/dir/2019/790/oj"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Binding Instrument ABB is relevant for legal and governance interoperability as, by being a specialisation of the Legal Act, it makes mandatory the implementation of the policy (and therefore the underlying interoperability implications)."/>
+  <properties
+      key="skos:note"
+      value="Additional Information: The European binding instruments listed in Article 288 of the Treaty on the Functioning of the European Union are: The European binding instruments listed in Article 288 of the Treaty on the Functioning of the European Union are: - regulations: these are binding in their entirety and directly applicable in all EU countries; - directives: these bind the EU countries as to the results to be achieved; they have to be transposed into the national legal framework and thus leave margin for manoeuvre as to the form and means of implementation; - decisions: these are fully binding on those to whom they are addressed; - recommendations and opinions: these are non-binding, declaratory instruments."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/BindingInstrumentRequirement"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Requirement>

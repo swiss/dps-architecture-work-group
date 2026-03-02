@@ -1,0 +1,49 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linked Open Data"
+    id="id-18fee26959c9496cabccf77e54e4f4b5"
+    documentation="Definition: Linked Open Data ABB is a Representation that enables the procedures of publishing structured data enriched with metadata to ensure data understanding, connection, findability and link with informational resources.&#xA;&#xA;Source: EUROPEANA PRO&#xA;&#xA;Source reference: https://pro.europeana.eu/page/linked-open-data&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EuropeanaPro https://pro.europeana.eu/page/linked-open-data&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Interoperability Saliency: The Linked Open Data Representation ABB is salient for semantic interoperability because it provides a set of publishing, sharing, and connection methods that allow linking and publishing the data from digital public services, making it more meaningful and increasing the quality and scope of data and services. Moreover, it increases data discoverability and maximises the reuse and exchange of data. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/LinkedOpenDataRepresentation&#xA;&#xA;ABB name: eira:LinkedOpenDataRepresentation&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LinkedOpenDataRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="eira:LinkedOpenDataRepresentation"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Linked Open Data ABB is a Representation that enables the procedures of publishing structured data enriched with metadata to ensure data understanding, connection, findability and link with informational resources."/>
+  <properties
+      key="eira:definitionSource"
+      value="EUROPEANA PRO"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pro.europeana.eu/page/linked-open-data"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EuropeanaPro https://pro.europeana.eu/page/linked-open-data"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Linked Open Data Representation ABB is salient for semantic interoperability because it provides a set of publishing, sharing, and connection methods that allow linking and publishing the data from digital public services, making it more meaningful and increasing the quality and scope of data and services. Moreover, it increases data discoverability and maximises the reuse and exchange of data. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LinkedOpenDataRepresentation"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LinkedOpenDataRepresentation"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Representation>

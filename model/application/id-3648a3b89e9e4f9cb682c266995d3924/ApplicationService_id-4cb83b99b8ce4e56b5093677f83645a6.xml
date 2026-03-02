@@ -1,0 +1,50 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Blockchain"
+    id="id-4cb83b99b8ce4e56b5093677f83645a6"
+    documentation="Definition: Blockchain ABB is an Application Service that enables secure, transparent, and immutable record-keeping and transaction processing shared by all participants in a network. &#xA;&#xA;Source: Inspired in European Comission-Blockchain Strategy&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/blockchain-strategy&#xA;&#xA;Additional information: Specifically, Blockchain  stores records that contain a time stamp and reference links to previous transactions. With this information, anyone with access rights can trace back a transactional event, at any point in its history, belonging to any participant. A blockchain is one architectural design of the broader concept of distributed ledgers.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Fishcoin Project, is a project using Blockchain technologies for seafood traceability. https://fishcoin.co/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Blockchain Application Service ABB is salient for interoperability because as a ledger technology application service can contribute to the trustability of digital public services. It can enable the register and list of irrevocable transactional data being exchanged between digital public services. To that extent, a blockchain service can be enhancing digital public services by establishing a mechanism to track data, and the process applied to it. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/BlockchainApplicationService&#xA;&#xA;ABB name: eira:BlockchainApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/BlockchainApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/BlockchainApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:BlockchainApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Blockchain ABB is an Application Service that enables secure, transparent, and immutable record-keeping and transaction processing shared by all participants in a network. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in European Comission-Blockchain Strategy"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/blockchain-strategy"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Fishcoin Project, is a project using Blockchain technologies for seafood traceability. https://fishcoin.co/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Blockchain Application Service ABB is salient for interoperability because as a ledger technology application service can contribute to the trustability of digital public services. It can enable the register and list of irrevocable transactional data being exchanged between digital public services. To that extent, a blockchain service can be enhancing digital public services by establishing a mechanism to track data, and the process applied to it. "/>
+  <properties
+      key="skos:note"
+      value="Specifically, Blockchain  stores records that contain a time stamp and reference links to previous transactions. With this information, anyone with access rights can trace back a transactional event, at any point in its history, belonging to any participant. A blockchain is one architectural design of the broader concept of distributed ledgers."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/BlockchainApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

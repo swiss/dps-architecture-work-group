@@ -1,0 +1,49 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Base Registry"
+    id="id-da29674662804d5489b944d3ba0f87e6"
+    documentation="Definition: Base Registry ABB is a Data Object that refers to reliable sources of basic information that permits an efficient, secure, and transarent exchange of the data.&#xA;&#xA;Source: EIF &#xA;&#xA;Source reference: https://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Business Registry - Registradores de España https://sede.registradores.org/site/mercantil?lang=en_EN&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Interoperability Saliency: The Base Registry Data Object ABB is salient for semantic interoperability because it provides a mechanism or method to ensure reliability of data, fostering secure data exchanges between public administrations and digital public services delivery. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/BaseRegistryDataObject&#xA;&#xA;ABB name: eira:BaseRegistryDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/BaseRegistryDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/BaseRegistryDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:BaseRegistryDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Base Registry ABB is a Data Object that refers to reliable sources of basic information that permits an efficient, secure, and transarent exchange of the data."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIF "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Business Registry - Registradores de España https://sede.registradores.org/site/mercantil?lang=en_EN"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Base Registry Data Object ABB is salient for semantic interoperability because it provides a mechanism or method to ensure reliability of data, fostering secure data exchanges between public administrations and digital public services delivery. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/BaseRegistryDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

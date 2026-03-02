@@ -1,0 +1,51 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Sovereignty"
+    id="id-828d92178167428aad67b374941419d3"
+    documentation="Definition: Data Sovereignty refers to the ability of stakeholders involved in the delivery of public services to have full control over the shared data.  The concept of data sovereignty is becoming more and more relevant while digital transformation advances. Digital Sovereignty is relevant in the context of digital public services because allows the control of which data is shared between parties. Under an environment compliant with data sovereignty, all stakeholders can manage the data they aim to provide. Therefore, when planning and designing public services, data sovereignty is a pillar to guarantee the rights and obligations of the different parties. Nowadays, data spaces are gaining relevance and public administrations are putting efforts to focus on interoperability through the establishment of domain-specific data spaces. In this field, data sovereignty is specifically relevant and needs to be taken into account.  Organisations behind digital pubic services should ensure and put in place the required mechanism to ensure that parties involved in the services (public administrations, citizens, and businesses) have the capability to control the data shared. Additionally, mechanisms to detect when relevant and private data is about to be leaked. Security and privacy are narrowly related and need to be handled accordingly to ensure compliance with the principle.&#xA;&#xA;Source: \&quot;Towards a Reference Enterprise Architecture to enforce Digital Sovereignty in International Data Spaces\&quot;.  University of Twente&#xA;&#xA;Source reference: https://ris.utwente.nl/ws/portalfiles/portal/285489087/_Firdausy_2022_Towards_a_Reference_Enterprise_Architecture_to_enforce_Digital_Sovereignty_in_International_Data_Spaces.pdf&#xA;&#xA;Additional information: The concept of data sovereignty is becoming more and more relevant while digital transformation advances. Digital Sovereignty is relevant in the context of digital public services because allows the control of which data is shared between parties. &#xA;&#xA;Under an environment compliant with data sovereignty, all stakeholders can manage the data they aim to provide. Therefore, when planning and designing public services, data sovereignty is a pillar to guarantee the rights and obligations of the different parties. &#xA;&#xA;Nowadays, data spaces are gaining relevance and public administrations are putting efforts to focus on interoperability through the establishment of domain-specific data spaces. In this field, data sovereignty is specifically relevant and needs to be taken into account. &#xA;The University of Twente, specifically its Faculty of Behavioural, Management and Social Science is leading working groups and investigations on how e-Government can leverage new data paradigms can help to enhance the digital transformation and the relevance of digital public services by implementing Data Spaces. &#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/data-sovereignty&#xA;&#xA;ABB name: elap:data-sovereignty&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Data Sovereignty&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:data-sovereignty"/>
+  <properties
+      key="dct:title"
+      value="Data Sovereignty"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/data-sovereignty"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="skos:note"
+      value="The concept of data sovereignty is becoming more and more relevant while digital transformation advances. Digital Sovereignty is relevant in the context of digital public services because allows the control of which data is shared between parties. &#xA;&#xA;Under an environment compliant with data sovereignty, all stakeholders can manage the data they aim to provide. Therefore, when planning and designing public services, data sovereignty is a pillar to guarantee the rights and obligations of the different parties. &#xA;&#xA;Nowadays, data spaces are gaining relevance and public administrations are putting efforts to focus on interoperability through the establishment of domain-specific data spaces. In this field, data sovereignty is specifically relevant and needs to be taken into account. &#xA;The University of Twente, specifically its Faculty of Behavioural, Management and Social Science is leading working groups and investigations on how e-Government can leverage new data paradigms can help to enhance the digital transformation and the relevance of digital public services by implementing Data Spaces. "/>
+  <properties
+      key="eira:definitionSource"
+      value="\&quot;Towards a Reference Enterprise Architecture to enforce Digital Sovereignty in International Data Spaces\&quot;.  University of Twente"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ris.utwente.nl/ws/portalfiles/portal/285489087/_Firdausy_2022_Towards_a_Reference_Enterprise_Architecture_to_enforce_Digital_Sovereignty_in_International_Data_Spaces.pdf"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="OV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="SV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:definition"
+      value="Data Sovereignty refers to the ability of stakeholders involved in the delivery of public services to have full control over the shared data.  The concept of data sovereignty is becoming more and more relevant while digital transformation advances. Digital Sovereignty is relevant in the context of digital public services because allows the control of which data is shared between parties. Under an environment compliant with data sovereignty, all stakeholders can manage the data they aim to provide. Therefore, when planning and designing public services, data sovereignty is a pillar to guarantee the rights and obligations of the different parties. Nowadays, data spaces are gaining relevance and public administrations are putting efforts to focus on interoperability through the establishment of domain-specific data spaces. In this field, data sovereignty is specifically relevant and needs to be taken into account.  Organisations behind digital pubic services should ensure and put in place the required mechanism to ensure that parties involved in the services (public administrations, citizens, and businesses) have the capability to control the data shared. Additionally, mechanisms to detect when relevant and private data is about to be leaked. Security and privacy are narrowly related and need to be handled accordingly to ensure compliance with the principle."/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

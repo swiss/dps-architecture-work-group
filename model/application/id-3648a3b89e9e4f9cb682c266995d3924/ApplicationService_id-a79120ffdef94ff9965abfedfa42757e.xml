@@ -1,0 +1,54 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Integration"
+    id="id-a79120ffdef94ff9965abfedfa42757e"
+    documentation="Definition: Data Integration is the process of combining data from multiple sources into a unified and consistent view, enabling organizations to have a comprehensive understanding of their data. It involves extracting, transforming, and loading (ETL) data from various systems, databases, or files, and merging it into a single, coherent dataset.&#xA;&#xA;Source: Techopedia&#xA;&#xA;Source reference: https://www.techopedia.com/definition/1277/data-integration&#xA;&#xA;Additional information: Data Integration plays a crucial role in enabling businesses to make informed decisions by providing a holistic view of their data. It eliminates data silos and ensures data consistency, accuracy, and reliability. The process involves identifying relevant data sources, mapping data elements, applying data transformations, and resolving any inconsistencies or conflicts. Data Integration can be achieved through various methods like manual coding, middleware tools, or specialized data integration platforms.&#xA;&#xA;Example: An example of data integration is a retail company that combines data from its point-of-sale systems, customer relationship management (CRM) software, and inventory management system. By integrating this data, the company can gain insights into customer buying patterns, optimize inventory levels, and personalize marketing campaigns based on customer preferences.&#xA;&#xA;LOST view: TVA-Data Management Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataIntegrationApplicationService&#xA;&#xA;ABB name: egovera:DataIntegrationApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataIntegrationApplicationService&#xA;&#xA;Name: Data Integration Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataIntegrationApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataIntegrationApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Data Integration Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataIntegrationApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="Data Integration is the process of combining data from multiple sources into a unified and consistent view, enabling organizations to have a comprehensive understanding of their data. It involves extracting, transforming, and loading (ETL) data from various systems, databases, or files, and merging it into a single, coherent dataset."/>
+  <properties
+      key="eira:definitionSource"
+      value="Techopedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.techopedia.com/definition/1277/data-integration"/>
+  <properties
+      key="skos:example"
+      value="An example of data integration is a retail company that combines data from its point-of-sale systems, customer relationship management (CRM) software, and inventory management system. By integrating this data, the company can gain insights into customer buying patterns, optimize inventory levels, and personalize marketing campaigns based on customer preferences."/>
+  <properties
+      key="skos:note"
+      value="Data Integration plays a crucial role in enabling businesses to make informed decisions by providing a holistic view of their data. It eliminates data silos and ensures data consistency, accuracy, and reliability. The process involves identifying relevant data sources, mapping data elements, applying data transformations, and resolving any inconsistencies or conflicts. Data Integration can be achieved through various methods like manual coding, middleware tools, or specialized data integration platforms."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Data Management Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Dataspace Enablers"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

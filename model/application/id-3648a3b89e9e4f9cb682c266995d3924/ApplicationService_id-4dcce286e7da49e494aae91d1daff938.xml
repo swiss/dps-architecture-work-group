@@ -1,0 +1,51 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Encryption"
+    id="id-4dcce286e7da49e494aae91d1daff938"
+    documentation="Definition: Data encryption is the process of converting plain text or data into a coded form known as ciphertext, to prevent unauthorized access during transmission or storage. It uses cryptographic algorithms and keys to transform the data into an unreadable format, which can only be decrypted using the corresponding decryption key.&#xA;&#xA;Source: Techopedia&#xA;&#xA;Source reference: https://www.techopedia.com/definition/24880/data-encryption&#xA;&#xA;Additional information: Data encryption is a fundamental technique used in information security to protect sensitive data from unauthorized disclosure. It ensures that even if an attacker gains access to the encrypted data, they cannot understand or use it without the decryption key. Encryption provides confidentiality, integrity, and authenticity of data, making it an essential component in securing data at rest, in transit, or in use. Various encryption algorithms such as AES, RSA, and DES are used in different scenarios based on the required level of security.&#xA;&#xA;Example: An example of data encryption is when a user sends a confidential email using a secure email service. The email content is encrypted before transmission, and only the intended recipient possessing the decryption key can decipher and read the message. Similarly, when storing sensitive data on a cloud storage service, encryption can be applied to ensure that even if the data is compromised, it remains unreadable without the appropriate decryption key.&#xA;&#xA;LOST view: TVA-Privacy Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataEncryptionApplicationService&#xA;&#xA;ABB name: egovera:DataEncryptionApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataEncryptionApplicationService&#xA;&#xA;Name: Data Encryption Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataEncryptionApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataEncryptionApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Data Encryption Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataEncryptionApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="Data encryption is the process of converting plain text or data into a coded form known as ciphertext, to prevent unauthorized access during transmission or storage. It uses cryptographic algorithms and keys to transform the data into an unreadable format, which can only be decrypted using the corresponding decryption key."/>
+  <properties
+      key="eira:definitionSource"
+      value="Techopedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.techopedia.com/definition/24880/data-encryption"/>
+  <properties
+      key="skos:example"
+      value="An example of data encryption is when a user sends a confidential email using a secure email service. The email content is encrypted before transmission, and only the intended recipient possessing the decryption key can decipher and read the message. Similarly, when storing sensitive data on a cloud storage service, encryption can be applied to ensure that even if the data is compromised, it remains unreadable without the appropriate decryption key."/>
+  <properties
+      key="skos:note"
+      value="Data encryption is a fundamental technique used in information security to protect sensitive data from unauthorized disclosure. It ensures that even if an attacker gains access to the encrypted data, they cannot understand or use it without the decryption key. Encryption provides confidentiality, integrity, and authenticity of data, making it an essential component in securing data at rest, in transit, or in use. Various encryption algorithms such as AES, RSA, and DES are used in different scenarios based on the required level of security."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Privacy Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

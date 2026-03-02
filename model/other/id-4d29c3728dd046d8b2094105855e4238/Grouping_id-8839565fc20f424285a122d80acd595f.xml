@@ -1,0 +1,53 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Reference Data Solutions"
+    id="id-8839565fc20f424285a122d80acd595f"
+    documentation="Definition: Business Agnostic Reference Data Solutions (ABB) is a grouping that covers a range of information entities designed to support and enhance the efficiency of the Single Market. It includes elements such as ESCO, Regulated Professions DB, and Business Agnostic EU Vocabularies Reference Data Solutions. These elements aim to standardize and harmonize codes, labels, and other forms of data across various platforms and systems, facilitating effective communication and data exchange.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Business Agnostic Reference Data Solutions includes the ESCO classification which identifies and categorises skills, competences, and occupations relevant for the EU labour market and education and training. It also includes the Regulated Professions DB which contains information on regulated professions, statistics on migrating professionals, contact points and competent authorities, as provided by EU Member States, EEA countries, the UK and Switzerland. Furthermore, it includes the Business Agnostic EU Vocabularies Reference Data Solutions (BAEUV RDS) which is a grouping that covers a range of information entities such as NUTS, Reference Data Asset, Authority Tables, and the Digital Europe Thesaurus. These elements aim to standardize and harmonize codes, labels, and other forms of data across various platforms and systems, facilitating effective communication and data exchange.&#xA;&#xA;Example: For instance, the ESCO classification can be used by job search platforms to standardize job titles and skills across the EU. The Regulated Professions DB can be used by professionals moving to another EU country to understand the regulations and requirements of their profession in the new country. The BAEUV RDS can be used by public authorities and businesses to ensure they are using the same codes and labels when exchanging data.&#xA;&#xA;LOST view: SV-Agnostic Reference Data&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticReferenceDataSolutionsGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticReferenceDataSolutionsGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticReferenceDataSolutionsGrouping&#xA;&#xA;Name: Business Agnostic Reference Data Solutions Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticReferenceDataSolutionsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticReferenceDataSolutionsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Reference Data Solutions Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticReferenceDataSolutionsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic Reference Data Solutions (ABB) is a grouping that covers a range of information entities designed to support and enhance the efficiency of the Single Market. It includes elements such as ESCO, Regulated Professions DB, and Business Agnostic EU Vocabularies Reference Data Solutions. These elements aim to standardize and harmonize codes, labels, and other forms of data across various platforms and systems, facilitating effective communication and data exchange."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, the ESCO classification can be used by job search platforms to standardize job titles and skills across the EU. The Regulated Professions DB can be used by professionals moving to another EU country to understand the regulations and requirements of their profession in the new country. The BAEUV RDS can be used by public authorities and businesses to ensure they are using the same codes and labels when exchanging data."/>
+  <properties
+      key="skos:note"
+      value="The Business Agnostic Reference Data Solutions includes the ESCO classification which identifies and categorises skills, competences, and occupations relevant for the EU labour market and education and training. It also includes the Regulated Professions DB which contains information on regulated professions, statistics on migrating professionals, contact points and competent authorities, as provided by EU Member States, EEA countries, the UK and Switzerland. Furthermore, it includes the Business Agnostic EU Vocabularies Reference Data Solutions (BAEUV RDS) which is a grouping that covers a range of information entities such as NUTS, Reference Data Asset, Authority Tables, and the Digital Europe Thesaurus. These elements aim to standardize and harmonize codes, labels, and other forms of data across various platforms and systems, facilitating effective communication and data exchange."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Reference Data"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

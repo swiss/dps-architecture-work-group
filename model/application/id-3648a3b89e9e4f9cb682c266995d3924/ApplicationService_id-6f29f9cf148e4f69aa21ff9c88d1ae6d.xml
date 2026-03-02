@@ -1,0 +1,48 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction Management"
+    id="id-6f29f9cf148e4f69aa21ff9c88d1ae6d"
+    documentation="Definition: Transaction Management refers to a web service that enables the efficient and reliable processing of data transactions in a distributed system. It facilitates the coordination and execution of multiple data operations as a single atomic unit, ensuring data integrity and consistency. The Transaction Management service provides mechanisms for transaction initiation, execution, and completion, including features such as concurrency control, isolation, and transactional rollback in case of failures or errors. It enables applications to perform complex data operations while maintaining data integrity and ensuring that changes are either committed in their entirety or rolled back.&#xA;&#xA;Source: EU Open Data Portal&#xA;&#xA;Source reference: https://data.europa.eu/euodp/en/data/handbook&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TransactionManagementApplicationService&#xA;&#xA;ABB name: egovera:TransactionManagementApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TransactionManagementApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataManagementApplicationService&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="Transaction Management refers to a web service that enables the efficient and reliable processing of data transactions in a distributed system. It facilitates the coordination and execution of multiple data operations as a single atomic unit, ensuring data integrity and consistency. The Transaction Management service provides mechanisms for transaction initiation, execution, and completion, including features such as concurrency control, isolation, and transactional rollback in case of failures or errors. It enables applications to perform complex data operations while maintaining data integrity and ensuring that changes are either committed in their entirety or rolled back."/>
+  <properties
+      key="eira:definitionSource"
+      value="EU Open Data Portal"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://data.europa.eu/euodp/en/data/handbook"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/TransactionManagementApplicationService"/>
+  <properties
+      key="dct:type"
+      value="egovera:TransactionManagementApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Data Management and Knowledge Discovery Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Computing Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/TransactionManagementApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataManagementApplicationService"/>
+</archimate:ApplicationService>

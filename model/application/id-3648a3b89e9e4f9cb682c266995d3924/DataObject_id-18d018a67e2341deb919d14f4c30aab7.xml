@@ -1,0 +1,45 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JRC Data Catalogue"
+    id="id-18d018a67e2341deb919d14f4c30aab7"
+    documentation="Description: The Joint Research Center (JRC) Data Catalogue is a collection of metadata records that provides information about datasets produced by the Joint Research Centre (JRC) in accordance with its Data Policy. The JRC, as the European Commission's in-house science service, conducts research to provide independent scientific advice and support to the policies of the European Union.&#xA;&#xA;Publisher: Joint Research Center (JRC)&#xA;&#xA;Source: https://data.jrc.ec.europa.eu/&#xA;&#xA;LOST view: SV-Metadata Catalogue&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/JRCDataCatalogueDataObject&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/JRCDataCatalogueDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/MetadataCatalogueDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="Joint Research Center (JRC)"/>
+  <properties
+      key="dct:description"
+      value="The Joint Research Center (JRC) Data Catalogue is a collection of metadata records that provides information about datasets produced by the Joint Research Centre (JRC) in accordance with its Data Policy. The JRC, as the European Commission's in-house science service, conducts research to provide independent scientific advice and support to the policies of the European Union."/>
+  <properties
+      key="dct:source"
+      value="https://data.jrc.ec.europa.eu/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/JRCDataCatalogueDataObject"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/JRCDataCatalogueDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Metadata Catalogue"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/MetadataCatalogueDataObject"/>
+</archimate:DataObject>

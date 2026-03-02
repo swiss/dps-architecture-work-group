@@ -1,0 +1,45 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Golden Record"
+    id="id-d33bf0dc4c8e4fd1bd2d9aaea9e33bd3"
+    documentation="Definition: &quot;Golden Record&quot; refers to a single, authoritative, and complete version of a data entity or a set of data that serves as the reference source for all other copies or instances of that data&#xA;&#xA;Source: Eurpean Comission Data Management&#xA;&#xA;Source reference: https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/open-access_en.htm&#xA;&#xA;Additional information: In the context of data management, a Golden Record is the definitive copy of a data entity which may include customer profiles, product information, or any other type of organizational data. This record is created by integrating, cleansing, and consolidating data from various sources to ensure that it is the most reliable source of truth. The Golden Record is essential in scenarios where consistent data quality is critical, such as in customer relationship management (CRM), enterprise resource planning (ERP), or master data management (MDM) systems. It is used to provide a consistent and accurate view of data across different business units and applications, thereby reducing errors, improving decision-making, and enhancing operational efficiency.&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU-ERS: Master Data Register. https://circabc.europa.eu/ui/group/3cc8c417-0f2a-4eb4-8ff7-10d60638446a/information&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/GoldenRecordDataObject&#xA;&#xA;ABB name: egovera:GoldenRecordDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/GoldenRecordDataObject&#xA;&#xA;Name: Golden Record&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataSetCatalogueDataObject&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/GoldenRecordDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/GoldenRecordDataObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:GoldenRecordDataObject"/>
+  <properties
+      key="dct:title"
+      value="Golden Record"/>
+  <properties
+      key="eira:definitionSource"
+      value="Eurpean Comission Data Management"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/open-access_en.htm"/>
+  <properties
+      key="skos:definition"
+      value="&quot;Golden Record&quot; refers to a single, authoritative, and complete version of a data entity or a set of data that serves as the reference source for all other copies or instances of that data"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU-ERS: Master Data Register. https://circabc.europa.eu/ui/group/3cc8c417-0f2a-4eb4-8ff7-10d60638446a/information"/>
+  <properties
+      key="skos:note"
+      value="In the context of data management, a Golden Record is the definitive copy of a data entity which may include customer profiles, product information, or any other type of organizational data. This record is created by integrating, cleansing, and consolidating data from various sources to ensure that it is the most reliable source of truth. The Golden Record is essential in scenarios where consistent data quality is critical, such as in customer relationship management (CRM), enterprise resource planning (ERP), or master data management (MDM) systems. It is used to provide a consistent and accurate view of data across different business units and applications, thereby reducing errors, improving decision-making, and enhancing operational efficiency."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataSetCatalogueDataObject"/>
+</archimate:DataObject>

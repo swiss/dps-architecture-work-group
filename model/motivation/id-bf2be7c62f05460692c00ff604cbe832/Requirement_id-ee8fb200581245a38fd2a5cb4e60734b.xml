@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Latency"
+    id="id-ee8fb200581245a38fd2a5cb4e60734b"
+    documentation="Definition: Latency is a non-functional requirement that refers to the time delay between the initiation of a request and the response received. It is a critical factor in determining the overall performance of a system, particularly in real-time applications such as online gaming, video conferencing, and financial trading. Low latency is desirable as it ensures that the system responds quickly to user requests, providing a seamless and efficient user experience. High latency, on the other hand, can lead to frustration and decreased productivity, making it essential to ensure that latency is kept to a minimum in any IT system.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Latency is a non-functional requirement that refers to the time delay between the initiation of a request and the response received. It is a measure of the time taken for data to travel from one point to another, and is typically measured in milliseconds (ms).&#xA;&#xA;Latency is an important consideration for IT systems that require real-time or near-real-time responses, such as financial trading systems, online gaming platforms, and video conferencing applications. High latency can result in delays, lag, and poor user experience, which can negatively impact the performance and usability of the system.&#xA;&#xA;To ensure that latency requirements are met, IT architects must consider a range of factors, including network bandwidth, server processing power, and data storage capacity. They must also design systems that are optimized for low latency, using techniques such as caching, load balancing, and content delivery networks (CDNs).&#xA;&#xA;In addition, IT architects must work closely with stakeholders to define latency requirements and establish appropriate performance metrics. This may involve conducting performance testing and benchmarking to identify areas for improvement and ensure that the system meets the required latency targets.&#xA;&#xA;Overall, latency is a critical non-functional requirement that must be carefully considered and managed throughout the IT system development lifecycle to ensure optimal performance and user experience.&#xA;&#xA;Example: An example of the IT non-functional requirement 'Latency' could be for a video conferencing application to have a maximum latency of 100 milliseconds to ensure smooth and real-time communication between participants.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LatencyRequirement&#xA;&#xA;ABB name: eira:LatencyRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LatencyRequirement&#xA;&#xA;Name: Latency Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LatencyRequirement"/>
+  <properties
+      key="dct:title"
+      value="Latency Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="An example of the IT non-functional requirement 'Latency' could be for a video conferencing application to have a maximum latency of 100 milliseconds to ensure smooth and real-time communication between participants."/>
+  <properties
+      key="skos:definition"
+      value="Latency is a non-functional requirement that refers to the time delay between the initiation of a request and the response received. It is a critical factor in determining the overall performance of a system, particularly in real-time applications such as online gaming, video conferencing, and financial trading. Low latency is desirable as it ensures that the system responds quickly to user requests, providing a seamless and efficient user experience. High latency, on the other hand, can lead to frustration and decreased productivity, making it essential to ensure that latency is kept to a minimum in any IT system."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Latency is a non-functional requirement that refers to the time delay between the initiation of a request and the response received. It is a measure of the time taken for data to travel from one point to another, and is typically measured in milliseconds (ms).&#xA;&#xA;Latency is an important consideration for IT systems that require real-time or near-real-time responses, such as financial trading systems, online gaming platforms, and video conferencing applications. High latency can result in delays, lag, and poor user experience, which can negatively impact the performance and usability of the system.&#xA;&#xA;To ensure that latency requirements are met, IT architects must consider a range of factors, including network bandwidth, server processing power, and data storage capacity. They must also design systems that are optimized for low latency, using techniques such as caching, load balancing, and content delivery networks (CDNs).&#xA;&#xA;In addition, IT architects must work closely with stakeholders to define latency requirements and establish appropriate performance metrics. This may involve conducting performance testing and benchmarking to identify areas for improvement and ensure that the system meets the required latency targets.&#xA;&#xA;Overall, latency is a critical non-functional requirement that must be carefully considered and managed throughout the IT system development lifecycle to ensure optimal performance and user experience."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LatencyRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:LatencyRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

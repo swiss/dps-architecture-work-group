@@ -1,0 +1,52 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Policy"
+    id="id-f51f685b0c224277aa93b4e4c76de377"
+    documentation="Definition: Privacy Policy ABB is a Business Object that regulates the personal data of any customer, client or employee inforamtion. &#xA;&#xA;Source: EU Data Protection&#xA;&#xA;Source reference: https://commission.europa.eu/law/law-topic/data-protection_en&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Protection of individuals with regard to the processing of personal data - GDPR. https://eira-si.eu/privacy-policy/&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Interoperability Governance viewpoint&#xA;&#xA;Interoperability Saliency: The Privacy Policy ABB is salient for semantic interoperability because it provides a guiding framework to ensure the privacy of data and information according to interoperability principles as stated in the EIF recommendation n° 46 and 47: &quot;Consider the specific security and privacy requirements and identify measures for the provision of each public service according to risk management plans.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PrivacyPolicyBusinessObject&#xA;&#xA;ABB name: eira:PrivacyPolicyBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PrivacyPolicyBusinessObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PrivacyPolicyBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="eira:PrivacyPolicyBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Privacy Policy ABB is a Business Object that regulates the personal data of any customer, client or employee inforamtion. "/>
+  <properties
+      key="eira:definitionSource"
+      value="EU Data Protection"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://commission.europa.eu/law/law-topic/data-protection_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Protection of individuals with regard to the processing of personal data - GDPR. https://eira-si.eu/privacy-policy/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Privacy Policy ABB is salient for semantic interoperability because it provides a guiding framework to ensure the privacy of data and information according to interoperability principles as stated in the EIF recommendation n° 46 and 47: &quot;Consider the specific security and privacy requirements and identify measures for the provision of each public service according to risk management plans.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PrivacyPolicyBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:BusinessObject>

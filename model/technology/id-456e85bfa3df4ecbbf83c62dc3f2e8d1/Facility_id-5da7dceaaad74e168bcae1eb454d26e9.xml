@@ -1,0 +1,48 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hybrid Cloud Facility"
+    id="id-5da7dceaaad74e168bcae1eb454d26e9"
+    documentation="Definition: Hybrid Cloud Facility ABB is a Facility that enables a mix of cloud computing services combining at least one private cloud and one public cloud working together. &#xA;&#xA;Source: Inspired in referent cloud service providers &#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): JRC- Development of the EU Green Public Procurement (GPP)- Criteria for Data Centres, Server Rooms and Cloud Services. https://ec.europa.eu/environment/gpp/pdf/jrc118558_2020_0605_data_centres_technical_report_jrc_clean_with_id.pdf&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Hybrid Cloud Facility ABB is salient for organizational and technical interoperability because it provides a set of business rules and responsibilities to the administration of public administration services. Moreover, it also provides the needed infrastructure to manage private and public services remotely. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/HybridCloudFacilityFacility&#xA;&#xA;ABB name: eira:HybridCloudFacilityFacility&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/HybridCloudFacilityFacility&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/HybridCloudFacilityFacility"/>
+  <properties
+      key="dct:type"
+      value="eira:HybridCloudFacilityFacility"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Hybrid Cloud Facility ABB is a Facility that enables a mix of cloud computing services combining at least one private cloud and one public cloud working together. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in referent cloud service providers "/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): JRC- Development of the EU Green Public Procurement (GPP)- Criteria for Data Centres, Server Rooms and Cloud Services. https://ec.europa.eu/environment/gpp/pdf/jrc118558_2020_0605_data_centres_technical_report_jrc_clean_with_id.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Hybrid Cloud Facility ABB is salient for organizational and technical interoperability because it provides a set of business rules and responsibilities to the administration of public administration services. Moreover, it also provides the needed infrastructure to manage private and public services remotely. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/HybridCloudFacilityFacility"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Facility>

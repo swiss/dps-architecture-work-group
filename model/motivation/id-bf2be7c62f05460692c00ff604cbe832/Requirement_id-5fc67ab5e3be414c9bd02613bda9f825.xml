@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Observability"
+    id="id-5fc67ab5e3be414c9bd02613bda9f825"
+    documentation="Definition: Observability is a non-functional requirement in IT that refers to the ability to monitor and analyze the behavior of a system or application in real-time. It involves collecting and analyzing data from various sources, such as logs, metrics, and traces, to gain insights into the system's performance, availability, and reliability. Observability helps IT teams identify and troubleshoot issues quickly, improve system performance, and ensure that the system meets the desired level of service. It is an essential requirement for complex and distributed systems that require constant monitoring and analysis to ensure optimal performance.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: Observability is a non-functional requirement that refers to the ability of a system to be monitored and analyzed in order to detect and diagnose issues. According to the TOGAF specification, observability is a key aspect of system performance and reliability, as it allows for proactive identification and resolution of problems before they impact users.&#xA;&#xA;To achieve observability, a system must be designed with the ability to collect and analyze data from various sources, including logs, metrics, and traces. This data must be made available to monitoring and analysis tools, which can then provide insights into system behavior and performance.&#xA;&#xA;The TOGAF guidelines recommend that observability be considered throughout the entire system development lifecycle, from initial design through to deployment and ongoing maintenance. This includes defining clear metrics and logging requirements, as well as selecting appropriate monitoring and analysis tools.&#xA;&#xA;In addition, the TOGAF documentation emphasizes the importance of ensuring that observability is integrated into the overall system architecture, rather than being treated as an afterthought. This requires careful consideration of factors such as data collection and storage, data processing and analysis, and user access to monitoring and analysis tools.&#xA;&#xA;Overall, observability is a critical non-functional requirement for any system that requires high levels of performance and reliability. By following the TOGAF guidelines and best practices, organizations can ensure that their systems are designed with observability in mind, and are able to proactively identify and resolve issues before they impact users.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Observability' could be the ability to monitor and track system performance metrics such as CPU usage, memory usage, network traffic, and response times. This would allow IT teams to quickly identify and troubleshoot any issues that may arise, ensuring that the system remains reliable and available to users. Additionally, observability could also include the ability to log and analyze user behavior, allowing for insights into how the system is being used and how it can be improved.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ObservabilityRequirement&#xA;&#xA;ABB name: eira:ObservabilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ObservabilityRequirement&#xA;&#xA;Name: Observability Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ObservabilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Observability Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Observability' could be the ability to monitor and track system performance metrics such as CPU usage, memory usage, network traffic, and response times. This would allow IT teams to quickly identify and troubleshoot any issues that may arise, ensuring that the system remains reliable and available to users. Additionally, observability could also include the ability to log and analyze user behavior, allowing for insights into how the system is being used and how it can be improved."/>
+  <properties
+      key="skos:definition"
+      value="Observability is a non-functional requirement in IT that refers to the ability to monitor and analyze the behavior of a system or application in real-time. It involves collecting and analyzing data from various sources, such as logs, metrics, and traces, to gain insights into the system's performance, availability, and reliability. Observability helps IT teams identify and troubleshoot issues quickly, improve system performance, and ensure that the system meets the desired level of service. It is an essential requirement for complex and distributed systems that require constant monitoring and analysis to ensure optimal performance."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="Observability is a non-functional requirement that refers to the ability of a system to be monitored and analyzed in order to detect and diagnose issues. According to the TOGAF specification, observability is a key aspect of system performance and reliability, as it allows for proactive identification and resolution of problems before they impact users.&#xA;&#xA;To achieve observability, a system must be designed with the ability to collect and analyze data from various sources, including logs, metrics, and traces. This data must be made available to monitoring and analysis tools, which can then provide insights into system behavior and performance.&#xA;&#xA;The TOGAF guidelines recommend that observability be considered throughout the entire system development lifecycle, from initial design through to deployment and ongoing maintenance. This includes defining clear metrics and logging requirements, as well as selecting appropriate monitoring and analysis tools.&#xA;&#xA;In addition, the TOGAF documentation emphasizes the importance of ensuring that observability is integrated into the overall system architecture, rather than being treated as an afterthought. This requires careful consideration of factors such as data collection and storage, data processing and analysis, and user access to monitoring and analysis tools.&#xA;&#xA;Overall, observability is a critical non-functional requirement for any system that requires high levels of performance and reliability. By following the TOGAF guidelines and best practices, organizations can ensure that their systems are designed with observability in mind, and are able to proactively identify and resolve issues before they impact users."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ObservabilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:ObservabilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

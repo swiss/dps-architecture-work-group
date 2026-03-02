@@ -1,0 +1,41 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Governance Analyst Concerns"
+    id="id-6fbdbec6043645049616488e42922371"
+    documentation="Definition: Governance Analyst Concerns ABB is a Grouping that covers the processes a governance analyst should follow, and the relation/influence of process related with other roles' processes, to read/assess/understand an eGovERA model. It includes elements such as the Organisational view and Legal view.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Governance Analyst Concerns ABB is a comprehensive catalogue of elements that a governance analyst needs to consider when assessing an eGovERA model. It includes the Organisational view, which pertains to the understanding of the structure, roles, and responsibilities within the organization. The Legal view, on the other hand, deals with the legal aspects, regulations, and compliance requirements that the organization needs to adhere to. These elements are crucial in providing a holistic understanding of the eGovERA model and its implications on the organization's governance.&#xA;&#xA;Example: For instance, a governance analyst may use the Organisational view to understand the hierarchy within the organization, the roles of different stakeholders, and how decisions are made and implemented.&#xA;In the Legal view, the analyst may assess the legal compliance of the organization, understanding the laws and regulations it needs to follow, and ensuring that the organization's processes are in line with these legal requirements.&#xA;&#xA;LOST view: [A] How to read the model&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/GovernanceAnalystConcernsGrouping&#xA;&#xA;ABB name: egovera:GovernanceAnalystConcernsGrouping&#xA;&#xA;EIRA concept: eira:None&#xA;&#xA;Last modification: 2023-11-19&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/GovernanceAnalystConcernsGrouping&#xA;&#xA;Name: Governance Analyst Concerns Catalogue&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/GovernanceAnalystConcernsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-19"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/GovernanceAnalystConcernsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Governance Analyst Concerns Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:GovernanceAnalystConcernsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Governance Analyst Concerns ABB is a Grouping that covers the processes a governance analyst should follow, and the relation/influence of process related with other roles' processes, to read/assess/understand an eGovERA model. It includes elements such as the Organisational view and Legal view."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, a governance analyst may use the Organisational view to understand the hierarchy within the organization, the roles of different stakeholders, and how decisions are made and implemented.&#xA;In the Legal view, the analyst may assess the legal compliance of the organization, understanding the laws and regulations it needs to follow, and ensuring that the organization's processes are in line with these legal requirements."/>
+  <properties
+      key="skos:note"
+      value="The Governance Analyst Concerns ABB is a comprehensive catalogue of elements that a governance analyst needs to consider when assessing an eGovERA model. It includes the Organisational view, which pertains to the understanding of the structure, roles, and responsibilities within the organization. The Legal view, on the other hand, deals with the legal aspects, regulations, and compliance requirements that the organization needs to adhere to. These elements are crucial in providing a holistic understanding of the eGovERA model and its implications on the organization's governance."/>
+  <properties
+      key="eira:concept"
+      value="eira:None"/>
+  <properties
+      key="eira:view"
+      value="[A] How to read the model"/>
+</archimate:Grouping>

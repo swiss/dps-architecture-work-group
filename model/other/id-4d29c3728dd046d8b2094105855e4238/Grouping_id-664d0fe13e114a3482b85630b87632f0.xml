@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analytics Enablers"
+    id="id-664d0fe13e114a3482b85630b87632f0"
+    documentation="Definition: Data Analytics Enablers ABB is a Grouping that refers to components and services that serve any current or future Digital Service Infrastructure (DSI) requiring data analysis capabilities.&#xA;&#xA;Source: Inspired in Data Act&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/data-act&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Microsoft Power BI - Power BI is a business analytics service by Microsoft. It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards. It is part of the Microsoft Power Platform.(https://powerbi.microsoft.com/it-it/what-is-power-bi/)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Analytics Enablers Grouping ABB is salient for technical Interoperability because it comprises tools and services that serve to digital service infrastructure of current or future digital services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/AnalyticsEnablersGrouping&#xA;&#xA;ABB name: eira:AnalyticsEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AnalyticsEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="eira:AnalyticsEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Analytics Enablers ABB is a Grouping that refers to components and services that serve any current or future Digital Service Infrastructure (DSI) requiring data analysis capabilities."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Data Act"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/data-act"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Microsoft Power BI - Power BI is a business analytics service by Microsoft. It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards. It is part of the Microsoft Power Platform.(https://powerbi.microsoft.com/it-it/what-is-power-bi/)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Analytics Enablers Grouping ABB is salient for technical Interoperability because it comprises tools and services that serve to digital service infrastructure of current or future digital services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AnalyticsEnablersGrouping"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AnalyticsEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

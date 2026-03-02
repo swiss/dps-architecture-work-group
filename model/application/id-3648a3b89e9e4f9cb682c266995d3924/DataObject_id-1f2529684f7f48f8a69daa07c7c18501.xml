@@ -1,0 +1,42 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Statistics High Value Dataset"
+    id="id-1f2529684f7f48f8a69daa07c7c18501"
+    documentation="Description: This dataspace comprise statistical data on select legal acts.&#xA;&#xA;Publisher: European Comission- Directive 2019/1024&#xA;&#xA;Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019L1024 &#xA;&#xA;LOST view: SV-Business Agnostic High Value Dataset&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/StatisticsHighValueDatasetDataObject&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/StatisticsHighValueDatasetDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataSetCatalogueDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="European Comission- Directive 2019/1024"/>
+  <properties
+      key="dct:description"
+      value="This dataspace comprise statistical data on select legal acts."/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/StatisticsHighValueDatasetDataObject"/>
+  <properties
+      key="dct:source"
+      value="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019L1024 "/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/StatisticsHighValueDatasetDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic High Value Dataset"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataSetCatalogueDataObject"/>
+</archimate:DataObject>

@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution Usability Architecture Decision Catalogue"
+    id="id-e792e616d73f431da2a85241b692de8a"
+    documentation="Definition: Digital Solution Usability Architecture Decision Catalogue (DSUADC) is a grouping that covers a collection of architectural decision records (ADRs) that focus on the usability aspects of a digital solution's architecture. These decisions involve considerations about adequacy recognition, learning, operability, user interface, and accessibility.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The DSUADC is a comprehensive catalogue that documents crucial decisions made about the usability aspects of a digital solution's architecture. Each element in the catalogue represents a specific area of focus. 'Adequacy Recognition' refers to decisions about how well the solution meets user needs and expectations. 'Learning' covers decisions about how users learn to use the solution. 'Operability' involves decisions about the ease of operating the solution. 'User Interface' refers to decisions about the design and functionality of the user interface. 'Accessibility' covers decisions about making the solution accessible to all users, including those with disabilities.&#xA;&#xA;Example: For instance, an ADR under 'Adequacy Recognition' might document the decision to use a particular user feedback system to ensure the solution meets user needs. An ADR under 'Learning' might cover the decision to include interactive tutorials to help new users learn how to use the solution. An ADR under 'Operability' might document the decision to use a specific technology to ensure smooth operation of the solution. An ADR under 'User Interface' could cover the decision to use a specific design pattern for the user interface. Lastly, an ADR under 'Accessibility' might document the decision to follow specific accessibility standards to make the solution usable by people with disabilities.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionUsabilityArchitectureDecisionCatalogueGrouping&#xA;&#xA;ABB name: eira:DigitalSolutionUsabilityArchitectureDecisionCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionUsabilityArchitectureDecisionCatalogueGrouping&#xA;&#xA;Name: Digital Solution Usability Architecture Decision Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionUsabilityArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionUsabilityArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Digital Solution Usability Architecture Decision Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionUsabilityArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Digital Solution Usability Architecture Decision Catalogue (DSUADC) is a grouping that covers a collection of architectural decision records (ADRs) that focus on the usability aspects of a digital solution's architecture. These decisions involve considerations about adequacy recognition, learning, operability, user interface, and accessibility."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, an ADR under 'Adequacy Recognition' might document the decision to use a particular user feedback system to ensure the solution meets user needs. An ADR under 'Learning' might cover the decision to include interactive tutorials to help new users learn how to use the solution. An ADR under 'Operability' might document the decision to use a specific technology to ensure smooth operation of the solution. An ADR under 'User Interface' could cover the decision to use a specific design pattern for the user interface. Lastly, an ADR under 'Accessibility' might document the decision to follow specific accessibility standards to make the solution usable by people with disabilities."/>
+  <properties
+      key="skos:note"
+      value="The DSUADC is a comprehensive catalogue that documents crucial decisions made about the usability aspects of a digital solution's architecture. Each element in the catalogue represents a specific area of focus. 'Adequacy Recognition' refers to decisions about how well the solution meets user needs and expectations. 'Learning' covers decisions about how users learn to use the solution. 'Operability' involves decisions about the ease of operating the solution. 'User Interface' refers to decisions about the design and functionality of the user interface. 'Accessibility' covers decisions about making the solution accessible to all users, including those with disabilities."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

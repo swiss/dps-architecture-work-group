@@ -1,0 +1,48 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Self Determination"
+    id="id-b666d5d95ac04ef1a39a057b82edc984"
+    documentation="Definition: The principle of self-determination in European Data Sharing emphasizes the individual's right to control their personal data and make informed decisions about its collection, use, and disclosure. It recognizes that individuals should have the autonomy to determine how their data is shared and used by others.&#xA;&#xA;Source: European Union&#xA;&#xA;Source reference: https://edpb.europa.eu/&#xA;&#xA;Additional information: Self-determination is a fundamental aspect of data protection and privacy rights. It ensures that individuals have the ability to exercise control over their personal data, including the right to provide or withhold consent for data processing activities. This principle is enshrined in various European data protection laws, such as the General Data Protection Regulation (GDPR), which grants individuals the right to be informed, access, rectify, and erase their personal data. Self-determination also includes the right to object to data processing, restrict processing, and the right to data portability.&#xA;&#xA;Example: An example of self-determination in practice is when an individual is presented with clear and understandable choices regarding the collection and use of their personal data. For instance, a website may provide options for users to opt-in or opt-out of certain data processing activities, such as targeted advertising or sharing data with third parties. By giving individuals the ability to exercise their self-determination, they can make informed decisions about their data and protect their privacy.&#xA;&#xA;LOST view: Architecture Principles view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SelfDeterminationPrinciple&#xA;&#xA;ABB name: eira:SelfDeterminationPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-03-17&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SelfDeterminationPrinciple&#xA;&#xA;Name: Self Determination&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/ArchitecturePrinciple&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/SelfDeterminationPrinciple"/>
+  <properties
+      key="dct:modified"
+      value="2024-03-17"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/SelfDeterminationPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Self Determination"/>
+  <properties
+      key="dct:type"
+      value="eira:SelfDeterminationPrinciple"/>
+  <properties
+      key="skos:definition"
+      value="The principle of self-determination in European Data Sharing emphasizes the individual's right to control their personal data and make informed decisions about its collection, use, and disclosure. It recognizes that individuals should have the autonomy to determine how their data is shared and used by others."/>
+  <properties
+      key="skos:example"
+      value="An example of self-determination in practice is when an individual is presented with clear and understandable choices regarding the collection and use of their personal data. For instance, a website may provide options for users to opt-in or opt-out of certain data processing activities, such as targeted advertising or sharing data with third parties. By giving individuals the ability to exercise their self-determination, they can make informed decisions about their data and protect their privacy."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:note"
+      value="Self-determination is a fundamental aspect of data protection and privacy rights. It ensures that individuals have the ability to exercise control over their personal data, including the right to provide or withhold consent for data processing activities. This principle is enshrined in various European data protection laws, such as the General Data Protection Regulation (GDPR), which grants individuals the right to be informed, access, rectify, and erase their personal data. Self-determination also includes the right to object to data processing, restrict processing, and the right to data portability."/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://edpb.europa.eu/"/>
+  <properties
+      key="eira:definitionSource"
+      value="European Union"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/ArchitecturePrinciple"/>
+</archimate:Principle>

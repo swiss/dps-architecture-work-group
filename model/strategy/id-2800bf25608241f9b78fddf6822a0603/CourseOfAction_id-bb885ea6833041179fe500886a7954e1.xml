@@ -1,0 +1,60 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Policy"
+    id="id-bb885ea6833041179fe500886a7954e1"
+    documentation="Definition: Public Policy ABB is a Course of Action allowing public authorities to bring social change in the medium and long term, in a given area.&#xA;&#xA;Source: EuroVoc &#xA;&#xA;Source reference: http://eurovoc.europa.eu/drupal/?q=request&amp;concepturi=http%3A%2F%2Feurovoc.europa.eu%2F8466&amp;termuri=http%3A%2F%2Feurovoc.europa.eu%2F209598&amp;language=en&amp;view=pt&amp;ifacelang=en&#xA;&#xA;Synonym: Policy Action&#xA;&#xA;Additional information: A Public Policy is based on certain values and objectives and is implemented using a variety of methods. It applies on the territory within which the authority is authorised to act.The policies overview of EU activities in all areas, from agriculture to transport: (http://ec.europa.eu/policies/index_en.htm)&#xA;&#xA;Example: The Common Agricultural Policy (CAP, https://ec.europa.eu/info/strategy/agriculture_en) is an example on how the Public Policy Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB). The common agricultural policy (CAP) – one of Europe’s oldest policies – has evolved along with the EU. Today's CAP supports a modern, market-oriented farming sector ensuring the provision of safe, affordable, high quality food, produced sustainably and respecting strict standards (environmental, animal welfare, food safety, etc.), as well as supporting investment in the broader rural economy.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Public Policy ABB  is salient for legal interoperability because it drives the production and formulation of legislation, and it is one of the main context elements to be taken into account when different organisations need to work together, as stated in the EIF: &quot;Legal interoperability is about ensuring that organisations operating under different legal frameworks, policies and strategies are able to work together&quot;.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicPolicyCourseOfAction&#xA;&#xA;ABB name: eira:PublicPolicyCourseOfAction&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicPolicyCourseOfAction&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PublicPolicyCourseOfAction"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicPolicyCourseOfAction"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value="Policy Action"/>
+  <properties
+      key="skos:definition"
+      value="Public Policy ABB is a Course of Action allowing public authorities to bring social change in the medium and long term, in a given area."/>
+  <properties
+      key="eira:definitionSource"
+      value="EuroVoc "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://eurovoc.europa.eu/drupal/?q=request&amp;concepturi=http%3A%2F%2Feurovoc.europa.eu%2F8466&amp;termuri=http%3A%2F%2Feurovoc.europa.eu%2F209598&amp;language=en&amp;view=pt&amp;ifacelang=en"/>
+  <properties
+      key="skos:example"
+      value="The Common Agricultural Policy (CAP, https://ec.europa.eu/info/strategy/agriculture_en) is an example on how the Public Policy Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB). The common agricultural policy (CAP) – one of Europe’s oldest policies – has evolved along with the EU. Today's CAP supports a modern, market-oriented farming sector ensuring the provision of safe, affordable, high quality food, produced sustainably and respecting strict standards (environmental, animal welfare, food safety, etc.), as well as supporting investment in the broader rural economy."/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Public Policy ABB  is salient for legal interoperability because it drives the production and formulation of legislation, and it is one of the main context elements to be taken into account when different organisations need to work together, as stated in the EIF: &quot;Legal interoperability is about ensuring that organisations operating under different legal frameworks, policies and strategies are able to work together&quot;."/>
+  <properties
+      key="skos:note"
+      value="A Public Policy is based on certain values and objectives and is implemented using a variety of methods. It applies on the territory within which the authority is authorised to act.The policies overview of EU activities in all areas, from agriculture to transport: (http://ec.europa.eu/policies/index_en.htm)"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PublicPolicyCourseOfAction"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:CourseOfAction>

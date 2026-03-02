@@ -1,0 +1,49 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linked Data Event Stream"
+    id="id-e90aa17456494b6e9caffba7dba84e69"
+    documentation="Definition: Linked Data Event Stream ABB is a Representation of immutable objects that can be publish, consumed and processing in real-time according to the Linked Data principles.&#xA;&#xA;Source: SEMIC&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/semic-support-centre&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): LDES - SEMIC Linked Event Streams pilot for the ERA (European Railway Agency). LDES provides a data publishing alternative based on Linked Data principles, that models dataset changes as a stream of events. This enables opportune data synchronization tasks and access to previous versions of dataset (historic data). In this pilot we aim to establish the foundations and show the benefits of the LDES approach, to power a specific use case required by ERA, namely the infrastructure change alert. https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/event/semic-linked-data-event-streams-pilot-era-9th-june&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Interoperability Saliency: The Linked Data Event Stream Representation ABB is salient for semantic interoperability because it contributes to secure data consumption and processing ensuring that exchanged data is not modified or altered. The fact of being immutable is relevant to ensure data integrity over time. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/LinkedDataEventStreamRepresentation&#xA;&#xA;ABB name: eira:LinkedDataEventStreamRepresentation&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LinkedDataEventStreamRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="eira:LinkedDataEventStreamRepresentation"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Linked Data Event Stream ABB is a Representation of immutable objects that can be publish, consumed and processing in real-time according to the Linked Data principles."/>
+  <properties
+      key="eira:definitionSource"
+      value="SEMIC"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/semic-support-centre"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): LDES - SEMIC Linked Event Streams pilot for the ERA (European Railway Agency). LDES provides a data publishing alternative based on Linked Data principles, that models dataset changes as a stream of events. This enables opportune data synchronization tasks and access to previous versions of dataset (historic data). In this pilot we aim to establish the foundations and show the benefits of the LDES approach, to power a specific use case required by ERA, namely the infrastructure change alert. https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/event/semic-linked-data-event-streams-pilot-era-9th-june"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Linked Data Event Stream Representation ABB is salient for semantic interoperability because it contributes to secure data consumption and processing ensuring that exchanged data is not modified or altered. The fact of being immutable is relevant to ensure data integrity over time. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LinkedDataEventStreamRepresentation"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LinkedDataEventStreamRepresentation"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Representation>

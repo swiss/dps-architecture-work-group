@@ -1,0 +1,53 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-Signature Preservation"
+    id="id-2610dd980d42471f8b962cafda6c2448"
+    documentation="Definition: e-Signature Preservation ABB is an Application Service extending the trustworthiness of the qualified electronic signature beyond the technological validity period. &#xA;&#xA;Source: eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC. &#xA;&#xA;Source reference: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG&#xA;&#xA;Additional information: An ‘electronic signature’ means data in electronic form which is attached to or logically associated with other data in electronic form and which is used by the signatory to sign.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Namirial Spa Long term archiving solution - Namirial is a Trust Service Provider, focused on addressing the fast growing market of Digital Transaction Management (DTM), which includes legally compliant electronic signatures, managing and tracking documents flows, conducting secure transactions and ensuring secure storage of data. It provides a long term archiving: •&#x9;Protect and preserve all documents generated while performing digital business transactions; •&#x9;Make those documents easily searchable; •&#x9;Accredited for Long-Term Archiving/Digital Preservation Services; •&#x9;SaaS, high-availability, multi-company solution built to archive large volumes of documents. https://www.xyzmo.com/digital-signature/e-signature-products&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The e-Signature Preservation Service ABB  is salient for technical interoperability because it provides the functionalities required for e-signature preservation service.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/E-SignaturePreservationApplicationService&#xA;&#xA;ABB name: eira:E-SignaturePreservationApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/E-SignaturePreservationApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/E-SignaturePreservationApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:E-SignaturePreservationApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="e-Signature Preservation ABB is an Application Service extending the trustworthiness of the qualified electronic signature beyond the technological validity period. "/>
+  <properties
+      key="eira:definitionSource"
+      value="eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC. "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Namirial Spa Long term archiving solution - Namirial is a Trust Service Provider, focused on addressing the fast growing market of Digital Transaction Management (DTM), which includes legally compliant electronic signatures, managing and tracking documents flows, conducting secure transactions and ensuring secure storage of data. It provides a long term archiving: •&#x9;Protect and preserve all documents generated while performing digital business transactions; •&#x9;Make those documents easily searchable; •&#x9;Accredited for Long-Term Archiving/Digital Preservation Services; •&#x9;SaaS, high-availability, multi-company solution built to archive large volumes of documents. https://www.xyzmo.com/digital-signature/e-signature-products"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The e-Signature Preservation Service ABB  is salient for technical interoperability because it provides the functionalities required for e-signature preservation service."/>
+  <properties
+      key="skos:note"
+      value="An ‘electronic signature’ means data in electronic form which is attached to or logically associated with other data in electronic form and which is used by the signatory to sign."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/E-SignaturePreservationApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution Technical Architecture Decision Catalogue"
+    id="id-2bb805a54bf743bbae45e97f290384fd"
+    documentation="Definition: Digital Solution Technical Architecture Decision Catalogue ABB is a Grouping that covers a range of elements related to the technical architectural decisions made during the development of a software system. These decisions typically involve the selection of specific technologies, frameworks, protocols, or design patterns that are best suited to the system's requirements and objectives.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The catalogue includes elements such as 'Technology Stack Selection', 'API Design', 'Event-Driven Architecture', 'Database Schema Design', 'Asynchronous Processing', 'Provide a Service Catalog', 'Managing Self-Description Schemas in the Federated Catalogue', 'Monolithic Architecture', 'Microservice Architecture', 'Serveless Architecture', 'Cloud-Native Architecture', 'Big-Data Architecture', and 'Service-Oriented Architecture'. Each of these elements represents a specific architectural decision that needs to be made during the development of a software system. These decisions are critical as they determine the overall structure and functionality of the system, as well as its ability to meet the needs of its users and to adapt to changes in technology and business requirements.&#xA;&#xA;Example: For instance, the 'Technology Stack Selection' element involves deciding on the specific technologies to be used in the system, such as the programming languages, databases, server technologies, and other tools. The 'API Design' element involves deciding on the structure and functionality of the APIs that the system will provide, which can affect its interoperability with other systems. The 'Event-Driven Architecture' element involves deciding on the use of events to drive the system's behavior, which can affect its responsiveness and scalability.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionTechnicalArchitectureDecisionCatalogueGrouping&#xA;&#xA;ABB name: eira:DigitalSolutionTechnicalArchitectureDecisionCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionTechnicalArchitectureDecisionCatalogueGrouping&#xA;&#xA;Name: Digital Solution Technical Architecture Decision Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionTechnicalArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionTechnicalArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Digital Solution Technical Architecture Decision Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionTechnicalArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Digital Solution Technical Architecture Decision Catalogue ABB is a Grouping that covers a range of elements related to the technical architectural decisions made during the development of a software system. These decisions typically involve the selection of specific technologies, frameworks, protocols, or design patterns that are best suited to the system's requirements and objectives."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, the 'Technology Stack Selection' element involves deciding on the specific technologies to be used in the system, such as the programming languages, databases, server technologies, and other tools. The 'API Design' element involves deciding on the structure and functionality of the APIs that the system will provide, which can affect its interoperability with other systems. The 'Event-Driven Architecture' element involves deciding on the use of events to drive the system's behavior, which can affect its responsiveness and scalability."/>
+  <properties
+      key="skos:note"
+      value="The catalogue includes elements such as 'Technology Stack Selection', 'API Design', 'Event-Driven Architecture', 'Database Schema Design', 'Asynchronous Processing', 'Provide a Service Catalog', 'Managing Self-Description Schemas in the Federated Catalogue', 'Monolithic Architecture', 'Microservice Architecture', 'Serveless Architecture', 'Cloud-Native Architecture', 'Big-Data Architecture', and 'Service-Oriented Architecture'. Each of these elements represents a specific architectural decision that needs to be made during the development of a software system. These decisions are critical as they determine the overall structure and functionality of the system, as well as its ability to meet the needs of its users and to adapt to changes in technology and business requirements."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

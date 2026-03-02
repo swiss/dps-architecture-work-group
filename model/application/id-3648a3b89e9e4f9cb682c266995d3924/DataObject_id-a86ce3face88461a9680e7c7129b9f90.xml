@@ -1,0 +1,49 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Registry"
+    id="id-a86ce3face88461a9680e7c7129b9f90"
+    documentation="Definition: Service Registry ABB is a Data Object that enables the implementation of a central repository of information that contains metadata about the available digital services.&#xA;&#xA;Source: Redhat&#xA;&#xA;Source reference: https://www.redhat.com/en/topics/integration/what-is-a-service-registry&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ZooKeeper - ZooKeeper is a centralized service registry for maintaining configuration information, naming, providing distributed synchronization, and providing group services. All of these kinds of services are used in some form or another by distributed applications. Each time they are implemented there is a lot of work that goes into fixing the bugs and race conditions that are inevitable. Because of the difficulty of implementing these kinds of services, applications initially usually skimp on them, which make them brittle in the presence of change and difficult to manage. Even when done correctly, different implementations of these services lead to management complexity when the applications are deployed. https://zookeeper.apache.org/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Service Registry ABB is a key interoperability enabler because it provides access to software systems over the Internet using standard protocols. In the most basic scenario there is a Web Service Provider that publishes a service and a Web Service Consumer that uses this service.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ServiceRegistryDataObject&#xA;&#xA;ABB name: eira:ServiceRegistryDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ServiceRegistryDataObject&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ServiceRegistryDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:ServiceRegistryDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Service Registry ABB is a Data Object that enables the implementation of a central repository of information that contains metadata about the available digital services."/>
+  <properties
+      key="eira:definitionSource"
+      value="Redhat"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.redhat.com/en/topics/integration/what-is-a-service-registry"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ZooKeeper - ZooKeeper is a centralized service registry for maintaining configuration information, naming, providing distributed synchronization, and providing group services. All of these kinds of services are used in some form or another by distributed applications. Each time they are implemented there is a lot of work that goes into fixing the bugs and race conditions that are inevitable. Because of the difficulty of implementing these kinds of services, applications initially usually skimp on them, which make them brittle in the presence of change and difficult to manage. Even when done correctly, different implementations of these services lead to management complexity when the applications are deployed. https://zookeeper.apache.org/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Service Registry ABB is a key interoperability enabler because it provides access to software systems over the Internet using standard protocols. In the most basic scenario there is a Web Service Provider that publishes a service and a Web Service Consumer that uses this service."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ServiceRegistryDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:DataObject>

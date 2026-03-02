@@ -1,0 +1,56 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantic Agreement"
+    id="id-b34c11b8195c453b9d29414a392fee9b"
+    documentation="Definition: Semantic Agreement ABB is a Contract formalising an agreement from a peer to the common ontology that is the result of a matching or mapping process that is used to resolve their semantic discrepancies. The combination matching process consists of a linguistic base, internal and external structure comparison. The result of the matching combination will be used to develop an agreement unit as a component of the agreement. There are some assumptions for the agreement, such as using the same language to represent the schema/ontology, labels and the meaning of a concept, and there is no individual at the common ontology.&#xA;&#xA;Source: Joinup&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/taxonomy/term/http_e_f_fdata_ceuropa_ceu_fdr8_fSemanticAgreement&#xA;&#xA;Additional information: The combination matching process consists of linguistic base, internal and external structure comparison. Result of matching combination will be used to develop agreement unit as component of agreement. There are some assumptions for the agreement, such as using same language to representation of schema/ontology, labels represent the meaning of concept, and there is no individual at the common ontology.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): SEMIC - &quot;Supporting alignments and agreements on common definitions and specifications at the semantic layer for the Member States and the EU institutions&quot;. https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/about&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Semantic Agreement ABB is a key interoperability enabler because it supports semantic governance by enabling collaboration between digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SemanticAgreementContract&#xA;&#xA;ABB name: eira:SemanticAgreementContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SemanticAgreementContract&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SemanticAgreementContract"/>
+  <properties
+      key="dct:type"
+      value="eira:SemanticAgreementContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Semantic Agreement ABB is a Contract formalising an agreement from a peer to the common ontology that is the result of a matching or mapping process that is used to resolve their semantic discrepancies. The combination matching process consists of a linguistic base, internal and external structure comparison. The result of the matching combination will be used to develop an agreement unit as a component of the agreement. There are some assumptions for the agreement, such as using the same language to represent the schema/ontology, labels and the meaning of a concept, and there is no individual at the common ontology."/>
+  <properties
+      key="eira:definitionSource"
+      value="Joinup"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/taxonomy/term/http_e_f_fdata_ceuropa_ceu_fdr8_fSemanticAgreement"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): SEMIC - &quot;Supporting alignments and agreements on common definitions and specifications at the semantic layer for the Member States and the EU institutions&quot;. https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/about"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Semantic Agreement ABB is a key interoperability enabler because it supports semantic governance by enabling collaboration between digital public services."/>
+  <properties
+      key="skos:note"
+      value="The combination matching process consists of linguistic base, internal and external structure comparison. Result of matching combination will be used to develop agreement unit as component of agreement. There are some assumptions for the agreement, such as using same language to representation of schema/ontology, labels represent the meaning of concept, and there is no individual at the common ontology."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SemanticAgreementContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Contract>

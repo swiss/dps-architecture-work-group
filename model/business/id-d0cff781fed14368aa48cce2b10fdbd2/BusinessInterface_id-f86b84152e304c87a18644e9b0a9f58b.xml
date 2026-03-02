@@ -1,0 +1,55 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Public Service Delivery"
+    id="id-f86b84152e304c87a18644e9b0a9f58b"
+    documentation="Definition: Digital Public Service Delivery ABB is a Business Interface representing the way in which the public sector delivers digital technologies and public services to citizens and businesses.&#xA;&#xA;Source: OECD &#xA;&#xA;Source reference: https://www.oecd-ilibrary.org/docserver/gov_glance-2017-72-en.pdf?expires=1649771036&amp;id=id&amp;accname=guest&amp;checksum=15BFD2F7E916921236CCF160605A6430&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Spanish Tax Agency is responsible for providing Digital Public Services on TAX payment. https://sede.agenciatributaria.gob.es/Sede/en_gb/iva.html&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Digital Public Service Delivery ABB is a key interoperability enabler (*) for organizational and semantic interoperability because it defines the mechanism to deliver digital services in terms of (i) establishing a mechanism to interact with the data; (ii) establishing rules to validate the data and procedures; and (iii) provide a transparent response to the different petitions from the stakeholders.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceDeliveryBusinessInterface&#xA;&#xA;ABB name: eira:DigitalPublicServiceDeliveryBusinessInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceDeliveryBusinessInterface&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceDeliveryBusinessInterface"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalPublicServiceDeliveryBusinessInterface"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digital Public Service Delivery ABB is a Business Interface representing the way in which the public sector delivers digital technologies and public services to citizens and businesses."/>
+  <properties
+      key="eira:definitionSource"
+      value="OECD "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.oecd-ilibrary.org/docserver/gov_glance-2017-72-en.pdf?expires=1649771036&amp;id=id&amp;accname=guest&amp;checksum=15BFD2F7E916921236CCF160605A6430"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Spanish Tax Agency is responsible for providing Digital Public Services on TAX payment. https://sede.agenciatributaria.gob.es/Sede/en_gb/iva.html"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Digital Public Service Delivery ABB is a key interoperability enabler (*) for organizational and semantic interoperability because it defines the mechanism to deliver digital services in terms of (i) establishing a mechanism to interact with the data; (ii) establishing rules to validate the data and procedures; and (iii) provide a transparent response to the different petitions from the stakeholders."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceDeliveryBusinessInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessInterface>

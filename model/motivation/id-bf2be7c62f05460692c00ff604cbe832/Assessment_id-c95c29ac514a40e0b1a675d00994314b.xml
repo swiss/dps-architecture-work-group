@@ -1,0 +1,30 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="European Interoperability Reference Architecture"
+    id="id-c95c29ac514a40e0b1a675d00994314b"
+    documentation="Definition: The European Interoperability Reference Architecture (EIRA) is a framework that promotes seamless integration between eGovernment systems across Europe.&#xA;&#xA;Viewpoint: Enterprise Architecture Framework alignment guidelines viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EuropeanInteroperabilityReferenceArchitectureAssessment&#xA;&#xA;ABB name: eira:EuropeanInteroperabilityReferenceArchitectureAssessment&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EuropeanInteroperableReferenceArchitectureAssessment&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/EuropeanInteroperableReferenceArchitectureAssessment"/>
+  <properties
+      key="dct:type"
+      value="eira:EuropeanInteroperabilityReferenceArchitectureAssessment"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/EuropeanInteroperabilityReferenceArchitectureAssessment"/>
+  <properties
+      key="skos:definition"
+      value="The European Interoperability Reference Architecture (EIRA) is a framework that promotes seamless integration between eGovernment systems across Europe."/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+</archimate:Assessment>

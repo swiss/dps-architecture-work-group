@@ -1,0 +1,49 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open Data"
+    id="id-d21664c66e2c431b9aa4913224e41080"
+    documentation="Definition: Open Data ABB is a Representation of the information collected, produced or paid for by the public bodies and made freely available for re-use for any purpose&#xA;&#xA;Source: European Comission&#xA;&#xA;Source reference: https://data.europa.eu/en/trening/what-open-data&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): datos.gob.es https://datos.gob.es/en&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Interoperability Saliency: The Open Data Representation ABB is salient for semantic interoperability because it is the basis for sharing, reusing and making available relevant and public information from public organisations and the digital public services delivery. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/OpenDataRepresentation&#xA;&#xA;ABB name: eira:OpenDataRepresentation&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/OpenDataRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/OpenDataRepresentation"/>
+  <properties
+      key="dct:type"
+      value="eira:OpenDataRepresentation"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Open Data ABB is a Representation of the information collected, produced or paid for by the public bodies and made freely available for re-use for any purpose"/>
+  <properties
+      key="eira:definitionSource"
+      value="European Comission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://data.europa.eu/en/trening/what-open-data"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): datos.gob.es https://datos.gob.es/en"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Open Data Representation ABB is salient for semantic interoperability because it is the basis for sharing, reusing and making available relevant and public information from public organisations and the digital public services delivery. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/OpenDataRepresentation"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Representation>

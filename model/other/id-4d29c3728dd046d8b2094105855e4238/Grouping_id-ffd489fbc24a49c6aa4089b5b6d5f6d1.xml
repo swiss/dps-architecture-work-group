@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity and Access Infrastructure Enablers"
+    id="id-ffd489fbc24a49c6aa4089b5b6d5f6d1"
+    documentation="Definition: Identity and Access Infrastructure Enablers ABB is a Grouìng of a set of components and services that provide the underlying functionality to implement identity and access management solutions&#xA;&#xA;Source: Inspired in CAMSS&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Lightweight Directory Access Protocol can be implemented in multiple platforms or systems, allowing to integrating an organisatio'n LDAP-enabled identity management service to other platforms such as Drupal. https://www.drupal.org/docs/contributed-modules/lightweight-directory-access-protocol-ldap&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Identity and Access Infrastructure Enablers ABB is Salient for the technical, organizational and semantic interoperability because it provides (i) the setup and implementation of rules to access public services, (ii) the tools and mechanism to identify unequivocally organizations or individuals, (iii) the tools and mechanisms to facilitate the access and use of the public services&#xA;&#xA;Identifier: http://data.europa.eu/dr8/IdentityAndAccessInfrastructureEnablersGrouping&#xA;&#xA;ABB name: eira:IdentityAndAccessInfrastructureEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/IdentityAndAccessInfrastructureEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/IdentityAndAccessInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:IdentityAndAccessInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Identity and Access Infrastructure Enablers ABB is a Grouìng of a set of components and services that provide the underlying functionality to implement identity and access management solutions"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in CAMSS"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Lightweight Directory Access Protocol can be implemented in multiple platforms or systems, allowing to integrating an organisatio'n LDAP-enabled identity management service to other platforms such as Drupal. https://www.drupal.org/docs/contributed-modules/lightweight-directory-access-protocol-ldap"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Identity and Access Infrastructure Enablers ABB is Salient for the technical, organizational and semantic interoperability because it provides (i) the setup and implementation of rules to access public services, (ii) the tools and mechanism to identify unequivocally organizations or individuals, (iii) the tools and mechanisms to facilitate the access and use of the public services"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/IdentityAndAccessInfrastructureEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

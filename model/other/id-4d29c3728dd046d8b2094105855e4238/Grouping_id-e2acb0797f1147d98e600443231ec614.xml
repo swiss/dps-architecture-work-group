@@ -1,0 +1,41 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution Architect Concerns"
+    id="id-e2acb0797f1147d98e600443231ec614"
+    documentation="Definition: Solution Architect Concerns ABB is a Grouping that covers the processes a solution architect should follow, and the relation/influence of process related with other roles' processes, to read/assess/understand an eGovERA model. It includes the journeys of various roles such as Public Policy Officer, Governance Analyst, Information Architect, Software Architect, and Infrastructure Architect.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Solution Architect Concerns ABB is a comprehensive catalogue that outlines the key concerns and processes that a solution architect should consider when working with an eGovERA model. It includes the journeys of various roles, providing a detailed roadmap for each. The Public Policy Officer Journey, for instance, outlines the steps a public policy officer would take in the context of the eGovERA model. Similarly, the Governance Analyst Journey, Information Architect Journey, Software Architect Journey, and Infrastructure Architect Journey provide a step-by-step guide for these roles. Each journey is designed to help the solution architect understand the processes, responsibilities, and concerns of these roles, thereby enabling them to better assess and understand the eGovERA model.&#xA;&#xA;Example: For instance, the 'Public Policy Officer Journey' might include steps like 'Identify Policy Needs', 'Develop Policy Proposal', 'Implement Policy', and 'Evaluate Policy Impact'. Similarly, the 'Software Architect Journey' might include steps like 'Define Software Requirements', 'Design Software Architecture', 'Implement Software', and 'Test and Validate Software'. By understanding these journeys, a solution architect can better understand how each role interacts with the eGovERA model and can therefore design more effective solutions.&#xA;&#xA;LOST view: [A] How to read the model&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SolutionArchitectConcernsGrouping&#xA;&#xA;ABB name: egovera:SolutionArchitectConcernsGrouping&#xA;&#xA;EIRA concept: eira:None&#xA;&#xA;Last modification: 2023-11-19&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SolutionArchitectConcernsGrouping&#xA;&#xA;Name: Solution Architect Concerns Catalogue&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/SolutionArchitectConcernsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-19"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/SolutionArchitectConcernsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Solution Architect Concerns Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:SolutionArchitectConcernsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Solution Architect Concerns ABB is a Grouping that covers the processes a solution architect should follow, and the relation/influence of process related with other roles' processes, to read/assess/understand an eGovERA model. It includes the journeys of various roles such as Public Policy Officer, Governance Analyst, Information Architect, Software Architect, and Infrastructure Architect."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, the 'Public Policy Officer Journey' might include steps like 'Identify Policy Needs', 'Develop Policy Proposal', 'Implement Policy', and 'Evaluate Policy Impact'. Similarly, the 'Software Architect Journey' might include steps like 'Define Software Requirements', 'Design Software Architecture', 'Implement Software', and 'Test and Validate Software'. By understanding these journeys, a solution architect can better understand how each role interacts with the eGovERA model and can therefore design more effective solutions."/>
+  <properties
+      key="skos:note"
+      value="The Solution Architect Concerns ABB is a comprehensive catalogue that outlines the key concerns and processes that a solution architect should consider when working with an eGovERA model. It includes the journeys of various roles, providing a detailed roadmap for each. The Public Policy Officer Journey, for instance, outlines the steps a public policy officer would take in the context of the eGovERA model. Similarly, the Governance Analyst Journey, Information Architect Journey, Software Architect Journey, and Infrastructure Architect Journey provide a step-by-step guide for these roles. Each journey is designed to help the solution architect understand the processes, responsibilities, and concerns of these roles, thereby enabling them to better assess and understand the eGovERA model."/>
+  <properties
+      key="eira:concept"
+      value="eira:None"/>
+  <properties
+      key="eira:view"
+      value="[A] How to read the model"/>
+</archimate:Grouping>

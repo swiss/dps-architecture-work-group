@@ -1,0 +1,49 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linked Data"
+    id="id-c749a8ec439b4b9aa55788c3c520e0f2"
+    documentation="Definition: Linked data ABB is a Representation that enables a set of principles and technologies for publishing, sharing, and connecting structured data on the web.&#xA;&#xA;Source: W3C-Linked Data&#xA;&#xA;Source reference: https://www.w3.org/standards/semanticweb/data&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Publications Office Linked Data Repository. https://op.europa.eu/en/linked-data&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Interoperability Saliency: The Linked Data Representation ABB is salient for semantic interoperability because it provides a set of publishing, sharing, and connection methods that allow linking the data from digital public services, making it more meaningful and increasing the quality and scope of data and services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LinkedDataRepresentation&#xA;&#xA;ABB name: eira:LinkedDataRepresentation&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LinkedDataRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LinkedDataRepresentation"/>
+  <properties
+      key="dct:type"
+      value="eira:LinkedDataRepresentation"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Linked data ABB is a Representation that enables a set of principles and technologies for publishing, sharing, and connecting structured data on the web."/>
+  <properties
+      key="eira:definitionSource"
+      value="W3C-Linked Data"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.w3.org/standards/semanticweb/data"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Publications Office Linked Data Repository. https://op.europa.eu/en/linked-data"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Linked Data Representation ABB is salient for semantic interoperability because it provides a set of publishing, sharing, and connection methods that allow linking the data from digital public services, making it more meaningful and increasing the quality and scope of data and services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LinkedDataRepresentation"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Representation>

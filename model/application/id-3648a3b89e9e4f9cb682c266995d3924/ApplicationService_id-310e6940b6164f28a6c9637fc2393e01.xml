@@ -1,0 +1,54 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Policy Engine"
+    id="id-310e6940b6164f28a6c9637fc2393e01"
+    documentation="Definition: A Data Policy Engine is an IT concept that refers to a software component or system responsible for enforcing data policies and rules within an organization. It acts as a centralized control point for managing and governing data access, usage, and security based on predefined policies.&#xA;&#xA;Source: Techopedia&#xA;&#xA;Source reference: https://www.techopedia.com/definition/32545/data-policy-engine-dpe&#xA;&#xA;Additional information: The Data Policy Engine enables organizations to define and enforce data policies consistently across various data sources, applications, and user roles. It provides a flexible framework to create and manage policies related to data privacy, data sharing, data retention, data classification, and more. The engine evaluates incoming data requests against the defined policies and applies appropriate actions or restrictions. It helps organizations ensure compliance with regulatory requirements, maintain data integrity, and mitigate risks associated with unauthorized data access or misuse.&#xA;&#xA;Example: An example of the application of a Data Policy Engine is in a healthcare organization. The engine can be used to enforce policies that restrict access to patient medical records based on the user's role and the sensitivity of the data. It can also enforce policies related to data anonymization when sharing data with external research organizations. The Data Policy Engine ensures that only authorized individuals can access and use patient data, and it provides an audit trail for monitoring and reporting data access activities.&#xA;&#xA;LOST view: TVA-Data Management Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataPolicyEngineApplicationService&#xA;&#xA;ABB name: egovera:DataPolicyEngineApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataPolicyEngineApplicationService&#xA;&#xA;Name: Data Policy Engine Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataPolicyEngineApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataPolicyEngineApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Data Policy Engine Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataPolicyEngineApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="A Data Policy Engine is an IT concept that refers to a software component or system responsible for enforcing data policies and rules within an organization. It acts as a centralized control point for managing and governing data access, usage, and security based on predefined policies."/>
+  <properties
+      key="eira:definitionSource"
+      value="Techopedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.techopedia.com/definition/32545/data-policy-engine-dpe"/>
+  <properties
+      key="skos:example"
+      value="An example of the application of a Data Policy Engine is in a healthcare organization. The engine can be used to enforce policies that restrict access to patient medical records based on the user's role and the sensitivity of the data. It can also enforce policies related to data anonymization when sharing data with external research organizations. The Data Policy Engine ensures that only authorized individuals can access and use patient data, and it provides an audit trail for monitoring and reporting data access activities."/>
+  <properties
+      key="skos:note"
+      value="The Data Policy Engine enables organizations to define and enforce data policies consistently across various data sources, applications, and user roles. It provides a flexible framework to create and manage policies related to data privacy, data sharing, data retention, data classification, and more. The engine evaluates incoming data requests against the defined policies and applies appropriate actions or restrictions. It helps organizations ensure compliance with regulatory requirements, maintain data integrity, and mitigate risks associated with unauthorized data access or misuse."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Data Management Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Dataspace Enablers"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

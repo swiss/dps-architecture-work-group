@@ -1,0 +1,45 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learning Platform System"
+    id="id-a4be387767d543d8811520b6c7977a5c"
+    documentation="Definition: A Learning Platform System is a software application service that provides a comprehensive platform for managing and delivering learning content and experiences. It enables organizations to create, manage, and deliver various types of learning materials, such as courses, training modules, assessments, and educational resources. The Learning Platform System typically includes features such as content authoring, learner management, progress tracking, assessment tools, discussion forums, and collaboration capabilities. It supports both self-paced and instructor-led learning, fostering employee or user development, knowledge acquisition, and skill enhancement. The Learning Platform System application service facilitates efficient and effective learning experiences, enabling organizations to deliver training and educational programs in a centralized and scalable manner.&#xA;&#xA;Source: Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/documents/4002299&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/LearningPlatformSystemApplicationService&#xA;&#xA;ABB name: egovera:LearningPlatformSystemApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/LearningPlatformSystemApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalWorkplaceApplicationService&#xA;&#xA;">
+  <properties
+      key="skos:definition"
+      value="A Learning Platform System is a software application service that provides a comprehensive platform for managing and delivering learning content and experiences. It enables organizations to create, manage, and deliver various types of learning materials, such as courses, training modules, assessments, and educational resources. The Learning Platform System typically includes features such as content authoring, learner management, progress tracking, assessment tools, discussion forums, and collaboration capabilities. It supports both self-paced and instructor-led learning, fostering employee or user development, knowledge acquisition, and skill enhancement. The Learning Platform System application service facilitates efficient and effective learning experiences, enabling organizations to deliver training and educational programs in a centralized and scalable manner."/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/documents/4002299"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/LearningPlatformSystemApplicationService"/>
+  <properties
+      key="dct:type"
+      value="egovera:LearningPlatformSystemApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Digital Workplace Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/LearningPlatformSystemApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalWorkplaceApplicationService"/>
+</archimate:ApplicationService>

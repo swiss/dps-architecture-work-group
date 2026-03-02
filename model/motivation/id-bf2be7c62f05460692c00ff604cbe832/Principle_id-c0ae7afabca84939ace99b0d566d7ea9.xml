@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proactiveness"
+    id="id-c0ae7afabca84939ace99b0d566d7ea9"
+    documentation="Definition: Proactiveness refers to proactive services, which are public services that a public institution delivers following its own initiatives. European institutions and public administrations throughout Europe, are reference actors and roles that can lead the environment on digital public services and also on the use of available data for the creation of innovative services taking as basis life, business events and circumstances. There is an increasing amount of data from citizens, businesses and other stakeholders that European institutions can leverage to think and create digital public services according to users needs (citizens or businesses). For the implementation of proactiveness on digital public services, making proactive public services, there are implications at different levels such as:At the legal level, ensure that the data used is treated and managed following the correspondent legal clauses;At the organisational level, ensure that digital capabilities are instantiated by services aligned with user needs and following the correspondent agreement between parties to ensure data sovereignty;At the legal interoperability, ensure that data is properly described and following the current approaches for semantic interoperability; and,At the technical level, ensure that proper technical application and technology services are available to reuse and deliver those services. &quot;&quot;&#xA;&#xA;Source: Joinup&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/proactiveness&#xA;&#xA;ABB name: elap:ProactivenessPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Proactiveness&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:ProactivenessPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Proactiveness"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/proactiveness"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="Joinup"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="Proactiveness refers to proactive services, which are public services that a public institution delivers following its own initiatives. European institutions and public administrations throughout Europe, are reference actors and roles that can lead the environment on digital public services and also on the use of available data for the creation of innovative services taking as basis life, business events and circumstances. There is an increasing amount of data from citizens, businesses and other stakeholders that European institutions can leverage to think and create digital public services according to users needs (citizens or businesses). For the implementation of proactiveness on digital public services, making proactive public services, there are implications at different levels such as:At the legal level, ensure that the data used is treated and managed following the correspondent legal clauses;At the organisational level, ensure that digital capabilities are instantiated by services aligned with user needs and following the correspondent agreement between parties to ensure data sovereignty;At the legal interoperability, ensure that data is properly described and following the current approaches for semantic interoperability; and,At the technical level, ensure that proper technical application and technology services are available to reuse and deliver those services. &quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

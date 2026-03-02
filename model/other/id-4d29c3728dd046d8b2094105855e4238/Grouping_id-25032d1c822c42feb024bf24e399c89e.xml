@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution Maintenability &amp; Quality Architecture Decision Catalogue"
+    id="id-25032d1c822c42feb024bf24e399c89e"
+    documentation="Definition: Digital Solution Maintainability &amp; Quality Architecture Decision Catalogue ABB is a grouping that covers the technical architectural decisions related to the maintainability and quality of digital solutions. It includes decisions about version control, coding standards, and documentation, which are crucial for the development, maintenance, and quality assurance of software systems.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Digital Solution Maintainability &amp; Quality Architecture Decision Catalogue ABB is a collection of architectural decision records (ADRs) that document the decisions made regarding the technical aspects of a software system's architecture. These decisions typically involve choosing specific technologies, frameworks, protocols, or design patterns. The catalogue includes decisions about version control, which is crucial for tracking changes in the software and facilitating collaboration among developers; coding standards, which ensure consistency and readability in the code; and documentation, which provides necessary information about the software to developers, users, and other stakeholders.&#xA;&#xA;Example: [object Object]&#xA;[object Object]&#xA;[object Object]&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionMaintenabilityQualityArchitectureDecisionCatalogueGrouping&#xA;&#xA;ABB name: eira:DigitalSolutionMaintenabilityQualityArchitectureDecisionCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionMaintenabilityQualityArchitectureDecisionCatalogueGrouping&#xA;&#xA;Name: Digital Solution Maintenability &amp; Quality Architecture Decision Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionMaintenabilityQualityArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionMaintenabilityQualityArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Digital Solution Maintenability &amp; Quality Architecture Decision Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionMaintenabilityQualityArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Digital Solution Maintainability &amp; Quality Architecture Decision Catalogue ABB is a grouping that covers the technical architectural decisions related to the maintainability and quality of digital solutions. It includes decisions about version control, coding standards, and documentation, which are crucial for the development, maintenance, and quality assurance of software systems."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="[object Object]&#xA;[object Object]&#xA;[object Object]"/>
+  <properties
+      key="skos:note"
+      value="The Digital Solution Maintainability &amp; Quality Architecture Decision Catalogue ABB is a collection of architectural decision records (ADRs) that document the decisions made regarding the technical aspects of a software system's architecture. These decisions typically involve choosing specific technologies, frameworks, protocols, or design patterns. The catalogue includes decisions about version control, which is crucial for tracking changes in the software and facilitating collaboration among developers; coding standards, which ensure consistency and readability in the code; and documentation, which provides necessary information about the software to developers, users, and other stakeholders."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

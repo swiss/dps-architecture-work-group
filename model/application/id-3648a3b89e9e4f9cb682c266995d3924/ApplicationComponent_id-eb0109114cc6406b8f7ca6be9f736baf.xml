@@ -1,0 +1,49 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Workplace"
+    id="id-eb0109114cc6406b8f7ca6be9f736baf"
+    documentation="Definition: Digital Workplace ABB is an Application Component that enables the implementation of the procedures to freely collaborate independently from the location and boundaries while maintaining high-security standards and increasing productivity and efficiency.&#xA;&#xA;Source: European Comission&#xA;&#xA;Source reference: https://ec.europa.eu/info/publications/digital-workplace-strategy_en&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Set of IT tools used by European Commission officials, workers, etc. There is a new strategy put in place by the Commission to improve the work of the different roles involved. https://europa.eu/digitec/news/digital-workplace-european-commission/&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Digital Workplace Application Component ABB is salient for technical interoperability because it provides the components and tools that allow the free collaboration of staffing people while maintaining high-security standards. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalWorkplaceApplicationComponent&#xA;&#xA;ABB name: eira:DigitalWorkplaceApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalWorkplaceApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalWorkplaceApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalWorkplaceApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digital Workplace ABB is an Application Component that enables the implementation of the procedures to freely collaborate independently from the location and boundaries while maintaining high-security standards and increasing productivity and efficiency."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Comission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/info/publications/digital-workplace-strategy_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Set of IT tools used by European Commission officials, workers, etc. There is a new strategy put in place by the Commission to improve the work of the different roles involved. https://europa.eu/digitec/news/digital-workplace-european-commission/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Digital Workplace Application Component ABB is salient for technical interoperability because it provides the components and tools that allow the free collaboration of staffing people while maintaining high-security standards. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalWorkplaceApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

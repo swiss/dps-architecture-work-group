@@ -1,0 +1,48 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Partnership"
+    id="id-790e9f251bf244df9f4d562eb06dd6d2"
+    documentation="Definition: The European Commission's digital transformation must be based on the identification of cross-organisational needs and the development of internal partnerships.  Strong and reliable relationships with other EU institutions and beyond, should be fostered in order to share resources and remain at the forefront of the latest technological trends. Specific approaches in technology such as user-centric, data-driven and agile trends must be pursued. The creation of MoU and organisational agreements is required to ensure that public Institutions are aware of their role and the role of others.&#xA;&#xA;Source: C(2022) 4388 final COMMUNICATION TO THE COMMISSION European Commission digital strategy Next generation digital Commission&#xA;&#xA;Source reference: https://commission.europa.eu/publications/european-commission-digital-strategy_en&#xA;&#xA;Additional information: Strong and reliable relationships with other EU institutions and beyond, should be fostered in order to share resources and remain at the forefront of the latest technological trends. Specific approaches in technology such as user-centric, data-driven and agile trends must be pursued.&#xA;The Digital Strategy sets a new vision, addressing digital transformation opportunities of a post-pandemic scenario, and supporting the delivery of the EU’s strategic priorities by 2030.&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/digital-partnership&#xA;&#xA;ABB name: elap:digital-partnership&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Digital Partnership&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:digital-partnership"/>
+  <properties
+      key="dct:title"
+      value="Digital Partnership"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/digital-partnership"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="skos:note"
+      value="Strong and reliable relationships with other EU institutions and beyond, should be fostered in order to share resources and remain at the forefront of the latest technological trends. Specific approaches in technology such as user-centric, data-driven and agile trends must be pursued.&#xA;The Digital Strategy sets a new vision, addressing digital transformation opportunities of a post-pandemic scenario, and supporting the delivery of the EU’s strategic priorities by 2030."/>
+  <properties
+      key="eira:definitionSource"
+      value="C(2022) 4388 final COMMUNICATION TO THE COMMISSION European Commission digital strategy Next generation digital Commission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://commission.europa.eu/publications/european-commission-digital-strategy_en"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="OV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:definition"
+      value="The European Commission's digital transformation must be based on the identification of cross-organisational needs and the development of internal partnerships.  Strong and reliable relationships with other EU institutions and beyond, should be fostered in order to share resources and remain at the forefront of the latest technological trends. Specific approaches in technology such as user-centric, data-driven and agile trends must be pursued. The creation of MoU and organisational agreements is required to ensure that public Institutions are aware of their role and the role of others."/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

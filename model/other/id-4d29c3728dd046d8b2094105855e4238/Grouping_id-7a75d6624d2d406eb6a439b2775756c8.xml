@@ -1,0 +1,48 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Translation Enablers"
+    id="id-7a75d6624d2d406eb6a439b2775756c8"
+    documentation="Definition: Machine Translation Enablers ABB is a Groping that refers to tools or components that facilitate the translation of text from one language to another using machine learning techniques&#xA;&#xA;Source: Inspired in eTranslation&#xA;&#xA;Source reference: https://commission.europa.eu/resources-partners/etranslation_en&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Translation Enablers Grouping ABB is salient for technical interoperability because it comprises a set of tools and components that ensure the translation of digital public services to different languages in the European Union by using machine learning techniques. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/TranslationEnablersGrouping&#xA;&#xA;ABB name: eira:TranslationEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TranslationEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/TranslationEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:TranslationEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Machine Translation Enablers ABB is a Groping that refers to tools or components that facilitate the translation of text from one language to another using machine learning techniques"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in eTranslation"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://commission.europa.eu/resources-partners/etranslation_en"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Translation Enablers Grouping ABB is salient for technical interoperability because it comprises a set of tools and components that ensure the translation of digital public services to different languages in the European Union by using machine learning techniques. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/TranslationEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

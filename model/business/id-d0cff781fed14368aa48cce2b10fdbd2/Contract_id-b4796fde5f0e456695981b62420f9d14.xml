@@ -1,0 +1,69 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Specification"
+    id="id-b4796fde5f0e456695981b62420f9d14"
+    documentation="Definition: Interoperability Specification ABB is a Contract with most detail possible level of granularity on an EIRA SBB, formulated as an agreed normative statement in design terms on a legal, organisational, semantic, or technical attribute of an European Public Service. It can refer to existing standards or specifications&#xA;&#xA;Source: ISA2&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/taxonomy/term/http_e_f_fdata_ceuropa_ceu_fdr8_fInteroperabilitySpecification#:~:text=DESCRIPTION%3A%20An%20Interoperability%20Specification%20is%20a%20document%20of,It%20can%20refer%20to%20existing%20standards%20or%20specifications&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: EIRA Ontology viewpoint&#xA;&#xA;Interoperability Saliency: The interoperability specification ABB is salient for legal interoperability because it establishes the normative statements for ensuring interoperability in public services. This ABB is salient for organizational interoperability by establishing the business principles to exchange data between public services. The Interoperability specification ABB is salient for semantic interoperability too in terms of identifying technical standards for the exchange of information between public services. And finally, the ABB is salient for technical interoperability due to it determines the technical requirements to implement the interoperability between public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/InteroperabilitySpecificationContract&#xA;&#xA;ABB name: eira:InteroperabilitySpecificationContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/InteroperabilitySpecificationContract&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/InteroperabilitySpecificationContract"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilitySpecificationContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Interoperability Specification ABB is a Contract with most detail possible level of granularity on an EIRA SBB, formulated as an agreed normative statement in design terms on a legal, organisational, semantic, or technical attribute of an European Public Service. It can refer to existing standards or specifications"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/taxonomy/term/http_e_f_fdata_ceuropa_ceu_fdr8_fInteroperabilitySpecification#:~:text=DESCRIPTION%3A%20An%20Interoperability%20Specification%20is%20a%20document%20of,It%20can%20refer%20to%20existing%20standards%20or%20specifications"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The interoperability specification ABB is salient for legal interoperability because it establishes the normative statements for ensuring interoperability in public services. This ABB is salient for organizational interoperability by establishing the business principles to exchange data between public services. The Interoperability specification ABB is salient for semantic interoperability too in terms of identifying technical standards for the exchange of information between public services. And finally, the ABB is salient for technical interoperability due to it determines the technical requirements to implement the interoperability between public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/InteroperabilitySpecificationContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Contract>

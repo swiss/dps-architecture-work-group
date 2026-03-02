@@ -1,0 +1,48 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eProcurement"
+    id="id-6da43d6eefaa48e48950b6ef591347af"
+    documentation="Definition: eProcurement as a web service is a method of communication and data exchange between different software applications or systems involved in the eProcurement process. It enables interoperability and integration between various eProcurement platforms, systems, or other software solutions. By using standard web protocols, such as HTTP, it allows different components of an eProcurement ecosystem to interact and share information seamlessly. This facilitates efficient and streamlined procurement processes, enabling organizations to connect and exchange data with suppliers, manage procurement workflows, and optimize their procurement activities.&#xA;&#xA;Source: European Commission&#xA;&#xA;Source reference: https://single-market-economy.ec.europa.eu/single-market/public-procurement/digital-procurement_en&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EProcurementApplicationInterface&#xA;&#xA;ABB name: egovera:EProcurementApplicationInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EProcurementApplicationInterface&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/WebServiceApplicationInterface&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="eProcurement as a web service is a method of communication and data exchange between different software applications or systems involved in the eProcurement process. It enables interoperability and integration between various eProcurement platforms, systems, or other software solutions. By using standard web protocols, such as HTTP, it allows different components of an eProcurement ecosystem to interact and share information seamlessly. This facilitates efficient and streamlined procurement processes, enabling organizations to connect and exchange data with suppliers, manage procurement workflows, and optimize their procurement activities."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Commission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://single-market-economy.ec.europa.eu/single-market/public-procurement/digital-procurement_en"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/EProcurementApplicationInterface"/>
+  <properties
+      key="dct:type"
+      value="egovera:EProcurementApplicationInterface"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Management Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Application Integration Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/EProcurementApplicationInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/WebServiceApplicationInterface"/>
+</archimate:ApplicationInterface>

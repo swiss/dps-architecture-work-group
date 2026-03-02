@@ -1,0 +1,50 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Digital Business Capabilities Map"
+    id="id-6bf70ed65a75435db76ed6b062249a88"
+    documentation="Definition: Business Agnostic Digital Business Capabilities Map ABB is a Grouping that refers to the actual catalogue of digital business capabilities (DBC) that puts together a range of capabilities related to various digital business operations. These capabilities are crucial for organizations to effectively and efficiently manage their digital operations, gain valuable insights, make informed decisions, ensure data quality, security, and compliance, and generate value and revenue.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The catalogue includes a wide range of capabilities such as Electronic Identification, Qualification Management, Digital Payments, Digital Procurement, Digital Communication, Digital Exchange, Digital Invoicing, Data Management, Multimedia Management, Contact Management, Case and Workflow Management, Knowledge Management, Digital Twin, Artificial Intelligence, and Business Agnostic Data Management Digital Business Capability Catalogue. Each of these capabilities has a specific role and function in the digital business operations of an organization. For instance, Electronic Identification ensures secure access to online services, Digital Payments enables the purchase of goods or services via digital modes, and Data Management is responsible for the development, execution, and supervision of plans, policies, programs, and practices that deliver, control, protect, and enhance the value of data and information assets throughout their lifecycles.&#xA;&#xA;Example: An example of the application of these capabilities can be seen in a digital business operation where Electronic Identification is used to ensure secure access to online services, Digital Payments are used to facilitate the purchase of goods or services, Digital Communication is used for virtual collaboration, and Data Management is used to manage and enhance the value of data and information assets. Similarly, in the Business Agnostic Data Management Digital Business Capability Catalogue, capabilities such as Data Discovery, Data Analytics, Data Monetization, Data Governance, Data Ethics, Data Interoperability, Data Sharing, Data Quality, Data Security, and Data Lineage are used to effectively and efficiently manage data assets, gain valuable insights, make informed decisions, ensure data quality, security, and compliance, and generate value and revenue.&#xA;&#xA;LOST view: OV-Data Spaces&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDigitalBusinessCapabilitiesMapGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticDigitalBusinessCapabilitiesMapGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDigitalBusinessCapabilitiesMapGrouping&#xA;&#xA;Name: Business Agnostic Digital Business Capabilities Map&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalBusinessCapability&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDigitalBusinessCapabilitiesMapGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDigitalBusinessCapabilitiesMapGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Digital Business Capabilities Map"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticDigitalBusinessCapabilitiesMapGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic Digital Business Capabilities Map ABB is a Grouping that refers to the actual catalogue of digital business capabilities (DBC) that puts together a range of capabilities related to various digital business operations. These capabilities are crucial for organizations to effectively and efficiently manage their digital operations, gain valuable insights, make informed decisions, ensure data quality, security, and compliance, and generate value and revenue."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of the application of these capabilities can be seen in a digital business operation where Electronic Identification is used to ensure secure access to online services, Digital Payments are used to facilitate the purchase of goods or services, Digital Communication is used for virtual collaboration, and Data Management is used to manage and enhance the value of data and information assets. Similarly, in the Business Agnostic Data Management Digital Business Capability Catalogue, capabilities such as Data Discovery, Data Analytics, Data Monetization, Data Governance, Data Ethics, Data Interoperability, Data Sharing, Data Quality, Data Security, and Data Lineage are used to effectively and efficiently manage data assets, gain valuable insights, make informed decisions, ensure data quality, security, and compliance, and generate value and revenue."/>
+  <properties
+      key="skos:note"
+      value="The catalogue includes a wide range of capabilities such as Electronic Identification, Qualification Management, Digital Payments, Digital Procurement, Digital Communication, Digital Exchange, Digital Invoicing, Data Management, Multimedia Management, Contact Management, Case and Workflow Management, Knowledge Management, Digital Twin, Artificial Intelligence, and Business Agnostic Data Management Digital Business Capability Catalogue. Each of these capabilities has a specific role and function in the digital business operations of an organization. For instance, Electronic Identification ensures secure access to online services, Digital Payments enables the purchase of goods or services via digital modes, and Data Management is responsible for the development, execution, and supervision of plans, policies, programs, and practices that deliver, control, protect, and enhance the value of data and information assets throughout their lifecycles."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalBusinessCapability"/>
+</archimate:Grouping>

@@ -1,0 +1,51 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eTendering"
+    id="id-97401a0dbea54b1e913a81e5f8ff4cb1"
+    documentation="Definition: eTendering refers to the capability of providing access to specific functionalities related to tendering processes through web-based APIs (Application Programming Interfaces). This allows external systems or applications to interact with the eTendering platform to perform tasks such as retrieving tendering information, submitting bids, or querying tender results.&#xA;&#xA;Source: Publications Office of the European Union&#xA;&#xA;Source reference: https://ted.europa.eu/TED/main/HomePage.do&#xA;&#xA;LOST view: TVA-API Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ETenderingApplicationInterface&#xA;&#xA;ABB name: egovera:ETenderingApplicationInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ETenderingApplicationInterface&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/WebServiceApplicationInterface&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="eTendering refers to the capability of providing access to specific functionalities related to tendering processes through web-based APIs (Application Programming Interfaces). This allows external systems or applications to interact with the eTendering platform to perform tasks such as retrieving tendering information, submitting bids, or querying tender results."/>
+  <properties
+      key="eira:definitionSource"
+      value="Publications Office of the European Union"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ted.europa.eu/TED/main/HomePage.do"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ETenderingApplicationInterface"/>
+  <properties
+      key="dct:type"
+      value="egovera:ETenderingApplicationInterface"/>
+  <properties
+      key="eira:view"
+      value="TVA-API Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Management Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Application Integration Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ETenderingApplicationInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/WebServiceApplicationInterface"/>
+</archimate:ApplicationInterface>

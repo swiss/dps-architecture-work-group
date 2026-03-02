@@ -1,0 +1,48 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit Manager"
+    id="id-8167fca18c784994b1031d64550b286b"
+    documentation="Definition: Audit Manager ABB is a Technology Service that enables the procedures of managing audits and workflows, tracking audit progress, and ensuring compliance with regulations and standards&#xA;&#xA;Source: Inspired in the definition provided by relebant cloud service organizations.&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Design Principles for Data Spaces -Position Paper. https://design-principles-for-data-spaces.org/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Audit Manager ABB is salient for the technical interoperability due to it implements the rules to assess business workflows of public administration services to ensure compliance with the regulation and open standards.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuditManagerTechnologyService&#xA;&#xA;ABB name: eira:AuditManagerTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuditManagerTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AuditManagerTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:AuditManagerTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Audit Manager ABB is a Technology Service that enables the procedures of managing audits and workflows, tracking audit progress, and ensuring compliance with regulations and standards"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the definition provided by relebant cloud service organizations."/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Design Principles for Data Spaces -Position Paper. https://design-principles-for-data-spaces.org/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Audit Manager ABB is salient for the technical interoperability due to it implements the rules to assess business workflows of public administration services to ensure compliance with the regulation and open standards."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AuditManagerTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

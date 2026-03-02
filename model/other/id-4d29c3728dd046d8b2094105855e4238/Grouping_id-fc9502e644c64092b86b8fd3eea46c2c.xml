@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Database Infrastructure Enablers"
+    id="id-fc9502e644c64092b86b8fd3eea46c2c"
+    documentation="Definition: Database Infrastructure Enablers ABB is a Groping that enables the tools and technology services for efficient management and operation of data under a storage system.&#xA;&#xA;Source: Inspired in Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/dbms-database-management-system&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): MySQL manager, an SQL for MySQL.  https://www.sqlmanager.net/products/mysql/manager&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Database Infrastructure Enablers ABB is salient for semantic and organization interoperability because it set up (i) tools to manage and manipulate data considering different types of data stores, (ii) establishes a data exchange mechanism to facilitate data understanding, (iii) manage data provenance through the public services interaction with the heterogeneous datastores. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/DatabaseInfrastructureEnablersGrouping&#xA;&#xA;ABB name: eira:DatabaseInfrastructureEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DatabaseInfrastructureEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DatabaseInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:DatabaseInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Database Infrastructure Enablers ABB is a Groping that enables the tools and technology services for efficient management and operation of data under a storage system."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/dbms-database-management-system"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): MySQL manager, an SQL for MySQL.  https://www.sqlmanager.net/products/mysql/manager"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Database Infrastructure Enablers ABB is salient for semantic and organization interoperability because it set up (i) tools to manage and manipulate data considering different types of data stores, (ii) establishes a data exchange mechanism to facilitate data understanding, (iii) manage data provenance through the public services interaction with the heterogeneous datastores. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DatabaseInfrastructureEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

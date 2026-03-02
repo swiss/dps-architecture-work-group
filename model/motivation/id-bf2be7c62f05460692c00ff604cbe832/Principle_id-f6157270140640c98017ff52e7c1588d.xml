@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User-centricity"
+    id="id-f6157270140640c98017ff52e7c1588d"
+    documentation="Definition: The design of digital public services is centred around their users. Users of European public services are meant to be any public administration, citizen or business accessing and benefiting from the use of these services. Users’ needs should be considered when determining which public services should be provided and how they should be delivered. Therefore, as far as possible, user needs and requirements should guide the design and development of public services. A multi-channel service delivery approach, meaning the availability of alternative channels, physical and digital, to access a service, is an important part of public service design, as users may prefer different channels depending on the circumstances.A single point of contact should be made available to users, to hide internal administrative complexity and facilitate access to public services, e.g. when multiple bodies have to work together to provide a public service.Users’ feedback should be systematically collected, assessed and used to design new public services and to improve existing ones further.As far as possible, under the legislation in force, users should be able to provide data once only, and administrations should be able to retrieve and share this data to serve the user, in accordance with data protection rules.Users should be asked to provide only the information that is absolutely necessary to obtain a given public service.&quot;&quot;&#xA;&#xA;Source: User-Centricity Underlying Principle (6) of the European Interoperability Framework (EIF)&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/user-centricity&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/user-centricity&#xA;&#xA;ABB name: elap:User-centricityPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: User-centricity&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:User-centricityPrinciple"/>
+  <properties
+      key="dct:title"
+      value="User-centricity"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/user-centricity"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="User-Centricity Underlying Principle (6) of the European Interoperability Framework (EIF)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/user-centricity"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="The design of digital public services is centred around their users. Users of European public services are meant to be any public administration, citizen or business accessing and benefiting from the use of these services. Users’ needs should be considered when determining which public services should be provided and how they should be delivered. Therefore, as far as possible, user needs and requirements should guide the design and development of public services. A multi-channel service delivery approach, meaning the availability of alternative channels, physical and digital, to access a service, is an important part of public service design, as users may prefer different channels depending on the circumstances.A single point of contact should be made available to users, to hide internal administrative complexity and facilitate access to public services, e.g. when multiple bodies have to work together to provide a public service.Users’ feedback should be systematically collected, assessed and used to design new public services and to improve existing ones further.As far as possible, under the legislation in force, users should be able to provide data once only, and administrations should be able to retrieve and share this data to serve the user, in accordance with data protection rules.Users should be asked to provide only the information that is absolutely necessary to obtain a given public service.&quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

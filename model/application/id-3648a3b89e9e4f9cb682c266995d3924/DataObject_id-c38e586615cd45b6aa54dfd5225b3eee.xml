@@ -1,0 +1,42 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registration Form"
+    id="id-c38e586615cd45b6aa54dfd5225b3eee"
+    documentation="Definition: The Registration Form is used for enrolling users or participants in services, events, or online platforms. It typically requires personal information, such as name, age, contact details, and sometimes specific preferences or qualifications. This form is key for organizing events, managing subscriptions, or registering users for online services, helping businesses maintain organized records of participants and tailor their offerings accordingly.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: SV-Forms Structure&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/RegistrationFormDataObject&#xA;&#xA;ABB name: egovera:RegistrationFormDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/RegistrationFormDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/FormsStructureDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/RegistrationFormDataObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:RegistrationFormDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Forms Structure"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/RegistrationFormDataObject"/>
+  <properties
+      key="skos:definition"
+      value="The Registration Form is used for enrolling users or participants in services, events, or online platforms. It typically requires personal information, such as name, age, contact details, and sometimes specific preferences or qualifications. This form is key for organizing events, managing subscriptions, or registering users for online services, helping businesses maintain organized records of participants and tailor their offerings accordingly."/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/FormsStructureDataObject"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:DataObject>

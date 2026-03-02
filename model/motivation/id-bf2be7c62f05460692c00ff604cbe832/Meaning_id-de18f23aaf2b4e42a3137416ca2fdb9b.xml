@@ -1,0 +1,30 @@
+<archimate:Meaning
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIRA Ontology"
+    id="id-de18f23aaf2b4e42a3137416ca2fdb9b"
+    documentation="Definition: The [EIRA Ontology] ABB is a structured framework for describing the architecture of interoperable digital public services in the European Union, facilitating consistency and connectivity between different IT systems across member states.&#xA;&#xA;Viewpoint: Enterprise Architecture Framework alignment guidelines viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EIRAOntologyMeaning&#xA;&#xA;ABB name: eira:EIRAOntologyMeaning&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EIRAOntologyMeaning&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/EIRAOntologyMeaning"/>
+  <properties
+      key="dct:type"
+      value="eira:EIRAOntologyMeaning"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/EIRAOntologyMeaning"/>
+  <properties
+      key="skos:definition"
+      value="The [EIRA Ontology] ABB is a structured framework for describing the architecture of interoperable digital public services in the European Union, facilitating consistency and connectivity between different IT systems across member states."/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+</archimate:Meaning>

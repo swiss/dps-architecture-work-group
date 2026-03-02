@@ -1,0 +1,52 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Active Directory"
+    id="id-f279255c7c304b21811fb0ce7c1a525b"
+    documentation="Definition: Active Directory ABB is a Technology Service that enables the procedures to work with interconnected, complex and different network resources in a unified manner&#xA;&#xA;Source: Inspired in CAMSS&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenLDAP highly flexible, scalable, and focused on providing core directory services to resources that leverage the LDAP protocol. https://www.openldap.org/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Active Directory ABB is salient for technical interoperability because it is the store container about the public administration services and information that permit (i) establishing policies for the access and use of public services, (ii) deploying programs inside the public administration, and (iii) holistically manage software updates.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ActiveDirectoryTechnologyService&#xA;&#xA;ABB name: eira:ActiveDirectoryTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ActiveDirectoryTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ActiveDirectoryTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:ActiveDirectoryTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Active Directory ABB is a Technology Service that enables the procedures to work with interconnected, complex and different network resources in a unified manner"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in CAMSS"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenLDAP highly flexible, scalable, and focused on providing core directory services to resources that leverage the LDAP protocol. https://www.openldap.org/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Active Directory ABB is salient for technical interoperability because it is the store container about the public administration services and information that permit (i) establishing policies for the access and use of public services, (ii) deploying programs inside the public administration, and (iii) holistically manage software updates."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ActiveDirectoryTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

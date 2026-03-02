@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fault tolerance"
+    id="id-e7dd59ad6da94610a3d8853e074ea2b1"
+    documentation="Definition: Fault tolerance is an IT non-functional requirement that refers to the ability of a system to continue functioning even in the event of hardware or software failures. This means that the system should be able to detect and recover from errors or failures without causing any disruption to the user experience. Fault tolerance is important for critical systems that cannot afford to fail, such as those used in healthcare, finance, and transportation. It involves redundancy, backup systems, and failover mechanisms to ensure that the system remains operational even in the face of unexpected events.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, fault tolerance is a non-functional requirement that refers to the ability of a system to continue operating in the event of a failure or error. This means that the system should be able to detect and recover from faults or errors without causing any disruption to the overall performance or availability of the system.&#xA;&#xA;To achieve fault tolerance, the system should be designed with redundancy and failover mechanisms that can automatically switch to backup components or systems in the event of a failure. This can include redundant hardware components, such as servers, storage devices, and network connections, as well as software components, such as load balancers, clustering, and replication.&#xA;&#xA;In addition, the system should be able to detect faults and errors in real-time, using monitoring and alerting mechanisms that can notify system administrators or operators of any issues. This can include automated monitoring tools that can detect performance issues, security breaches, or other types of errors that can impact the system's availability or performance.&#xA;&#xA;Overall, fault tolerance is a critical non-functional requirement for any system that requires high availability and reliability, such as mission-critical applications, financial systems, or healthcare systems. By designing systems with fault tolerance in mind, organizations can ensure that their systems can continue operating even in the face of unexpected failures or errors, minimizing downtime and ensuring business continuity.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Fault tolerance' is in the aviation industry. The flight control systems of an aircraft must be designed to be fault-tolerant, meaning that they can continue to operate even if one or more components fail. This is critical for ensuring the safety of passengers and crew in the event of a system failure. The system must be able to detect and isolate faults, and then continue to operate using redundant components or backup systems.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FaultToleranceRequirement&#xA;&#xA;ABB name: eira:FaultToleranceRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/FaulttoleranceRequirement&#xA;&#xA;Name: Fault tolerance Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/FaulttoleranceRequirement"/>
+  <properties
+      key="dct:title"
+      value="Fault tolerance Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Fault tolerance' is in the aviation industry. The flight control systems of an aircraft must be designed to be fault-tolerant, meaning that they can continue to operate even if one or more components fail. This is critical for ensuring the safety of passengers and crew in the event of a system failure. The system must be able to detect and isolate faults, and then continue to operate using redundant components or backup systems."/>
+  <properties
+      key="skos:definition"
+      value="Fault tolerance is an IT non-functional requirement that refers to the ability of a system to continue functioning even in the event of hardware or software failures. This means that the system should be able to detect and recover from errors or failures without causing any disruption to the user experience. Fault tolerance is important for critical systems that cannot afford to fail, such as those used in healthcare, finance, and transportation. It involves redundancy, backup systems, and failover mechanisms to ensure that the system remains operational even in the face of unexpected events."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, fault tolerance is a non-functional requirement that refers to the ability of a system to continue operating in the event of a failure or error. This means that the system should be able to detect and recover from faults or errors without causing any disruption to the overall performance or availability of the system.&#xA;&#xA;To achieve fault tolerance, the system should be designed with redundancy and failover mechanisms that can automatically switch to backup components or systems in the event of a failure. This can include redundant hardware components, such as servers, storage devices, and network connections, as well as software components, such as load balancers, clustering, and replication.&#xA;&#xA;In addition, the system should be able to detect faults and errors in real-time, using monitoring and alerting mechanisms that can notify system administrators or operators of any issues. This can include automated monitoring tools that can detect performance issues, security breaches, or other types of errors that can impact the system's availability or performance.&#xA;&#xA;Overall, fault tolerance is a critical non-functional requirement for any system that requires high availability and reliability, such as mission-critical applications, financial systems, or healthcare systems. By designing systems with fault tolerance in mind, organizations can ensure that their systems can continue operating even in the face of unexpected failures or errors, minimizing downtime and ensuring business continuity."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/FaultToleranceRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:FaultToleranceRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

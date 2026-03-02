@@ -1,0 +1,50 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conformance Testing"
+    id="id-da84ac1927bb4d1997a012f3fbd75829"
+    documentation="Definition: Conformance Testing ABB is an Application Service that enables the activities and rules to determine whether a tool, platform or service faithfully meets the requirements of a standard or specification&#xA;&#xA;Source: NIST&#xA;&#xA;Source reference: https://www.nist.gov/itl/ssd/information-systems-group/conformance-testing&#xA;&#xA;Additional information: The logistics of interoperability testing is usually more costly (time, coordination, interoperability), and interoperability testing is no substitute for a conformance test suite. Experience shows that interoperability testing is more successful and less costly when conformance of implementations has been tested first.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Interoperability Testbed - The Test Bed allows users to execute predefined test cases on their systems in order to test the conformance to standards and requirements, simulate a web-service, validate content and test a complete message exchange protocol. The Testbed manages test cases and users, and orchestrates domain-specific components, the domain-specific logic is in separate components that are used via web services. Test results are provided in a standardised, machine-readable format. The Test Bed also offers a test registry and repository (TRR) to store test artefacts (assertions, test cases, validation schemas, etc.) and compile test services (validation services, simulator services, etc.). Please visit the following website for more information: https://ec.europa.eu/isa2/solutions/interoperability-test-bed_en&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Conformance Testing Services ABB  is salient for technical interoperability because it enables the validation and verification that several solutions at one or more layers of the interoperability stack and they satisfy certain interoperability requirements.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ConformanceTestingApplicationService&#xA;&#xA;ABB name: eira:ConformanceTestingApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ConformanceTestingApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ConformanceTestingApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:ConformanceTestingApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Conformance Testing ABB is an Application Service that enables the activities and rules to determine whether a tool, platform or service faithfully meets the requirements of a standard or specification"/>
+  <properties
+      key="eira:definitionSource"
+      value="NIST"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.nist.gov/itl/ssd/information-systems-group/conformance-testing"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Interoperability Testbed - The Test Bed allows users to execute predefined test cases on their systems in order to test the conformance to standards and requirements, simulate a web-service, validate content and test a complete message exchange protocol. The Testbed manages test cases and users, and orchestrates domain-specific components, the domain-specific logic is in separate components that are used via web services. Test results are provided in a standardised, machine-readable format. The Test Bed also offers a test registry and repository (TRR) to store test artefacts (assertions, test cases, validation schemas, etc.) and compile test services (validation services, simulator services, etc.). Please visit the following website for more information: https://ec.europa.eu/isa2/solutions/interoperability-test-bed_en"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Conformance Testing Services ABB  is salient for technical interoperability because it enables the validation and verification that several solutions at one or more layers of the interoperability stack and they satisfy certain interoperability requirements."/>
+  <properties
+      key="skos:note"
+      value="The logistics of interoperability testing is usually more costly (time, coordination, interoperability), and interoperability testing is no substitute for a conformance test suite. Experience shows that interoperability testing is more successful and less costly when conformance of implementations has been tested first."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ConformanceTestingApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

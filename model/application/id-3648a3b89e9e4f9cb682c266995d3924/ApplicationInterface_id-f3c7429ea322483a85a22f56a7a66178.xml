@@ -1,0 +1,52 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API"
+    id="id-f3c7429ea322483a85a22f56a7a66178"
+    documentation="Definition: API ABB is an Application Interface that enables a set of rules and specifications that allow different software components or systems to communicate and exchange data&#xA;&#xA;Source: EPDB&#xA;&#xA;Source reference: http://api.epdb.eu/#:~:text=The%20API%20can%20help%20you%20conduct%20research%2C%20create,access%20to%20meta%20data%20on%20European%20Union%20legislation.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): RapidAPI - RapidAPI is a collection of predefined APIs that are free to test, specifically updated for 2021. https://rapidapi.com/collection/list-of-free-apis&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Interoperability Saliency: API Application Interface ABB is a key interoperability enabler (*) for behavioural interoperability by enabling rules and specifications for data exchange between systems and digital public services components.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/APIApplicationInterface&#xA;&#xA;ABB name: eira:APIApplicationInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/APIApplicationInterface&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/APIApplicationInterface"/>
+  <properties
+      key="dct:type"
+      value="eira:APIApplicationInterface"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="API ABB is an Application Interface that enables a set of rules and specifications that allow different software components or systems to communicate and exchange data"/>
+  <properties
+      key="eira:definitionSource"
+      value="EPDB"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://api.epdb.eu/#:~:text=The%20API%20can%20help%20you%20conduct%20research%2C%20create,access%20to%20meta%20data%20on%20European%20Union%20legislation."/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): RapidAPI - RapidAPI is a collection of predefined APIs that are free to test, specifically updated for 2021. https://rapidapi.com/collection/list-of-free-apis"/>
+  <properties
+      key="eira:iopSaliency"
+      value="API Application Interface ABB is a key interoperability enabler (*) for behavioural interoperability by enabling rules and specifications for data exchange between systems and digital public services components."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/APIApplicationInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationInterface>

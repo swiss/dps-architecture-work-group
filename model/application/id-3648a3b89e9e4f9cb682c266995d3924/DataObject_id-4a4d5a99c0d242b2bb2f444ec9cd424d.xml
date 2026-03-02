@@ -1,0 +1,42 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact Form"
+    id="id-4a4d5a99c0d242b2bb2f444ec9cd424d"
+    documentation="Definition: The Contact Form is a fundamental tool for collecting essential information about individuals or entities. It typically includes fields for name, contact details (like phone number and email address), and sometimes a brief message or inquiry. This form is crucial for establishing initial communication, whether for customer support, lead generation, or general inquiries, allowing businesses to gather key contact information in an organized and efficient manner.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: SV-Forms Structure&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ContactFormDataObject&#xA;&#xA;ABB name: egovera:ContactFormDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ContactFormDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/FormsStructureDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ContactFormDataObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:ContactFormDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Forms Structure"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ContactFormDataObject"/>
+  <properties
+      key="skos:definition"
+      value="The Contact Form is a fundamental tool for collecting essential information about individuals or entities. It typically includes fields for name, contact details (like phone number and email address), and sometimes a brief message or inquiry. This form is crucial for establishing initial communication, whether for customer support, lead generation, or general inquiries, allowing businesses to gather key contact information in an organized and efficient manner."/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/FormsStructureDataObject"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:DataObject>

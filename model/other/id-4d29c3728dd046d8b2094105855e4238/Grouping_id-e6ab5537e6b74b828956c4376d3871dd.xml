@@ -1,0 +1,56 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Digital Public Services Catalogue"
+    id="id-e6ab5537e6b74b828956c4376d3871dd"
+    documentation="Definition: Business Agnostic Digital Public Services Catalogue ABB is a grouping that refers to the actual catalogue of digital public services that facilitates the seamless integration and interoperability of various IT systems and services provided by the European Commission. It encompasses a wide range of elements, each with a specific role in enhancing the efficiency, accessibility, and user experience of digital public services, while promoting interoperability across different platforms and systems.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Business Agnostic Digital Public Services Catalogue ABB includes elements such as ePayment, Audit, eArchiving, eDelivery, eQualification, eTranslation, Data Extraction, Transformation and Loading, Data Analytics, Delegation of Power, Workflow Management, Knowledge Management, eNotification, eIdentification, Digital Collaboration, Waiting list Management, Open Data Management, Anonymisation, eSignature, Secure Access Control, Content Management, Log Management, eInvoicing, eTendering, Contact Management, Forms Management, Data Exchange, Digital Inmutability, Business Intelligence, Compliance Testing, Data Space, Data Space Participant, and Digital Asset Management. Each of these elements plays a crucial role in ensuring the smooth functioning and interoperability of digital public services within the European Commission.&#xA;&#xA;Example: For instance, ePayment allows users to make secure and convenient electronic payments for various services provided by the Commission. Similarly, eArchiving ensures the preservation and maintenance of digital information in a standardized and accessible manner. On the other hand, Data Analytics enables the Commission to analyze and interpret large volumes of data to gain valuable insights and make informed decisions. Meanwhile, Secure Access Control ensures authorized and secure access to digital resources and services. These are just a few examples of how the elements within the Business Agnostic Digital Public Services Catalogue ABB contribute to the overall efficiency and effectiveness of digital public services within the European Commission.&#xA;&#xA;LOST view: TVA-Data Space Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDigitalPublicServicesCatalogueGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticDigitalPublicServicesCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDigitalPublicServicesCatalogueGrouping&#xA;&#xA;Name: Business Agnostic Digital Public Services Catalogue Catalogue&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalPublicServiceCatalogueBusinessObject&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDigitalPublicServicesCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDigitalPublicServicesCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Digital Public Services Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticDigitalPublicServicesCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic Digital Public Services Catalogue ABB is a grouping that refers to the actual catalogue of digital public services that facilitates the seamless integration and interoperability of various IT systems and services provided by the European Commission. It encompasses a wide range of elements, each with a specific role in enhancing the efficiency, accessibility, and user experience of digital public services, while promoting interoperability across different platforms and systems."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, ePayment allows users to make secure and convenient electronic payments for various services provided by the Commission. Similarly, eArchiving ensures the preservation and maintenance of digital information in a standardized and accessible manner. On the other hand, Data Analytics enables the Commission to analyze and interpret large volumes of data to gain valuable insights and make informed decisions. Meanwhile, Secure Access Control ensures authorized and secure access to digital resources and services. These are just a few examples of how the elements within the Business Agnostic Digital Public Services Catalogue ABB contribute to the overall efficiency and effectiveness of digital public services within the European Commission."/>
+  <properties
+      key="skos:note"
+      value="The Business Agnostic Digital Public Services Catalogue ABB includes elements such as ePayment, Audit, eArchiving, eDelivery, eQualification, eTranslation, Data Extraction, Transformation and Loading, Data Analytics, Delegation of Power, Workflow Management, Knowledge Management, eNotification, eIdentification, Digital Collaboration, Waiting list Management, Open Data Management, Anonymisation, eSignature, Secure Access Control, Content Management, Log Management, eInvoicing, eTendering, Contact Management, Forms Management, Data Exchange, Digital Inmutability, Business Intelligence, Compliance Testing, Data Space, Data Space Participant, and Digital Asset Management. Each of these elements plays a crucial role in ensuring the smooth functioning and interoperability of digital public services within the European Commission."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Data Space Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceCatalogueBusinessObject"/>
+</archimate:Grouping>

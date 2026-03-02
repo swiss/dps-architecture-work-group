@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliance"
+    id="id-6785766f34d64cdb98bbad39b0e02fd5"
+    documentation="Definition: Compliance is an IT non-functional requirement that refers to the ability of a system or application to adhere to legal, regulatory, and industry standards. This requirement ensures that the system or application meets the necessary security, privacy, and data protection standards, as well as any other relevant regulations. Compliance is critical for organizations that handle sensitive data, such as financial institutions, healthcare providers, and government agencies, as it helps to mitigate risks and avoid legal and financial penalties.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Compliance is a non-functional requirement that refers to the ability of an IT system to adhere to legal, regulatory, and industry standards. Compliance requirements are often imposed by external entities, such as government agencies or industry associations, and failure to comply can result in legal or financial penalties.&#xA;&#xA;To ensure compliance, IT systems must be designed and implemented in accordance with relevant standards and regulations. This may involve incorporating specific security measures, data protection protocols, or other controls to meet compliance requirements.&#xA;&#xA;Compliance is an important consideration for organizations in many industries, particularly those that handle sensitive data or operate in highly regulated environments. By ensuring compliance, organizations can minimize the risk of legal or financial penalties, protect their reputation, and demonstrate their commitment to ethical and responsible business practices.&#xA;&#xA;Overall, compliance is a critical non-functional requirement that must be carefully considered and addressed in the design and implementation of IT systems.&#xA;&#xA;Example: One example of an IT non-functional requirement for compliance could be ensuring that the system meets all relevant regulatory requirements, such as HIPAA for healthcare data or PCI DSS for credit card information. This could include implementing appropriate security measures, maintaining audit logs, and regularly conducting vulnerability assessments.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ComplianceRequirement&#xA;&#xA;ABB name: eira:ComplianceRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ComplianceRequirement&#xA;&#xA;Name: Compliance Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ComplianceRequirement"/>
+  <properties
+      key="dct:title"
+      value="Compliance Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of an IT non-functional requirement for compliance could be ensuring that the system meets all relevant regulatory requirements, such as HIPAA for healthcare data or PCI DSS for credit card information. This could include implementing appropriate security measures, maintaining audit logs, and regularly conducting vulnerability assessments."/>
+  <properties
+      key="skos:definition"
+      value="Compliance is an IT non-functional requirement that refers to the ability of a system or application to adhere to legal, regulatory, and industry standards. This requirement ensures that the system or application meets the necessary security, privacy, and data protection standards, as well as any other relevant regulations. Compliance is critical for organizations that handle sensitive data, such as financial institutions, healthcare providers, and government agencies, as it helps to mitigate risks and avoid legal and financial penalties."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Compliance is a non-functional requirement that refers to the ability of an IT system to adhere to legal, regulatory, and industry standards. Compliance requirements are often imposed by external entities, such as government agencies or industry associations, and failure to comply can result in legal or financial penalties.&#xA;&#xA;To ensure compliance, IT systems must be designed and implemented in accordance with relevant standards and regulations. This may involve incorporating specific security measures, data protection protocols, or other controls to meet compliance requirements.&#xA;&#xA;Compliance is an important consideration for organizations in many industries, particularly those that handle sensitive data or operate in highly regulated environments. By ensuring compliance, organizations can minimize the risk of legal or financial penalties, protect their reputation, and demonstrate their commitment to ethical and responsible business practices.&#xA;&#xA;Overall, compliance is a critical non-functional requirement that must be carefully considered and addressed in the design and implementation of IT systems."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ComplianceRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:ComplianceRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

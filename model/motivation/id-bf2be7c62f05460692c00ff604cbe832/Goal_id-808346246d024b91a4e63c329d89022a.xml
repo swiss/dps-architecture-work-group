@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Disaster Recovery Plan"
+    id="id-808346246d024b91a4e63c329d89022a"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Disaster Recovery Plan&#xA;&#xA;Source: ISO&#xA;&#xA;Source reference: https://www.iso.org/standard/75106.html&#xA;&#xA;Additional information: A Disaster Recovery Plan (DRP) is a documented and structured approach that outlines the strategies, processes, and procedures to be followed in the event of a disaster or significant disruption that impacts an organization's IT infrastructure, systems, and data. The primary goal of a DRP is to minimize the impact of the disaster, recover critical systems and data, and restore normal operations as quickly and efficiently as possible.&#xA;&#xA;Example: Title: Disaster Recovery Plan Architecture Decision Record (ADR)&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DisasterRecoveryPlanGoal&#xA;&#xA;ABB name: eira:DisasterRecoveryPlanGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230606091024730&#xA;&#xA;Name: Architecture Decision Record about Application of Disaster Recovery Plan&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230606091024730"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Application of Disaster Recovery Plan"/>
+  <properties
+      key="skos:example"
+      value="Title: Disaster Recovery Plan Architecture Decision Record (ADR)"/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/75106.html"/>
+  <properties
+      key="skos:note"
+      value="A Disaster Recovery Plan (DRP) is a documented and structured approach that outlines the strategies, processes, and procedures to be followed in the event of a disaster or significant disruption that impacts an organization's IT infrastructure, systems, and data. The primary goal of a DRP is to minimize the impact of the disaster, recover critical systems and data, and restore normal operations as quickly and efficiently as possible."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DisasterRecoveryPlanGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:DisasterRecoveryPlanGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Disaster Recovery Plan"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

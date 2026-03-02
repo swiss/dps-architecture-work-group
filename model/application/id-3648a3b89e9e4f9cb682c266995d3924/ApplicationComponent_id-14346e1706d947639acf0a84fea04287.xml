@@ -1,0 +1,50 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Analytics"
+    id="id-14346e1706d947639acf0a84fea04287"
+    documentation="Definition: Data Analytics ABB is an Application Component that enables the implementation of procedures to analyze data and extract insights that can be used to improve business decision-making, optimize business processes, and drive innovation&#xA;&#xA;Source: Inspired in Data Act&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/data-act&#xA;&#xA;Additional information: Data analytics component enable the automation of mechanical processes and algorithms that work over raw data for human consumption.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Microsoft Power BI - Power BI is a business analytics service by Microsoft. It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards. It is part of the Microsoft Power Platform.(https://powerbi.microsoft.com/it-it/what-is-power-bi/)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Data Analytics Component ABB  is salient for technical interoperability because it provides the implementation of functionalities for the automation of mechanical processes and algorithms that work over raw data for human consumption.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataAnalyticsApplicationComponent&#xA;&#xA;ABB name: eira:DataAnalyticsApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataAnalyticsApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataAnalyticsApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:DataAnalyticsApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Analytics ABB is an Application Component that enables the implementation of procedures to analyze data and extract insights that can be used to improve business decision-making, optimize business processes, and drive innovation"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Data Act"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/data-act"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Microsoft Power BI - Power BI is a business analytics service by Microsoft. It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards. It is part of the Microsoft Power Platform.(https://powerbi.microsoft.com/it-it/what-is-power-bi/)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Analytics Component ABB  is salient for technical interoperability because it provides the implementation of functionalities for the automation of mechanical processes and algorithms that work over raw data for human consumption."/>
+  <properties
+      key="skos:note"
+      value="Data analytics component enable the automation of mechanical processes and algorithms that work over raw data for human consumption."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataAnalyticsApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

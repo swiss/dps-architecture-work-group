@@ -1,0 +1,48 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Firewall"
+    id="id-8544d6a86fc4464b895322762c9752a6"
+    documentation="Definition: Firewall ABB is a technology Service that enables the implementation of a network security component that monitors and controls the incoming and outgoing network traffic based on predetermined security rules&#xA;&#xA;Source: Inspired in referent cloud service providers definitions&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): pfSense® software is a free, open source customized distribution of FreeBSD specifically tailored for use as a firewall and router that is entirely managed via web interface. In addition to being a powerful, flexible firewalling and routing platform, it includes a long list of related features and a package system allowing further expandability without adding bloat and potential security vulnerabilities to the base distribution. https://www.pfsense.org/about-pfsense/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Firewall ABB is salient for technical interoperability because it permits control of the traffic between the public administration and the different information providers and information consumers.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FirewallTechnologyService&#xA;&#xA;ABB name: eira:FirewallTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FirewallTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/FirewallTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:FirewallTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Firewall ABB is a technology Service that enables the implementation of a network security component that monitors and controls the incoming and outgoing network traffic based on predetermined security rules"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in referent cloud service providers definitions"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): pfSense® software is a free, open source customized distribution of FreeBSD specifically tailored for use as a firewall and router that is entirely managed via web interface. In addition to being a powerful, flexible firewalling and routing platform, it includes a long list of related features and a package system allowing further expandability without adding bloat and potential security vulnerabilities to the base distribution. https://www.pfsense.org/about-pfsense/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Firewall ABB is salient for technical interoperability because it permits control of the traffic between the public administration and the different information providers and information consumers."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/FirewallTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

@@ -1,0 +1,49 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Local Area Network"
+    id="id-61a50d46c04b4a469c2a09d716b99f9d"
+    documentation="Definition: Local Area Network ABB is a Communication Network that enables the connection of devices and computers within a limited area.&#xA;&#xA;Source: Networkbits&#xA;&#xA;Source reference: https://web.archive.org/web/20201026082752/http://networkbits.net/lan-components/local-area-network-lan-basic-components/&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): European Commission. https://ec.europa.eu/commission/presscorner/detail/en/MEMO_05_256&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Local Area Network ABB is salient for technical interoperability as the infrastructure that can connect devices and tools within a limited area of the public administration.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LocalAreaNetworkCommunicationNetwork&#xA;&#xA;ABB name: eira:LocalAreaNetworkCommunicationNetwork&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LocalAreaNetworkCommunicationNetwork&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LocalAreaNetworkCommunicationNetwork"/>
+  <properties
+      key="dct:type"
+      value="eira:LocalAreaNetworkCommunicationNetwork"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Local Area Network ABB is a Communication Network that enables the connection of devices and computers within a limited area."/>
+  <properties
+      key="eira:definitionSource"
+      value="Networkbits"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://web.archive.org/web/20201026082752/http://networkbits.net/lan-components/local-area-network-lan-basic-components/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): European Commission. https://ec.europa.eu/commission/presscorner/detail/en/MEMO_05_256"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Local Area Network ABB is salient for technical interoperability as the infrastructure that can connect devices and tools within a limited area of the public administration."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LocalAreaNetworkCommunicationNetwork"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:CommunicationNetwork>

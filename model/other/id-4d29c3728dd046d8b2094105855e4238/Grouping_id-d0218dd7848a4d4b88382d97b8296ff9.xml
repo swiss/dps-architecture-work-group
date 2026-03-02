@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Durability Requirements Catalogue"
+    id="id-d0218dd7848a4d4b88382d97b8296ff9"
+    documentation="Definition: Durability Requirements Catalogue ABB is a grouping that covers a set of non-functional IT requirements that ensure the long-term reliability, stability, and accessibility of a system. These requirements include replication, fault tolerance, and archivability, each of which plays a crucial role in maintaining the system's performance, security, and data integrity over time.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Durability Requirements Catalogue ABB is a comprehensive collection of non-functional requirements that are essential for the long-term operation of a system. 'Replication' refers to the system's ability to duplicate data or processes across multiple servers or locations, ensuring high availability and reliability. 'Fault tolerance' is the system's ability to continue functioning despite hardware or software failures, involving redundancy, backup systems, and failover mechanisms. 'Archivability' refers to the system's ability to store and retrieve data over a long period of time, ensuring that the data remains accurate, complete, and secure. Each of these elements is critical for systems that handle sensitive or critical data, such as those used in healthcare, finance, and transportation.&#xA;&#xA;Example: An example of the application of the Durability Requirements Catalogue ABB could be a healthcare system. The system would need to replicate patient data across multiple servers to ensure it is always available when needed. It would also need to be fault-tolerant, so that in the event of a hardware or software failure, the system could continue to function without disruption. Lastly, the system would need to be archivable, storing patient data securely and in a retrievable format for many years, in compliance with regulatory requirements.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DurabilityRequirementsCatalogueGrouping&#xA;&#xA;ABB name: eira:DurabilityRequirementsCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DurabilityRequirementsCatalogueGrouping&#xA;&#xA;Name: Durability Requirements Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DurabilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DurabilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Durability Requirements Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:DurabilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Durability Requirements Catalogue ABB is a grouping that covers a set of non-functional IT requirements that ensure the long-term reliability, stability, and accessibility of a system. These requirements include replication, fault tolerance, and archivability, each of which plays a crucial role in maintaining the system's performance, security, and data integrity over time."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of the application of the Durability Requirements Catalogue ABB could be a healthcare system. The system would need to replicate patient data across multiple servers to ensure it is always available when needed. It would also need to be fault-tolerant, so that in the event of a hardware or software failure, the system could continue to function without disruption. Lastly, the system would need to be archivable, storing patient data securely and in a retrievable format for many years, in compliance with regulatory requirements."/>
+  <properties
+      key="skos:note"
+      value="The Durability Requirements Catalogue ABB is a comprehensive collection of non-functional requirements that are essential for the long-term operation of a system. 'Replication' refers to the system's ability to duplicate data or processes across multiple servers or locations, ensuring high availability and reliability. 'Fault tolerance' is the system's ability to continue functioning despite hardware or software failures, involving redundancy, backup systems, and failover mechanisms. 'Archivability' refers to the system's ability to store and retrieve data over a long period of time, ensuring that the data remains accurate, complete, and secure. Each of these elements is critical for systems that handle sensitive or critical data, such as those used in healthcare, finance, and transportation."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

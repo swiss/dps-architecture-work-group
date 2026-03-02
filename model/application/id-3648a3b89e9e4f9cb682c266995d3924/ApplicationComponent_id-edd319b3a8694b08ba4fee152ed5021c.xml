@@ -1,0 +1,52 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata Management"
+    id="id-edd319b3a8694b08ba4fee152ed5021c"
+    documentation="Definition: Metadata Management ABB is an Application Component that enables the implementation of components for the i) creation, ii) storage, iii) categorisation and iv) retrieval of metadata.&#xA;&#xA;Source: DAMA &#xA;&#xA;Source reference: http://www.dama.org/&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Eurostat SDMX repository: The Euro SDMX Registry is Eurostat’s implementation of an SDMX registry to facilitate the exchange of statistical data and metadata by serving as a metadata repository. It stores the SDMX artefacts needed for the parties to access and interpret the content of the exchanged statistical data and metadata sets. http://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-registry&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Metadata management Component ABB is an application component providing the implementation of the functionalities to manage metadata. EIF recommends to prioritise it: &quot;Put in place an information management strategy at the highest possible level to avoid fragmentation and duplication. Management of metadata, master data and reference data should be prioritised.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MetadataManagementApplicationComponent&#xA;&#xA;ABB name: eira:MetadataManagementApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MetadataManagementApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/MetadataManagementApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:MetadataManagementApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Metadata Management ABB is an Application Component that enables the implementation of components for the i) creation, ii) storage, iii) categorisation and iv) retrieval of metadata."/>
+  <properties
+      key="eira:definitionSource"
+      value="DAMA "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://www.dama.org/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Eurostat SDMX repository: The Euro SDMX Registry is Eurostat’s implementation of an SDMX registry to facilitate the exchange of statistical data and metadata by serving as a metadata repository. It stores the SDMX artefacts needed for the parties to access and interpret the content of the exchanged statistical data and metadata sets. http://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-registry"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Metadata management Component ABB is an application component providing the implementation of the functionalities to manage metadata. EIF recommends to prioritise it: &quot;Put in place an information management strategy at the highest possible level to avoid fragmentation and duplication. Management of metadata, master data and reference data should be prioritised.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/MetadataManagementApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

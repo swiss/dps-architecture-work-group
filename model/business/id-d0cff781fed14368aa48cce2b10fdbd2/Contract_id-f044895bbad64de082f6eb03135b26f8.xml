@@ -1,0 +1,49 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement of the Use on Common Infrastructure"
+    id="id-f044895bbad64de082f6eb03135b26f8"
+    documentation="Definition: Agreement of the Use on Common Infrastructure ABB is a Contract between multiple parties that outlines the terms and conditions for sharing and utilizing a specific infrastructure or facility. The agreement on the use of common infrastructure typically outlines the rights and responsibilities of each party, the terms and conditions for access and usage, the payment or cost-sharing arrangements, and the procedures for resolving any disputes or issues that may arise. The goal of such agreements is to promote efficient and effective utilization of shared resources and to ensure that all parties are able to benefit from the use of the infrastructure in a fair and equitable manner.&#xA;&#xA;Source: Inspired in the UNECE definition&#xA;&#xA;Source reference: https://unece.org/trade/unece-work-transport/infrastructure/agreements-use-common-infrastructure&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): With Gaia-X, representatives from business, science and politics on an international level create a proposal for the next generation of data infrastructure: an open, transparent and secure digital ecosystem, where data and services can be made available, collated and shared in an environment of trust. https://www.data-infrastructure.eu/GAIAX/Navigation/EN/Home/home.html&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Interoperability Saliency: Agreement on the use of common infrastructure ABB is salient for governance, organizational and legal interoperability because it comprises the agreements, procedures and rules to elaborate the principles of reference architectures for the public sector.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgreementOfTheUseOnCommonInfrastructureContract&#xA;&#xA;ABB name: eira:AgreementOfTheUseOnCommonInfrastructureContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgreementOfTheUseOnCommonInfrastructureContract&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AgreementOfTheUseOnCommonInfrastructureContract"/>
+  <properties
+      key="dct:type"
+      value="eira:AgreementOfTheUseOnCommonInfrastructureContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Agreement of the Use on Common Infrastructure ABB is a Contract between multiple parties that outlines the terms and conditions for sharing and utilizing a specific infrastructure or facility. The agreement on the use of common infrastructure typically outlines the rights and responsibilities of each party, the terms and conditions for access and usage, the payment or cost-sharing arrangements, and the procedures for resolving any disputes or issues that may arise. The goal of such agreements is to promote efficient and effective utilization of shared resources and to ensure that all parties are able to benefit from the use of the infrastructure in a fair and equitable manner."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the UNECE definition"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://unece.org/trade/unece-work-transport/infrastructure/agreements-use-common-infrastructure"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): With Gaia-X, representatives from business, science and politics on an international level create a proposal for the next generation of data infrastructure: an open, transparent and secure digital ecosystem, where data and services can be made available, collated and shared in an environment of trust. https://www.data-infrastructure.eu/GAIAX/Navigation/EN/Home/home.html"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Agreement on the use of common infrastructure ABB is salient for governance, organizational and legal interoperability because it comprises the agreements, procedures and rules to elaborate the principles of reference architectures for the public sector."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AgreementOfTheUseOnCommonInfrastructureContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Contract>

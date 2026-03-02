@@ -1,0 +1,56 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Business Information Base"
+    id="id-6c0de37c062e435e96040cb22c9b0d6c"
+    documentation="Definition: Business Agnostic Business Information Base (ABB) is a grouping that refers to the actual catalogue of information entities that covers a wide range of business-related elements. These elements include payments, transactions, identification, qualifications, audit trails, access rights, profiles, messages, availability, digital signatures, documents, security measures, locations, invoices, contracting authorities, economic operators, digital assets, credentials, data quality, and distribution lists.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Business Agnostic Business Information Base (ABB) is a comprehensive catalogue of information entities that are applicable across various business domains. It includes elements such as 'Payment' which refers to the voluntary tendering of money or its equivalent, 'Transaction' which is an interaction of individuals/entities with outside entities, 'Identification' which is data that could potentially be used to identify a particular person or entity, and 'Qualification' which is something that could potentially be used to qualify a particular person or entity. Other elements like 'Audit trail', 'Access rights', 'Profile', 'Message', 'Availability', 'Digital Signature', 'Document', 'Security Measure', 'Location', 'Invoice', 'Contracting authority', 'Economic operator', 'Digital Asset', 'Credential', 'Data Quality', and 'Distribution list' are also part of this catalogue, each with its own specific definition and purpose.&#xA;&#xA;Example: For instance, in a financial institution, the 'Payment' element would refer to the transactions made by customers, 'Identification' would refer to the customer's personal information, 'Access rights' would determine what information a customer or employee can view, 'Digital Signature' would be used to verify the authenticity of digital messages or documents, and 'Data Quality' would refer to the state of qualitative or quantitative pieces of information within the institution.&#xA;&#xA;LOST view: OV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticBusinessInformationBaseGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticBusinessInformationBaseGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticBusinessInformationBaseGrouping&#xA;&#xA;Name: Business Agnostic Business Information Base Catalogue&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/InformationBusinessObject&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticBusinessInformationBaseGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticBusinessInformationBaseGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Business Information Base Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticBusinessInformationBaseGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic Business Information Base (ABB) is a grouping that refers to the actual catalogue of information entities that covers a wide range of business-related elements. These elements include payments, transactions, identification, qualifications, audit trails, access rights, profiles, messages, availability, digital signatures, documents, security measures, locations, invoices, contracting authorities, economic operators, digital assets, credentials, data quality, and distribution lists."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, in a financial institution, the 'Payment' element would refer to the transactions made by customers, 'Identification' would refer to the customer's personal information, 'Access rights' would determine what information a customer or employee can view, 'Digital Signature' would be used to verify the authenticity of digital messages or documents, and 'Data Quality' would refer to the state of qualitative or quantitative pieces of information within the institution."/>
+  <properties
+      key="skos:note"
+      value="The Business Agnostic Business Information Base (ABB) is a comprehensive catalogue of information entities that are applicable across various business domains. It includes elements such as 'Payment' which refers to the voluntary tendering of money or its equivalent, 'Transaction' which is an interaction of individuals/entities with outside entities, 'Identification' which is data that could potentially be used to identify a particular person or entity, and 'Qualification' which is something that could potentially be used to qualify a particular person or entity. Other elements like 'Audit trail', 'Access rights', 'Profile', 'Message', 'Availability', 'Digital Signature', 'Document', 'Security Measure', 'Location', 'Invoice', 'Contracting authority', 'Economic operator', 'Digital Asset', 'Credential', 'Data Quality', and 'Distribution list' are also part of this catalogue, each with its own specific definition and purpose."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="OV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/InformationBusinessObject"/>
+</archimate:Grouping>

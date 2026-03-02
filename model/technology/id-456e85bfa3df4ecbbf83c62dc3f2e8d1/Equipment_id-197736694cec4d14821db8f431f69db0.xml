@@ -1,0 +1,48 @@
+<archimate:Equipment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Physical Computing Infrastructure"
+    id="id-197736694cec4d14821db8f431f69db0"
+    documentation="Definition: The Physical Computing Infrastructure ABB is an Equipment that enables the processing, storage, and transmission of data in a computing environment. &#xA;&#xA;Source: Inspired on relevant IT infrastructure providers&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Physical Computing Infrastructure ABB is salient for technical interoperability because it establishes the infrastructure to analyse a large amount of information. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/PhysicalComputingInfrastructureEquipment&#xA;&#xA;ABB name: eira:PhysicalComputingInfrastructureEquipment&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PhysicalComputingInfrastructureEquipment&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PhysicalComputingInfrastructureEquipment"/>
+  <properties
+      key="dct:type"
+      value="eira:PhysicalComputingInfrastructureEquipment"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="The Physical Computing Infrastructure ABB is an Equipment that enables the processing, storage, and transmission of data in a computing environment. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired on relevant IT infrastructure providers"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Physical Computing Infrastructure ABB is salient for technical interoperability because it establishes the infrastructure to analyse a large amount of information. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PhysicalComputingInfrastructureEquipment"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Equipment>

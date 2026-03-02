@@ -1,0 +1,57 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Space"
+    id="id-2042138269f443debb811d7830eea2ba"
+    documentation="Definition: The term Data Space refers to a type of data relationship between trusted partners who adhere to the same high level standards and guidelines in relation to data storage and sharing within one or many Vertical Ecosystems.&#xA;&#xA;Source: Gaia-X&#xA;&#xA;Source reference: https://gaia-x.eu/what-is-gaia-x/deliverables/data-spaces/&#xA;&#xA;Additional information: The term ‘data space’ refers to a type of data relationship between trusted partners who adhere to the same high level standards and guidelines in relation to data storage and sharing within one or many Vertical Ecosystems.&#xA;&#xA;Example: Several examples of applying data spaces in different sectors:&#xA;&#xA;LOST view: TVA-Data Space Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataSpaceBusinessService&#xA;&#xA;ABB name: egovera:DataSpaceBusinessService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataSpaceBusinessService&#xA;&#xA;Name: Data Space Digital Public Service&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalPublicBusinessService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataSpaceBusinessService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataSpaceBusinessService"/>
+  <properties
+      key="dct:title"
+      value="Data Space Digital Public Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataSpaceBusinessService"/>
+  <properties
+      key="eira:definitionSource"
+      value="Gaia-X"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://gaia-x.eu/what-is-gaia-x/deliverables/data-spaces/"/>
+  <properties
+      key="skos:example"
+      value="Several examples of applying data spaces in different sectors:"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:note"
+      value="The term ‘data space’ refers to a type of data relationship between trusted partners who adhere to the same high level standards and guidelines in relation to data storage and sharing within one or many Vertical Ecosystems."/>
+  <properties
+      key="skos:definition"
+      value="The term Data Space refers to a type of data relationship between trusted partners who adhere to the same high level standards and guidelines in relation to data storage and sharing within one or many Vertical Ecosystems."/>
+  <properties
+      key="eira:view"
+      value="TVA-Data Space Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalPublicBusinessService"/>
+</archimate:BusinessService>

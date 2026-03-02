@@ -1,0 +1,55 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit"
+    id="id-b06179ce048744979c81b4df2afaa187"
+    documentation="Definition: Audit ABB is an Application Service that enables the implementation of comprehensive procedural services capable of receiving inputs from different building blocks to ensure their correct behaviour, security or compliance with standards, regulations and best practices.&#xA;&#xA;Source: Inspired in SIMPL&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/news/simpl-cloud-edge-federations-and-data-spaces-made-simple&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenIAM audit service - OpenIAM Auditing Service ensures that detailed information about events and activities associated with identities or resources are logged into a centralized repository and be tracked. It offers the following features: • Sign-on, Sign-off, • User: create, update, delete or disable accounts, • Role: create, update, delete or disable accounts, • Resource: create, update, delete or disable accounts, • Password changes, resets, challenge response questions changes, • Synchronization events, • Reconciliation events. Several reporting templates are provided for a BIRT report writer for use in an Eclipse designer. Organizations can also generate their own reports in BIRT with SQL. https://www.openiam.com/products/identity-manager/features/audit-compliance/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Audit Service ABB  is salient for technical interoperability because it defines the elements of an information system which need to be traced, for example to assure traceability of user actions as stated in the EIF: &quot;Public administrations should ensure that a 'data access and authorisation plan’ which determines who has access to what data and under what conditions, to ensure privacy. Unauthorised access and security breaches should be monitored and appropriate actions should be taken to prevent any recurrence of breaches&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuditApplicationService&#xA;&#xA;ABB name: eira:AuditApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuditApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AuditApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:AuditApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Audit ABB is an Application Service that enables the implementation of comprehensive procedural services capable of receiving inputs from different building blocks to ensure their correct behaviour, security or compliance with standards, regulations and best practices."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in SIMPL"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/news/simpl-cloud-edge-federations-and-data-spaces-made-simple"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenIAM audit service - OpenIAM Auditing Service ensures that detailed information about events and activities associated with identities or resources are logged into a centralized repository and be tracked. It offers the following features: • Sign-on, Sign-off, • User: create, update, delete or disable accounts, • Role: create, update, delete or disable accounts, • Resource: create, update, delete or disable accounts, • Password changes, resets, challenge response questions changes, • Synchronization events, • Reconciliation events. Several reporting templates are provided for a BIRT report writer for use in an Eclipse designer. Organizations can also generate their own reports in BIRT with SQL. https://www.openiam.com/products/identity-manager/features/audit-compliance/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Audit Service ABB  is salient for technical interoperability because it defines the elements of an information system which need to be traced, for example to assure traceability of user actions as stated in the EIF: &quot;Public administrations should ensure that a 'data access and authorisation plan’ which determines who has access to what data and under what conditions, to ensure privacy. Unauthorised access and security breaches should be monitored and appropriate actions should be taken to prevent any recurrence of breaches&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="REST API viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AuditApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

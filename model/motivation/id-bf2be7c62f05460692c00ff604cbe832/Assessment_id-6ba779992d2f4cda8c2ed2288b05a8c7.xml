@@ -1,0 +1,47 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key Governance IoP Enablers"
+    id="id-6ba779992d2f4cda8c2ed2288b05a8c7"
+    documentation="Definition: Key Governance IoP Enablers ABB is a Grouping enabling common understanding and implementation of interoperability across public administration and borders through decisions on interoperability frameworks, institutional arrangements, organisational structures, roles and responsibilities, policies, agreements and other aspects of ensuring and monitoring interoperability.&#xA;&#xA;Source: ISA2-EIF&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/eif_en/&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/KeyGovernanceIoPEnablersAssessment&#xA;&#xA;ABB name: eira:KeyGovernanceIoPEnablersAssessment&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/KeyGovernanceIoPEnablersAssessment&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="eira:KeyGovernanceIoPEnablersAssessment"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Key Governance IoP Enablers ABB is a Grouping enabling common understanding and implementation of interoperability across public administration and borders through decisions on interoperability frameworks, institutional arrangements, organisational structures, roles and responsibilities, policies, agreements and other aspects of ensuring and monitoring interoperability."/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2-EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/eif_en/"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/KeyGovernanceIoPEnablersAssessment"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/KeyGovernanceIoPEnablersAssessment"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Assessment>

@@ -1,0 +1,51 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement on Data Sharing"
+    id="id-77f5621fcfa0414bb7b63b81cb93eb0e"
+    documentation="Definition: Agreement on Data Sharing ABB is a Contract formalizing the information requirements, syntax bindings, protocols and semantic artefacts that must be used for the exchange of data. &#xA;&#xA;Source: Inspired in the works by ISA2 (e.g. SEMIC), and the EIF-related works&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/isa2_en&#xA;&#xA;Additional information: Semantic and business rules as well as validation methods, artefacts and solutions are expected to be mentioned in the contract.&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): PEPPOL's data sharing agreements&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Interoperability Saliency: Agreements on Data Sharing are salient for governance and behavioural interoperability because (i) it sets the rules necessary for the security and quality assurance of the data to be exchanged, (ii) the agreements on data sharing indicate the business capabilities and technical resources agreed to execute the control on the security and quality of the data being that is exchanged. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgreementOnDataSharingContract&#xA;&#xA;ABB name: eira:AgreementOnDataSharingContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgreementOnDataSharingContract&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AgreementOnDataSharingContract"/>
+  <properties
+      key="dct:type"
+      value="eira:AgreementOnDataSharingContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Agreement on Data Sharing ABB is a Contract formalizing the information requirements, syntax bindings, protocols and semantic artefacts that must be used for the exchange of data. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the works by ISA2 (e.g. SEMIC), and the EIF-related works"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/isa2_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): PEPPOL's data sharing agreements"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Agreements on Data Sharing are salient for governance and behavioural interoperability because (i) it sets the rules necessary for the security and quality assurance of the data to be exchanged, (ii) the agreements on data sharing indicate the business capabilities and technical resources agreed to execute the control on the security and quality of the data being that is exchanged. "/>
+  <properties
+      key="skos:note"
+      value="Semantic and business rules as well as validation methods, artefacts and solutions are expected to be mentioned in the contract."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AgreementOnDataSharingContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Contract>

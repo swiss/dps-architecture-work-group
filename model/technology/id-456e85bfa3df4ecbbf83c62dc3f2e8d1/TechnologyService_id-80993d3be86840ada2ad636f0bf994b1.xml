@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Saas"
+    id="id-80993d3be86840ada2ad636f0bf994b1"
+    documentation="Definition: SaaS ABB is a Technology Service that enables the procedures for delivering software that is owned and managed remotely by one or more providers. The provider delivers software based on one set of common code and data definitions that is consumed in a one-to-many model by all contracted customers at any time on a pay-for-use basis or as a subscription based on use metrics.&#xA;&#xA;Source: Gartner &#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/software-as-a-service-saas&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Drupal is content management software. It's used to make many of the websites and applications you use every day. Drupal has great standard features, like easy content authoring, reliable performance, and excellent security. But what sets it apart is its flexibility; modularity is one of its core principles. Its tools help you build the versatile, structured content that dynamic web experiences need. https://www.drupal.org/about&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The SaaS ABB is salient for organizational, semantic and technical and technical interoperability due to it provides the needed infrastructure to deliver public administration services on demand. Also, SaaS provides the functionalities of common data models and definitions to support the internal communication between software components. Finally, SaaS provides also the set up of business rules to ensure the correct performance of the software modules.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SaasTechnologyService&#xA;&#xA;ABB name: eira:SaasTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SaasTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SaasTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:SaasTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="SaaS ABB is a Technology Service that enables the procedures for delivering software that is owned and managed remotely by one or more providers. The provider delivers software based on one set of common code and data definitions that is consumed in a one-to-many model by all contracted customers at any time on a pay-for-use basis or as a subscription based on use metrics."/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/software-as-a-service-saas"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Drupal is content management software. It's used to make many of the websites and applications you use every day. Drupal has great standard features, like easy content authoring, reliable performance, and excellent security. But what sets it apart is its flexibility; modularity is one of its core principles. Its tools help you build the versatile, structured content that dynamic web experiences need. https://www.drupal.org/about"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The SaaS ABB is salient for organizational, semantic and technical and technical interoperability due to it provides the needed infrastructure to deliver public administration services on demand. Also, SaaS provides the functionalities of common data models and definitions to support the internal communication between software components. Finally, SaaS provides also the set up of business rules to ensure the correct performance of the software modules."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SaasTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

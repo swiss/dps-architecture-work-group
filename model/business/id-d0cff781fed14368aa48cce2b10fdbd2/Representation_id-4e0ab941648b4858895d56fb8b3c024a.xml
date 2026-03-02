@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JSON-L"
+    id="id-4e0ab941648b4858895d56fb8b3c024a"
+    documentation="Description: JSON Lines, also known as newline-delimited JSON, is a text format designed for storing structured data that can be processed one record at a time. It provides a convenient and efficient way to store and exchange data in a format that is compatible with Unix-style text processing tools and shell pipelines.&#xA;&#xA;Publisher: JSON.org&#xA;&#xA;Source: https://jsonlines.org/&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/JSON-LRepresentation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/JSON-LRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="JSON.org"/>
+  <properties
+      key="dct:description"
+      value="JSON Lines, also known as newline-delimited JSON, is a text format designed for storing structured data that can be processed one record at a time. It provides a convenient and efficient way to store and exchange data in a format that is compatible with Unix-style text processing tools and shell pipelines."/>
+  <properties
+      key="dct:source"
+      value="https://jsonlines.org/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/JSON-LRepresentation"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/JSON-LRepresentation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

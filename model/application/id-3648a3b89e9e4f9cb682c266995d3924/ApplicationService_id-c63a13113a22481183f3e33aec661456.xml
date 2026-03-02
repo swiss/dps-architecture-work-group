@@ -1,0 +1,51 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archival Information Packages"
+    id="id-c63a13113a22481183f3e33aec661456"
+    documentation="Definition: Archival Information Packages (AIPs) refer to standardized packages of digital content and associated metadata that are created for long-term preservation and access in the context of eArchiving. AIPs encapsulate the essential components of digital objects, including their content, structure, and contextual information, ensuring their authenticity, integrity, and usability over time. AIPs typically adhere to established archival standards and formats, facilitating interoperability and long-term preservation strategies. The service of managing AIPs involves activities such as ingestion, storage, metadata management, preservation planning, and retrieval.&#xA;&#xA;Source: OASIS&#xA;&#xA;Source reference: https://public.ccsds.org/Pubs/650x0m2.pdf&#xA;&#xA;LOST view: TVA-Data Management Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ArchivalInformationPackagesApplicationService&#xA;&#xA;ABB name: egovera:ArchivalInformationPackagesApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ArchivalInformationPackagesApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/E-ArchivingApplicationService&#xA;&#xA;">
+  <properties
+      key="skos:definition"
+      value="Archival Information Packages (AIPs) refer to standardized packages of digital content and associated metadata that are created for long-term preservation and access in the context of eArchiving. AIPs encapsulate the essential components of digital objects, including their content, structure, and contextual information, ensuring their authenticity, integrity, and usability over time. AIPs typically adhere to established archival standards and formats, facilitating interoperability and long-term preservation strategies. The service of managing AIPs involves activities such as ingestion, storage, metadata management, preservation planning, and retrieval."/>
+  <properties
+      key="eira:definitionSource"
+      value="OASIS"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://public.ccsds.org/Pubs/650x0m2.pdf"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ArchivalInformationPackagesApplicationService"/>
+  <properties
+      key="dct:type"
+      value="egovera:ArchivalInformationPackagesApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Data Management Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Data Management and Knowledge Discovery Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Computing Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ArchivalInformationPackagesApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/E-ArchivingApplicationService"/>
+</archimate:ApplicationService>

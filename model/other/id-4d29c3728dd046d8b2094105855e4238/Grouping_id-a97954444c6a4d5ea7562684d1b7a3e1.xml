@@ -1,0 +1,53 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Dataset Solutions"
+    id="id-a97954444c6a4d5ea7562684d1b7a3e1"
+    documentation="Definition: Narrative: The &quot;Semantic view - Business Agnostic Datasets&quot; viewpoint extends organizational view and provides a comprehensive framework for managing and utilizing business agnostic datasets within the digital ecosystem. This view associates the Agnostic Datasets with the Business Information Base and Digital Public Services from the application layer.Within this view, Agnostic Datasets represent standardized collections of data that are independent of specific business domains. These datasets adhere to common data structures, formats, and semantics, enabling interoperability, data integration, and efficient data exchange across different digital services and applications.The Business Information Base, as part of the application layer, serves as a repository of business-related information that utilizes the Agnostic Datasets. It stores and manages domain-specific data within the standardized dataset structures, facilitating data consistency, accessibility, and sharing.Digital Public Services leverage the Agnostic Datasets to ensure uniformity and coherence in data representation and utilization. These services align their data models, operations, and interactions with the agnostic datasets, enabling seamless integration, data consistency, and semantic interoperability among different digital public services.By associating the Agnostic Datasets with the Business Information Base and Digital Public Services, the &quot;Semantic view - Business Agnostic Datasets&quot; promotes standardized data management practices and efficient data utilization within the digital ecosystem. This view supports data integration, semantic interoperability, and advanced functionalities for digital public services.The agnostic nature of the datasets allows for flexibility and adaptability across different business domains and digital public services. It enables reusability of data structures, reduces data duplication, and promotes consistent data representation and exchange.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The elements contained within the Business Agnostic Dataset Solutions are diverse, each serving a unique purpose. Multimedia Object Metadata provides context to multimedia assets, aiding in their organization and retrieval. Log Metadata captures details about log events, aiding in system behavior analysis and performance monitoring. Translation Item Metadata provides details about translation items, supporting the translation workflow. Transaction Metadata captures details about specific transactions, enabling data analysis, auditing, and reporting. Exchange Item Metadata provides details about exchange items in data exchange processes, enabling effective data integration and interoperability. Tender Item Metadata provides details about items in a tender process, facilitating procurement and bid comparison. Lastly, Authorised Payment Methods Metadata provides details about authorized payment methods, ensuring secure and efficient financial transactions.&#xA;&#xA;Example: For instance, a media company can use Multimedia Object Metadata to efficiently manage and retrieve their vast collection of multimedia assets. A software development company can use Log Metadata to monitor and improve the performance of their applications. A translation agency can use Translation Item Metadata to manage and track their translation tasks. A financial institution can use Transaction Metadata to audit and report their financial transactions. A data integration company can use Exchange Item Metadata to ensure effective data integration across different systems. A procurement department can use Tender Item Metadata to facilitate their procurement process. An e-commerce platform can use Authorised Payment Methods Metadata to integrate and process various payment methods.&#xA;&#xA;LOST view: SV-Business Agnostic Metadata&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDatasetSolutionsGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticDatasetSolutionsGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDatasetSolutionsGrouping&#xA;&#xA;Name: Business Agnostic Dataset Solutions Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDatasetSolutionsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDatasetSolutionsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Dataset Solutions Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticDatasetSolutionsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Narrative: The &quot;Semantic view - Business Agnostic Datasets&quot; viewpoint extends organizational view and provides a comprehensive framework for managing and utilizing business agnostic datasets within the digital ecosystem. This view associates the Agnostic Datasets with the Business Information Base and Digital Public Services from the application layer.Within this view, Agnostic Datasets represent standardized collections of data that are independent of specific business domains. These datasets adhere to common data structures, formats, and semantics, enabling interoperability, data integration, and efficient data exchange across different digital services and applications.The Business Information Base, as part of the application layer, serves as a repository of business-related information that utilizes the Agnostic Datasets. It stores and manages domain-specific data within the standardized dataset structures, facilitating data consistency, accessibility, and sharing.Digital Public Services leverage the Agnostic Datasets to ensure uniformity and coherence in data representation and utilization. These services align their data models, operations, and interactions with the agnostic datasets, enabling seamless integration, data consistency, and semantic interoperability among different digital public services.By associating the Agnostic Datasets with the Business Information Base and Digital Public Services, the &quot;Semantic view - Business Agnostic Datasets&quot; promotes standardized data management practices and efficient data utilization within the digital ecosystem. This view supports data integration, semantic interoperability, and advanced functionalities for digital public services.The agnostic nature of the datasets allows for flexibility and adaptability across different business domains and digital public services. It enables reusability of data structures, reduces data duplication, and promotes consistent data representation and exchange."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, a media company can use Multimedia Object Metadata to efficiently manage and retrieve their vast collection of multimedia assets. A software development company can use Log Metadata to monitor and improve the performance of their applications. A translation agency can use Translation Item Metadata to manage and track their translation tasks. A financial institution can use Transaction Metadata to audit and report their financial transactions. A data integration company can use Exchange Item Metadata to ensure effective data integration across different systems. A procurement department can use Tender Item Metadata to facilitate their procurement process. An e-commerce platform can use Authorised Payment Methods Metadata to integrate and process various payment methods."/>
+  <properties
+      key="skos:note"
+      value="The elements contained within the Business Agnostic Dataset Solutions are diverse, each serving a unique purpose. Multimedia Object Metadata provides context to multimedia assets, aiding in their organization and retrieval. Log Metadata captures details about log events, aiding in system behavior analysis and performance monitoring. Translation Item Metadata provides details about translation items, supporting the translation workflow. Transaction Metadata captures details about specific transactions, enabling data analysis, auditing, and reporting. Exchange Item Metadata provides details about exchange items in data exchange processes, enabling effective data integration and interoperability. Tender Item Metadata provides details about items in a tender process, facilitating procurement and bid comparison. Lastly, Authorised Payment Methods Metadata provides details about authorized payment methods, ensuring secure and efficient financial transactions."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic Metadata"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

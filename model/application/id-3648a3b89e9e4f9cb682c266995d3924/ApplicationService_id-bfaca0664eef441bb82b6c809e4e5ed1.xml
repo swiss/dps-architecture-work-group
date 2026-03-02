@@ -1,0 +1,44 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge Management"
+    id="id-bfaca0664eef441bb82b6c809e4e5ed1"
+    documentation="Definition: A Knowledge Management Application Service is a software application or service that supports the processes of capturing, organizing, storing, retrieving, and sharing knowledge within an organization. It provides functionalities and tools to facilitate knowledge creation, acquisition, categorization, search, collaboration, and dissemination. The Knowledge Management Application Service typically includes features such as knowledge repositories, document management, collaboration platforms, content categorization, search capabilities, expertise location, and best practice sharing. It enables employees or users to access and leverage the organization's knowledge assets effectively, fostering innovation, decision-making, and continuous learning.&#xA;&#xA;Source: International Journal of Computer Science Issues (IJCSI)&#xA;&#xA;Source reference: http://ijcsi.org/papers/IJCSI-8-2-1-179-186.pdf&#xA;&#xA;LOST view: TVA-Knowledge Discovery Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/KnowledgeManagementApplicationService&#xA;&#xA;ABB name: egovera:KnowledgeManagementApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/KnowledgeManagementApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataManagementApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/KnowledgeManagementApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="A Knowledge Management Application Service is a software application or service that supports the processes of capturing, organizing, storing, retrieving, and sharing knowledge within an organization. It provides functionalities and tools to facilitate knowledge creation, acquisition, categorization, search, collaboration, and dissemination. The Knowledge Management Application Service typically includes features such as knowledge repositories, document management, collaboration platforms, content categorization, search capabilities, expertise location, and best practice sharing. It enables employees or users to access and leverage the organization's knowledge assets effectively, fostering innovation, decision-making, and continuous learning."/>
+  <properties
+      key="eira:definitionSource"
+      value="International Journal of Computer Science Issues (IJCSI)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://ijcsi.org/papers/IJCSI-8-2-1-179-186.pdf"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="dct:type"
+      value="egovera:KnowledgeManagementApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Knowledge Discovery Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/KnowledgeManagementApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataManagementApplicationService"/>
+</archimate:ApplicationService>

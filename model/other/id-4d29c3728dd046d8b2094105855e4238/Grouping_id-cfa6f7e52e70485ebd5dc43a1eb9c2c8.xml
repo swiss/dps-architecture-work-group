@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Management Infrastructure Enablers"
+    id="id-cfa6f7e52e70485ebd5dc43a1eb9c2c8"
+    documentation="Definition: Management Infrastructure Enablers ABB is a Grouping that refers to the set of components and services to manage a public administration IT platforms efficiently and efficiency.&#xA;&#xA;Source: Inspired in PMI&#xA;&#xA;Source reference: https://www.pmi.org/learning/library/project-management-infrastructure-4647&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Design Principles for Data Spaces -Position Paper. https://design-principles-for-data-spaces.org/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Management Infrastructure Enablers ABB is salient for technical interoperability due to its set-up the implementation for managing and monitoring the public administration digital services to (i) ensure their correct behaviour, (ii) ensure the correct provision of resources, and (iii) guarantee the assessment of standards and regulations (including SLAs)&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ManagementInfrastructureEnablersGrouping&#xA;&#xA;ABB name: eira:ManagementInfrastructureEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ManagementInfrastructureEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ManagementInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:ManagementInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Management Infrastructure Enablers ABB is a Grouping that refers to the set of components and services to manage a public administration IT platforms efficiently and efficiency."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in PMI"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.pmi.org/learning/library/project-management-infrastructure-4647"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Design Principles for Data Spaces -Position Paper. https://design-principles-for-data-spaces.org/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Management Infrastructure Enablers ABB is salient for technical interoperability due to its set-up the implementation for managing and monitoring the public administration digital services to (i) ensure their correct behaviour, (ii) ensure the correct provision of resources, and (iii) guarantee the assessment of standards and regulations (including SLAs)"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ManagementInfrastructureEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

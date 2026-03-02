@@ -1,0 +1,49 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Software Components Catalogue"
+    id="id-76f3db5d3b9244e99aefa3851f5bb71b"
+    documentation="Definition: Software Components Catalogue ABB is a Data Object aiming to index information about collaborative spaces that offfers eGoverment solutions and best practices.&#xA;&#xA;Source: Joinup&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/topic/ict/reusable-software-components&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Software ReUse Catalogue (Belgium) https://joinup.ec.europa.eu/collection/belgian-interoperability-catalogue/solution/ict-reuse/about&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Interoperability Saliency: The Software Components Catalogue Data Object ABB is salient for semantic interoperability because it can act as a repository with descriptive data about digital solutions and interoperable solutions and best practices. This can contribute to expanding and enabling the reuse of artefacts, solutions, and services to implement new digital public services without starting from scratch. The reuse of such elements can infer knowledge and best practices from the collaboration between parties. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/SoftwareComponentsCatalogueDataObject&#xA;&#xA;ABB name: eira:SoftwareComponentsCatalogueDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SoftwareComponentsCatalogueDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SoftwareComponentsCatalogueDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:SoftwareComponentsCatalogueDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Software Components Catalogue ABB is a Data Object aiming to index information about collaborative spaces that offfers eGoverment solutions and best practices."/>
+  <properties
+      key="eira:definitionSource"
+      value="Joinup"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/topic/ict/reusable-software-components"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Software ReUse Catalogue (Belgium) https://joinup.ec.europa.eu/collection/belgian-interoperability-catalogue/solution/ict-reuse/about"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Software Components Catalogue Data Object ABB is salient for semantic interoperability because it can act as a repository with descriptive data about digital solutions and interoperable solutions and best practices. This can contribute to expanding and enabling the reuse of artefacts, solutions, and services to implement new digital public services without starting from scratch. The reuse of such elements can infer knowledge and best practices from the collaboration between parties. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SoftwareComponentsCatalogueDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

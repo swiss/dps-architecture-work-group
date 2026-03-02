@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution Security, Privacy and Compliance Architecture Decision Catalogue"
+    id="id-29bbd359c03b4edeb622fde85e883c50"
+    documentation="Definition: Digital Solution Security, Privacy and Compliance Architecture Decision Catalogue ABB is a grouping that covers a range of elements focused on security-related decisions made during the architectural design process. These elements document choices related to authentication mechanisms, encryption methods, access control, and other security considerations.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The catalogue includes elements such as 'Authentication Mechanism', 'Encryption Standards', 'Secure Communications', 'Role-Based Access Control', 'Security Testing', 'Security Incident Response', 'Access Control Policy', 'Continuous Security Monitoring', 'Retention and Data Deletion', 'Security Incident Response Plan', 'Compliance Monitoring and Auditing', and 'Data Protection Measures'. Each of these elements represents a specific decision made in the architectural design process, with a focus on ensuring the security, privacy, and compliance of the digital solution. The decisions made in these areas can have significant impacts on the overall security posture of the solution, and as such, they are carefully documented and monitored.&#xA;&#xA;Example: Authentication Mechanism&#xA;This could involve a decision to use multi-factor authentication for all user logins, to enhance the security of the system.&#xA;&#xA;Encryption Standards&#xA;This might involve a decision to use a specific encryption standard, such as AES-256, for all data at rest and in transit.&#xA;&#xA;Secure Communications&#xA;This could involve a decision to use secure communication protocols, such as HTTPS and SSL/TLS, to protect data during transmission.&#xA;&#xA;Role-Based Access Control&#xA;This might involve a decision to implement role-based access control, to ensure that users only have access to the data and functions that they need for their role.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionSecurityPrivacyAndComplianceArchitectureDecisionCatalogueGrouping&#xA;&#xA;ABB name: eira:DigitalSolutionSecurityPrivacyAndComplianceArchitectureDecisionCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionSecurityPrivacyAndComplianceArchitectureDecisionCatalogueGrouping&#xA;&#xA;Name: Digital Solution Security, Privacy And Compliance Architecture Decision Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionSecurityPrivacyAndComplianceArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionSecurityPrivacyAndComplianceArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Digital Solution Security, Privacy And Compliance Architecture Decision Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionSecurityPrivacyAndComplianceArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Digital Solution Security, Privacy and Compliance Architecture Decision Catalogue ABB is a grouping that covers a range of elements focused on security-related decisions made during the architectural design process. These elements document choices related to authentication mechanisms, encryption methods, access control, and other security considerations."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="Authentication Mechanism&#xA;This could involve a decision to use multi-factor authentication for all user logins, to enhance the security of the system.&#xA;&#xA;Encryption Standards&#xA;This might involve a decision to use a specific encryption standard, such as AES-256, for all data at rest and in transit.&#xA;&#xA;Secure Communications&#xA;This could involve a decision to use secure communication protocols, such as HTTPS and SSL/TLS, to protect data during transmission.&#xA;&#xA;Role-Based Access Control&#xA;This might involve a decision to implement role-based access control, to ensure that users only have access to the data and functions that they need for their role."/>
+  <properties
+      key="skos:note"
+      value="The catalogue includes elements such as 'Authentication Mechanism', 'Encryption Standards', 'Secure Communications', 'Role-Based Access Control', 'Security Testing', 'Security Incident Response', 'Access Control Policy', 'Continuous Security Monitoring', 'Retention and Data Deletion', 'Security Incident Response Plan', 'Compliance Monitoring and Auditing', and 'Data Protection Measures'. Each of these elements represents a specific decision made in the architectural design process, with a focus on ensuring the security, privacy, and compliance of the digital solution. The decisions made in these areas can have significant impacts on the overall security posture of the solution, and as such, they are carefully documented and monitored."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

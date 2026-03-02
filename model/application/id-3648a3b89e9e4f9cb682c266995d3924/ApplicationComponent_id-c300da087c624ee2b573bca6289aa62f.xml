@@ -1,0 +1,49 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Persistence"
+    id="id-c300da087c624ee2b573bca6289aa62f"
+    documentation="Definition: Data Persistence ABB is an Application Component that enables the implementation of components that are responsible for managing the storage and retrieval of data within an application. It provides an interface for storing and retrieving data from a database, file system, or other storage medium.&#xA;&#xA;Source: Inspired in European Comision Data Strategy&#xA;&#xA;Source reference: https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Context Broker as a CEF Building Block https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/82773424/Context%20Broker%20Brochure.pdf?version=1&amp;modificationDate=1558016168498&amp;api=v2&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Data Persistence Application Component ABB is salient for technical interoperability because it is can be part of a digital public service to store, and retrieve data within specific applications or systems. It is the basis that realises the Data Persistence Service by providing an interface to manage data and then supporting interoperability through public services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataPersistenceApplicationComponent&#xA;&#xA;ABB name: eira:DataPersistenceApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataPersistenceApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataPersistenceApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:DataPersistenceApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Persistence ABB is an Application Component that enables the implementation of components that are responsible for managing the storage and retrieval of data within an application. It provides an interface for storing and retrieving data from a database, file system, or other storage medium."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in European Comision Data Strategy"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Context Broker as a CEF Building Block https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/82773424/Context%20Broker%20Brochure.pdf?version=1&amp;modificationDate=1558016168498&amp;api=v2"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Persistence Application Component ABB is salient for technical interoperability because it is can be part of a digital public service to store, and retrieve data within specific applications or systems. It is the basis that realises the Data Persistence Service by providing an interface to manage data and then supporting interoperability through public services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataPersistenceApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

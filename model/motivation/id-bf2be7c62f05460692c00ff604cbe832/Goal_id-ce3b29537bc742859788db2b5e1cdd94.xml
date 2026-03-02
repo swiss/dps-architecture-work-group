@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliance with Data Privacy Regulations"
+    id="id-ce3b29537bc742859788db2b5e1cdd94"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Compliance with Data Privacy Regulations&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: Compliance with data privacy regulations is a decision that ensures that an organization's data management practices align with the legal and regulatory requirements of the jurisdictions in which it operates. This decision involves implementing appropriate data protection measures, such as encryption, access controls, and data retention policies, to safeguard sensitive information from unauthorized access, use, or disclosure. Compliance with data privacy regulations also involves establishing clear policies and procedures for data handling, including data collection, storage, sharing, and disposal, to ensure that personal data is processed lawfully, fairly, and transparently. Failure to comply with data privacy regulations can result in severe legal and financial consequences, including fines, legal action, and reputational damage. Therefore, IT architecture decisions must prioritize compliance with data privacy regulations to protect the organization's data and reputation.&#xA;&#xA;Example: Compliance with Data Privacy Regulations:&#xA;Decision: Ensuring compliance with the General Data Protection Regulation (GDPR) for handling customer data.&#xA;Rationale: Compliance with GDPR builds trust with customers, reduces the risk of legal consequences, and enhances the organization's reputation in terms of data privacy and security.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ComplianceWithDataPrivacyRegulationsGoal&#xA;&#xA;ABB name: eira:ComplianceWithDataPrivacyRegulationsGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947734&#xA;&#xA;Name: Architecture Decision Record about Compliance with Data Privacy Regulations&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947734"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Compliance with Data Privacy Regulations"/>
+  <properties
+      key="skos:example"
+      value="Compliance with Data Privacy Regulations:&#xA;Decision: Ensuring compliance with the General Data Protection Regulation (GDPR) for handling customer data.&#xA;Rationale: Compliance with GDPR builds trust with customers, reduces the risk of legal consequences, and enhances the organization's reputation in terms of data privacy and security."/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="Compliance with data privacy regulations is a decision that ensures that an organization's data management practices align with the legal and regulatory requirements of the jurisdictions in which it operates. This decision involves implementing appropriate data protection measures, such as encryption, access controls, and data retention policies, to safeguard sensitive information from unauthorized access, use, or disclosure. Compliance with data privacy regulations also involves establishing clear policies and procedures for data handling, including data collection, storage, sharing, and disposal, to ensure that personal data is processed lawfully, fairly, and transparently. Failure to comply with data privacy regulations can result in severe legal and financial consequences, including fines, legal action, and reputational damage. Therefore, IT architecture decisions must prioritize compliance with data privacy regulations to protect the organization's data and reputation."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ComplianceWithDataPrivacyRegulationsGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:ComplianceWithDataPrivacyRegulationsGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Compliance with Data Privacy Regulations"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

@@ -1,0 +1,48 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Case and Workflow Management"
+    id="id-c9125b82a1064d6391c7dae29504ff4d"
+    documentation="Definition: Case and Workflow Management enables organisations to design, execute, and automatise internal processes based on pre-defined business rules.&#xA;&#xA;Source: Hajo Reijers&#xA;&#xA;Source reference: https://lists.w3.org/Archives/Public/public-xg-eiif/2008Oct/att-0019/HARE.MOJA.MIZU.WIAP-BPM-2007.pdf&#xA;&#xA;Additional information: The Case and Workflow Management Digital Business Capability (DWC) is a comprehensive system designed to facilitate and streamline the management of cases and workflows within the context of European IT interoperability among member states and private companies. It serves as a digital platform that enables efficient collaboration, information sharing, and decision-making across various entities involved in the European IT landscape.&#xA;&#xA;The DWC encompasses a range of functionalities and features that support the end-to-end management of cases and workflows. It provides a centralized repository for storing and accessing relevant information, documents, and data related to specific cases or workflows. This ensures that all stakeholders have access to the most up-to-date and accurate information, promoting transparency and accountability.&#xA;&#xA;One of the key aspects of the DWC is its ability to facilitate seamless communication and collaboration among different entities. It enables secure and real-time communication channels, allowing member states and private companies to exchange information, updates, and notifications related to specific cases or workflows. This promotes effective coordination and cooperation, reducing delays and improving overall efficiency.&#xA;&#xA;The DWC also incorporates advanced workflow management capabilities. It allows for the definition and automation of complex workflows, ensuring that tasks and activities are assigned, tracked, and completed in a timely manner. This helps to streamline processes, minimize manual intervention, and reduce the risk of errors or oversights.&#xA;&#xA;Furthermore, the DWC includes robust analytics and reporting functionalities. It enables the generation of comprehensive reports and insights, providing valuable data and metrics related to case and workflow management. This allows member states and private companies to monitor performance, identify bottlenecks, and make data-driven decisions to optimize processes and improve outcomes.&#xA;&#xA;In terms of European IT interoperability, the DWC ensures that member states and private companies can seamlessly integrate their existing IT systems and applications with the platform. It supports standardized data formats, protocols, and interfaces, enabling smooth data exchange and interoperability across different systems. This promotes a cohesive and interconnected IT ecosystem, facilitating efficient collaboration and information sharing among all stakeholders.&#xA;&#xA;Overall, the Case and Workflow Management Digital Business Capability plays a crucial role in enhancing European IT interoperability among member states and private companies. It provides a comprehensive and integrated platform for managing cases and workflows, enabling efficient collaboration, streamlined processes, and improved decision-making. By promoting transparency, accountability, and interoperability, the DWC contributes to the overall effectiveness and efficiency of the European IT landscape.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ePrescription: &quot;Generation, transmission, and filling of a medical prescription through digital channels. ePrescribing allows a physician, pharmacist, nurse practitioner, or physician assistant to use digital prescription software to electronically transmit a new prescription or renewal authorization to a community or mail-order pharmacy&quot;.&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/CaseAndWorkflowManagementCapability&#xA;&#xA;ABB name: eira:CaseAndWorkflowManagementCapability&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/CaseAndWorkflowManagementCapability&#xA;&#xA;Name: Case and Workflow Management Digital Business Capability&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalBusinessCapability&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/CaseAndWorkflowManagementCapability"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/CaseAndWorkflowManagementCapability"/>
+  <properties
+      key="dct:title"
+      value="Case and Workflow Management Digital Business Capability"/>
+  <properties
+      key="skos:definition"
+      value="Case and Workflow Management enables organisations to design, execute, and automatise internal processes based on pre-defined business rules."/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ePrescription: &quot;Generation, transmission, and filling of a medical prescription through digital channels. ePrescribing allows a physician, pharmacist, nurse practitioner, or physician assistant to use digital prescription software to electronically transmit a new prescription or renewal authorization to a community or mail-order pharmacy&quot;."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:note"
+      value="The Case and Workflow Management Digital Business Capability (DWC) is a comprehensive system designed to facilitate and streamline the management of cases and workflows within the context of European IT interoperability among member states and private companies. It serves as a digital platform that enables efficient collaboration, information sharing, and decision-making across various entities involved in the European IT landscape.&#xA;&#xA;The DWC encompasses a range of functionalities and features that support the end-to-end management of cases and workflows. It provides a centralized repository for storing and accessing relevant information, documents, and data related to specific cases or workflows. This ensures that all stakeholders have access to the most up-to-date and accurate information, promoting transparency and accountability.&#xA;&#xA;One of the key aspects of the DWC is its ability to facilitate seamless communication and collaboration among different entities. It enables secure and real-time communication channels, allowing member states and private companies to exchange information, updates, and notifications related to specific cases or workflows. This promotes effective coordination and cooperation, reducing delays and improving overall efficiency.&#xA;&#xA;The DWC also incorporates advanced workflow management capabilities. It allows for the definition and automation of complex workflows, ensuring that tasks and activities are assigned, tracked, and completed in a timely manner. This helps to streamline processes, minimize manual intervention, and reduce the risk of errors or oversights.&#xA;&#xA;Furthermore, the DWC includes robust analytics and reporting functionalities. It enables the generation of comprehensive reports and insights, providing valuable data and metrics related to case and workflow management. This allows member states and private companies to monitor performance, identify bottlenecks, and make data-driven decisions to optimize processes and improve outcomes.&#xA;&#xA;In terms of European IT interoperability, the DWC ensures that member states and private companies can seamlessly integrate their existing IT systems and applications with the platform. It supports standardized data formats, protocols, and interfaces, enabling smooth data exchange and interoperability across different systems. This promotes a cohesive and interconnected IT ecosystem, facilitating efficient collaboration and information sharing among all stakeholders.&#xA;&#xA;Overall, the Case and Workflow Management Digital Business Capability plays a crucial role in enhancing European IT interoperability among member states and private companies. It provides a comprehensive and integrated platform for managing cases and workflows, enabling efficient collaboration, streamlined processes, and improved decision-making. By promoting transparency, accountability, and interoperability, the DWC contributes to the overall effectiveness and efficiency of the European IT landscape."/>
+  <properties
+      key="eira:definitionSource"
+      value="Hajo Reijers"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://lists.w3.org/Archives/Public/public-xg-eiif/2008Oct/att-0019/HARE.MOJA.MIZU.WIAP-BPM-2007.pdf"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalBusinessCapability"/>
+  <properties
+      key="dct:type"
+      value="eira:CaseAndWorkflowManagementCapability"/>
+</archimate:Capability>

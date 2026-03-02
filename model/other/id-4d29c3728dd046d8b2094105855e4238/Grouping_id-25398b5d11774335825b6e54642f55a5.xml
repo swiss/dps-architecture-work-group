@@ -1,0 +1,48 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Orchestration Enablers"
+    id="id-25398b5d11774335825b6e54642f55a5"
+    documentation="Definition: Orchestration Enablers ABB is a Grouping Component that refers to the components and practices that support the development and deployment of orchestration applications.&#xA;&#xA;Source: ETSI Network Functions Virtualisation Standard&#xA;&#xA;Source reference: https://portal.etsi.org/NFV/NFV_White_Paper2.pdf&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Orchestration Enablers Grouping ABB is salient for interoperability because it contains both, application services and components, that can enable the deployment and development of orchestration services. By enabling and promoting orchestration, the grouping can contribute to the creation and functioning of an interoperable ecosystem that can foster the digital public services interoperability&#xA;&#xA;Identifier: http://data.europa.eu/dr8/OrchestrationEnablersGrouping&#xA;&#xA;ABB name: eira:OrchestrationEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/OrchestrationEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/OrchestrationEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:OrchestrationEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Orchestration Enablers ABB is a Grouping Component that refers to the components and practices that support the development and deployment of orchestration applications."/>
+  <properties
+      key="eira:definitionSource"
+      value="ETSI Network Functions Virtualisation Standard"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://portal.etsi.org/NFV/NFV_White_Paper2.pdf"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Orchestration Enablers Grouping ABB is salient for interoperability because it contains both, application services and components, that can enable the deployment and development of orchestration services. By enabling and promoting orchestration, the grouping can contribute to the creation and functioning of an interoperable ecosystem that can foster the digital public services interoperability"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/OrchestrationEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

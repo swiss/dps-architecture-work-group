@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Lake Storage"
+    id="id-9c3b65edcf0b495ea1e2c52851a5e711"
+    documentation="Definition: Data Lake Storage ABB  is a Technology Service that implements the behaviour of a storage repository that allows organizations to store large amounts of structured, semi-structured, and unstructured data at any scale&#xA;&#xA;Source: Inspired in Forbes&#xA;&#xA;Source reference: https://www.forbes.com/sites/ciocentral/2011/07/21/big-data-requires-a-big-new-architecture/?sh=5be8fb361157&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Smart Data Lake. https://smartdatalake.eu/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Data Lake storage ABB is salient for semantic and technical interoperability because it provides the data architecture to store and share multiple sources of data under a common framework. This ABB also provides FAIR data through the application of data curation pipelines that maximise the data quality returned to the public service consumers.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataLakeStorageTechnologyService&#xA;&#xA;ABB name: eira:DataLakeStorageTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataLakeStorageTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataLakeStorageTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:DataLakeStorageTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Lake Storage ABB  is a Technology Service that implements the behaviour of a storage repository that allows organizations to store large amounts of structured, semi-structured, and unstructured data at any scale"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Forbes"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.forbes.com/sites/ciocentral/2011/07/21/big-data-requires-a-big-new-architecture/?sh=5be8fb361157"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Smart Data Lake. https://smartdatalake.eu/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Data Lake storage ABB is salient for semantic and technical interoperability because it provides the data architecture to store and share multiple sources of data under a common framework. This ABB also provides FAIR data through the application of data curation pipelines that maximise the data quality returned to the public service consumers."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataLakeStorageTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

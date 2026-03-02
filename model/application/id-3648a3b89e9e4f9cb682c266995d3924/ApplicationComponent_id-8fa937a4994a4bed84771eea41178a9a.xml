@@ -1,0 +1,52 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Publication"
+    id="id-8fa937a4994a4bed84771eea41178a9a"
+    documentation="Definition: Data Publication ABB is an Application Component that implements the functionality of making data publicly available and discoverable for reuse by other public administration services.&#xA;&#xA;Source: ISA2&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/sites/default/files/docs/publications/isa2-actions-phase2_-_poc_-_wp1_specifications_en.pdf&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): CKAN - CKAN is a data publication tool that makes data accessible by providing tools to streamline publishing, sharing, finding and using data. This is a tool for making open data websites. It helps you manage and publish collections of data. It is used by national and local governments, research institutions, and other organizations that collect a lot of data. Once your data is published, users can use its faceted search features to browse and find the data they need and preview it using maps, graphs and tables – whether they are developers, journalists, researchers, NGOs, citizens, or even your staff. CKAN is open-source and free software, with an active community of contributors who develop and maintain its core technology. CKAN is modified and extended by an even larger community of developers who contribute to a growing library of CKAN extension. https://ckan.org/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Data Pubblication Component ABB  is salient for technical interoperability because it provides the implementation of the functionalities to make public data freely available for use and reuse by others unless restriction aoply as stated in the EIF recommendation n.2: &quot;Publish the data you own as open data unless certain restrictions apply.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataPublicationApplicationComponent&#xA;&#xA;ABB name: eira:DataPublicationApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataPublicationApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataPublicationApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:DataPublicationApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Publication ABB is an Application Component that implements the functionality of making data publicly available and discoverable for reuse by other public administration services."/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/sites/default/files/docs/publications/isa2-actions-phase2_-_poc_-_wp1_specifications_en.pdf"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): CKAN - CKAN is a data publication tool that makes data accessible by providing tools to streamline publishing, sharing, finding and using data. This is a tool for making open data websites. It helps you manage and publish collections of data. It is used by national and local governments, research institutions, and other organizations that collect a lot of data. Once your data is published, users can use its faceted search features to browse and find the data they need and preview it using maps, graphs and tables – whether they are developers, journalists, researchers, NGOs, citizens, or even your staff. CKAN is open-source and free software, with an active community of contributors who develop and maintain its core technology. CKAN is modified and extended by an even larger community of developers who contribute to a growing library of CKAN extension. https://ckan.org/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Pubblication Component ABB  is salient for technical interoperability because it provides the implementation of the functionalities to make public data freely available for use and reuse by others unless restriction aoply as stated in the EIF recommendation n.2: &quot;Publish the data you own as open data unless certain restrictions apply.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataPublicationApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

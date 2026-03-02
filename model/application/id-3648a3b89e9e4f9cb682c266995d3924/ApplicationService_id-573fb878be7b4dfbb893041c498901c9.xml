@@ -1,0 +1,54 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Catalogue Management"
+    id="id-573fb878be7b4dfbb893041c498901c9"
+    documentation="Definition: Data Catalogue Management is the process of organizing, categorizing, and managing metadata about data assets within an organization. It involves creating a centralized repository or catalog that provides a comprehensive view of available data resources, including their structure, location, quality, and usage. This enables data users to easily discover, understand, and access relevant data assets, promoting data governance, collaboration, and informed decision-making.&#xA;&#xA;Source: Techopedia&#xA;&#xA;Source reference: https://www.techopedia.com/definition/32705/data-catalog&#xA;&#xA;Additional information: Data Catalogue Management plays a crucial role in data-driven organizations by facilitating the discovery and understanding of data assets. It involves capturing and maintaining metadata, such as data source, format, schema, and lineage, in a structured manner. The catalog serves as a central hub for data stakeholders to search, explore, and evaluate available data resources. It helps in identifying data dependencies, assessing data quality, and ensuring compliance with data governance policies. Data Catalogue Management enhances data collaboration and enables self-service analytics, as users can easily find and access the data they need. It also promotes data reuse, as the catalog provides visibility into existing data assets, reducing redundancy and improving efficiency. Overall, effective Data Catalogue Management improves data discoverability, accessibility, and usability, leading to better decision-making and insights.&#xA;&#xA;Example: An example of Data Catalogue Management in practice is a large financial institution that maintains a data catalog to manage its vast amount of financial data. The catalog includes metadata about various data sources, such as transactional databases, market data feeds, and customer data repositories. It provides detailed information about each dataset, including its structure, data types, and data quality metrics. Data analysts and business users can search the catalog to find relevant data for their analysis or reporting needs. They can also view the lineage of a dataset to understand its origin and transformations. The data catalog ensures that users have a clear understanding of available data assets, enabling them to make informed decisions and perform accurate analysis.&#xA;&#xA;LOST view: TVA-Data Management Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataCatalogueManagementApplicationService&#xA;&#xA;ABB name: egovera:DataCatalogueManagementApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataCatalogueManagementApplicationService&#xA;&#xA;Name: Data Catalogue Management Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataCatalogueManagementApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataCatalogueManagementApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Data Catalogue Management Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataCatalogueManagementApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="Data Catalogue Management is the process of organizing, categorizing, and managing metadata about data assets within an organization. It involves creating a centralized repository or catalog that provides a comprehensive view of available data resources, including their structure, location, quality, and usage. This enables data users to easily discover, understand, and access relevant data assets, promoting data governance, collaboration, and informed decision-making."/>
+  <properties
+      key="eira:definitionSource"
+      value="Techopedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.techopedia.com/definition/32705/data-catalog"/>
+  <properties
+      key="skos:example"
+      value="An example of Data Catalogue Management in practice is a large financial institution that maintains a data catalog to manage its vast amount of financial data. The catalog includes metadata about various data sources, such as transactional databases, market data feeds, and customer data repositories. It provides detailed information about each dataset, including its structure, data types, and data quality metrics. Data analysts and business users can search the catalog to find relevant data for their analysis or reporting needs. They can also view the lineage of a dataset to understand its origin and transformations. The data catalog ensures that users have a clear understanding of available data assets, enabling them to make informed decisions and perform accurate analysis."/>
+  <properties
+      key="skos:note"
+      value="Data Catalogue Management plays a crucial role in data-driven organizations by facilitating the discovery and understanding of data assets. It involves capturing and maintaining metadata, such as data source, format, schema, and lineage, in a structured manner. The catalog serves as a central hub for data stakeholders to search, explore, and evaluate available data resources. It helps in identifying data dependencies, assessing data quality, and ensuring compliance with data governance policies. Data Catalogue Management enhances data collaboration and enables self-service analytics, as users can easily find and access the data they need. It also promotes data reuse, as the catalog provides visibility into existing data assets, reducing redundancy and improving efficiency. Overall, effective Data Catalogue Management improves data discoverability, accessibility, and usability, leading to better decision-making and insights."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Data Management Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Dataspace Enablers"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

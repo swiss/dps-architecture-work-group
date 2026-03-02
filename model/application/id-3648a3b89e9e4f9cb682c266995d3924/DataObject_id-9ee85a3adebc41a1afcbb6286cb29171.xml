@@ -1,0 +1,49 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata Catalogue"
+    id="id-9ee85a3adebc41a1afcbb6286cb29171"
+    documentation="Definition: Metadata Catalogue ABB is a Data Object that represents the collection of of descriptive information about data, resources or information objects related to public services.&#xA;&#xA;Source: INSPIRE&#xA;&#xA;Source reference: https://inspire.ec.europa.eu/training/metadata-and-catalogue-services&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): CESSDA Data Catalogue https://www.cessda.eu/Tools/Data-Catalogue&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Interoperability Saliency: The Metadata Catalogue ABB is a key interoperability enabler supporting semantic interoperability because metadata catalogue is a collection of descriptive information about data and information related to digital public services. The usage of standardised methods can enable successful data discoverability and reuse supporting the implementation of digital public services across borders. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/MetadataCatalogueDataObject&#xA;&#xA;ABB name: eira:MetadataCatalogueDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MetadataCatalogueDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/MetadataCatalogueDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:MetadataCatalogueDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Metadata Catalogue ABB is a Data Object that represents the collection of of descriptive information about data, resources or information objects related to public services."/>
+  <properties
+      key="eira:definitionSource"
+      value="INSPIRE"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://inspire.ec.europa.eu/training/metadata-and-catalogue-services"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): CESSDA Data Catalogue https://www.cessda.eu/Tools/Data-Catalogue"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Metadata Catalogue ABB is a key interoperability enabler supporting semantic interoperability because metadata catalogue is a collection of descriptive information about data and information related to digital public services. The usage of standardised methods can enable successful data discoverability and reuse supporting the implementation of digital public services across borders. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/MetadataCatalogueDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

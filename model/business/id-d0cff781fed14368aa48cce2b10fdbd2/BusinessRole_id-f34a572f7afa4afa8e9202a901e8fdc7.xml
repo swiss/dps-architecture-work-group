@@ -1,0 +1,62 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Holder"
+    id="id-f34a572f7afa4afa8e9202a901e8fdc7"
+    documentation="Definition: Data Holder ABB is a Business Role being assigned to a legal person, including public sector bodies and international organisations, or a natural person who is not a data subject with respect to the specific data in question, which, in accordance with applicable Union or national law, has the right to grant access to or to share certain personal data or non-personal data.&#xA;&#xA;Source: Data Governance Act (DGA)&#xA;&#xA;Source reference: http://data.europa.eu/eli/reg/2022/868/oj&#xA;&#xA;Additional information: Data owners may not work with their data every day, but are responsible for overseeing and protecting a data domain. In the context of the GDPR, data owners are accountable for the quality, integrity, and protection of their data space. In SiMPL (https://digital-strategy.ec.europa.eu/en/news/simpl-cloud-edge-federations-and-data-spaces-made-simple), the data owner is the legal entity that has sovereignty over the data, usually the creator of the data or the one who executes control over the data. See SiMPL requirements and architecture vision document. The Data Governance Act does not define the concept Data Owner, but intrinsically this role can be assigned also to the Data Holder, since &quot;holding&quot; usually entails &quot;controlling&quot;.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): In the GDPR, &quot;controller&quot;, or &quot;processor&quot; on behalf of the &quot;controller&quot; are examples of the data owner role defined for this ABB. See GDPR https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&amp;from=EN , Article 4, Definitions.&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Data Holder ABB is salient for organizational interoperability because it plays a pivotal role in facilitating data access and sharing within the framework of the Data Governance Act. This designation applies to both legal entities, such as public sector bodies and international organizations, and individuals authorized by applicable Union or national law to grant access to specific personal or non-personal data. By delineating responsibilities and ensuring compliance with regulatory standards, the identification of Data Holders fosters transparency, accountability, and alignment with data governance policies, ultimately promoting seamless data interoperability within organizational contexts&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataHolderBusinessRole&#xA;&#xA;ABB name: eira:DataHolderBusinessRole&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-06-05&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataHolderBusinessRole&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataHolderBusinessRole"/>
+  <properties
+      key="dct:type"
+      value="eira:DataHolderBusinessRole"/>
+  <properties
+      key="dct:modified"
+      value="2024-06-05"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Holder ABB is a Business Role being assigned to a legal person, including public sector bodies and international organisations, or a natural person who is not a data subject with respect to the specific data in question, which, in accordance with applicable Union or national law, has the right to grant access to or to share certain personal data or non-personal data."/>
+  <properties
+      key="eira:definitionSource"
+      value="Data Governance Act (DGA)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://data.europa.eu/eli/reg/2022/868/oj"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): In the GDPR, &quot;controller&quot;, or &quot;processor&quot; on behalf of the &quot;controller&quot; are examples of the data owner role defined for this ABB. See GDPR https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679&amp;from=EN , Article 4, Definitions."/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Holder ABB is salient for organizational interoperability because it plays a pivotal role in facilitating data access and sharing within the framework of the Data Governance Act. This designation applies to both legal entities, such as public sector bodies and international organizations, and individuals authorized by applicable Union or national law to grant access to specific personal or non-personal data. By delineating responsibilities and ensuring compliance with regulatory standards, the identification of Data Holders fosters transparency, accountability, and alignment with data governance policies, ultimately promoting seamless data interoperability within organizational contexts"/>
+  <properties
+      key="skos:note"
+      value="Data owners may not work with their data every day, but are responsible for overseeing and protecting a data domain. In the context of the GDPR, data owners are accountable for the quality, integrity, and protection of their data space. In SiMPL (https://digital-strategy.ec.europa.eu/en/news/simpl-cloud-edge-federations-and-data-spaces-made-simple), the data owner is the legal entity that has sovereignty over the data, usually the creator of the data or the one who executes control over the data. See SiMPL requirements and architecture vision document. The Data Governance Act does not define the concept Data Owner, but intrinsically this role can be assigned also to the Data Holder, since &quot;holding&quot; usually entails &quot;controlling&quot;."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataHolderBusinessRole"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessRole>

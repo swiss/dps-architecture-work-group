@@ -1,0 +1,61 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical Interoperability Agreement"
+    id="id-f7e033a901a54aa08df2be8a7e99c0ac"
+    documentation="Definition: Technical Interoperability Agreement ABB is a Contract formalizing the technical specifications to ensure organisations operate under different technical frameworks.&#xA;&#xA;Source: EIF&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf#page=27&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ETA - The European Technical Assessment (ETA) is an alternative for construction products not covered by a harmonised standard. It is a document providing information on their performance assessment. The procedure is established in the Construction Products Regulation and offers a way for manufacturers to draw up the Declaration of Performance and affix the CE marking. It contributes to the free movement of construction products and the creation of a strong Single Market. https://ec.europa.eu/growth/sectors/construction/product-regulation/european-assessment_en&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Technical Interoperability Agreement ABB is a key enabler (*) for governance and organizational interoperability by enabling components to ensure data sharing, access and discovery between public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TechnicalInteroperabilityAgreementContract&#xA;&#xA;ABB name: eira:TechnicalInteroperabilityAgreementContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TechnicalInteroperabilityAgreementContract&#xA;&#xA;Interoperability Layer: Technical&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/TechnicalInteroperabilityAgreementContract"/>
+  <properties
+      key="dct:type"
+      value="eira:TechnicalInteroperabilityAgreementContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Technical Interoperability Agreement ABB is a Contract formalizing the technical specifications to ensure organisations operate under different technical frameworks."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf#page=27"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ETA - The European Technical Assessment (ETA) is an alternative for construction products not covered by a harmonised standard. It is a document providing information on their performance assessment. The procedure is established in the Construction Products Regulation and offers a way for manufacturers to draw up the Declaration of Performance and affix the CE marking. It contributes to the free movement of construction products and the creation of a strong Single Market. https://ec.europa.eu/growth/sectors/construction/product-regulation/european-assessment_en"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Technical Interoperability Agreement ABB is a key enabler (*) for governance and organizational interoperability by enabling components to ensure data sharing, access and discovery between public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/TechnicalInteroperabilityAgreementContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="Technical"/>
+</archimate:Contract>

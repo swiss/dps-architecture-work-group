@@ -1,0 +1,52 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domain Name Service"
+    id="id-b2e389e40aad4e97913824326c1aada0"
+    documentation="Definition: Domain Name Service ABB is a Technology Service that enables the implementation of a directory which translates numeric IP addresses into Domain Names to identify users on the Internet&#xA;&#xA;Source: LAWINSIDER&#xA;&#xA;Source reference: https://www.lawinsider.com/dictionary/domain-name-service&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):  Europe Registry, Europe Registry is a trusted domain expert with over twenty years experience in the domain industry. We have multiple ICANN Accreditations and provide domain registration for country code top level domains (ccTLDs). https://www.europeregistry.com/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Domain Name Service ABB is salient for semantic interoperability because it implements a catalogue of internet addresses associated with the corresponding names to facilitate accessibility to public administration services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DomainNameServiceTechnologyService&#xA;&#xA;ABB name: eira:DomainNameServiceTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DomainNameServiceTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DomainNameServiceTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:DomainNameServiceTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Domain Name Service ABB is a Technology Service that enables the implementation of a directory which translates numeric IP addresses into Domain Names to identify users on the Internet"/>
+  <properties
+      key="eira:definitionSource"
+      value="LAWINSIDER"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.lawinsider.com/dictionary/domain-name-service"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):  Europe Registry, Europe Registry is a trusted domain expert with over twenty years experience in the domain industry. We have multiple ICANN Accreditations and provide domain registration for country code top level domains (ccTLDs). https://www.europeregistry.com/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Domain Name Service ABB is salient for semantic interoperability because it implements a catalogue of internet addresses associated with the corresponding names to facilitate accessibility to public administration services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DomainNameServiceTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

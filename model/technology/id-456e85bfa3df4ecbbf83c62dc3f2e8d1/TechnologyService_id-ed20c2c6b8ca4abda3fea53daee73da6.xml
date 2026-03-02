@@ -1,0 +1,47 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Graph Database Manager"
+    id="id-ed20c2c6b8ca4abda3fea53daee73da6"
+    documentation="Definition: Graph Database manager ABB is a Technology Service that implements the behaviour of a software system that manages and manipulates data stores in the form of nodes, edges, and properties, which are represented as a graph&#xA;&#xA;Source: Inspired in the definition provided by relebant Graph database vendors&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): neo4j Graph Database management. https://neo4j.com/docs/graph-data-science/current/management-ops/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Identifier: http://data.europa.eu/dr8/GraphDatabaseManagerTechnologyService&#xA;&#xA;ABB name: eira:GraphDatabaseManagerTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/GraphDatabaseManagerTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/GraphDatabaseManagerTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:GraphDatabaseManagerTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Graph Database manager ABB is a Technology Service that implements the behaviour of a software system that manages and manipulates data stores in the form of nodes, edges, and properties, which are represented as a graph"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the definition provided by relebant Graph database vendors"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): neo4j Graph Database management. https://neo4j.com/docs/graph-data-science/current/management-ops/"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/GraphDatabaseManagerTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

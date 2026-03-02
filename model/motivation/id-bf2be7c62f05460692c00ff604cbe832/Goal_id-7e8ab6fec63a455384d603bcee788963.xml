@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adequacy Recognition"
+    id="id-7e8ab6fec63a455384d603bcee788963"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the  Adequacy Recognition&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: Adequacy recognition refers to the degree to which the process of evaluating the suitability, completeness, and reliability of data or information within a software system is user-friendly, intuitive, and efficient. It encompasses the design and implementation of interfaces, workflows, and feedback mechanisms that enable users to easily and effectively perform adequacy recognition tasks.&#xA;&#xA;Example: Title: Adequacy Recognition Architecture Decision Record (ADR)&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AdequacyRecognitionGoal&#xA;&#xA;ABB name: eira:AdequacyRecognitionGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230606091024719&#xA;&#xA;Name: Architecture Decision Record about Adequacy Recognition&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230606091024719"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Adequacy Recognition"/>
+  <properties
+      key="skos:example"
+      value="Title: Adequacy Recognition Architecture Decision Record (ADR)"/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="Adequacy recognition refers to the degree to which the process of evaluating the suitability, completeness, and reliability of data or information within a software system is user-friendly, intuitive, and efficient. It encompasses the design and implementation of interfaces, workflows, and feedback mechanisms that enable users to easily and effectively perform adequacy recognition tasks."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AdequacyRecognitionGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:AdequacyRecognitionGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the  Adequacy Recognition"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

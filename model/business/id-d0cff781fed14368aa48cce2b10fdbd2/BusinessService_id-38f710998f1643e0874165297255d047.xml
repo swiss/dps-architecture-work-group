@@ -1,0 +1,57 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Space Participant"
+    id="id-38f710998f1643e0874165297255d047"
+    documentation="Definition: A data space participant is a component of a data space that can be a provider, recipient, or intermediary of the data exchange. The decentralization, transparency, and interoperability of data spaces are outlined as important properties.&#xA;&#xA;Source: Gaia-X&#xA;&#xA;Source reference: https://gaia-x-hub.de/wp-content/uploads/2022/10/White_Paper_Definition_Dataspace_EN.pdf&#xA;&#xA;Additional information: Data space participants play a crucial role in the functioning of a data space. They are the entities that provide, receive, or mediate the exchange of data within the data space. The data space is designed to be decentralized, transparent, and interoperable, which allows participants to have a high degree of control over the data exchange. This includes determining the partners, duration, purpose, and other aspects of the exchange.&#xA;&#xA;Example: An example of a data space participant could be a car manufacturer in a Mobility Data Space (MDS). The manufacturer could provide data on local hazards collected by their vehicles to map service providers, who then use this data to display appropriate warnings in vehicles. Similarly, weather data collected by weather service providers (another participant) is shared with mobility service providers to provide weather-dependent recommendations for mobility offers.&#xA;&#xA;LOST view: TVA-Data Space Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataSpaceParticipantBusinessService&#xA;&#xA;ABB name: egovera:DataSpaceParticipantBusinessService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataSpaceParticipantBusinessService&#xA;&#xA;Name: Data Space Participant Digital Public Service&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalPublicBusinessService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataSpaceParticipantBusinessService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataSpaceParticipantBusinessService"/>
+  <properties
+      key="dct:title"
+      value="Data Space Participant Digital Public Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataSpaceParticipantBusinessService"/>
+  <properties
+      key="eira:definitionSource"
+      value="Gaia-X"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://gaia-x-hub.de/wp-content/uploads/2022/10/White_Paper_Definition_Dataspace_EN.pdf"/>
+  <properties
+      key="skos:example"
+      value="An example of a data space participant could be a car manufacturer in a Mobility Data Space (MDS). The manufacturer could provide data on local hazards collected by their vehicles to map service providers, who then use this data to display appropriate warnings in vehicles. Similarly, weather data collected by weather service providers (another participant) is shared with mobility service providers to provide weather-dependent recommendations for mobility offers."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:note"
+      value="Data space participants play a crucial role in the functioning of a data space. They are the entities that provide, receive, or mediate the exchange of data within the data space. The data space is designed to be decentralized, transparent, and interoperable, which allows participants to have a high degree of control over the data exchange. This includes determining the partners, duration, purpose, and other aspects of the exchange."/>
+  <properties
+      key="skos:definition"
+      value="A data space participant is a component of a data space that can be a provider, recipient, or intermediary of the data exchange. The decentralization, transparency, and interoperability of data spaces are outlined as important properties."/>
+  <properties
+      key="eira:view"
+      value="TVA-Data Space Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalPublicBusinessService"/>
+</archimate:BusinessService>

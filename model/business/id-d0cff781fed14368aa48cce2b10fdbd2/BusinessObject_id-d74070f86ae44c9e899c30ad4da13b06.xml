@@ -1,0 +1,42 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Blockchain policy"
+    id="id-d74070f86ae44c9e899c30ad4da13b06"
+    documentation="Definition: A Blockchain policy, as a specialization of a Data policy, can be defined as a set of rules, guidelines, and controls that govern the management, access, and utilization of data within a blockchain network or ecosystem. It outlines the specific protocols, procedures, and requirements for storing, validating, and securing data on the blockchain, ensuring integrity, immutability, and transparency.&#xA;&#xA;Source: OECD&#xA;&#xA;Source reference: https://www.oecd.org/daf/blockchain/&#xA;&#xA;LOST view: SV-Governance Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BlockchainPolicyBusinessObject&#xA;&#xA;ABB name: egovera:BlockchainPolicyBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BlockchainPolicyBusinessObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataPolicy&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="A Blockchain policy, as a specialization of a Data policy, can be defined as a set of rules, guidelines, and controls that govern the management, access, and utilization of data within a blockchain network or ecosystem. It outlines the specific protocols, procedures, and requirements for storing, validating, and securing data on the blockchain, ensuring integrity, immutability, and transparency."/>
+  <properties
+      key="eira:definitionSource"
+      value="OECD"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.oecd.org/daf/blockchain/"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BlockchainPolicyBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:BlockchainPolicyBusinessObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BlockchainPolicyBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataPolicy"/>
+</archimate:BusinessObject>

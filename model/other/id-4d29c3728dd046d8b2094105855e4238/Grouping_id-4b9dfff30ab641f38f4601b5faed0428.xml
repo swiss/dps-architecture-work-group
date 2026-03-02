@@ -1,0 +1,52 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analytics Infrastructure Enablers"
+    id="id-4b9dfff30ab641f38f4601b5faed0428"
+    documentation="Definition: Analytics Infrastructure Enablers ABB is a Grouping that refers to the set of components and services that support the development and deployment of data analytics solutions&#xA;&#xA;Source: Inspired in CROS&#xA;&#xA;Source reference: https://ec.europa.eu/eurostat/cros/content/36-strategy-european-data-infrastructure_en&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Central banks increasingly need to use business intelligence (BI) systems to collect, manage and analyse data in order to inform policy decisions. This report presents the results of a survey conducted by the BIS’s Irving Fisher Committee on Central Bank Statistics (IFC) in 2019. The following link gives access to a report on the use of BI in Central Banks. https://www.bis.org/ifc/publ/ifc_report_bi_1910.pdf&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Analytics Infrastructure Enablers ABB is salient for the semantic and organizational interoperability because it sets the analytical environments that relate to (i) data processing of a large amount of data, (ii) data visualization and interaction, and (iii) catalogues discovery and data sharing across multiple workspaces.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AnalyticsInfrastructureEnablersGrouping&#xA;&#xA;ABB name: eira:AnalyticsInfrastructureEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AnalyticsInfrastructureEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AnalyticsInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:AnalyticsInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Analytics Infrastructure Enablers ABB is a Grouping that refers to the set of components and services that support the development and deployment of data analytics solutions"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in CROS"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/eurostat/cros/content/36-strategy-european-data-infrastructure_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Central banks increasingly need to use business intelligence (BI) systems to collect, manage and analyse data in order to inform policy decisions. This report presents the results of a survey conducted by the BIS’s Irving Fisher Committee on Central Bank Statistics (IFC) in 2019. The following link gives access to a report on the use of BI in Central Banks. https://www.bis.org/ifc/publ/ifc_report_bi_1910.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Analytics Infrastructure Enablers ABB is salient for the semantic and organizational interoperability because it sets the analytical environments that relate to (i) data processing of a large amount of data, (ii) data visualization and interaction, and (iii) catalogues discovery and data sharing across multiple workspaces."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AnalyticsInfrastructureEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

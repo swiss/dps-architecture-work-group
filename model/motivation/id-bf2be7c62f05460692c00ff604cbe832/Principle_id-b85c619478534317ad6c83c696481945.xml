@@ -1,0 +1,39 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accountability"
+    id="id-b85c619478534317ad6c83c696481945"
+    documentation="Definition: Digital public services enable accountability of public administrations It is generally accepted that public administrations should be held accountable for what they do. However, accountability is a multi-faceted term encompassing transparency, liability, controllability, responsibility, and responsiveness. Digital public services can provide functionality that supports people and organisations in taking accountability. Public administrations provide digital public services that give access to information about their actions, the results of their actions and the decisions taken in these actions.&#xA;&#xA;Source: Public Administration Review (Yale School of Management)&#xA;&#xA;Source reference: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6210.2005.00434.x&#xA;&#xA;Publisher: ELAP&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/accountability&#xA;&#xA;ABB name: elap:AccountabilityPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Accountability&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:AccountabilityPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Accountability"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/accountability"/>
+  <properties
+      key="dct:publisher"
+      value="ELAP"/>
+  <properties
+      key="eira:definitionSource"
+      value="Public Administration Review (Yale School of Management)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6210.2005.00434.x"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="skos:definition"
+      value="Digital public services enable accountability of public administrations It is generally accepted that public administrations should be held accountable for what they do. However, accountability is a multi-faceted term encompassing transparency, liability, controllability, responsibility, and responsiveness. Digital public services can provide functionality that supports people and organisations in taking accountability. Public administrations provide digital public services that give access to information about their actions, the results of their actions and the decisions taken in these actions."/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

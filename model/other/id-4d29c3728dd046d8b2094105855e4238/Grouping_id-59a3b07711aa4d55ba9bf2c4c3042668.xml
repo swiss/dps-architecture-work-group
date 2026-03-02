@@ -1,0 +1,41 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Software Architect Data Spaces Concerns"
+    id="id-59a3b07711aa4d55ba9bf2c4c3042668"
+    documentation="Definition: Software Architect Data Spaces Concerns ABB is a Grouping that covers the processes, roles, and relationships a software architect should follow to read, assess, and understand an eGovERA model for the purpose of understanding and developing a Data Spaces solution or architecture. It includes elements such as 'Technical view - application' and 'Semantic view'.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Software Architect Data Spaces Concerns ABB is a comprehensive catalogue of elements that a software architect needs to consider when working with an eGovERA model to develop a Data Spaces solution or architecture. It includes the 'Technical view - application', which refers to the technical aspects of the application, and the 'Semantic view', which refers to the meaning and interpretation of the data. These elements are crucial in understanding the model and developing an effective solution.&#xA;&#xA;Example: For example, a software architect might need to understand the technical infrastructure of the application, such as the programming languages used, the database management systems in place, and the server architecture.&#xA;For instance, the software architect might need to understand the semantics of the data, such as the meaning of different data fields, the relationships between different data entities, and the rules and constraints that govern the data.&#xA;&#xA;LOST view: [A] How to read the model&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SoftwareArchitectDataSpacesConcernsGrouping&#xA;&#xA;ABB name: egovera:SoftwareArchitectDataSpacesConcernsGrouping&#xA;&#xA;EIRA concept: eira:None&#xA;&#xA;Last modification: 2023-11-19&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SoftwareArchitectDataSpacesConcernsGrouping&#xA;&#xA;Name: Software Architect Data Spaces Concerns Catalogue&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/SoftwareArchitectDataSpacesConcernsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-19"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/SoftwareArchitectDataSpacesConcernsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Software Architect Data Spaces Concerns Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:SoftwareArchitectDataSpacesConcernsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Software Architect Data Spaces Concerns ABB is a Grouping that covers the processes, roles, and relationships a software architect should follow to read, assess, and understand an eGovERA model for the purpose of understanding and developing a Data Spaces solution or architecture. It includes elements such as 'Technical view - application' and 'Semantic view'."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For example, a software architect might need to understand the technical infrastructure of the application, such as the programming languages used, the database management systems in place, and the server architecture.&#xA;For instance, the software architect might need to understand the semantics of the data, such as the meaning of different data fields, the relationships between different data entities, and the rules and constraints that govern the data."/>
+  <properties
+      key="skos:note"
+      value="The Software Architect Data Spaces Concerns ABB is a comprehensive catalogue of elements that a software architect needs to consider when working with an eGovERA model to develop a Data Spaces solution or architecture. It includes the 'Technical view - application', which refers to the technical aspects of the application, and the 'Semantic view', which refers to the meaning and interpretation of the data. These elements are crucial in understanding the model and developing an effective solution."/>
+  <properties
+      key="eira:concept"
+      value="eira:None"/>
+  <properties
+      key="eira:view"
+      value="[A] How to read the model"/>
+</archimate:Grouping>

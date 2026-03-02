@@ -1,0 +1,51 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Streaming Server"
+    id="id-011a714e394b4c6084f4f192be71dcf0"
+    documentation="Definition: Streaming Server ABB is a Technology Service that implements the behaviour of specialised computer server designed to stream digital multimedia content to client devices over the Internet or a local network&#xA;&#xA;Source: Inspired in Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/streaming&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Study of use Open Source Software in the Public Sector. http://softlibre.unizar.es/manuales/legal/oss-fact-sheet.pdf&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Identifier: http://data.europa.eu/dr8/StreamingServerTechnologyService&#xA;&#xA;ABB name: eira:StreamingServerTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/StreamingServerTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/StreamingServerTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:StreamingServerTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Streaming Server ABB is a Technology Service that implements the behaviour of specialised computer server designed to stream digital multimedia content to client devices over the Internet or a local network"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/streaming"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Study of use Open Source Software in the Public Sector. http://softlibre.unizar.es/manuales/legal/oss-fact-sheet.pdf"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/StreamingServerTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

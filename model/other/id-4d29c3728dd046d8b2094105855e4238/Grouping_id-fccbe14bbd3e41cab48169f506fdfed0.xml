@@ -1,0 +1,53 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Data Models Solutions"
+    id="id-fccbe14bbd3e41cab48169f506fdfed0"
+    documentation="Definition: Business Agnostic Data Models Solutions ABB is a grouping that covers a set of data models that are universally applicable across various business domains. This catalogue includes the Common Data Model (CDM) and the eProcurement Data Model, both of which are designed to standardize and streamline data management processes in their respective fields.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Common Data Model (CDM) is an ontology based on the FRBR model (Functional Requirements for Bibliographic Records) and uses RDF(S)/OWL technologies. It is capable of representing relationships between the resource types managed by the Publications Office and their views, all within the scope of the FRBR model. On the other hand, the eProcurement Data Model covers essential elements related to public procurement processes within the European Union, including the European Single Procurement Document (ESPD) as a key component. The ESPD is a standardized form used in these processes, representing a structured document that contains essential information about a supplier or contractor.&#xA;&#xA;Example: For instance, the Common Data Model can be used by a publishing company to manage and organize its various resources, such as books, articles, and authors, in a structured and standardized manner. The eProcurement Data Model, particularly the ESPD component, can be utilized by government agencies to streamline their public procurement processes, ensuring that all suppliers or contractors meet the necessary eligibility and suitability criteria.&#xA;&#xA;LOST view: SV-Business Agnostic Data Models&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDataModelsSolutionsGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticDataModelsSolutionsGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDataModelsSolutionsGrouping&#xA;&#xA;Name: Business Agnostic Data Models Solutions Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDataModelsSolutionsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDataModelsSolutionsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Data Models Solutions Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticDataModelsSolutionsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic Data Models Solutions ABB is a grouping that covers a set of data models that are universally applicable across various business domains. This catalogue includes the Common Data Model (CDM) and the eProcurement Data Model, both of which are designed to standardize and streamline data management processes in their respective fields."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, the Common Data Model can be used by a publishing company to manage and organize its various resources, such as books, articles, and authors, in a structured and standardized manner. The eProcurement Data Model, particularly the ESPD component, can be utilized by government agencies to streamline their public procurement processes, ensuring that all suppliers or contractors meet the necessary eligibility and suitability criteria."/>
+  <properties
+      key="skos:note"
+      value="The Common Data Model (CDM) is an ontology based on the FRBR model (Functional Requirements for Bibliographic Records) and uses RDF(S)/OWL technologies. It is capable of representing relationships between the resource types managed by the Publications Office and their views, all within the scope of the FRBR model. On the other hand, the eProcurement Data Model covers essential elements related to public procurement processes within the European Union, including the European Single Procurement Document (ESPD) as a key component. The ESPD is a standardized form used in these processes, representing a structured document that contains essential information about a supplier or contractor."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic Data Models"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

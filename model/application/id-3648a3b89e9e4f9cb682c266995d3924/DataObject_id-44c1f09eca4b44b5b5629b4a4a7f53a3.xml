@@ -1,0 +1,44 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Form"
+    id="id-44c1f09eca4b44b5b5629b4a4a7f53a3"
+    documentation="Definition: The Order Form is essential for processing transactions, particularly in placing orders or making purchases. It usually includes fields for product or service selection, quantity, billing and shipping information, and payment details. This form streamlines the purchasing process, making it straightforward for customers to order goods or services, and for businesses to manage sales and inventory effectively.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: SV-Forms Structure&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/OrderFormDataObject&#xA;&#xA;ABB name: egovera:OrderFormDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/OrderFormDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/FormsStructureDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/OrderFormDataObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:OrderFormDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Forms Structure"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/OrderFormDataObject"/>
+  <properties
+      key="skos:definition"
+      value="The Order Form is essential for processing transactions, particularly in placing orders or making purchases. It usually includes fields for product or service selection, quantity, billing and shipping information, and payment details. This form streamlines the purchasing process, making it straightforward for customers to order goods or services, and for businesses to manage sales and inventory effectively."/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/FormsStructureDataObject"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"/>
+</archimate:DataObject>

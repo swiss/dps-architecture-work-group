@@ -1,0 +1,39 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wide Area Networking"
+    id="id-280d00b3ba894a5f9c6391551d1ef42b"
+    documentation="Definition: Wide Area Networking ABB is a Grouping of different of networks to enables communication and data exchange across geographically dispersed locations&#xA;&#xA;Source: Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/wan-wide-area-network&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Identifier: http://data.europa.eu/dr8/WideAreaNetworkingGrouping&#xA;&#xA;ABB name: eira:WideAreaNetworkingGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/WideAreaNetworkingGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:WideAreaNetworkingGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Wide Area Networking ABB is a Grouping of different of networks to enables communication and data exchange across geographically dispersed locations"/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/wan-wide-area-network"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

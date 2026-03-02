@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Management Enablers"
+    id="id-c8fdfe1cf4bc4195959adae2ad6fef8b"
+    documentation="Definition: Data Management Enablers ABB is a Grouping that refers to components and services that support effective data management practices and procedures.&#xA;&#xA;Source: Inspired in European Comision- Data Governance and data policies at the European Comission&#xA;&#xA;Source reference: https://commission.europa.eu/publications/data-governance-and-data-policies-european-commission_en&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Context Broker as a CEF Building Block. https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/82773424/Context%20Broker%20Brochure.pdf?version=1&amp;modificationDate=1558016168498&amp;api=v2&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Data Management Enablers Grouping ABB is salient for technical interoperability because it comprises the tools, components and services related to data management. Data Management Enablers are relevant as they support effective and efficient data management, ensuring that interoperability can be achieved between digital public services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataManagementEnablersGrouping&#xA;&#xA;ABB name: eira:DataManagementEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataManagementEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="eira:DataManagementEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Management Enablers ABB is a Grouping that refers to components and services that support effective data management practices and procedures."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in European Comision- Data Governance and data policies at the European Comission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://commission.europa.eu/publications/data-governance-and-data-policies-european-commission_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Context Broker as a CEF Building Block. https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/82773424/Context%20Broker%20Brochure.pdf?version=1&amp;modificationDate=1558016168498&amp;api=v2"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Management Enablers Grouping ABB is salient for technical interoperability because it comprises the tools, components and services related to data management. Data Management Enablers are relevant as they support effective and efficient data management, ensuring that interoperability can be achieved between digital public services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataManagementEnablersGrouping"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataManagementEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

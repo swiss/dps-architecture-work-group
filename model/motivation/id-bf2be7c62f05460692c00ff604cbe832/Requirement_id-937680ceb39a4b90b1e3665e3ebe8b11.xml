@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compatibility"
+    id="id-937680ceb39a4b90b1e3665e3ebe8b11"
+    documentation="Definition: Compatibility is an IT non-functional requirement that refers to the ability of a system or software to function properly with other systems, software, hardware, or environments. It ensures that the system can operate seamlessly with other systems, without any compatibility issues or conflicts. Compatibility is essential for ensuring that the system can integrate with other systems and can be used by a wide range of users, regardless of their hardware or software configurations. It also ensures that the system can be easily upgraded or migrated to newer versions without any compatibility issues.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Compatibility is an IT non-functional requirement that refers to the ability of a system or application to operate in conjunction with other systems or applications. This requirement ensures that the system or application can integrate seamlessly with other systems or applications without causing any disruption or compatibility issues.&#xA;&#xA;Compatibility can be achieved through adherence to industry standards, protocols, and interfaces. The system or application must be designed to work with different operating systems, hardware, and software configurations. It should also be able to communicate with other systems or applications using standard communication protocols.&#xA;&#xA;The compatibility requirement also includes backward compatibility, which ensures that the system or application can work with older versions of software or hardware. This is important to ensure that users can continue to use the system or application even if they have not upgraded their hardware or software.&#xA;&#xA;To ensure compatibility, it is important to conduct thorough testing and validation of the system or application. This includes testing for interoperability with other systems or applications, as well as testing for compatibility with different hardware and software configurations.&#xA;&#xA;Overall, the compatibility requirement is critical to ensure that the system or application can work seamlessly with other systems or applications, and that users can continue to use the system or application without any disruption or compatibility issues.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Compatibility' could be ensuring that a software application is compatible with multiple operating systems such as Windows, Mac, and Linux. This would ensure that the application can be used by a wider range of users regardless of their preferred operating system.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/CompatibilityRequirement&#xA;&#xA;ABB name: eira:CompatibilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/CompatibilityRequirement&#xA;&#xA;Name: Compatibility Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/CompatibilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Compatibility Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Compatibility' could be ensuring that a software application is compatible with multiple operating systems such as Windows, Mac, and Linux. This would ensure that the application can be used by a wider range of users regardless of their preferred operating system."/>
+  <properties
+      key="skos:definition"
+      value="Compatibility is an IT non-functional requirement that refers to the ability of a system or software to function properly with other systems, software, hardware, or environments. It ensures that the system can operate seamlessly with other systems, without any compatibility issues or conflicts. Compatibility is essential for ensuring that the system can integrate with other systems and can be used by a wide range of users, regardless of their hardware or software configurations. It also ensures that the system can be easily upgraded or migrated to newer versions without any compatibility issues."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Compatibility is an IT non-functional requirement that refers to the ability of a system or application to operate in conjunction with other systems or applications. This requirement ensures that the system or application can integrate seamlessly with other systems or applications without causing any disruption or compatibility issues.&#xA;&#xA;Compatibility can be achieved through adherence to industry standards, protocols, and interfaces. The system or application must be designed to work with different operating systems, hardware, and software configurations. It should also be able to communicate with other systems or applications using standard communication protocols.&#xA;&#xA;The compatibility requirement also includes backward compatibility, which ensures that the system or application can work with older versions of software or hardware. This is important to ensure that users can continue to use the system or application even if they have not upgraded their hardware or software.&#xA;&#xA;To ensure compatibility, it is important to conduct thorough testing and validation of the system or application. This includes testing for interoperability with other systems or applications, as well as testing for compatibility with different hardware and software configurations.&#xA;&#xA;Overall, the compatibility requirement is critical to ensure that the system or application can work seamlessly with other systems or applications, and that users can continue to use the system or application without any disruption or compatibility issues."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/CompatibilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:CompatibilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

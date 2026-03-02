@@ -1,0 +1,72 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shared Legal Content"
+    id="id-7134fbe2330d49afb54006442c4cdf76"
+    documentation="Definition: Shared Legal Content ABB is a Grouping setting legal (re)usable resources with convergence power, to public policy goals attainment, enabling to reuse and share legislations and cross-legal jurisdiction as key enablers for the creation of interoperable digital public services. &#xA;&#xA;Source: EUR-LEX &#xA;&#xA;Source reference: (https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32021R0695&amp;qid=1646736486403)&#xA;&#xA;Synonym: ABC&#xA;&#xA;Additional information: The degree of achievement could range from an ideal perfect shared legal framework (i.e. no interoperability barriers from the legal perspective) to an imperfect or even null shared legal framework (i.e. some interoperability barriers from the legal perspective). The level of legal interoperability will constrain digital public services cross-legal jurisdictions. &#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The past years have seen an extraordinary proliferation of sharing economy platforms, and the largest platforms have fast become global enterprises with market capitalisations that exceed competitors with “traditional” business concepts. These developments call into question a number of regulatory matters and pose new questions for national and European-level regulators. (https://www.intereconomics.eu/contents/year/2017/number/1/article/regulating-the-european-sharing-economy-state-of-play-and-challenges.html).&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Shared Legal Content ABB is a key interoperability enabler (*) for governance, behavioural and structural interoperability because it supports to achieve of it with public policy goals convergence value by enabling i) sharing/provisioning/reusing/consumption of legislation on digital public services, ii) the exchange of data, information, and knowledge between digital public services, and iii) collaboration between digital public services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/SharedLegalContentGrouping&#xA;&#xA;ABB name: eira:SharedLegalContentGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-06-10&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SharedLegalContentGrouping&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SharedLegalContentGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:SharedLegalContentGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-06-10"/>
+  <properties
+      key="eira:synonym"
+      value="ABC"/>
+  <properties
+      key="skos:definition"
+      value="Shared Legal Content ABB is a Grouping setting legal (re)usable resources with convergence power, to public policy goals attainment, enabling to reuse and share legislations and cross-legal jurisdiction as key enablers for the creation of interoperable digital public services. "/>
+  <properties
+      key="eira:definitionSource"
+      value="EUR-LEX "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="(https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32021R0695&amp;qid=1646736486403)"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The past years have seen an extraordinary proliferation of sharing economy platforms, and the largest platforms have fast become global enterprises with market capitalisations that exceed competitors with “traditional” business concepts. These developments call into question a number of regulatory matters and pose new questions for national and European-level regulators. (https://www.intereconomics.eu/contents/year/2017/number/1/article/regulating-the-european-sharing-economy-state-of-play-and-challenges.html)."/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Shared Legal Content ABB is a key interoperability enabler (*) for governance, behavioural and structural interoperability because it supports to achieve of it with public policy goals convergence value by enabling i) sharing/provisioning/reusing/consumption of legislation on digital public services, ii) the exchange of data, information, and knowledge between digital public services, and iii) collaboration between digital public services. "/>
+  <properties
+      key="skos:note"
+      value="The degree of achievement could range from an ideal perfect shared legal framework (i.e. no interoperability barriers from the legal perspective) to an imperfect or even null shared legal framework (i.e. some interoperability barriers from the legal perspective). The level of legal interoperability will constrain digital public services cross-legal jurisdictions. "/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="eira:view"
+      value="EIRA Ontology view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperable European Solution viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SharedLegalContentGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Grouping>

@@ -1,0 +1,42 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Policy"
+    id="id-2109451e2b1e4e78b26c3f93f4708e29"
+    documentation="Definition: An Interoperability Policy is a set of guidelines that outlines how different systems and data should work together seamlessly within an organization or across entities. It ensures that data formats, protocols, and interfaces are compatible and consistent, enabling effective data sharing and collaboration. The policy promotes the use of open standards and best practices to facilitate smooth communication and integration between various systems, applications, and stakeholders.&#xA;&#xA;Source: EIF&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf&#xA;&#xA;LOST view: SV-Governance Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/InteroperabilityPolicyBusinessObject&#xA;&#xA;ABB name: egovera:InteroperabilityPolicyBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/InteroperabilityPolicyBusinessObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataPolicy&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="An Interoperability Policy is a set of guidelines that outlines how different systems and data should work together seamlessly within an organization or across entities. It ensures that data formats, protocols, and interfaces are compatible and consistent, enabling effective data sharing and collaboration. The policy promotes the use of open standards and best practices to facilitate smooth communication and integration between various systems, applications, and stakeholders."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/sites/isa/files/eif_brochure_final.pdf"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/InteroperabilityPolicyBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:InteroperabilityPolicyBusinessObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/InteroperabilityPolicyBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataPolicy"/>
+</archimate:BusinessObject>

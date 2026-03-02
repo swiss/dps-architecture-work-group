@@ -1,0 +1,52 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Publication"
+    id="id-64b94ccb45554760ab2dbd88b7bae137"
+    documentation="Definition: Data Publication ABB is an Application Service that enables the processes of making data available through the adoption of discoverable, accessible, and reusable mechanisms.&#xA;&#xA;Source: ISA2&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/sites/default/files/docs/publications/isa2-actions-phase2_-_poc_-_wp1_specifications_en.pdf&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): European Data Portal - The European Data Portal harvests the metadata of Public Sector Information available on public data portals across European countries. Information regarding the provision of data and the benefits of re-using data is also included. What is Open Data? -&#x9;Open (Government) Data refers to the information collected, produced or paid for by the public bodies (also referred to as Public Sector Information) and made freely available for re-use for any purpose. The licence will specify the terms of use; -&#x9;Public sector information is information held by the public sector. The Directive on the re-use of public sector information provides a common legal framework for a European market for government-held data. It is built around the key pillars of the internal market: free flow of data, transparency and fair competition. It is important to note that not all of the public sector information is Open Data. Within the Portal, sections are dedicated to: -&#x9;Searching datasets: Categories have been established to structure the metadata harvested from the various countries. These categories follow the revision of the DCAT Application Profile and have been mapped against the Eurovoc Thesaurus; -&#x9;Providing Data: This section gives an insight into understanding Open Data from the perspective of a data provider. In addition, instructions are offered for those who wish their data portal to be harvested by the European Data Portal; -&#x9;Using Data: How Open Data is being used, as well as the economic benefits of Open Data are detailed in this section; -&#x9;Training and Library: eLearning modules about Open Data as well as training guides and a knowledge base referencing publications around Open Data and featured projects; - Portals can be national, regional, local or domain specific. They cover the 28 EU Member States, EEA, countries involved in the EU's neighbourhood policy and Switzerland. https://www.europeandataportal.eu/  &#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Data Pubblication Service ABB  is salient for technical interoperability because it provides the functionalities to make public data freely available for use and reuse by others unless restriction aoply as stated in the EIF recommendation n.2: &quot;Publish the data you own as open data unless certain restrictions apply.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataPublicationApplicationService&#xA;&#xA;ABB name: eira:DataPublicationApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataPublicationApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataPublicationApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:DataPublicationApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Publication ABB is an Application Service that enables the processes of making data available through the adoption of discoverable, accessible, and reusable mechanisms."/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/sites/default/files/docs/publications/isa2-actions-phase2_-_poc_-_wp1_specifications_en.pdf"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): European Data Portal - The European Data Portal harvests the metadata of Public Sector Information available on public data portals across European countries. Information regarding the provision of data and the benefits of re-using data is also included. What is Open Data? -&#x9;Open (Government) Data refers to the information collected, produced or paid for by the public bodies (also referred to as Public Sector Information) and made freely available for re-use for any purpose. The licence will specify the terms of use; -&#x9;Public sector information is information held by the public sector. The Directive on the re-use of public sector information provides a common legal framework for a European market for government-held data. It is built around the key pillars of the internal market: free flow of data, transparency and fair competition. It is important to note that not all of the public sector information is Open Data. Within the Portal, sections are dedicated to: -&#x9;Searching datasets: Categories have been established to structure the metadata harvested from the various countries. These categories follow the revision of the DCAT Application Profile and have been mapped against the Eurovoc Thesaurus; -&#x9;Providing Data: This section gives an insight into understanding Open Data from the perspective of a data provider. In addition, instructions are offered for those who wish their data portal to be harvested by the European Data Portal; -&#x9;Using Data: How Open Data is being used, as well as the economic benefits of Open Data are detailed in this section; -&#x9;Training and Library: eLearning modules about Open Data as well as training guides and a knowledge base referencing publications around Open Data and featured projects; - Portals can be national, regional, local or domain specific. They cover the 28 EU Member States, EEA, countries involved in the EU's neighbourhood policy and Switzerland. https://www.europeandataportal.eu/  "/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Pubblication Service ABB  is salient for technical interoperability because it provides the functionalities to make public data freely available for use and reuse by others unless restriction aoply as stated in the EIF recommendation n.2: &quot;Publish the data you own as open data unless certain restrictions apply.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataPublicationApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

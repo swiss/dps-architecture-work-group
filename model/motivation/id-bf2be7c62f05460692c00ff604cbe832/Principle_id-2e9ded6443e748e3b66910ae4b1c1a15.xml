@@ -1,0 +1,48 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consumer protection"
+    id="id-2e9ded6443e748e3b66910ae4b1c1a15"
+    documentation="Definition: The European Data Sharing principle of consumer protection aims to safeguard the rights and interests of individuals when their personal data is shared. It ensures that individuals have control over their data, are informed about how it will be used, and have the ability to exercise their rights regarding data protection.&#xA;&#xA;Source: European Union&#xA;&#xA;Source reference: https://edpb.europa.eu/&#xA;&#xA;Additional information: Consumer protection is a fundamental aspect of data sharing in the European Union. It is based on the principles outlined in the General Data Protection Regulation (GDPR) and other relevant legislation. The principle emphasizes the importance of transparency, consent, purpose limitation, data minimization, accuracy, storage limitation, integrity, and confidentiality in protecting the rights of individuals. It also highlights the need for organizations to implement appropriate security measures and provide individuals with mechanisms to exercise their rights, such as the right to access, rectify, and erase their personal data.&#xA;&#xA;Example: An example of the application of consumer protection in data sharing is when a company collects personal data from its customers for marketing purposes. The company must inform the customers about the specific purposes for which their data will be used, obtain their explicit consent, and provide them with the option to opt-out of such data sharing. Additionally, the company must ensure the security and confidentiality of the data and allow customers to access, correct, or delete their personal information upon request.&#xA;&#xA;LOST view: Architecture Principles view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ConsumerProtectionPrinciple&#xA;&#xA;ABB name: eira:ConsumerProtectionPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-03-17&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ConsumerProtectionPrinciple&#xA;&#xA;Name: Consumer protection&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/ArchitecturePrinciple&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ConsumerProtectionPrinciple"/>
+  <properties
+      key="dct:modified"
+      value="2024-03-17"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ConsumerProtectionPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Consumer protection"/>
+  <properties
+      key="dct:type"
+      value="eira:ConsumerProtectionPrinciple"/>
+  <properties
+      key="skos:definition"
+      value="The European Data Sharing principle of consumer protection aims to safeguard the rights and interests of individuals when their personal data is shared. It ensures that individuals have control over their data, are informed about how it will be used, and have the ability to exercise their rights regarding data protection."/>
+  <properties
+      key="skos:example"
+      value="An example of the application of consumer protection in data sharing is when a company collects personal data from its customers for marketing purposes. The company must inform the customers about the specific purposes for which their data will be used, obtain their explicit consent, and provide them with the option to opt-out of such data sharing. Additionally, the company must ensure the security and confidentiality of the data and allow customers to access, correct, or delete their personal information upon request."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:note"
+      value="Consumer protection is a fundamental aspect of data sharing in the European Union. It is based on the principles outlined in the General Data Protection Regulation (GDPR) and other relevant legislation. The principle emphasizes the importance of transparency, consent, purpose limitation, data minimization, accuracy, storage limitation, integrity, and confidentiality in protecting the rights of individuals. It also highlights the need for organizations to implement appropriate security measures and provide individuals with mechanisms to exercise their rights, such as the right to access, rectify, and erase their personal data."/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://edpb.europa.eu/"/>
+  <properties
+      key="eira:definitionSource"
+      value="European Union"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/ArchitecturePrinciple"/>
+</archimate:Principle>

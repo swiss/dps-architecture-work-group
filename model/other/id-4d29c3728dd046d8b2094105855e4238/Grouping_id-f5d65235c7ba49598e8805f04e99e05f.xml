@@ -1,0 +1,52 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Integration Infrastructure Enablers"
+    id="id-f5d65235c7ba49598e8805f04e99e05f"
+    documentation="Definition: Application Integration Infrastructure Enablers ABB is a Grouping that refers to the set of components and services facilitating the integration of disparate applications and systems within an organization&#xA;&#xA;Source: Inspired in European Alliance for Industrial Data, Edge and Cloud&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/cloud-alliance&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): API Manager, WSO2 API Manager is a complete platform for building, integrating, and exposing your digital services as managed APIs in the cloud, on-premise, and hybrid architectures to drive your digital transformation strategy. https://apim.docs.wso2.com/en/latest/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Application Integration Infrastructure Enablers ABB is salient for semantic and technical interoperability because it provides mechanisms and assets to expose open APIs regarding public services that permit machines to discover and understand available public services. Also, this ABB facilitates data consumption and sharing through these public services exposed.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ApplicationIntegrationInfrastructureEnablersGrouping&#xA;&#xA;ABB name: eira:ApplicationIntegrationInfrastructureEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ApplicationIntegrationInfrastructureEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ApplicationIntegrationInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:ApplicationIntegrationInfrastructureEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Application Integration Infrastructure Enablers ABB is a Grouping that refers to the set of components and services facilitating the integration of disparate applications and systems within an organization"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in European Alliance for Industrial Data, Edge and Cloud"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/cloud-alliance"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): API Manager, WSO2 API Manager is a complete platform for building, integrating, and exposing your digital services as managed APIs in the cloud, on-premise, and hybrid architectures to drive your digital transformation strategy. https://apim.docs.wso2.com/en/latest/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Application Integration Infrastructure Enablers ABB is salient for semantic and technical interoperability because it provides mechanisms and assets to expose open APIs regarding public services that permit machines to discover and understand available public services. Also, this ABB facilitates data consumption and sharing through these public services exposed."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ApplicationIntegrationInfrastructureEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Grouping>

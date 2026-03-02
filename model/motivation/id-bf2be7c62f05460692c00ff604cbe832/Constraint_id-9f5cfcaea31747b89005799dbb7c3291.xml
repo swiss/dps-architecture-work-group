@@ -1,0 +1,53 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution Constraint"
+    id="id-9f5cfcaea31747b89005799dbb7c3291"
+    documentation="Definition: Digital Solution Constraint ABB is a Constraint that refers to the factor that limits the realization of the exchange and sharing of data across different platforms&#xA;&#xA;Source: ISA2-EIF&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/eif_en/&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;Viewpoint: EIRA Ontology viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionConstraintConstraint&#xA;&#xA;ABB name: eira:DigitalSolutionConstraintConstraint&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionConstraintConstraint&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionConstraintConstraint"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionConstraintConstraint"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digital Solution Constraint ABB is a Constraint that refers to the factor that limits the realization of the exchange and sharing of data across different platforms"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2-EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/eif_en/"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionConstraintConstraint"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Constraint>

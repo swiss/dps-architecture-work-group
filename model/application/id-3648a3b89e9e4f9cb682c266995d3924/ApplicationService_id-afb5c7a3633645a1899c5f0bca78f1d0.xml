@@ -1,0 +1,45 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact Management"
+    id="id-afb5c7a3633645a1899c5f0bca78f1d0"
+    documentation="Definition: A Contact Management Digital Service is a software solution designed to store, organize, and manage contact information for individuals and organizations. It facilitates the collection, tracking, and utilization of contact details, communication preferences, and interaction history to enhance communication and relationship management.&#xA;&#xA;Source: Techopedia&#xA;&#xA;Source reference: https://www.techopedia.com/definition/2453/contact-management-software-cms&#xA;&#xA;Additional information: Contact Management Digital Services are essential tools for businesses and professionals who need to maintain a large network of contacts. These services often include features such as contact databases, search and filter capabilities, integration with email and calendar applications, task management, interaction tracking, and reporting functions. Advanced systems may also offer automation of communication processes, social media integration, and customer relationship management (CRM) features. The goal of contact management is to streamline the process of maintaining up-to-date contact information, improving the efficiency of communication, and fostering strong relationships with clients, customers, and partners.&#xA;&#xA;Example: Individuals using a contact management app to keep track of friends, family, and professional contacts, syncing across multiple devices and integrating with social media platforms.&#xA;A sales team using a CRM platform that includes contact management features to track interactions with potential clients, set reminders for follow-up, and record notes from meetings and calls.&#xA;A nonprofit organization utilizing contact management software to manage donor information, send out newsletters, and organize fundraising events.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ContactManagementApplicationService&#xA;&#xA;ABB name: egovera:ContactManagementApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ContactManagementApplicationService&#xA;&#xA;Name: Contact Management Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ContactManagementApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ContactManagementApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Contact Management Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:ContactManagementApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="A Contact Management Digital Service is a software solution designed to store, organize, and manage contact information for individuals and organizations. It facilitates the collection, tracking, and utilization of contact details, communication preferences, and interaction history to enhance communication and relationship management."/>
+  <properties
+      key="eira:definitionSource"
+      value="Techopedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.techopedia.com/definition/2453/contact-management-software-cms"/>
+  <properties
+      key="skos:example"
+      value="Individuals using a contact management app to keep track of friends, family, and professional contacts, syncing across multiple devices and integrating with social media platforms.&#xA;A sales team using a CRM platform that includes contact management features to track interactions with potential clients, set reminders for follow-up, and record notes from meetings and calls.&#xA;A nonprofit organization utilizing contact management software to manage donor information, send out newsletters, and organize fundraising events."/>
+  <properties
+      key="skos:note"
+      value="Contact Management Digital Services are essential tools for businesses and professionals who need to maintain a large network of contacts. These services often include features such as contact databases, search and filter capabilities, integration with email and calendar applications, task management, interaction tracking, and reporting functions. Advanced systems may also offer automation of communication processes, social media integration, and customer relationship management (CRM) features. The goal of contact management is to streamline the process of maintaining up-to-date contact information, improving the efficiency of communication, and fostering strong relationships with clients, customers, and partners."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

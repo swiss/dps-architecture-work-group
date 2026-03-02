@@ -1,0 +1,51 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Asset Management"
+    id="id-afecb044fb804bab989517bac7e9f320"
+    documentation="Definition: Digital Asset Management is required in the collection of digital assets to ensure that the owner, and possibly their delegates, can perform operations on the data files.&#xA;&#xA;Source: WikiPedia&#xA;&#xA;Source reference: https://en.wikipedia.org/wiki/Digital_asset_management&#xA;&#xA;Additional information: Digital Asset Management systems can handle a wide range of digital content. They are typically used to store, organize, access, and share digital assets such as images, videos, audio files, presentations, documents, and more. These systems provide a structured way to manage digital assets and can include features such as version control, metadata management, access control, and search functionality. DAM systems can be used in a variety of industries, including media and entertainment, retail, healthcare, education, and more. They can help to improve productivity, enhance collaboration, reduce duplication of effort, and ensure compliance with copyright laws and regulations.&#xA;&#xA;Example: Examples of Digital Asset Management application include a media company using a DAM system to manage their vast library of digital content, including images, videos, and audio files. A retail business might use a DAM system to manage product images and descriptions for their online store. In the healthcare industry, a DAM system could be used to manage digital assets such as patient records, medical images, and other related documents.&#xA;&#xA;LOST view: Organisational view [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalAssetManagementBusinessService&#xA;&#xA;ABB name: egovera:DigitalAssetManagementBusinessService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalAssetManagementBusinessService&#xA;&#xA;Name: Digital Asset Management Digital Public Service&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalPublicBusinessService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DigitalAssetManagementBusinessService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DigitalAssetManagementBusinessService"/>
+  <properties
+      key="dct:title"
+      value="Digital Asset Management Digital Public Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DigitalAssetManagementBusinessService"/>
+  <properties
+      key="skos:definition"
+      value="Digital Asset Management is required in the collection of digital assets to ensure that the owner, and possibly their delegates, can perform operations on the data files."/>
+  <properties
+      key="eira:definitionSource"
+      value="WikiPedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://en.wikipedia.org/wiki/Digital_asset_management"/>
+  <properties
+      key="skos:example"
+      value="Examples of Digital Asset Management application include a media company using a DAM system to manage their vast library of digital content, including images, videos, and audio files. A retail business might use a DAM system to manage product images and descriptions for their online store. In the healthcare industry, a DAM system could be used to manage digital assets such as patient records, medical images, and other related documents."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:note"
+      value="Digital Asset Management systems can handle a wide range of digital content. They are typically used to store, organize, access, and share digital assets such as images, videos, audio files, presentations, documents, and more. These systems provide a structured way to manage digital assets and can include features such as version control, metadata management, access control, and search functionality. DAM systems can be used in a variety of industries, including media and entertainment, retail, healthcare, education, and more. They can help to improve productivity, enhance collaboration, reduce duplication of effort, and ensure compliance with copyright laws and regulations."/>
+  <properties
+      key="eira:view"
+      value="Organisational view [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalPublicBusinessService"/>
+</archimate:BusinessService>

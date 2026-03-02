@@ -1,0 +1,48 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cloud Private Network"
+    id="id-a512b05f640a44a695fd131c7fc5c423"
+    documentation="Definition: Cloud Private Network ABB is a Communication Network that enables a virtual network that connects resources and services within a cloud computing environment.&#xA;&#xA;Source: Inspired in referent cloud service providers definitions&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): JRC- Development of the EU Green Public Procurement (GPP)- Criteria for Data Centres, Server Rooms and Cloud Services. https://ec.europa.eu/environment/gpp/pdf/jrc118558_2020_0605_data_centres_technical_report_jrc_clean_with_id.pdf&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Cloud Private Network ABB is salient for technical interoperability because it provides the needed infrastructure connection between cloud service providers to a specific group of people, organizations or systems. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/CloudPrivateNetworkCommunicationNetwork&#xA;&#xA;ABB name: eira:CloudPrivateNetworkCommunicationNetwork&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/CloudPrivateNetworkCommunicationNetwork&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/CloudPrivateNetworkCommunicationNetwork"/>
+  <properties
+      key="dct:type"
+      value="eira:CloudPrivateNetworkCommunicationNetwork"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Cloud Private Network ABB is a Communication Network that enables a virtual network that connects resources and services within a cloud computing environment."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in referent cloud service providers definitions"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): JRC- Development of the EU Green Public Procurement (GPP)- Criteria for Data Centres, Server Rooms and Cloud Services. https://ec.europa.eu/environment/gpp/pdf/jrc118558_2020_0605_data_centres_technical_report_jrc_clean_with_id.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Cloud Private Network ABB is salient for technical interoperability because it provides the needed infrastructure connection between cloud service providers to a specific group of people, organizations or systems. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/CloudPrivateNetworkCommunicationNetwork"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:CommunicationNetwork>

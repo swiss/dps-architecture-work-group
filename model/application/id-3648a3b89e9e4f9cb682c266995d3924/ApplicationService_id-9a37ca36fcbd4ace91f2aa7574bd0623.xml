@@ -1,0 +1,50 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Big Data Analytics"
+    id="id-9a37ca36fcbd4ace91f2aa7574bd0623"
+    documentation="Definition: A Big Data Analytics Application service refers to a software application or platform that leverages advanced analytics techniques to process and analyze large and complex datasets, commonly known as big data. It enables organizations to derive valuable insights, identify patterns, trends, and correlations, and make data-driven decisions. The service typically includes data ingestion, storage, processing, and visualization capabilities, as well as advanced analytics techniques such as machine learning, natural language processing, and predictive modeling.&#xA;&#xA;Source: NIST&#xA;&#xA;LOST view: TVA-Analytics Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BigDataAnalyticsApplicationService&#xA;&#xA;ABB name: egovera:BigDataAnalyticsApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BigDataAnalyticsApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataAnalyticsApplicationService&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="A Big Data Analytics Application service refers to a software application or platform that leverages advanced analytics techniques to process and analyze large and complex datasets, commonly known as big data. It enables organizations to derive valuable insights, identify patterns, trends, and correlations, and make data-driven decisions. The service typically includes data ingestion, storage, processing, and visualization capabilities, as well as advanced analytics techniques such as machine learning, natural language processing, and predictive modeling."/>
+  <properties
+      key="eira:definitionSource"
+      value="NIST"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BigDataAnalyticsApplicationService"/>
+  <properties
+      key="dct:type"
+      value="egovera:BigDataAnalyticsApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Analytics Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Analytics Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Computing Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BigDataAnalyticsApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataAnalyticsApplicationService"/>
+</archimate:ApplicationService>

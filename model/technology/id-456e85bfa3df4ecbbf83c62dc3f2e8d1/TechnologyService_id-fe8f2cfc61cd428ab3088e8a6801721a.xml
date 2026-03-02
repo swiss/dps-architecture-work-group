@@ -1,0 +1,51 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="File Storage"
+    id="id-fe8f2cfc61cd428ab3088e8a6801721a"
+    documentation="Definition: File storage ABB is a Technology Service that implements the behaviour of a software tool that refers to the process of storing and organizing digital files in a secure and efficient manner&#xA;&#xA;Source: Inspired in the definition provided by relebant database vendors&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): GARTNER- Distributed File Systems and Objects Storage Reviews and Ratings. https://www.gartner.com/reviews/market/distributed-file-systems-and-object-storage&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: File Storage ABB is salient for technical interoperability because it set up the data integration mechanism based on different files. This kind of file storage permit also ensures data provenance of the information considering file modification and creation.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FileStorageTechnologyService&#xA;&#xA;ABB name: eira:FileStorageTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FileStorageTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/FileStorageTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:FileStorageTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="File storage ABB is a Technology Service that implements the behaviour of a software tool that refers to the process of storing and organizing digital files in a secure and efficient manner"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the definition provided by relebant database vendors"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): GARTNER- Distributed File Systems and Objects Storage Reviews and Ratings. https://www.gartner.com/reviews/market/distributed-file-systems-and-object-storage"/>
+  <properties
+      key="eira:iopSaliency"
+      value="File Storage ABB is salient for technical interoperability because it set up the data integration mechanism based on different files. This kind of file storage permit also ensures data provenance of the information considering file modification and creation."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/FileStorageTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

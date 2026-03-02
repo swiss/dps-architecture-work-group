@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Convergence assurance on public policy goals attainment"
+    id="id-6272cdcce20f4c2780f49a92b162bf0e"
+    documentation="Definition: The assessment of the effective realisation of public services, based on public policies, by evaluating various technological solutions when striving to ensure the effectiveness and efficiency of European public services. Digital public services should be the result of public policies based on real constructed and relevant societal needs. Therefore, it is relevant to ensure efficiency and effectiveness in the delivery of public services. For this reason, public administration has the duty of evaluating and ensuring that the resources are dedicated to the implementation and delivery of digital public services that are aligned with public policies and their objectives. In addition to the alignment of digital public services with public policies goal, there is the need to assess the efficiency of the service and the elements involved, to ensure that the investment done is proportionate to the societal needs and the relevance and value the service provides Evaluate the effectiveness and efficiency of different interoperability solutions and technological options considering user needs, proportionality and balance between costs and benefits.&#xA;&#xA;Source: Assessment of Effectiveness and Efficiency Underlying Principle (12) of the European Interoperability Framework (EIF)&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/assessment-effectiveness-and-efficiency&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/convergence-assurance-public-policy-goals-attainment&#xA;&#xA;ABB name: elap:ConvergenceAssuranceOnPublicPolicyGoalsAttainmentPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Convergence assurance on public policy goals attainment&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:ConvergenceAssuranceOnPublicPolicyGoalsAttainmentPrinciple"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/convergence-assurance-public-policy-goals-attainment"/>
+  <properties
+      key="dct:title"
+      value="Convergence assurance on public policy goals attainment"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="Assessment of Effectiveness and Efficiency Underlying Principle (12) of the European Interoperability Framework (EIF)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/assessment-effectiveness-and-efficiency"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="The assessment of the effective realisation of public services, based on public policies, by evaluating various technological solutions when striving to ensure the effectiveness and efficiency of European public services. Digital public services should be the result of public policies based on real constructed and relevant societal needs. Therefore, it is relevant to ensure efficiency and effectiveness in the delivery of public services. For this reason, public administration has the duty of evaluating and ensuring that the resources are dedicated to the implementation and delivery of digital public services that are aligned with public policies and their objectives. In addition to the alignment of digital public services with public policies goal, there is the need to assess the efficiency of the service and the elements involved, to ensure that the investment done is proportionate to the societal needs and the relevance and value the service provides Evaluate the effectiveness and efficiency of different interoperability solutions and technological options considering user needs, proportionality and balance between costs and benefits."/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

@@ -1,0 +1,49 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Analytics"
+    id="id-643828f92a7b4f2d96f197661319d04c"
+    documentation="Definition: Data Analytics ABB is an Application Service that enables the use of procedures to analyze data and extract insights that can be used to improve business decision-making, optimize business processes, and drive innovation&#xA;&#xA;Source: Inspired in Data Act&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/data-act&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Microsoft Power BI - Power BI is a business analytics service by Microsoft. It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards. It is part of the Microsoft Power Platform.(https://powerbi.microsoft.com/it-it/what-is-power-bi/)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Data Analytics Service ABB  is salient for technical interoperability because it enables the automated processing and analysis of different data source.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataAnalyticsApplicationService&#xA;&#xA;ABB name: eira:DataAnalyticsApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataAnalyticsApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataAnalyticsApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:DataAnalyticsApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Analytics ABB is an Application Service that enables the use of procedures to analyze data and extract insights that can be used to improve business decision-making, optimize business processes, and drive innovation"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Data Act"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/data-act"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Microsoft Power BI - Power BI is a business analytics service by Microsoft. It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards. It is part of the Microsoft Power Platform.(https://powerbi.microsoft.com/it-it/what-is-power-bi/)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Analytics Service ABB  is salient for technical interoperability because it enables the automated processing and analysis of different data source."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataAnalyticsApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

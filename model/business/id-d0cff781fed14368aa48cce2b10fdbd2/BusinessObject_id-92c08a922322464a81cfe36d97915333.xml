@@ -1,0 +1,41 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anonymisation Policy"
+    id="id-92c08a922322464a81cfe36d97915333"
+    documentation="Definition: An Anonymisation Policy is a formal document or set of guidelines implemented by an organization to outline the rules and procedures for anonymizing sensitive data. It defines the methods, techniques, and criteria used to transform personally identifiable information (PII) into a form that can no longer be linked to an individual. The policy ensures compliance with privacy regulations and helps mitigate the risk of unauthorized disclosure or misuse of personal data. It includes considerations for data anonymization processes, such as data masking, aggregation, or encryption, to protect individuals' privacy while still allowing data to be used for legitimate business purposes.&#xA;&#xA;Source: European Data Protection Board&#xA;&#xA;LOST view: SV-Governance Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/AnonymisationPolicyBusinessObject&#xA;&#xA;ABB name: egovera:AnonymisationPolicyBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/AnonymisationPolicyBusinessObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataPolicy&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="An Anonymisation Policy is a formal document or set of guidelines implemented by an organization to outline the rules and procedures for anonymizing sensitive data. It defines the methods, techniques, and criteria used to transform personally identifiable information (PII) into a form that can no longer be linked to an individual. The policy ensures compliance with privacy regulations and helps mitigate the risk of unauthorized disclosure or misuse of personal data. It includes considerations for data anonymization processes, such as data masking, aggregation, or encryption, to protect individuals' privacy while still allowing data to be used for legitimate business purposes."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Data Protection Board"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/AnonymisationPolicyBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:AnonymisationPolicyBusinessObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/AnonymisationPolicyBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataPolicy"/>
+</archimate:BusinessObject>

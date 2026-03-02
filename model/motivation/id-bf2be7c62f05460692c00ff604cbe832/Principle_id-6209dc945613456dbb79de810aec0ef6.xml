@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrated Horizontal User Experience"
+    id="id-6209dc945613456dbb79de810aec0ef6"
+    documentation="Definition: Users have an integrated experience of digital public services Users should be optimally supported in their tasks. They should not be bothered by the fact that multiple organizations, processes or applications are needed to support these tasks. Users of digital public services experience one user interface which supports them in the execution of their tasks, and which feels like one application.Users are not confronted with duplicate steps or data entry in the execution of their tasks.Users need to only log in once to execute their tasks.&quot;&quot;&#xA;&#xA;Source: eID Building Block of DIGITAL Europe&#xA;&#xA;Source reference: https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/2019/07/02/Improving+the+user+experience+of+cross-border+eID&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/integrated-horizontal-user-experience&#xA;&#xA;ABB name: elap:IntegratedHorizontalUserExperiencePrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Integrated Horizontal User Experience&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:IntegratedHorizontalUserExperiencePrinciple"/>
+  <properties
+      key="dct:title"
+      value="Integrated Horizontal User Experience"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/integrated-horizontal-user-experience"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="eID Building Block of DIGITAL Europe"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/2019/07/02/Improving+the+user+experience+of+cross-border+eID"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="Users have an integrated experience of digital public services Users should be optimally supported in their tasks. They should not be bothered by the fact that multiple organizations, processes or applications are needed to support these tasks. Users of digital public services experience one user interface which supports them in the execution of their tasks, and which feels like one application.Users are not confronted with duplicate steps or data entry in the execution of their tasks.Users need to only log in once to execute their tasks.&quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

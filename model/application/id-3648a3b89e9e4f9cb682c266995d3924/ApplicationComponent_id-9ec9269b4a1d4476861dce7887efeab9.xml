@@ -1,0 +1,49 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Registry"
+    id="id-9ec9269b4a1d4476861dce7887efeab9"
+    documentation="Definition: Service Registry ABB is an Application Component that enables the registering of system services within a catalogue to facilitate the discovery of services.&#xA;&#xA;Source: ISA2 - EIA Action&#xA;&#xA;Source reference: http://data.europa.eu/eli/dec/2015/2240/oj&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): jUDDI - jUDDI is an open source Java implementation of OASIS Universal Description, Discovery, and Integration (UDDI) specification for (Web) Services. https://juddi.apache.org/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Service Registry Component ABB  is a key interoperability enabler because it supports to achieve technical interoperability by provisioning and consuming back-office services as stated in the EIF recommendation n°44: &quot;Put in place catalogues of public services, public data, and interoperability solutions and use common models for describing them.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ServiceRegistryApplicationComponent&#xA;&#xA;ABB name: eira:ServiceRegistryApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ServiceRegistryApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ServiceRegistryApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:ServiceRegistryApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Service Registry ABB is an Application Component that enables the registering of system services within a catalogue to facilitate the discovery of services."/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2 - EIA Action"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://data.europa.eu/eli/dec/2015/2240/oj"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): jUDDI - jUDDI is an open source Java implementation of OASIS Universal Description, Discovery, and Integration (UDDI) specification for (Web) Services. https://juddi.apache.org/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Service Registry Component ABB  is a key interoperability enabler because it supports to achieve technical interoperability by provisioning and consuming back-office services as stated in the EIF recommendation n°44: &quot;Put in place catalogues of public services, public data, and interoperability solutions and use common models for describing them.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ServiceRegistryApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

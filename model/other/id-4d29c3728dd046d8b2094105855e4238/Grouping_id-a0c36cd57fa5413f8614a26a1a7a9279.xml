@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution High Availability and Resilience Architecture Decision Catalogue"
+    id="id-a0c36cd57fa5413f8614a26a1a7a9279"
+    documentation="Definition: Digital Solution High Availability and Resilience Architecture Decision Catalogue ABB is a grouping that covers a range of decisions related to optimizing the performance of a system. These decisions may include choices regarding caching strategies, load balancing techniques, database optimizations, or any other performance-related considerations. The catalogue includes elements such as Caching Strategy, Content Delivery Network, Performance Testing and Tuning, Network Optimization, Application of Service Monitoring Tools, Application of Service Monitoring Tools Configuration, and Disaster Recovery Plan.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Digital Solution High Availability and Resilience Architecture Decision Catalogue ABB is a comprehensive collection of elements that capture decisions related to optimizing the performance of a system. Each element in the catalogue represents a specific decision area, with a focus on strategies and techniques that can enhance system performance, ensure high availability, and build resilience. The elements are described in the form of Architecture Decision Records (ADRs), which provide a detailed account of the decision-making process, the options considered, the decision taken, and the reasons behind the decision.&#xA;&#xA;Example: For instance, the 'Caching Strategy' element in the catalogue might detail the decision to use a distributed caching system to improve the performance of a data-intensive application. The 'Content Delivery Network' element might describe the decision to use a global CDN to ensure fast and reliable content delivery to users worldwide. The 'Performance Testing and Tuning' element might outline the decision to implement a rigorous performance testing regime and a continuous tuning process to maintain optimal system performance. Similarly, the 'Network Optimization', 'Application of Service Monitoring Tools', 'Application of Service Monitoring Tools Configuration', and 'Disaster Recovery Plan' elements would detail decisions in their respective areas.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionHighAvailabilityAndResilienceArchitectureDecisionCatalogueGrouping&#xA;&#xA;ABB name: eira:DigitalSolutionHighAvailabilityAndResilienceArchitectureDecisionCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionHighAvailabilityAndResilienceArchitectureDecisionCatalogueGrouping&#xA;&#xA;Name: Digital Solution High Availability And Resilience Architecture Decision Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionHighAvailabilityAndResilienceArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionHighAvailabilityAndResilienceArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Digital Solution High Availability And Resilience Architecture Decision Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionHighAvailabilityAndResilienceArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Digital Solution High Availability and Resilience Architecture Decision Catalogue ABB is a grouping that covers a range of decisions related to optimizing the performance of a system. These decisions may include choices regarding caching strategies, load balancing techniques, database optimizations, or any other performance-related considerations. The catalogue includes elements such as Caching Strategy, Content Delivery Network, Performance Testing and Tuning, Network Optimization, Application of Service Monitoring Tools, Application of Service Monitoring Tools Configuration, and Disaster Recovery Plan."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, the 'Caching Strategy' element in the catalogue might detail the decision to use a distributed caching system to improve the performance of a data-intensive application. The 'Content Delivery Network' element might describe the decision to use a global CDN to ensure fast and reliable content delivery to users worldwide. The 'Performance Testing and Tuning' element might outline the decision to implement a rigorous performance testing regime and a continuous tuning process to maintain optimal system performance. Similarly, the 'Network Optimization', 'Application of Service Monitoring Tools', 'Application of Service Monitoring Tools Configuration', and 'Disaster Recovery Plan' elements would detail decisions in their respective areas."/>
+  <properties
+      key="skos:note"
+      value="The Digital Solution High Availability and Resilience Architecture Decision Catalogue ABB is a comprehensive collection of elements that capture decisions related to optimizing the performance of a system. Each element in the catalogue represents a specific decision area, with a focus on strategies and techniques that can enhance system performance, ensure high availability, and build resilience. The elements are described in the form of Architecture Decision Records (ADRs), which provide a detailed account of the decision-making process, the options considered, the decision taken, and the reasons behind the decision."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

@@ -1,0 +1,54 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legislation Catalogue"
+    id="id-f34fc867749544b98e9f647541f3040b"
+    documentation="Definition: Legislation Catalogue ABB is a Business Object creating an indexed inventory of legal documents with comprehensiveness and trustiness value.&#xA;&#xA;Source: IATE &#xA;&#xA;Source reference: http://iate.europa.eu/&#xA;&#xA;Synonym: Official Journal&#xA;&#xA;Additional information: DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EUR-Lex - It provides the official and most comprehensive access to EU legal documents. It is available in all of the EU’s 24 official languages and is updated daily. https://eur-lex.europa.eu/content/welcome/about.html&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Interoperability Saliency: The Legislation Catalogue ABB is a key interoperability enabler (*) for structural and governance interoperability enablers. It is salient for structural interoperability because it supports enabling sharing/provisioning and reusing/consumption of legislation on digital public services. The Legislation Catalogue ABB is also salient for the governance of interoperability because it compiles the legislation that needs to be discovered and applied for collaboration with other public administrations' digital public services, either because it is binding or because it is a source of strong recommendations.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegislationCatalogueBusinessObject&#xA;&#xA;ABB name: eira:LegislationCatalogueBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegislationCatalogueBusinessObject&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LegislationCatalogueBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="eira:LegislationCatalogueBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value="Official Journal"/>
+  <properties
+      key="skos:definition"
+      value="Legislation Catalogue ABB is a Business Object creating an indexed inventory of legal documents with comprehensiveness and trustiness value."/>
+  <properties
+      key="eira:definitionSource"
+      value="IATE "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://iate.europa.eu/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EUR-Lex - It provides the official and most comprehensive access to EU legal documents. It is available in all of the EU’s 24 official languages and is updated daily. https://eur-lex.europa.eu/content/welcome/about.html"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Legislation Catalogue ABB is a key interoperability enabler (*) for structural and governance interoperability enablers. It is salient for structural interoperability because it supports enabling sharing/provisioning and reusing/consumption of legislation on digital public services. The Legislation Catalogue ABB is also salient for the governance of interoperability because it compiles the legislation that needs to be discovered and applied for collaboration with other public administrations' digital public services, either because it is binding or because it is a source of strong recommendations."/>
+  <properties
+      key="skos:note"
+      value="DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LegislationCatalogueBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:BusinessObject>

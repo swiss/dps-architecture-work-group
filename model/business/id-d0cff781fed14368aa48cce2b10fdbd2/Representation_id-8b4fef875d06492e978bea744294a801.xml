@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Common Data Model"
+    id="id-8b4fef875d06492e978bea744294a801"
+    documentation="Description: CDM is an ontology based on the FRBR model (Functional Requirements for Bibliographic Records). CDM uses  RDF(S)/OWL technologies, capable of representing relationships between the resource types managed by the Publications Office and their views. All within the scope of the FRBR model and, therefore, in terms of Work, Expression, Manifestation and Item.&#xA;&#xA;Publisher: The Publications Office of the European Union&#xA;&#xA;Source: https://op.europa.eu/en/web/eu-vocabularies/cdm&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/CommonDataModelRepresentation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/CommonDataModelRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="The Publications Office of the European Union"/>
+  <properties
+      key="dct:description"
+      value="CDM is an ontology based on the FRBR model (Functional Requirements for Bibliographic Records). CDM uses  RDF(S)/OWL technologies, capable of representing relationships between the resource types managed by the Publications Office and their views. All within the scope of the FRBR model and, therefore, in terms of Work, Expression, Manifestation and Item."/>
+  <properties
+      key="dct:source"
+      value="https://op.europa.eu/en/web/eu-vocabularies/cdm"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/CommonDataModelRepresentation"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/CommonDataModelRepresentation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

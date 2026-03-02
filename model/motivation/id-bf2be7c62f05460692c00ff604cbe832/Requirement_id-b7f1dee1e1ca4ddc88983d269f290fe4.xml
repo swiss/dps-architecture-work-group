@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recoverability"
+    id="id-b7f1dee1e1ca4ddc88983d269f290fe4"
+    documentation="Definition: Recoverability is an important non-functional requirement in IT that refers to the ability of a system to solve failures or errors and come-back to its normal functioning. This includes the ability to recover data, configurations, and settings after a system crash or other disruptions. Recoverability is critical for ensuring system availability and minimizing downtime, as well as for protecting against data loss and corruption. It involves implementing backup and recovery mechanisms, such as data replication, redundancy, and failover, to ensure that the system can quickly and reliably recover from any failures or errors.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Recoverability is a non-functional requirement that refers to the ability of a system to recover from failures or disasters. It is a critical aspect of system design and architecture, as it ensures that the system can continue to operate even in the event of unexpected events.&#xA;&#xA;Recoverability includes a range of features and capabilities that enable a system to recover from failures, including backup and restore capabilities, fault tolerance, and disaster recovery planning. These features are designed to ensure that the system can quickly and efficiently recover from any type of failure, whether it is a hardware failure, software failure, or a natural disaster.&#xA;&#xA;To achieve recoverability, system architects and designers must consider a range of factors, including the system's overall architecture, the types of failures that are most likely to occur, and the impact of those failures on the system's operations. They must also consider the cost and complexity of implementing recoverability features, as well as the potential impact on system performance and availability.&#xA;&#xA;Overall, recoverability is a critical non-functional requirement that must be carefully considered and designed into any system architecture. By ensuring that a system can recover quickly and efficiently from failures, organizations can minimize downtime, reduce costs, and ensure that critical business operations can continue uninterrupted.&#xA;&#xA;Example: In a banking application, the recoverability non-functional requirement would ensure that in case of a system failure or crash, the system can recover all the data and transactions that were in progress before the failure occurred. This would ensure that no data is lost and the system can resume normal operations without any major disruptions.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/RecoverabilityRequirement&#xA;&#xA;ABB name: eira:RecoverabilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/RecoverabilityRequirement&#xA;&#xA;Name: Recoverability Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/RecoverabilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Recoverability Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="In a banking application, the recoverability non-functional requirement would ensure that in case of a system failure or crash, the system can recover all the data and transactions that were in progress before the failure occurred. This would ensure that no data is lost and the system can resume normal operations without any major disruptions."/>
+  <properties
+      key="skos:definition"
+      value="Recoverability is an important non-functional requirement in IT that refers to the ability of a system to solve failures or errors and come-back to its normal functioning. This includes the ability to recover data, configurations, and settings after a system crash or other disruptions. Recoverability is critical for ensuring system availability and minimizing downtime, as well as for protecting against data loss and corruption. It involves implementing backup and recovery mechanisms, such as data replication, redundancy, and failover, to ensure that the system can quickly and reliably recover from any failures or errors."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Recoverability is a non-functional requirement that refers to the ability of a system to recover from failures or disasters. It is a critical aspect of system design and architecture, as it ensures that the system can continue to operate even in the event of unexpected events.&#xA;&#xA;Recoverability includes a range of features and capabilities that enable a system to recover from failures, including backup and restore capabilities, fault tolerance, and disaster recovery planning. These features are designed to ensure that the system can quickly and efficiently recover from any type of failure, whether it is a hardware failure, software failure, or a natural disaster.&#xA;&#xA;To achieve recoverability, system architects and designers must consider a range of factors, including the system's overall architecture, the types of failures that are most likely to occur, and the impact of those failures on the system's operations. They must also consider the cost and complexity of implementing recoverability features, as well as the potential impact on system performance and availability.&#xA;&#xA;Overall, recoverability is a critical non-functional requirement that must be carefully considered and designed into any system architecture. By ensuring that a system can recover quickly and efficiently from failures, organizations can minimize downtime, reduce costs, and ensure that critical business operations can continue uninterrupted."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/RecoverabilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:RecoverabilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

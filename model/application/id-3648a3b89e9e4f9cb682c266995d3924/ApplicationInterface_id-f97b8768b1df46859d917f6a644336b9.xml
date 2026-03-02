@@ -1,0 +1,64 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Machine to Machine Interface"
+    id="id-f97b8768b1df46859d917f6a644336b9"
+    documentation="Definition: Machine to Machine Interface ABB is an Application Interface that enables the exchange of data between a service and other services. This ABB is a key interoperability enabler (*) for assessing compatible interfaces.&#xA;&#xA;Source: EIA Action  (*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector.&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/eif_en&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): XMLGate TRACES Businesses (XTB) - Webservices enabling the management of organisations and cities registered in TRACES. https://circabc.europa.eu/sd/a/dc77e52b-dfba-4dcc-aa39-6a54748db01d/XmlGate%20TRACES%20Businesses%20Manual.doc.&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Machine to Machine Interface ABB is a key interoperability enabler because it supports to achieve technical behavioral interoperability by enabling the exchange of data, information, and knowledge between digital public services as stated in the EIF recommendation n°5: &quot;&quot;Ensure internal visibility and provide external interfaces for European public services&quot; and recommendation n°9:&quot;Ensure data portability, namely that data is easily transferable between systems and applications supporting the implementation and evolution of European public services without unjustified restrictions, if legally possible.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MachineToMachineInterfaceApplicationInterface&#xA;&#xA;ABB name: eira:MachineToMachineInterfaceApplicationInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MachineToMachineInterfaceApplicationInterface&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/MachineToMachineInterfaceApplicationInterface"/>
+  <properties
+      key="dct:type"
+      value="eira:MachineToMachineInterfaceApplicationInterface"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Machine to Machine Interface ABB is an Application Interface that enables the exchange of data between a service and other services. This ABB is a key interoperability enabler (*) for assessing compatible interfaces."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIA Action  (*)DECISION (EU) 2015/2240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 establishing a programme on interoperability solutions and common frameworks for European public administrations, businesses and citizens (ISA2 programme) as a means for modernising the public sector."/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/eif_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): XMLGate TRACES Businesses (XTB) - Webservices enabling the management of organisations and cities registered in TRACES. https://circabc.europa.eu/sd/a/dc77e52b-dfba-4dcc-aa39-6a54748db01d/XmlGate%20TRACES%20Businesses%20Manual.doc."/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Machine to Machine Interface ABB is a key interoperability enabler because it supports to achieve technical behavioral interoperability by enabling the exchange of data, information, and knowledge between digital public services as stated in the EIF recommendation n°5: &quot;&quot;Ensure internal visibility and provide external interfaces for European public services&quot; and recommendation n°9:&quot;Ensure data portability, namely that data is easily transferable between systems and applications supporting the implementation and evolution of European public services without unjustified restrictions, if legally possible.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:view"
+      value="EIRA Ontology"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperable European Solution viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="REST API viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/MachineToMachineInterfaceApplicationInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationInterface>

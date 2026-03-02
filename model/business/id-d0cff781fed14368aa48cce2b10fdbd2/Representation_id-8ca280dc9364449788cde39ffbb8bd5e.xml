@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPARQL"
+    id="id-8ca280dc9364449788cde39ffbb8bd5e"
+    documentation="Description: SPARQL is a query language that enables organizations to extract valuable insights and knowledge from their semantic data. It plays a crucial role in the field of linked data and the semantic web, which focus on creating structured and interconnected data ecosystems.&#xA;&#xA;Publisher: W3C&#xA;&#xA;Source: https://www.bing.com/ck/a?!&amp;&amp;p=97d6e35279e66026JmltdHM9MTY4NzM5MjAwMCZpZ3VpZD0wMjYzNjViYy02Y2NlLTY1YzAtMDc1ZS03NzEwNmQ2NjY0NGYmaW5zaWQ9NTIwMA&amp;ptn=3&amp;hsh=3&amp;fclid=026365bc-6cce-65c0-075e-77106d66644f&amp;psq=sparwl*&amp;u=a1aHR0cHM6Ly93d3cudzMub3JnL1RSL3NwYXJxbDExLXF1ZXJ5Lw&amp;ntb=1&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SPARQLRepresentation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SPARQLRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="W3C"/>
+  <properties
+      key="dct:description"
+      value="SPARQL is a query language that enables organizations to extract valuable insights and knowledge from their semantic data. It plays a crucial role in the field of linked data and the semantic web, which focus on creating structured and interconnected data ecosystems."/>
+  <properties
+      key="dct:source"
+      value="https://www.bing.com/ck/a?!&amp;&amp;p=97d6e35279e66026JmltdHM9MTY4NzM5MjAwMCZpZ3VpZD0wMjYzNjViYy02Y2NlLTY1YzAtMDc1ZS03NzEwNmQ2NjY0NGYmaW5zaWQ9NTIwMA&amp;ptn=3&amp;hsh=3&amp;fclid=026365bc-6cce-65c0-075e-77106d66644f&amp;psq=sparwl*&amp;u=a1aHR0cHM6Ly93d3cudzMub3JnL1RSL3NwYXJxbDExLXF1ZXJ5Lw&amp;ntb=1"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/SPARQLRepresentation"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/SPARQLRepresentation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

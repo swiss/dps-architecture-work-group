@@ -1,0 +1,54 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workflow Management"
+    id="id-93ba5a8715fb44edab4280ad1db903ff"
+    documentation="Definition: A Workflow Management Application Service, also known as Orchestration Application Service, refers to a software solution or service that enables the design, execution, and coordination of workflows within an organization. It provides a centralized platform for modeling, automating, and monitoring business processes, ensuring efficient and effective workflow execution. The Workflow Management Application Service typically includes features such as workflow design and modeling, task assignment and tracking, process monitoring and optimization, exception handling, and integration with other systems and applications.&#xA;&#xA;Source: Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/workflow-orchestration&#xA;&#xA;LOST view: TVA-Orchestration Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/WorkflowManagementApplicationService&#xA;&#xA;ABB name: egovera:WorkflowManagementApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/WorkflowManagementApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/OrchestrationApplicationService&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="A Workflow Management Application Service, also known as Orchestration Application Service, refers to a software solution or service that enables the design, execution, and coordination of workflows within an organization. It provides a centralized platform for modeling, automating, and monitoring business processes, ensuring efficient and effective workflow execution. The Workflow Management Application Service typically includes features such as workflow design and modeling, task assignment and tracking, process monitoring and optimization, exception handling, and integration with other systems and applications."/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/workflow-orchestration"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/WorkflowManagementApplicationService"/>
+  <properties
+      key="dct:type"
+      value="egovera:WorkflowManagementApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Orchestration Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Management Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Workflow Orchestration and Containers Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Computing Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/WorkflowManagementApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/OrchestrationApplicationService"/>
+</archimate:ApplicationService>

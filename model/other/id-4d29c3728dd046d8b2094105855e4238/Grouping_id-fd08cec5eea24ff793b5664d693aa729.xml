@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Public Service Design Principle Catalogue"
+    id="id-fd08cec5eea24ff793b5664d693aa729"
+    documentation="Definition: Digital Public Service Design Principle Catalogue ABB is a grouping that covers a range of principles and guidelines aimed at shaping the design and implementation of digital public services. These principles encompass various aspects including administrative simplification, carbon-dioxide e-footprint impact awareness, code of ethics compliance, data portability, EU legislation compliance, integrated user experience, multilingualism, privacy, proactiveness, service orientation, technology neutrality, and user-centricity among others.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Digital Public Service Design Principle Catalogue ABB is a comprehensive collection of principles that guide the design and delivery of digital public services. These principles are aimed at ensuring that digital services are user-centric, efficient, ethical, and compliant with relevant legislation. They cover a broad spectrum of considerations from administrative simplification which aims to reduce bureaucratic processes and make public services more accessible, to carbon-dioxide e-footprint impact awareness which encourages the design of digital services that are environmentally friendly. Other principles like data portability and privacy ensure that users' data is handled responsibly and securely. The catalogue also includes principles like multilingualism and integrated user experience which aim to make digital services more inclusive and user-friendly.&#xA;&#xA;Example: An example of application of these principles can be seen in the design of a digital public service like an online tax filing system. The system would need to be designed with user-centricity in mind, ensuring it is easy to use for all citizens. It would also need to comply with EU legislation and a code of ethics, ensuring data is handled securely and responsibly. The system should also be designed with an awareness of its carbon-dioxide e-footprint, aiming to minimise its environmental impact. Furthermore, the principle of administrative simplification would be applied to make the tax filing process as straightforward and efficient as possible.&#xA;&#xA;LOST view: Architecture Principles view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalPublicServiceDesignPrincipleCatalogueGrouping&#xA;&#xA;ABB name: egovera:DigitalPublicServiceDesignPrincipleCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalPublicServiceDesignPrincipleCatalogueGrouping&#xA;&#xA;Name: Digital Public Service Design Principle Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DigitalPublicServiceDesignPrincipleCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DigitalPublicServiceDesignPrincipleCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Digital Public Service Design Principle Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:DigitalPublicServiceDesignPrincipleCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Digital Public Service Design Principle Catalogue ABB is a grouping that covers a range of principles and guidelines aimed at shaping the design and implementation of digital public services. These principles encompass various aspects including administrative simplification, carbon-dioxide e-footprint impact awareness, code of ethics compliance, data portability, EU legislation compliance, integrated user experience, multilingualism, privacy, proactiveness, service orientation, technology neutrality, and user-centricity among others."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of application of these principles can be seen in the design of a digital public service like an online tax filing system. The system would need to be designed with user-centricity in mind, ensuring it is easy to use for all citizens. It would also need to comply with EU legislation and a code of ethics, ensuring data is handled securely and responsibly. The system should also be designed with an awareness of its carbon-dioxide e-footprint, aiming to minimise its environmental impact. Furthermore, the principle of administrative simplification would be applied to make the tax filing process as straightforward and efficient as possible."/>
+  <properties
+      key="skos:note"
+      value="The Digital Public Service Design Principle Catalogue ABB is a comprehensive collection of principles that guide the design and delivery of digital public services. These principles are aimed at ensuring that digital services are user-centric, efficient, ethical, and compliant with relevant legislation. They cover a broad spectrum of considerations from administrative simplification which aims to reduce bureaucratic processes and make public services more accessible, to carbon-dioxide e-footprint impact awareness which encourages the design of digital services that are environmentally friendly. Other principles like data portability and privacy ensure that users' data is handled responsibly and securely. The catalogue also includes principles like multilingualism and integrated user experience which aim to make digital services more inclusive and user-friendly."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

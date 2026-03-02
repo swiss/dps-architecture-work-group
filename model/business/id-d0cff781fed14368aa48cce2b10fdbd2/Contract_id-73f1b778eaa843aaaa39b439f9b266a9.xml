@@ -1,0 +1,45 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gaia-X"
+    id="id-73f1b778eaa843aaaa39b439f9b266a9"
+    documentation="Description: Gaia-X establish the principles, rules, and standards for participating in the European data infrastructure initiative. These agreements include a participation agreement, data sovereignty agreement, interoperability agreement, security and privacy agreement, governance agreement, and compliance agreement. They ensure that participants maintain control over their data, promote interoperability, prioritize security and privacy, establish governance structures, and adhere to relevant laws and regulations. Together, these agreements enable secure and sovereign data sharing within the Gaia-X ecosystem while fostering trust and collaboration among participants.&#xA;&#xA;Additional information: Gaia-X is a European initiative aimed at creating a federated data infrastructure to promote secure and sovereign data sharing among businesses, organizations, and individuals. The Agreements on the Use of Common Infrastructure of Gaia-X outline the principles, rules, and standards that govern the participation and utilization of the Gaia-X infrastructure. While I don't have access to the specific details beyond my knowledge cutoff in September 2021, I can provide you with a general overview of the expected agreements:&#xA;&#xA;Example: Gaia-X is an ambitious project initiated by European countries to create a secure and transparent data infrastructure for fostering data sovereignty and promoting the development of European digital ecosystems. Here are a few examples of how Gaia-X could be applied:&#xA;&#xA;Publisher: Gaia-X&#xA;&#xA;Source: https://www.data-infrastructure.eu/GAIAX/Navigation/EN/Home/home.html&#xA;&#xA;LOST view: OV-Data Spaces&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/Gaia-XContract&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/Gaia-XContract&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Realises: http://data.europa.eu/dr8/AgreementOfTheUseOnCommonInfrastructureContract&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/Gaia-XContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:description"
+      value="Gaia-X establish the principles, rules, and standards for participating in the European data infrastructure initiative. These agreements include a participation agreement, data sovereignty agreement, interoperability agreement, security and privacy agreement, governance agreement, and compliance agreement. They ensure that participants maintain control over their data, promote interoperability, prioritize security and privacy, establish governance structures, and adhere to relevant laws and regulations. Together, these agreements enable secure and sovereign data sharing within the Gaia-X ecosystem while fostering trust and collaboration among participants."/>
+  <properties
+      key="skos:example"
+      value="Gaia-X is an ambitious project initiated by European countries to create a secure and transparent data infrastructure for fostering data sovereignty and promoting the development of European digital ecosystems. Here are a few examples of how Gaia-X could be applied:"/>
+  <properties
+      key="skos:note"
+      value="Gaia-X is a European initiative aimed at creating a federated data infrastructure to promote secure and sovereign data sharing among businesses, organizations, and individuals. The Agreements on the Use of Common Infrastructure of Gaia-X outline the principles, rules, and standards that govern the participation and utilization of the Gaia-X infrastructure. While I don't have access to the specific details beyond my knowledge cutoff in September 2021, I can provide you with a general overview of the expected agreements:"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/Gaia-XContract"/>
+  <properties
+      key="dct:publisher"
+      value="Gaia-X"/>
+  <properties
+      key="dct:source"
+      value="https://www.data-infrastructure.eu/GAIAX/Navigation/EN/Home/home.html"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/AgreementOfTheUseOnCommonInfrastructureContract"/>
+</archimate:Contract>

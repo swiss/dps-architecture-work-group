@@ -1,0 +1,49 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accounting"
+    id="id-91f85fcede8642bc90b62a5d416b8954"
+    documentation="Definition: Accounting ABB is an Application Service that enables the process of tracking and recording access to resources, facilities and information.&#xA;&#xA;Source: Inspired in Springer (Authentication, Authorization and Accounting article)&#xA;&#xA;Source reference: https://link.springer.com/chapter/10.1007/978-3-030-52829-4_14&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): BASICAL system was developed by the General Administration Intervention Board to give computer support to operations and information in the basic model of the Accounting Information System for Local Governments, in compliance with Order EHA/404/2004, of 23 November, approving the Basic Local Accounting Model Regulations. https://administracionelectronica.gob.es/ctt/verPestanaGeneralAbstract.htm?idIniciativa=basical#.ZAISY3bMI2w&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Accounting Application Service ABB is salient for interoperability because it can be a mechanism to track and control access to data, applications, and services. This can help to identify when unauthorised changes or accesses have been accepted and data in a digital public servicer has been compromised and whom is the actor involved. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/AccountingApplicationService&#xA;&#xA;ABB name: eira:AccountingApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AccountingApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AccountingApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:AccountingApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Accounting ABB is an Application Service that enables the process of tracking and recording access to resources, facilities and information."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Springer (Authentication, Authorization and Accounting article)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://link.springer.com/chapter/10.1007/978-3-030-52829-4_14"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): BASICAL system was developed by the General Administration Intervention Board to give computer support to operations and information in the basic model of the Accounting Information System for Local Governments, in compliance with Order EHA/404/2004, of 23 November, approving the Basic Local Accounting Model Regulations. https://administracionelectronica.gob.es/ctt/verPestanaGeneralAbstract.htm?idIniciativa=basical#.ZAISY3bMI2w"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Accounting Application Service ABB is salient for interoperability because it can be a mechanism to track and control access to data, applications, and services. This can help to identify when unauthorised changes or accesses have been accepted and data in a digital public servicer has been compromised and whom is the actor involved. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AccountingApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

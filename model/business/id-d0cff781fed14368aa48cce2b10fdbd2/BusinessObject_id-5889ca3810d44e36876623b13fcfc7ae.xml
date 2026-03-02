@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Governance Plan"
+    id="id-5889ca3810d44e36876623b13fcfc7ae"
+    documentation="Definition: Digital Governance ABB is a Business Object that ensures the functioning of an Interoperability Framework. These rules include structures, roles, responsibilities, policies, standards, specifications, practices, decision making and operational procedures.&#xA;&#xA;Source: EIF&#xA;&#xA;Source reference: http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF&#xA;&#xA;Additional information: Plans are in principle narrower and more detailed than Digital Agendas, and as a matter of fact they are intended to drill down and realise a global agenda. For an additional example of plan focused on interoperability, see the Governance Plan defined in the new European Interoperability Framework (EIF) - § 3.1 of the new EIF Annex II: Interoperability governance refers to decisions on interoperability frameworks, institutional arrangements, organisational structures, roles and responsibilities, policies, agreements and other aspects of ensuring and monitoring interoperability at national and EU levels. The European interoperability framework, the Interoperability Action Plan (Annex 1 to the Communication) and the European interoperability architecture (EIRA) are important parts of interoperability governance at the EU level. (http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF)&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The INSPIRE Directive 2007/2/EC of 14 March 2007, Article 18. Member States shall ensure that appropriate structures and mechanisms are designated for coordinating, across the different levels of government, the contributions of all those with an interest in their infrastructures for spatial information. These structures shall coordinate the contributions of, inter alia, users, producers, added-value service providers and coordinating bodies, concerning the identification of relevant data sets, user needs, the provision of information on existing practices and the provision of feedback on the implementation of this Directive. (http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007L0002&amp;from=EN)&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Governance viewpoint&#xA;&#xA;Interoperability Saliency: The Digital Governance Plan ABB is salient for governance and organizational interoperability because it helps to (i) establish and holistic approach to data exchange and management, and (ii) determine the common instruments to achieve interoperability across administrative levels and sectors.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalGovernancePlanBusinessObject&#xA;&#xA;ABB name: eira:DigitalGovernancePlanBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalGovernancePlanBusinessObject&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalGovernancePlanBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalGovernancePlanBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Digital Governance ABB is a Business Object that ensures the functioning of an Interoperability Framework. These rules include structures, roles, responsibilities, policies, standards, specifications, practices, decision making and operational procedures."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The INSPIRE Directive 2007/2/EC of 14 March 2007, Article 18. Member States shall ensure that appropriate structures and mechanisms are designated for coordinating, across the different levels of government, the contributions of all those with an interest in their infrastructures for spatial information. These structures shall coordinate the contributions of, inter alia, users, producers, added-value service providers and coordinating bodies, concerning the identification of relevant data sets, user needs, the provision of information on existing practices and the provision of feedback on the implementation of this Directive. (http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007L0002&amp;from=EN)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Digital Governance Plan ABB is salient for governance and organizational interoperability because it helps to (i) establish and holistic approach to data exchange and management, and (ii) determine the common instruments to achieve interoperability across administrative levels and sectors."/>
+  <properties
+      key="skos:note"
+      value="Plans are in principle narrower and more detailed than Digital Agendas, and as a matter of fact they are intended to drill down and realise a global agenda. For an additional example of plan focused on interoperability, see the Governance Plan defined in the new European Interoperability Framework (EIF) - § 3.1 of the new EIF Annex II: Interoperability governance refers to decisions on interoperability frameworks, institutional arrangements, organisational structures, roles and responsibilities, policies, agreements and other aspects of ensuring and monitoring interoperability at national and EU levels. The European interoperability framework, the Interoperability Action Plan (Annex 1 to the Communication) and the European interoperability architecture (EIRA) are important parts of interoperability governance at the EU level. (http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF)"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalGovernancePlanBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessObject>

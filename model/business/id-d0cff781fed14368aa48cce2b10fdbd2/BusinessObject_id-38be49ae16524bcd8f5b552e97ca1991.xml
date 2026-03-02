@@ -1,0 +1,52 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legislation on Data Information and Knowledge Exchange"
+    id="id-38be49ae16524bcd8f5b552e97ca1991"
+    documentation="Definition: Legislation on Data information and Knowledge Exchange ABB is a Business Object that refers to the legal basis, rules and agreements that regulate how data is shared, accessed and used amng different actors and systems. &#xA;&#xA;Source: Inspired in EIF&#xA;&#xA;Source reference: https://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_1&amp;format=PDF&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Commission Regulation (EU) 2015/703 of 30 April 2015 establishing a network code on interoperability and data exchange rules (Text with EEA relevance) http://data.europa.eu/eli/reg/2015/703/oj&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Interoperability Saliency: The Legislation on Data Information and knowledge exchange ABB is a key interoperability enabler (*) for the governance, behavioural, structural and semantic interoperability because it sets rules that relate specifically to i) the reuse of solutions in the context of digital public services, ii) the exchange of digital data, information and knowledge, iii) the collaboration amongst the public administrations' digital services, and iv) the determination of standard data exchange models to facilitate data harmonization.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegislationOnDataInformationAndKnowledgeExchangeBusinessObject&#xA;&#xA;ABB name: eira:LegislationOnDataInformationAndKnowledgeExchangeBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegislationOnDataInformationAndKnowledgeExchangeBusinessObject&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LegislationOnDataInformationAndKnowledgeExchangeBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="eira:LegislationOnDataInformationAndKnowledgeExchangeBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Legislation on Data information and Knowledge Exchange ABB is a Business Object that refers to the legal basis, rules and agreements that regulate how data is shared, accessed and used amng different actors and systems. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_1&amp;format=PDF"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Commission Regulation (EU) 2015/703 of 30 April 2015 establishing a network code on interoperability and data exchange rules (Text with EEA relevance) http://data.europa.eu/eli/reg/2015/703/oj"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Legislation on Data Information and knowledge exchange ABB is a key interoperability enabler (*) for the governance, behavioural, structural and semantic interoperability because it sets rules that relate specifically to i) the reuse of solutions in the context of digital public services, ii) the exchange of digital data, information and knowledge, iii) the collaboration amongst the public administrations' digital services, and iv) the determination of standard data exchange models to facilitate data harmonization."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LegislationOnDataInformationAndKnowledgeExchangeBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:BusinessObject>

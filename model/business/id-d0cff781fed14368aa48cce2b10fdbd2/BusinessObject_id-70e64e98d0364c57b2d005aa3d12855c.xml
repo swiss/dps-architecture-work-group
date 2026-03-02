@@ -1,0 +1,50 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Framework"
+    id="id-70e64e98d0364c57b2d005aa3d12855c"
+    documentation="Definition: Interoperability Framework ABB is a Business Object that enables interoperability to organisations that wish to collaborate towards the joint delivery of public services. Within its scope of applicability, it specifies a set of common elements such as vocabulary, concepts, principles, guidelines, and recommendations.&#xA;&#xA;Source: ISA2, EIFv2&#xA;&#xA;Source reference: (https://ec.europa.eu/isa2/isa2_en)&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The new European Interoperability Framework (EIF) - The new European Interoperability Framework (EIF) is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services. It offers public administrations 47 concrete recommendations on how to improve governance of their interoperability activities, establish cross-organisational relationships, streamline processes supporting end-to-end digital services, and ensure that both existing and new legislation do not compromise interoperability efforts. The new EIF is undertaken in the context of the Commission priority to create a Digital Single Market in Europe. The public sector, which accounts for over a quarter of total employment and represents approximately a fifth of the EU’s GDP through public procurement, plays a key role in the Digital Single Market as a regulator, services provider and employer. The successful implementation of the EIF will improve the quality of European public services and will create an environment where public administrations can collaborate digitally. (https://ec.europa.eu/isa2/eif_en)&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Governance viewpoint&#xA;&#xA;Interoperability Saliency: The Interoperability Framework ABB is salient for organizational interoperability because it determines a set of rules, practices and a commonly agreed approach to the delivery of European public services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/InteroperabilityFrameworkBusinessObject&#xA;&#xA;ABB name: eira:InteroperabilityFrameworkBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/InteroperabilityFrameworkBusinessObject&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/InteroperabilityFrameworkBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilityFrameworkBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Interoperability Framework ABB is a Business Object that enables interoperability to organisations that wish to collaborate towards the joint delivery of public services. Within its scope of applicability, it specifies a set of common elements such as vocabulary, concepts, principles, guidelines, and recommendations."/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2, EIFv2"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="(https://ec.europa.eu/isa2/isa2_en)"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The new European Interoperability Framework (EIF) - The new European Interoperability Framework (EIF) is part of the Communication (COM(2017)134) from the European Commission adopted on 23 March 2017. The framework gives specific guidance on how to set up interoperable digital public services. It offers public administrations 47 concrete recommendations on how to improve governance of their interoperability activities, establish cross-organisational relationships, streamline processes supporting end-to-end digital services, and ensure that both existing and new legislation do not compromise interoperability efforts. The new EIF is undertaken in the context of the Commission priority to create a Digital Single Market in Europe. The public sector, which accounts for over a quarter of total employment and represents approximately a fifth of the EU’s GDP through public procurement, plays a key role in the Digital Single Market as a regulator, services provider and employer. The successful implementation of the EIF will improve the quality of European public services and will create an environment where public administrations can collaborate digitally. (https://ec.europa.eu/isa2/eif_en)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Interoperability Framework ABB is salient for organizational interoperability because it determines a set of rules, practices and a commonly agreed approach to the delivery of European public services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/InteroperabilityFrameworkBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessObject>

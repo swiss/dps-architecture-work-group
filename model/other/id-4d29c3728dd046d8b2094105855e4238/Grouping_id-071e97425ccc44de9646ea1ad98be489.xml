@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Extensibility Requirements Catalogue"
+    id="id-071e97425ccc44de9646ea1ad98be489"
+    documentation="Definition: Extensibility Requirements Catalogue ABB is a grouping that covers a set of non-functional requirements that pertain to the adaptability and scalability of a software system. It includes elements such as modularity and reusability, and pluggability, which are crucial for creating flexible, efficient, and effective software systems that can be easily maintained, updated, and integrated with other systems or components.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Extensibility Requirements Catalogue ABB is a comprehensive collection of non-functional requirements that are essential for the development of scalable and adaptable software systems. The catalogue includes 'Modularity and reusability', which refers to the ability of a software system to be broken down into smaller, independent components that can be reused in other parts of the system or in other systems. This requirement is crucial for reducing development time and effort, and for creating more efficient systems. The catalogue also includes 'Pluggability', which refers to the ability of a system to easily integrate with other systems or components without requiring significant code modifications. This requirement is vital for systems that need to be scalable and adaptable to changing business requirements.&#xA;&#xA;Example: An example of the application of the Extensibility Requirements Catalogue ABB could be in the development of a large-scale enterprise software system. The system could be designed with modularity and reusability in mind, allowing for the easy reuse of components across different parts of the system. Additionally, the system could be designed to be pluggable, enabling easy integration with third-party tools and technologies, and allowing for easy customization and extension of the system's functionality as business requirements change over time.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ExtensibilityRequirementsCatalogueGrouping&#xA;&#xA;ABB name: eira:ExtensibilityRequirementsCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ExtensibilityRequirementsCatalogueGrouping&#xA;&#xA;Name: Extensibility Requirements Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ExtensibilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ExtensibilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Extensibility Requirements Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:ExtensibilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Extensibility Requirements Catalogue ABB is a grouping that covers a set of non-functional requirements that pertain to the adaptability and scalability of a software system. It includes elements such as modularity and reusability, and pluggability, which are crucial for creating flexible, efficient, and effective software systems that can be easily maintained, updated, and integrated with other systems or components."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of the application of the Extensibility Requirements Catalogue ABB could be in the development of a large-scale enterprise software system. The system could be designed with modularity and reusability in mind, allowing for the easy reuse of components across different parts of the system. Additionally, the system could be designed to be pluggable, enabling easy integration with third-party tools and technologies, and allowing for easy customization and extension of the system's functionality as business requirements change over time."/>
+  <properties
+      key="skos:note"
+      value="The Extensibility Requirements Catalogue ABB is a comprehensive collection of non-functional requirements that are essential for the development of scalable and adaptable software systems. The catalogue includes 'Modularity and reusability', which refers to the ability of a software system to be broken down into smaller, independent components that can be reused in other parts of the system or in other systems. This requirement is crucial for reducing development time and effort, and for creating more efficient systems. The catalogue also includes 'Pluggability', which refers to the ability of a system to easily integrate with other systems or components without requiring significant code modifications. This requirement is vital for systems that need to be scalable and adaptable to changing business requirements."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

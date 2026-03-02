@@ -1,0 +1,45 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="European Interoperability Framework (EIF)"
+    id="id-b78d301d95794abfa27cce26e0dc88d5"
+    documentation="Description: The European interoperability framework is a commonly agreed approach to the delivery of European public services in an interoperable manner. It defines basic interoperability guidelines in the form of common principles, models and recommendations.&#xA;&#xA;Additional information: The European Interoperability Framework (EIF) is a set of recommendations and guidelines created by the European Union to facilitate effective and efficient cross-border public service operations among EU member states. The framework seeks to improve how public administrations, businesses, and citizens communicate with each other digitally. The framework was first introduced in 2004 and has undergone subsequent revisions, with the latest version issued in March 2017.&#xA;&#xA;Example: The European Interoperability Framework (EIF) is an initiative that aims to enhance the ability of European public services to work across borders and sectors. The goal is to increase the efficiency of these services and to promote the digital single market. Here are a few examples of how the EIF can be applied:&#xA;&#xA;Publisher: Joinup&#xA;&#xA;Source: https://ec.europa.eu/isa2/eif_en/&#xA;&#xA;LOST view: OV-Data Spaces&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EuropeanInteroperabilityFrameworkBusinessObject&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EuropeanInteroperabilityFrameworkBusinessObject&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Realises: http://data.europa.eu/dr8/InteroperabilityFrameworkBusinessObject&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/EuropeanInteroperabilityFrameworkBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:description"
+      value="The European interoperability framework is a commonly agreed approach to the delivery of European public services in an interoperable manner. It defines basic interoperability guidelines in the form of common principles, models and recommendations."/>
+  <properties
+      key="skos:example"
+      value="The European Interoperability Framework (EIF) is an initiative that aims to enhance the ability of European public services to work across borders and sectors. The goal is to increase the efficiency of these services and to promote the digital single market. Here are a few examples of how the EIF can be applied:"/>
+  <properties
+      key="skos:note"
+      value="The European Interoperability Framework (EIF) is a set of recommendations and guidelines created by the European Union to facilitate effective and efficient cross-border public service operations among EU member states. The framework seeks to improve how public administrations, businesses, and citizens communicate with each other digitally. The framework was first introduced in 2004 and has undergone subsequent revisions, with the latest version issued in March 2017."/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/EuropeanInteroperabilityFrameworkBusinessObject"/>
+  <properties
+      key="dct:publisher"
+      value="Joinup"/>
+  <properties
+      key="dct:source"
+      value="https://ec.europa.eu/isa2/eif_en/"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/InteroperabilityFrameworkBusinessObject"/>
+</archimate:BusinessObject>

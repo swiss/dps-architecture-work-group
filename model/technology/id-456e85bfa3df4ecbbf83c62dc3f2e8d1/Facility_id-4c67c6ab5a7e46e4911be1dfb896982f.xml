@@ -1,0 +1,49 @@
+<archimate:Facility
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cloud Computing Facility"
+    id="id-4c67c6ab5a7e46e4911be1dfb896982f"
+    documentation="Definition: Cloud Computing Facility ABB is a Facility that enables the storage, processing and use of data on remotely located devices accessed over the internet&#xA;&#xA;Source: European Comission-Unleashing the Potential of Cloud Computing in Europe&#xA;&#xA;Source reference: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2012:0529:FIN:en:PDF&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): FENIX is an infrastructure research project that incorporates cloud computing facilities from ICT Solutions for Brilliant Minds. https://fenix-ri.eu/about-fenix/project-partners&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Cloud Computing Facility ABB is salient for organizational interoperability due to it provides the business rules and responsibilities to publish and manage the public administration services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/CloudComputingFacilityFacility&#xA;&#xA;ABB name: eira:CloudComputingFacilityFacility&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/CloudComputingFacilityFacility&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/CloudComputingFacilityFacility"/>
+  <properties
+      key="dct:type"
+      value="eira:CloudComputingFacilityFacility"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Cloud Computing Facility ABB is a Facility that enables the storage, processing and use of data on remotely located devices accessed over the internet"/>
+  <properties
+      key="eira:definitionSource"
+      value="European Comission-Unleashing the Potential of Cloud Computing in Europe"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2012:0529:FIN:en:PDF"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): FENIX is an infrastructure research project that incorporates cloud computing facilities from ICT Solutions for Brilliant Minds. https://fenix-ri.eu/about-fenix/project-partners"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Cloud Computing Facility ABB is salient for organizational interoperability due to it provides the business rules and responsibilities to publish and manage the public administration services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/CloudComputingFacilityFacility"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Facility>

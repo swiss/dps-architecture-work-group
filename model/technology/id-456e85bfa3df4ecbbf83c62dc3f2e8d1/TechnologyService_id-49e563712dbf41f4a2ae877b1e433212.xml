@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity Provider"
+    id="id-49e563712dbf41f4a2ae877b1e433212"
+    documentation="Definition: Identity provider ABB is a Technology Service that enables the authentication of users and provides them with a secure means of accessing online resources and applications&#xA;&#xA;Source: Inpired in eIDAS&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/eidas-regulation&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU Login is the European Commission's user authentication service. It allows authorised users to access a wide range of Commission web services. EU Login is the entry gate to sign in to different European Commission services and/or other systems. EU Login verifies your identity and allows recovering your personal settings, history and access rights in a secure way. You can sign in using social media accounts or the EU Login account.  https://webgate.ec.europa.eu/cas/about.html&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Identity Provider ABB is salient for technical and semantic interoperability because it provides mechanisms to ensure the identification of stakeholders (organizations or individuals) across multiple platforms around Europe. Thus, it permits: (i) making interoperable identities across the public service platforms, and (ii) secure identification to the public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/IdentityProviderTechnologyService&#xA;&#xA;ABB name: eira:IdentityProviderTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/IdentityProviderTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/IdentityProviderTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:IdentityProviderTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Identity provider ABB is a Technology Service that enables the authentication of users and provides them with a secure means of accessing online resources and applications"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inpired in eIDAS"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/eidas-regulation"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU Login is the European Commission's user authentication service. It allows authorised users to access a wide range of Commission web services. EU Login is the entry gate to sign in to different European Commission services and/or other systems. EU Login verifies your identity and allows recovering your personal settings, history and access rights in a secure way. You can sign in using social media accounts or the EU Login account.  https://webgate.ec.europa.eu/cas/about.html"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Identity Provider ABB is salient for technical and semantic interoperability because it provides mechanisms to ensure the identification of stakeholders (organizations or individuals) across multiple platforms around Europe. Thus, it permits: (i) making interoperable identities across the public service platforms, and (ii) secure identification to the public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/IdentityProviderTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

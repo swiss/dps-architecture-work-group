@@ -1,0 +1,48 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linked Open Vocabularies (LOV)"
+    id="id-4312e0c930684ecebf02b97642156b55"
+    documentation="Description: Ontology Engineer IngGroup&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;Publisher: Linked Open Vocabularies (LOV) is a comprehensive and curated collection of vocabularies or ontologies that are openly available on the web and interconnected through semantic links. LOV serves as a resource for the Semantic Web community, providing a repository of vocabularies that can be used to describe and annotate data in a standardized and interoperable manner.&#xA;&#xA;Source: https://lov.linkeddata.es/dataset/lov/&#xA;&#xA;LOST view: SV-Agnostic Ontology Catalogue&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/LinkedOpenVocabulariesDataObject&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/LinkedOpenVocabulariesDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/OntologiesCatalogueDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="Linked Open Vocabularies (LOV) is a comprehensive and curated collection of vocabularies or ontologies that are openly available on the web and interconnected through semantic links. LOV serves as a resource for the Semantic Web community, providing a repository of vocabularies that can be used to describe and annotate data in a standardized and interoperable manner."/>
+  <properties
+      key="dct:description"
+      value="Ontology Engineer IngGroup"/>
+  <properties
+      key="dct:source"
+      value="https://lov.linkeddata.es/dataset/lov/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/LinkedOpenVocabulariesDataObject"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/LinkedOpenVocabulariesDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Ontology Catalogue"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/OntologiesCatalogueDataObject"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:DataObject>

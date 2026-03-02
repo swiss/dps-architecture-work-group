@@ -1,0 +1,53 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Management"
+    id="id-e29a8b78b542436d8ffae683e23286b5"
+    documentation="Definition: Access Management ABB is an Application Service aimed to grant authorized users the right to use a service, while preventing access to non-authorized users &#xA;&#xA;Source: ITIL v3   &#xA;&#xA;Source reference: https://wiki.en.it-processmaps.com/index.php/Access_Management&#xA;&#xA;Additional information: Access management helps to protect the confidentiality, integrity and availability of assets by ensuring that only authorized users are able to access or modify the assets.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Belgian Federal Public Service Policy and Support - Role Management service: The Role Management service gives access managers the possibility to manage roles. A role gives access to an online government application. Characteristics: •&#x9;A federal access management platform for public e-gov applications; •&#x9;Three separate contexts: Businesses, Officials and Independent; •&#x9;Roles that can only be attributed by a specific group of managers for a specific application within one of the three contexts; •&#x9;Two different security levels of the application depending on the sensitivity of the information: user name, password and token; and electronic identity card with associated PIN code; •&#x9;Authentication when connecting to an application; •&#x9;Support with the implementation of the service; •&#x9;Support while the service is being used. Users: All public services and institutions that want a secure access management for their applications: federal public services and institutions; Communities and Regions; Provinces, municipalities and local public social welfare centres; businesses or persons implementing government contracts. Requirements: application with Fedict Service Desk and signing up to a user agreement.(http://www.fedict.belgium.be/en/identificatie_beveiliging/rollenbeheer)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Access Management Service ABB  is salient for technical interoperability because it provides the functionality of allowing user to make an authorized  and trusted use of IT Services, data and other assets as stated in the EIF: &quot;Public administrations should ensure that a 'data access and authorisation plan’ which determines who has access to what data and under what conditions, to ensure privacy. Unauthorised access and security breaches should be monitored and appropriate actions should be taken to prevent any recurrence of breaches&quot; &#xA;&#xA;Identifier: http://data.europa.eu/dr8/AccessManagementApplicationService&#xA;&#xA;ABB name: eira:AccessManagementApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AccessManagementApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AccessManagementApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:AccessManagementApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Access Management ABB is an Application Service aimed to grant authorized users the right to use a service, while preventing access to non-authorized users "/>
+  <properties
+      key="eira:definitionSource"
+      value="ITIL v3   "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://wiki.en.it-processmaps.com/index.php/Access_Management"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Belgian Federal Public Service Policy and Support - Role Management service: The Role Management service gives access managers the possibility to manage roles. A role gives access to an online government application. Characteristics: •&#x9;A federal access management platform for public e-gov applications; •&#x9;Three separate contexts: Businesses, Officials and Independent; •&#x9;Roles that can only be attributed by a specific group of managers for a specific application within one of the three contexts; •&#x9;Two different security levels of the application depending on the sensitivity of the information: user name, password and token; and electronic identity card with associated PIN code; •&#x9;Authentication when connecting to an application; •&#x9;Support with the implementation of the service; •&#x9;Support while the service is being used. Users: All public services and institutions that want a secure access management for their applications: federal public services and institutions; Communities and Regions; Provinces, municipalities and local public social welfare centres; businesses or persons implementing government contracts. Requirements: application with Fedict Service Desk and signing up to a user agreement.(http://www.fedict.belgium.be/en/identificatie_beveiliging/rollenbeheer)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Access Management Service ABB  is salient for technical interoperability because it provides the functionality of allowing user to make an authorized  and trusted use of IT Services, data and other assets as stated in the EIF: &quot;Public administrations should ensure that a 'data access and authorisation plan’ which determines who has access to what data and under what conditions, to ensure privacy. Unauthorised access and security breaches should be monitored and appropriate actions should be taken to prevent any recurrence of breaches&quot; "/>
+  <properties
+      key="skos:note"
+      value="Access management helps to protect the confidentiality, integrity and availability of assets by ensuring that only authorized users are able to access or modify the assets."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AccessManagementApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

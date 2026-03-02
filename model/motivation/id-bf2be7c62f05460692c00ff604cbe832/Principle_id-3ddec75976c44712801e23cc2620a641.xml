@@ -1,0 +1,74 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architecture Principle"
+    id="id-3ddec75976c44712801e23cc2620a641"
+    documentation="Definition: Architecture Principle ABB is a Principle that enables general rules and guidelines for the use and deployment of all IT resources and assets across the enterprise.&#xA;&#xA;Source: TOGAF 9.2 The Open Group&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap20.html#:~:text=Architecture%20Principles%20define%20the%20underlying,for%20making%20future%20IT%20decisions&#xA;&#xA;Additional information: The architecture Principle reflects the level of consensus among the various elements of the enterprise, and form the basis for making future IT decisions.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The European Innovation Partnership on Smart Cities and Communities (EIP SCC) is a stakeholder driven initiative&#x9;stimulated and supported by the European Commission. The EIP SCC has defined key priority areas which will be addressed including the architecture principle of Capabilities. Capabilities are the center element of the architectures to ensure that a common ground is easy to be found.(https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5b9a18c76&amp;appId=PPGMS)&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: EIRA Ontology view&#xA;&#xA;Viewpoint: Enterprise Architecture Framework alignment guidelines viewpoint&#xA;&#xA;Interoperability Saliency: The Architecture Principle ABB is salient for governance interoperability due to it lays the architectural framework to elaborate public services. Also, the Architecture Principle ABB is salient for organizational interoperability due to it establishes the requirements to sustain the business processes for enabling public services to exchange data.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ArchitecturePrinciplePrinciple&#xA;&#xA;ABB name: eira:ArchitecturePrinciplePrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ArchitecturePrinciplePrinciple&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ArchitecturePrinciplePrinciple"/>
+  <properties
+      key="dct:type"
+      value="eira:ArchitecturePrinciplePrinciple"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Principle ABB is a Principle that enables general rules and guidelines for the use and deployment of all IT resources and assets across the enterprise."/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF 9.2 The Open Group"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap20.html#:~:text=Architecture%20Principles%20define%20the%20underlying,for%20making%20future%20IT%20decisions"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The European Innovation Partnership on Smart Cities and Communities (EIP SCC) is a stakeholder driven initiative&#x9;stimulated and supported by the European Commission. The EIP SCC has defined key priority areas which will be addressed including the architecture principle of Capabilities. Capabilities are the center element of the architectures to ensure that a common ground is easy to be found.(https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5b9a18c76&amp;appId=PPGMS)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Architecture Principle ABB is salient for governance interoperability due to it lays the architectural framework to elaborate public services. Also, the Architecture Principle ABB is salient for organizational interoperability due to it establishes the requirements to sustain the business processes for enabling public services to exchange data."/>
+  <properties
+      key="skos:note"
+      value="The architecture Principle reflects the level of consensus among the various elements of the enterprise, and form the basis for making future IT decisions."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="EIRA Ontology view"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="eira:view"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ArchitecturePrinciplePrinciple"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Principle>

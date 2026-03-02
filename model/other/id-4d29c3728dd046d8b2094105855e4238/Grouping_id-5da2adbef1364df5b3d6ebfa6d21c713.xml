@@ -1,0 +1,53 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Data Mapping Solutions"
+    id="id-5da2adbef1364df5b3d6ebfa6d21c713"
+    documentation="Definition: Business Agnostic Data Mapping Solutions (BADS) is a grouping that covers a range of solutions designed to facilitate the mapping of data from various heterogeneous data structures and serializations to the RDF data model. These solutions are not specific to any particular business or industry, making them versatile and adaptable across different contexts. The key element in this grouping is the RDF Mapping Language (RML), a generic mapping language that extends the W3C-standardized mapping language, R2RML.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Business Agnostic Data Mapping Solutions catalogue primarily includes the RDF Mapping Language (RML), a mapping language that allows for the expression of customized mapping rules from various data structures and serializations to the RDF data model. RML is a superset of R2RML, the W3C standard for expressing customized mappings from relational databases to RDF. As such, RML follows the same syntax as R2RML and extends its applicability and scope by adding support for data in other structured formats. RML mappings are themselves RDF graphs, and this document provides a comprehensive description of the RML language and its concepts through definitions and examples.&#xA;&#xA;Example: An example of the application of Business Agnostic Data Mapping Solutions would be in a scenario where a business needs to map data from a relational database to RDF. Using RML, the business can express customized mapping rules to convert the data from the relational database into the RDF data model. This allows for greater interoperability and flexibility in data management and usage.&#xA;&#xA;LOST view: SV-Data Mapping&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDataMappingSolutionsGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticDataMappingSolutionsGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDataMappingSolutionsGrouping&#xA;&#xA;Name: Business Agnostic Data Mapping Solutions Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDataMappingSolutionsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDataMappingSolutionsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Data Mapping Solutions Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticDataMappingSolutionsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic Data Mapping Solutions (BADS) is a grouping that covers a range of solutions designed to facilitate the mapping of data from various heterogeneous data structures and serializations to the RDF data model. These solutions are not specific to any particular business or industry, making them versatile and adaptable across different contexts. The key element in this grouping is the RDF Mapping Language (RML), a generic mapping language that extends the W3C-standardized mapping language, R2RML."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of the application of Business Agnostic Data Mapping Solutions would be in a scenario where a business needs to map data from a relational database to RDF. Using RML, the business can express customized mapping rules to convert the data from the relational database into the RDF data model. This allows for greater interoperability and flexibility in data management and usage."/>
+  <properties
+      key="skos:note"
+      value="The Business Agnostic Data Mapping Solutions catalogue primarily includes the RDF Mapping Language (RML), a mapping language that allows for the expression of customized mapping rules from various data structures and serializations to the RDF data model. RML is a superset of R2RML, the W3C standard for expressing customized mappings from relational databases to RDF. As such, RML follows the same syntax as R2RML and extends its applicability and scope by adding support for data in other structured formats. RML mappings are themselves RDF graphs, and this document provides a comprehensive description of the RML language and its concepts through definitions and examples."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Data Mapping"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

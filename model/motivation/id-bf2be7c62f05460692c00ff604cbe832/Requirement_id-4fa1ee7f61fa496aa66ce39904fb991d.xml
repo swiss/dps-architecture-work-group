@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deployment stamps"
+    id="id-4fa1ee7f61fa496aa66ce39904fb991d"
+    documentation="Definition: Deployment stamps are a non-functional requirement that refers to the need for a system to have a timestamp or version number associated with each deployment. This allows for easy tracking and identification of different versions of the system, as well as the ability to roll back to a previous version if necessary. Deployment stamps are important for ensuring the stability and reliability of a system, as well as for facilitating efficient and effective maintenance and troubleshooting.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Deployment stamps are a non-functional requirement that pertains to the deployment of software applications. This requirement specifies that each deployment of the software application must be stamped with a unique identifier that indicates the version of the application that has been deployed. &#xA;&#xA;The purpose of this requirement is to ensure that the deployment process is traceable and auditable. By having a unique identifier for each deployment, it becomes easier to track changes and identify any issues that may arise during the deployment process. &#xA;&#xA;The deployment stamp should be generated automatically by the deployment tool or system and should be stored in a central repository. This repository should be accessible to authorized personnel who need to track the deployment process. &#xA;&#xA;In addition to the unique identifier, the deployment stamp should also include information such as the date and time of the deployment, the environment in which the application was deployed, and any other relevant information that may be useful for tracking and auditing purposes. &#xA;&#xA;Overall, the Deployment stamps non-functional requirement is an important aspect of ensuring that the deployment process is traceable and auditable, which is essential for maintaining the integrity and reliability of software applications.&#xA;&#xA;Example: Deployment stamps refer to the requirement that each version of the software being deployed must have a unique identifier or timestamp associated with it. This helps to ensure that the correct version of the software is being deployed and that any issues can be traced back to a specific version. For example, a banking application may require deployment stamps to ensure that the correct version of the software is being used to process financial transactions.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DeploymentStampsRequirement&#xA;&#xA;ABB name: eira:DeploymentStampsRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DeploymentstampsRequirement&#xA;&#xA;Name: Deployment stamps Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DeploymentstampsRequirement"/>
+  <properties
+      key="dct:title"
+      value="Deployment stamps Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="Deployment stamps refer to the requirement that each version of the software being deployed must have a unique identifier or timestamp associated with it. This helps to ensure that the correct version of the software is being deployed and that any issues can be traced back to a specific version. For example, a banking application may require deployment stamps to ensure that the correct version of the software is being used to process financial transactions."/>
+  <properties
+      key="skos:definition"
+      value="Deployment stamps are a non-functional requirement that refers to the need for a system to have a timestamp or version number associated with each deployment. This allows for easy tracking and identification of different versions of the system, as well as the ability to roll back to a previous version if necessary. Deployment stamps are important for ensuring the stability and reliability of a system, as well as for facilitating efficient and effective maintenance and troubleshooting."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Deployment stamps are a non-functional requirement that pertains to the deployment of software applications. This requirement specifies that each deployment of the software application must be stamped with a unique identifier that indicates the version of the application that has been deployed. &#xA;&#xA;The purpose of this requirement is to ensure that the deployment process is traceable and auditable. By having a unique identifier for each deployment, it becomes easier to track changes and identify any issues that may arise during the deployment process. &#xA;&#xA;The deployment stamp should be generated automatically by the deployment tool or system and should be stored in a central repository. This repository should be accessible to authorized personnel who need to track the deployment process. &#xA;&#xA;In addition to the unique identifier, the deployment stamp should also include information such as the date and time of the deployment, the environment in which the application was deployed, and any other relevant information that may be useful for tracking and auditing purposes. &#xA;&#xA;Overall, the Deployment stamps non-functional requirement is an important aspect of ensuring that the deployment process is traceable and auditable, which is essential for maintaining the integrity and reliability of software applications."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DeploymentStampsRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:DeploymentStampsRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

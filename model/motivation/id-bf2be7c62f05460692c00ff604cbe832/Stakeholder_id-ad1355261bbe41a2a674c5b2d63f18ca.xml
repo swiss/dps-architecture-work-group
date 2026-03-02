@@ -1,0 +1,54 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Administration"
+    id="id-ad1355261bbe41a2a674c5b2d63f18ca"
+    documentation="Definition: Public Administration ABB is a Stakeholder that corresponds to an  Organization that is defined as being part of the public sector by a legal framework at any level. In this scope, there are in charge of implementing public policy&#xA;&#xA;Source: SEMIC-CPOV&#xA;&#xA;Source reference: https://semiceu.github.io/CPOV/releases/2.1.0/#Public%20Organisation&#xA;&#xA;Additional information: The provision of digital public services are Public Administration's means of implementing e-Government. Certain countries make the difference between e-Government (policy implementation management) and e-Administration (administrative procedure management using electronic means). For these countries, the case of the SDG would fall under the e-Administration umbrella.&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The European Commission; the central, regional or local executive arm of a MS.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Public Administration ABB is salient for behavioural and organizational interoperability because it represents the specific authority in charge of supporting the definition of procedures and business rules to publish digital business capabilities. It also allows the security assurance and control configuration associated with this authority or public entity, the discovery of data types that it can provide, as well as other aspects necessary to assure, monitor and control the exchange of data between this public entity and the digital public services providing to or consuming data from this stakeholder.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicAdministrationStakeholder&#xA;&#xA;ABB name: eira:PublicAdministrationStakeholder&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicAdministrationStakeholder&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PublicAdministrationStakeholder"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicAdministrationStakeholder"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Public Administration ABB is a Stakeholder that corresponds to an  Organization that is defined as being part of the public sector by a legal framework at any level. In this scope, there are in charge of implementing public policy"/>
+  <properties
+      key="eira:definitionSource"
+      value="SEMIC-CPOV"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://semiceu.github.io/CPOV/releases/2.1.0/#Public%20Organisation"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The European Commission; the central, regional or local executive arm of a MS."/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Public Administration ABB is salient for behavioural and organizational interoperability because it represents the specific authority in charge of supporting the definition of procedures and business rules to publish digital business capabilities. It also allows the security assurance and control configuration associated with this authority or public entity, the discovery of data types that it can provide, as well as other aspects necessary to assure, monitor and control the exchange of data between this public entity and the digital public services providing to or consuming data from this stakeholder."/>
+  <properties
+      key="skos:note"
+      value="The provision of digital public services are Public Administration's means of implementing e-Government. Certain countries make the difference between e-Government (policy implementation management) and e-Administration (administrative procedure management using electronic means). For these countries, the case of the SDG would fall under the e-Administration umbrella."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PublicAdministrationStakeholder"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Stakeholder>

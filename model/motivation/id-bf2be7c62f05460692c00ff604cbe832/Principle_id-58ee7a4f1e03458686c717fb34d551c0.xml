@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preservation of information"
+    id="id-58ee7a4f1e03458686c717fb34d551c0"
+    documentation="Definition: Records are preserved and made long-term accessible. Legislation requires that decisions and data are stored and can be accessed for a specified time. This includes all data and information in the electronic form held by public administrations for the purpose of documenting procedures and decisions. The goal is to ensure that records and other forms of information keep their legibility, reliability and integrity and can be accessed as long as needed subject to security and privacy provisions.&#xA;&#xA;Source: Preservation of information Underlying Principle (12) of the European Interoperability Framework (EIF)&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/2-underlying-principles-european-public-services#2.12&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/preservation-information&#xA;&#xA;ABB name: elap:PreservationOfInformationPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Preservation of information&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:PreservationOfInformationPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Preservation of information"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/preservation-information"/>
+  <properties
+      key="eira:definitionSource"
+      value="Preservation of information Underlying Principle (12) of the European Interoperability Framework (EIF)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/2-underlying-principles-european-public-services#2.12"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="skos:definition"
+      value="Records are preserved and made long-term accessible. Legislation requires that decisions and data are stored and can be accessed for a specified time. This includes all data and information in the electronic form held by public administrations for the purpose of documenting procedures and decisions. The goal is to ensure that records and other forms of information keep their legibility, reliability and integrity and can be accessed as long as needed subject to security and privacy provisions."/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

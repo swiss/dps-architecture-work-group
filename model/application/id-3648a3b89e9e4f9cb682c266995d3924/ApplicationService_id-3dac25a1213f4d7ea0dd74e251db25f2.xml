@@ -1,0 +1,54 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Governance"
+    id="id-3dac25a1213f4d7ea0dd74e251db25f2"
+    documentation="Definition: Data Governance is the overall management of the availability, usability, integrity, and security of data within an organization. It encompasses the people, processes, and technologies required to ensure that data is properly managed throughout its lifecycle, from creation or acquisition to deletion or archival.&#xA;&#xA;Source: Techopedia&#xA;&#xA;Source reference: https://www.techopedia.com/definition/12797/data-governance&#xA;&#xA;Additional information: Data Governance involves establishing and enforcing policies, procedures, and standards to ensure that data is accurate, consistent, and reliable. It aims to provide a framework for decision-making, accountability, and responsibility related to data management. This concept ensures that data is treated as a valuable asset and is used effectively to support business objectives, regulatory compliance, and data privacy requirements. Data Governance also involves defining roles and responsibilities, implementing data quality controls, and establishing data stewardship practices.&#xA;&#xA;Example: An example of Data Governance in action is when an organization implements a data governance framework to ensure that all employees follow standardized data entry procedures, adhere to data classification policies, and comply with data protection regulations. This framework may include data governance committees, data stewards, data quality assessments, and data access controls to ensure that data is managed consistently and securely across the organization.&#xA;&#xA;LOST view: TVA-Data Management Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataGovernanceApplicationService&#xA;&#xA;ABB name: egovera:DataGovernanceApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataGovernanceApplicationService&#xA;&#xA;Name: Data Governance Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataGovernanceApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataGovernanceApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Data Governance Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataGovernanceApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="Data Governance is the overall management of the availability, usability, integrity, and security of data within an organization. It encompasses the people, processes, and technologies required to ensure that data is properly managed throughout its lifecycle, from creation or acquisition to deletion or archival."/>
+  <properties
+      key="eira:definitionSource"
+      value="Techopedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.techopedia.com/definition/12797/data-governance"/>
+  <properties
+      key="skos:example"
+      value="An example of Data Governance in action is when an organization implements a data governance framework to ensure that all employees follow standardized data entry procedures, adhere to data classification policies, and comply with data protection regulations. This framework may include data governance committees, data stewards, data quality assessments, and data access controls to ensure that data is managed consistently and securely across the organization."/>
+  <properties
+      key="skos:note"
+      value="Data Governance involves establishing and enforcing policies, procedures, and standards to ensure that data is accurate, consistent, and reliable. It aims to provide a framework for decision-making, accountability, and responsibility related to data management. This concept ensures that data is treated as a valuable asset and is used effectively to support business objectives, regulatory compliance, and data privacy requirements. Data Governance also involves defining roles and responsibilities, implementing data quality controls, and establishing data stewardship practices."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Data Management Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Dataspace Enablers"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

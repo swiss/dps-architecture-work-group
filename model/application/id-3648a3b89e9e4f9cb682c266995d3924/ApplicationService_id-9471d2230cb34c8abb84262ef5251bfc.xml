@@ -1,0 +1,52 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Request Validation"
+    id="id-9471d2230cb34c8abb84262ef5251bfc"
+    documentation="Definition: Request Validation ABB is an Application Service that enables the process of verifying that the data sent to a web server from a client is safe and meets the expected format and standards.&#xA;&#xA;Source: Inspired in CORS&#xA;&#xA;Source reference: https://ec.europa.eu/eurostat/cros/content/validation-levels_en&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): HORIZON 2020 Organisation's validation service https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/applying-for-funding/register-an-organisation/validation-of-organisation_en.htm&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Request Validation Application Service ABB is salient for interoperability because as a web service, it can ensure and validate if exchanged data is secured and meets the standards and specifications required. The validation can play a relevant role to ensure the health of systems and services and also the quality of information being exchanged between interoperable services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/RequestValidationApplicationService&#xA;&#xA;ABB name: eira:RequestValidationApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/RequestValidationApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/RequestValidationApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:RequestValidationApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Request Validation ABB is an Application Service that enables the process of verifying that the data sent to a web server from a client is safe and meets the expected format and standards."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in CORS"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/eurostat/cros/content/validation-levels_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): HORIZON 2020 Organisation's validation service https://ec.europa.eu/research/participants/docs/h2020-funding-guide/grants/applying-for-funding/register-an-organisation/validation-of-organisation_en.htm"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Request Validation Application Service ABB is salient for interoperability because as a web service, it can ensure and validate if exchanged data is secured and meets the standards and specifications required. The validation can play a relevant role to ensure the health of systems and services and also the quality of information being exchanged between interoperable services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/RequestValidationApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

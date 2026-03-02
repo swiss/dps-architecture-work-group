@@ -1,0 +1,49 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Catalogue"
+    id="id-dc08ce19bb2f43b7af8ceec8b5140753"
+    documentation="Definition: API Catalogue ABB is an Application Component that refers to the (open) software interfaces functionalities that are aligned with the implementation structure of the digital services. &#xA;&#xA;Source: Inspired in Archimate©&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/archimate3-doc/chap09.html#_Toc10045392&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): RapidAPI - RapidAPI is a collection of predefined APIs that are free to test, specifically updated for 2021. https://rapidapi.com/collection/list-of-free-apis&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The API Catalogue Catalogue Application Component ABB is salient for interoperability because the component is relevant for the software interfaces functionalities aligned with the implementation structures of solutions and digital public services. Those features and functionalities enable data consumption, processing and provision between digital public services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/APICatalogueApplicationComponent&#xA;&#xA;ABB name: eira:APICatalogueApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/APICatalogueApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/APICatalogueApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:APICatalogueApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="API Catalogue ABB is an Application Component that refers to the (open) software interfaces functionalities that are aligned with the implementation structure of the digital services. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Archimate©"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/archimate3-doc/chap09.html#_Toc10045392"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): RapidAPI - RapidAPI is a collection of predefined APIs that are free to test, specifically updated for 2021. https://rapidapi.com/collection/list-of-free-apis"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The API Catalogue Catalogue Application Component ABB is salient for interoperability because the component is relevant for the software interfaces functionalities aligned with the implementation structures of solutions and digital public services. Those features and functionalities enable data consumption, processing and provision between digital public services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/APICatalogueApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

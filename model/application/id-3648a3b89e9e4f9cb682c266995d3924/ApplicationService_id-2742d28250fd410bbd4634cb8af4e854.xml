@@ -1,0 +1,54 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centralized Identity Management"
+    id="id-2742d28250fd410bbd4634cb8af4e854"
+    documentation="Definition: Centralized Identity Management is an IT concept that refers to the practice of managing and controlling user identities and access rights in a centralized manner. It involves the consolidation of user authentication, authorization, and user profile management into a single system or platform.&#xA;&#xA;Source: Techopedia&#xA;&#xA;Source reference: https://www.techopedia.com/definition/31395/centralized-identity-management-cidm&#xA;&#xA;Additional information: In a centralized identity management system, all user identities and access privileges are stored and managed in a central repository. This allows organizations to streamline user provisioning, authentication, and authorization processes, ensuring consistent and secure access to resources across various applications and systems. Centralized identity management enables administrators to efficiently manage user accounts, assign roles and permissions, and enforce security policies from a single point of control. It also simplifies user onboarding and offboarding processes, enhances security by enforcing strong authentication measures, and provides auditing and reporting capabilities for compliance purposes.&#xA;&#xA;Example: An example of centralized identity management is an organization implementing a single sign-on (SSO) solution. With SSO, users can authenticate themselves once and gain access to multiple applications and systems without the need to provide credentials repeatedly. The centralized identity management system handles the authentication process and grants appropriate access based on the user's role and permissions. This improves user experience, reduces the risk of password-related security breaches, and allows administrators to manage user access centrally.&#xA;&#xA;LOST view: TVA-Identification and Access Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/CentralizedIdentityManagementApplicationService&#xA;&#xA;ABB name: egovera:CentralizedIdentityManagementApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/CentralizedIdentityManagementApplicationService&#xA;&#xA;Name: Centralized Identity Management Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/CentralizedIdentityManagementApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/CentralizedIdentityManagementApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Centralized Identity Management Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:CentralizedIdentityManagementApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="Centralized Identity Management is an IT concept that refers to the practice of managing and controlling user identities and access rights in a centralized manner. It involves the consolidation of user authentication, authorization, and user profile management into a single system or platform."/>
+  <properties
+      key="eira:definitionSource"
+      value="Techopedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.techopedia.com/definition/31395/centralized-identity-management-cidm"/>
+  <properties
+      key="skos:example"
+      value="An example of centralized identity management is an organization implementing a single sign-on (SSO) solution. With SSO, users can authenticate themselves once and gain access to multiple applications and systems without the need to provide credentials repeatedly. The centralized identity management system handles the authentication process and grants appropriate access based on the user's role and permissions. This improves user experience, reduces the risk of password-related security breaches, and allows administrators to manage user access centrally."/>
+  <properties
+      key="skos:note"
+      value="In a centralized identity management system, all user identities and access privileges are stored and managed in a central repository. This allows organizations to streamline user provisioning, authentication, and authorization processes, ensuring consistent and secure access to resources across various applications and systems. Centralized identity management enables administrators to efficiently manage user accounts, assign roles and permissions, and enforce security policies from a single point of control. It also simplifies user onboarding and offboarding processes, enhances security by enforcing strong authentication measures, and provides auditing and reporting capabilities for compliance purposes."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Identification and Access Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Dataspace Enablers"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

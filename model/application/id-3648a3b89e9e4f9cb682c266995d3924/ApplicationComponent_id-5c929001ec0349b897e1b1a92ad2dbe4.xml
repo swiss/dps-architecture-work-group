@@ -1,0 +1,53 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identification"
+    id="id-5c929001ec0349b897e1b1a92ad2dbe4"
+    documentation="Definition: Identification ABB is an Application Component implementing the process of verifying a user's identity based on one or more authentication factors.&#xA;&#xA;Source: eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC.&#xA;&#xA;Source reference: (http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG)&#xA;&#xA;Synonym: Authentication Component&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenIAM Identity Manager - The OpenIAM Identity Manager automates the task of managing identities across the various devices and applications used by the enterprise. This includes applications within the enterprise such as Active Directory and Exchange, and cloud based applications such as Google Apps. OpenIAM Identity Manager provides capabilities such as: •&#x9;Provisioning, De-provisioning, Workflow; •&#x9;Password Management, Password Policies, Synchronization; •&#x9;Self-Service, allowing locked users to reset their accounts, manage their profiles, challenge response security questions; •&#x9;Audit, Attestation, Reporting; •&#x9;Delegated Administration.(http://www.openiam.com/products/identity-manager/idm-overview/)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Identification Component ABB  is salient for technical interoperability because it provides the functionalities of user authentication. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/IdentificationApplicationComponent&#xA;&#xA;ABB name: eira:IdentificationApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/IdentificationApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/IdentificationApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:IdentificationApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value="Authentication Component"/>
+  <properties
+      key="skos:definition"
+      value="Identification ABB is an Application Component implementing the process of verifying a user's identity based on one or more authentication factors."/>
+  <properties
+      key="eira:definitionSource"
+      value="eIDAS - REGULATION (EU) No 910/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC."/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="(http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG)"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenIAM Identity Manager - The OpenIAM Identity Manager automates the task of managing identities across the various devices and applications used by the enterprise. This includes applications within the enterprise such as Active Directory and Exchange, and cloud based applications such as Google Apps. OpenIAM Identity Manager provides capabilities such as: •&#x9;Provisioning, De-provisioning, Workflow; •&#x9;Password Management, Password Policies, Synchronization; •&#x9;Self-Service, allowing locked users to reset their accounts, manage their profiles, challenge response security questions; •&#x9;Audit, Attestation, Reporting; •&#x9;Delegated Administration.(http://www.openiam.com/products/identity-manager/idm-overview/)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Identification Component ABB  is salient for technical interoperability because it provides the functionalities of user authentication. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/IdentificationApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

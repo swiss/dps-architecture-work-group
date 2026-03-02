@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geoJSON"
+    id="id-2b1cf667191e405ca56a950d04c6e0a4"
+    documentation="Description: GeoJSON is a format for encoding geospatial data in JSON (JavaScript Object Notation). It provides a standard and flexible way to represent geographic features, such as points, lines, and polygons, along with their associated attributes.&#xA;&#xA;Publisher: Internet Engineering Task Force (IETF)&#xA;&#xA;Source: https://tools.ietf.org/html/rfc7946&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/GeoJSONRepresentation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/GeoJSONRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="Internet Engineering Task Force (IETF)"/>
+  <properties
+      key="dct:description"
+      value="GeoJSON is a format for encoding geospatial data in JSON (JavaScript Object Notation). It provides a standard and flexible way to represent geographic features, such as points, lines, and polygons, along with their associated attributes."/>
+  <properties
+      key="dct:source"
+      value="https://tools.ietf.org/html/rfc7946"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/GeoJSONRepresentation"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/GeoJSONRepresentation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

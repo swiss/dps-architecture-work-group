@@ -1,0 +1,53 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Portability Policy"
+    id="id-da626a6abac740299c3242d50135068d"
+    documentation="Definition: Data Portability Policy ABB is a Business Object that regulates data reuse and data transference between public administrations. &#xA;&#xA;Source: GDPR&#xA;&#xA;Source reference: https://gdpr.eu/recital-68-right-of-data-portability/&#xA;&#xA;Additional information: This ABB implements the right to data portability, which is one of eight rights enforced by the EU General Data Protection Regulation (GDPR). It regulates the exchange of data, allowing data subjects to obtain data that a data controller holds on them and to reuse it for their own purposes. Accourding to GDPR, Individuals are free to either store the data for personal use or to transmit it to another data controller. The data must be received “in a structured, commonly used and machine-readable format”.&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Italy implementation of the Art. 68 of the EU General Data Protection Regulation (GDPR). https://www.garanteprivacy.it/regolamentoue/guida-all-applicazione-del-regolamento-europeo-in-materia-di-protezione-dei-dati-personali&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Interoperability Governance viewpoint&#xA;&#xA;Interoperability Saliency: The Data Portability Policy ABB is salient for semantic interoperability because it regulates how data can be exchanged and its reuse.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataPortabilityPolicyBusinessObject&#xA;&#xA;ABB name: eira:DataPortabilityPolicyBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataPortabilityPolicyBusinessObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataPortabilityPolicyBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="eira:DataPortabilityPolicyBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Portability Policy ABB is a Business Object that regulates data reuse and data transference between public administrations. "/>
+  <properties
+      key="eira:definitionSource"
+      value="GDPR"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://gdpr.eu/recital-68-right-of-data-portability/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Italy implementation of the Art. 68 of the EU General Data Protection Regulation (GDPR). https://www.garanteprivacy.it/regolamentoue/guida-all-applicazione-del-regolamento-europeo-in-materia-di-protezione-dei-dati-personali"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Portability Policy ABB is salient for semantic interoperability because it regulates how data can be exchanged and its reuse."/>
+  <properties
+      key="skos:note"
+      value="This ABB implements the right to data portability, which is one of eight rights enforced by the EU General Data Protection Regulation (GDPR). It regulates the exchange of data, allowing data subjects to obtain data that a data controller holds on them and to reuse it for their own purposes. Accourding to GDPR, Individuals are free to either store the data for personal use or to transmit it to another data controller. The data must be received “in a structured, commonly used and machine-readable format”."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataPortabilityPolicyBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:BusinessObject>

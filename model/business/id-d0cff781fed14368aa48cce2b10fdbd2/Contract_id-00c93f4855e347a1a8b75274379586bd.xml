@@ -1,0 +1,33 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Framework Agreement"
+    id="id-00c93f4855e347a1a8b75274379586bd"
+    documentation="Definition: Framework Agreement ABB is a Contract providing an arrangement between one or more entity that provide the terms governing contracts to be established for a certain period of time, in particular with regard to price and, where necessary, the quantity envisaged. Other repetitive conditions known in advance, such as the place of delivery, may be included. They are also called blanket purchase agreements and master ordering agreements. Essentially, they are intended to provide expeditious ordering of commonly used, off-the-shelf goods, purchased on the basis of lowest price.&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;Viewpoint: Interoperability Governance viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FrameworkAgreementContract&#xA;&#xA;ABB name: eira:FrameworkAgreementContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FrameworkAgreementContract&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="eira:FrameworkAgreementContract"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/FrameworkAgreementContract"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/FrameworkAgreementContract"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="Framework Agreement ABB is a Contract providing an arrangement between one or more entity that provide the terms governing contracts to be established for a certain period of time, in particular with regard to price and, where necessary, the quantity envisaged. Other repetitive conditions known in advance, such as the place of delivery, may be included. They are also called blanket purchase agreements and master ordering agreements. Essentially, they are intended to provide expeditious ordering of commonly used, off-the-shelf goods, purchased on the basis of lowest price."/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+</archimate:Contract>

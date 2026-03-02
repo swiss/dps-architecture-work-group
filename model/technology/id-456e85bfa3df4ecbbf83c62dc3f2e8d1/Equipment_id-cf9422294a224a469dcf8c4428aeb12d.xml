@@ -1,0 +1,46 @@
+<archimate:Equipment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Physical Power Supply Infrastructure"
+    id="id-cf9422294a224a469dcf8c4428aeb12d"
+    documentation="Definition: Physical Power Supply Infrastructure ABB is Equipment that enables reliable and uninterrupted electrical power to support the operation of public administration systems. &#xA;&#xA;Source: Inspired in Lawinsider&#xA;&#xA;Source reference: https://www.lawinsider.com/dictionary/power-supply-infrastructure&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Physical Power Supply Infrastructure ABB is salient for the technical interoperability due to it provides electrical supply to the public administration systems for ensuring their availability according to the service level agreements. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/PhysicalPowerSupplyInfrastructureEquipment&#xA;&#xA;ABB name: eira:PhysicalPowerSupplyInfrastructureEquipment&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PhysicalPowerSupplyInfrastructureEquipment&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PhysicalPowerSupplyInfrastructureEquipment"/>
+  <properties
+      key="dct:type"
+      value="eira:PhysicalPowerSupplyInfrastructureEquipment"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Physical Power Supply Infrastructure ABB is Equipment that enables reliable and uninterrupted electrical power to support the operation of public administration systems. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Lawinsider"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.lawinsider.com/dictionary/power-supply-infrastructure"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Physical Power Supply Infrastructure ABB is salient for the technical interoperability due to it provides electrical supply to the public administration systems for ensuring their availability according to the service level agreements. "/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PhysicalPowerSupplyInfrastructureEquipment"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Equipment>

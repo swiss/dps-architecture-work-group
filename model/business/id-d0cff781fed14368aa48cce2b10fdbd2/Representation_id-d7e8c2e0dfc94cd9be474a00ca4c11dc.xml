@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GML"
+    id="id-d7e8c2e0dfc94cd9be474a00ca4c11dc"
+    documentation="Description: Geography Markup Language (GML) is an XML-based format that is used to encode geographic information, including the geometry and properties of geographic features. It is designed to facilitate the exchange of geographic data between different systems and applications, and is commonly used in domains such as geographic information systems (GIS), web mapping, and location-based services. The Open Geospatial Consortium (OGC) is responsible for maintaining GML, and the latest version of the format is GML 3.2.1, which was released in 2019.&#xA;&#xA;Publisher: Open Geospatial Consortium (OGC)&#xA;&#xA;Source: https://www.ogc.org/standard/gml/&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/GMLRepresentation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/GMLRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="Open Geospatial Consortium (OGC)"/>
+  <properties
+      key="dct:description"
+      value="Geography Markup Language (GML) is an XML-based format that is used to encode geographic information, including the geometry and properties of geographic features. It is designed to facilitate the exchange of geographic data between different systems and applications, and is commonly used in domains such as geographic information systems (GIS), web mapping, and location-based services. The Open Geospatial Consortium (OGC) is responsible for maintaining GML, and the latest version of the format is GML 3.2.1, which was released in 2019."/>
+  <properties
+      key="dct:source"
+      value="https://www.ogc.org/standard/gml/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/GMLRepresentation"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/GMLRepresentation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

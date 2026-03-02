@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telemetry"
+    id="id-a56d45913bea4005ac05847cb288c388"
+    documentation="Definition: Telemetry ABB is a Technology Service that enables the procedures to automatically measure and analyse information about public administration services and IT platforms to track performance and identify issues.&#xA;&#xA;Source: EEA&#xA;&#xA;Source reference: https://www.eea.europa.eu/help/glossary/gemet-environmental-thesaurus/telemetry&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Telemetry is a clear example of use in computers integrated in spacecrafts. https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Onboard_Computers_and_Data_Handling/Telemetry_Telecommand&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Telemetry is salient for semantic and technical interoperability because it sets up the mechanisms to monitor a specific ICT system to (i) collect behavioural information, and (ii) understand the ICT system's behaviour during its execution.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TelemetryTechnologyService&#xA;&#xA;ABB name: eira:TelemetryTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TelemetryTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/TelemetryTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:TelemetryTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Telemetry ABB is a Technology Service that enables the procedures to automatically measure and analyse information about public administration services and IT platforms to track performance and identify issues."/>
+  <properties
+      key="eira:definitionSource"
+      value="EEA"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.eea.europa.eu/help/glossary/gemet-environmental-thesaurus/telemetry"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Telemetry is a clear example of use in computers integrated in spacecrafts. https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Onboard_Computers_and_Data_Handling/Telemetry_Telecommand"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Telemetry is salient for semantic and technical interoperability because it sets up the mechanisms to monitor a specific ICT system to (i) collect behavioural information, and (ii) understand the ICT system's behaviour during its execution."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/TelemetryTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

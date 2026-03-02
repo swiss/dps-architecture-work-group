@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Enablers"
+    id="id-e4b6d85315524249b71502e18d1783d0"
+    documentation="Definition: Privacy Enablers ABB is a Grouping that refers to components and services that facilitate the implementation of privacy-related functionality within an application or system&#xA;&#xA;Source: ePrivacy Regulation&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/eprivacy-regulation&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): SOLVIT - Solvit is a mailbox service for the access, rectification or deletion of personal data.(http://ec.europa.eu/solvit/privacy-statement/#maincontentSec8)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Privacy Enablers Grouping ABB is salient for technical interoperability because it comprises tools and components that facilitate the implementation of privacy-related functionality within an application or system. This is relevant for the implementation and deployment of digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PrivacyEnablersGrouping&#xA;&#xA;ABB name: eira:PrivacyEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PrivacyEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="eira:PrivacyEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Privacy Enablers ABB is a Grouping that refers to components and services that facilitate the implementation of privacy-related functionality within an application or system"/>
+  <properties
+      key="eira:definitionSource"
+      value="ePrivacy Regulation"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/eprivacy-regulation"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): SOLVIT - Solvit is a mailbox service for the access, rectification or deletion of personal data.(http://ec.europa.eu/solvit/privacy-statement/#maincontentSec8)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Privacy Enablers Grouping ABB is salient for technical interoperability because it comprises tools and components that facilitate the implementation of privacy-related functionality within an application or system. This is relevant for the implementation and deployment of digital public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PrivacyEnablersGrouping"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PrivacyEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

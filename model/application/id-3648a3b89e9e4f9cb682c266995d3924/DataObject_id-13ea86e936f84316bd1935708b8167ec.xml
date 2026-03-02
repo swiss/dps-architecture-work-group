@@ -1,0 +1,53 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Mapping Catalogue"
+    id="id-13ea86e936f84316bd1935708b8167ec"
+    documentation="Definition: Data Mapping Catalogue ABB is a Data Object aiming to index an inventory of rules or procedures on how data from different sources and domains can be linked and integrated. &#xA;&#xA;Source: European Comision&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/library/staff-working-document-data-spaces&#xA;&#xA;Additional information: A data Mapping Catalogue stores the data mappings with comprehensiveness and trustiness value. This ABB is a key interoperability enabler (*) for sharing/PROVISIONING and reusing/CONSUMING Data.&#xA;&#xA;Example: CEMS Rapid Mapping - JRC - The Joint Research Centre (JRC) is the European Commission's science and knowledge service which employs scientists to carry out research in order to provide independent scientific advice and support to EU policy. Rapid Mapping is one of the two on-demand mapping services under the Copernicus Emergency Management Service (CEMS). Rapid Mapping delivers geospatial information (in different vector and raster formats) in the midst of or immediately after catastrophic events or humanitarian crises. It is available 24/7/365. Supported disaster types range from natural hazards such as floods, fires, storms, tsunamis, volcanic eruptions, landslides, and earthquakes to industrial accidents and humanitarian crises. (https://data.jrc.ec.europa.eu/collection/id-0072)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Interoperability Saliency: The Data Mapping Catalogue ABB is a key interoperability enabler (*) for structural interoperability by ensuring the mapping of data by digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataMappingCatalogueDataObject&#xA;&#xA;ABB name: eira:DataMappingCatalogueDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataMappingCatalogueDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataMappingCatalogueDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:DataMappingCatalogueDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Mapping Catalogue ABB is a Data Object aiming to index an inventory of rules or procedures on how data from different sources and domains can be linked and integrated. "/>
+  <properties
+      key="eira:definitionSource"
+      value="European Comision"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/library/staff-working-document-data-spaces"/>
+  <properties
+      key="skos:example"
+      value="CEMS Rapid Mapping - JRC - The Joint Research Centre (JRC) is the European Commission's science and knowledge service which employs scientists to carry out research in order to provide independent scientific advice and support to EU policy. Rapid Mapping is one of the two on-demand mapping services under the Copernicus Emergency Management Service (CEMS). Rapid Mapping delivers geospatial information (in different vector and raster formats) in the midst of or immediately after catastrophic events or humanitarian crises. It is available 24/7/365. Supported disaster types range from natural hazards such as floods, fires, storms, tsunamis, volcanic eruptions, landslides, and earthquakes to industrial accidents and humanitarian crises. (https://data.jrc.ec.europa.eu/collection/id-0072)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Mapping Catalogue ABB is a key interoperability enabler (*) for structural interoperability by ensuring the mapping of data by digital public services."/>
+  <properties
+      key="skos:note"
+      value="A data Mapping Catalogue stores the data mappings with comprehensiveness and trustiness value. This ABB is a key interoperability enabler (*) for sharing/PROVISIONING and reusing/CONSUMING Data."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataMappingCatalogueDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

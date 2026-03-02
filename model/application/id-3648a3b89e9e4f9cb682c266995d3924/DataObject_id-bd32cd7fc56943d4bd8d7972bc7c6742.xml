@@ -1,0 +1,48 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="W3C Shapes Constraint Language"
+    id="id-bd32cd7fc56943d4bd8d7972bc7c6742"
+    documentation="Description: The Shapes Constraint Language (SHACL) is a language and framework for describing and validating the structure and constraints of RDF (Resource Description Framework) graphs. RDF is a standard for representing data in a graph format, widely used in the Semantic Web.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;Publisher: W3C&#xA;&#xA;Source: https://www.w3.org/TR/shacl/&#xA;&#xA;LOST view: SV-Agnostic Ontologies&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/W3CShapesConstraintLanguageDataObject&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/W3CShapesConstraintLanguageDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/Ontology&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="W3C"/>
+  <properties
+      key="dct:description"
+      value="The Shapes Constraint Language (SHACL) is a language and framework for describing and validating the structure and constraints of RDF (Resource Description Framework) graphs. RDF is a standard for representing data in a graph format, widely used in the Semantic Web."/>
+  <properties
+      key="dct:source"
+      value="https://www.w3.org/TR/shacl/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/W3CShapesConstraintLanguageDataObject"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/W3CShapesConstraintLanguageDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Ontologies"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/Ontology"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:DataObject>

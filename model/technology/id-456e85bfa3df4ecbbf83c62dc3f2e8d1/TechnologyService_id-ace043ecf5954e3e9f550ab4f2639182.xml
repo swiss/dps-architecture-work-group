@@ -1,0 +1,58 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Computing Hosting, Networking, and Data Hosting Infrastructure Registry"
+    id="id-ace043ecf5954e3e9f550ab4f2639182"
+    documentation="Definition: Computing Hosting, Networking, and Data Hosting Infrastructure Registry ABB are a Technology Service that enables the functionalities for i) hosting Interoperable European Solutions and ii) providing the necessary networks for operating these solutions.&#xA;&#xA;Source: ISA2 - EIA Action&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/news/isa2-interoperability-solutions-european-public-administrations-first-work-programme-adopted&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):DIGIT Hosting and Networking Infrastructure Service&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Computing Hosting, Networking and Data Hosting Infrastructure Registry ABB is a key enabler interoperability enabler (*) for structural interoperability by enabling all the functionalities to host the Interoperable European Solutions  (high availability and high-performance hosting infrastructure) and the network that can operate these solutions (a public and private network). Hosting and networking represent the lower level of the technical layer, but to be considered when designing an interoperable solution, as they can create interoperability barriers. Interoperability technical specifications need to be used at this level to ensure interoperability of the levels above.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ComputingHostingNetworkingAndDataHostingInfrastructureRegistryTechnologyService&#xA;&#xA;ABB name: eira:ComputingHostingNetworkingAndDataHostingInfrastructureRegistryTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-04-06&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ComputingHostingNetworkingAndDataHostingInfrastructureRegistryTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ComputingHostingNetworkingAndDataHostingInfrastructureRegistryTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:ComputingHostingNetworkingAndDataHostingInfrastructureRegistryTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-04-06"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Computing Hosting, Networking, and Data Hosting Infrastructure Registry ABB are a Technology Service that enables the functionalities for i) hosting Interoperable European Solutions and ii) providing the necessary networks for operating these solutions."/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2 - EIA Action"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/news/isa2-interoperability-solutions-european-public-administrations-first-work-programme-adopted"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):DIGIT Hosting and Networking Infrastructure Service"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Computing Hosting, Networking and Data Hosting Infrastructure Registry ABB is a key enabler interoperability enabler (*) for structural interoperability by enabling all the functionalities to host the Interoperable European Solutions  (high availability and high-performance hosting infrastructure) and the network that can operate these solutions (a public and private network). Hosting and networking represent the lower level of the technical layer, but to be considered when designing an interoperable solution, as they can create interoperability barriers. Interoperability technical specifications need to be used at this level to ensure interoperability of the levels above."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ComputingHostingNetworkingAndDataHostingInfrastructureRegistryTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

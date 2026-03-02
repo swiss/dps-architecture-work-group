@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Secure Communications"
+    id="id-c88bd1143fcb41cf84778a89fd41915c"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Secure Communications&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: The Secure Communications concept in IT architecture decision-making refers to the implementation of measures that ensure the confidentiality, integrity, and availability of data transmitted between different systems or devices. This includes the use of encryption, digital signatures, and secure protocols such as SSL/TLS to protect data in transit from unauthorized access, interception, or modification. The Secure Communications concept is critical in ensuring the security of sensitive information such as financial transactions, personal data, and intellectual property. It is also essential for compliance with regulatory requirements such as HIPAA, PCI DSS, and GDPR.&#xA;&#xA;Example: Secure Communications:&#xA;Decision: Enforcing Transport Layer Security (TLS) for secure communication over the network.&#xA;Rationale: TLS ensures that data transmitted between client and server is encrypted, preventing eavesdropping, tampering, and unauthorized interception of sensitive information.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SecureCommunicationsGoal&#xA;&#xA;ABB name: eira:SecureCommunicationsGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947469&#xA;&#xA;Name: Architecture Decision Record about Secure Communications&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947469"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Secure Communications"/>
+  <properties
+      key="skos:example"
+      value="Secure Communications:&#xA;Decision: Enforcing Transport Layer Security (TLS) for secure communication over the network.&#xA;Rationale: TLS ensures that data transmitted between client and server is encrypted, preventing eavesdropping, tampering, and unauthorized interception of sensitive information."/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="The Secure Communications concept in IT architecture decision-making refers to the implementation of measures that ensure the confidentiality, integrity, and availability of data transmitted between different systems or devices. This includes the use of encryption, digital signatures, and secure protocols such as SSL/TLS to protect data in transit from unauthorized access, interception, or modification. The Secure Communications concept is critical in ensuring the security of sensitive information such as financial transactions, personal data, and intellectual property. It is also essential for compliance with regulatory requirements such as HIPAA, PCI DSS, and GDPR."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SecureCommunicationsGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:SecureCommunicationsGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Secure Communications"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

@@ -1,0 +1,48 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESPD-EDM"
+    id="id-5c0dadf660ae494cb8d58cc975f50f76"
+    documentation="Description: The European Single Procurement Document (ESPD) is a standardized form used in public procurement processes within the European Union (EU). As a data object, the ESPD represents a structured document that contains essential information about a supplier or contractor. It includes details such as the company's identification, financial standing, technical and professional abilities, and any legal grounds for exclusion. The ESPD serves as a preliminary self-declaration by suppliers, allowing them to demonstrate their eligibility and suitability to participate in public procurement procedures across EU member states.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;Publisher: The Publications Office of the European Union&#xA;&#xA;Source: https://docs.ted.europa.eu/ESPD-EDM/latest/index.html&#xA;&#xA;LOST view: SV-Business Agnostic Data Models&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ESPD-EDMDataObject&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ESPD-EDMDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataModelDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="The Publications Office of the European Union"/>
+  <properties
+      key="dct:description"
+      value="The European Single Procurement Document (ESPD) is a standardized form used in public procurement processes within the European Union (EU). As a data object, the ESPD represents a structured document that contains essential information about a supplier or contractor. It includes details such as the company's identification, financial standing, technical and professional abilities, and any legal grounds for exclusion. The ESPD serves as a preliminary self-declaration by suppliers, allowing them to demonstrate their eligibility and suitability to participate in public procurement procedures across EU member states."/>
+  <properties
+      key="dct:source"
+      value="https://docs.ted.europa.eu/ESPD-EDM/latest/index.html"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ESPD-EDMDataObject"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ESPD-EDMDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic Data Models"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataModelDataObject"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:DataObject>

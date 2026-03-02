@@ -1,0 +1,39 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Problem Statement"
+    id="id-1461d8a168a443d4bba1a343f65c5958"
+    documentation="Definition: Problem Statement Grouping refers to the set of elements needed for the detailed description of the issues, goals, constraints, and context influencing the creation and implementation of digital public services. It includes defining strategic goals, identifying regulatory and technical constraints, ensuring alignment with public policy objectives, providing guidelines for service implementation, understanding the context of policy decisions, and recognizing technical barriers and underlying assumptions. This problem statement serves as a framework to address interoperability challenges in digital public services, aligning solutions with public policy goals and relevant constraints.&#xA;&#xA;Source: EIRA Team&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: EIRA Ontology viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ProblemStatementGrouping&#xA;&#xA;ABB name: eira:ProblemStatementGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;eira:identifier: http://data.europa.eu/dr8/ProblemStatementGrouping&#xA;&#xA;">
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="skos:definition"
+      value="Problem Statement Grouping refers to the set of elements needed for the detailed description of the issues, goals, constraints, and context influencing the creation and implementation of digital public services. It includes defining strategic goals, identifying regulatory and technical constraints, ensuring alignment with public policy objectives, providing guidelines for service implementation, understanding the context of policy decisions, and recognizing technical barriers and underlying assumptions. This problem statement serves as a framework to address interoperability challenges in digital public services, aligning solutions with public policy goals and relevant constraints."/>
+  <properties
+      key="eira:identifier"
+      value="http://data.europa.eu/dr8/ProblemStatementGrouping"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ProblemStatementGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:ProblemStatementGrouping"/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+</archimate:Grouping>

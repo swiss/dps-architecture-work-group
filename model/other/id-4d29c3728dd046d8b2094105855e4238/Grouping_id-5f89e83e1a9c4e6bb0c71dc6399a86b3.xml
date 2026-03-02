@@ -1,0 +1,48 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Enablers"
+    id="id-5f89e83e1a9c4e6bb0c71dc6399a86b3"
+    documentation="Definition: API Enablers ABB is a Grouping that refers to components and frameworks that support the implementation and cataloguing of (open) software interfaces&#xA;&#xA;Source: European Comission&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/library/apis-enablers-digital-transformation-governments&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The API Enablers Grouping ABB is salient for technical interoperability because this grouping composition of the different technologies that can implement software interfaces used to consume and provide data from public services. Implementing those technologies can enable interoperability throughout public services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/APIEnablersGrouping&#xA;&#xA;ABB name: eira:APIEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/APIEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/APIEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:APIEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="API Enablers ABB is a Grouping that refers to components and frameworks that support the implementation and cataloguing of (open) software interfaces"/>
+  <properties
+      key="eira:definitionSource"
+      value="European Comission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/library/apis-enablers-digital-transformation-governments"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The API Enablers Grouping ABB is salient for technical interoperability because this grouping composition of the different technologies that can implement software interfaces used to consume and provide data from public services. Implementing those technologies can enable interoperability throughout public services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/APIEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

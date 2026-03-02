@@ -1,0 +1,49 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Public Service Machine Agent"
+    id="id-bf4306899fe74dd89f856f4dbb96b941"
+    documentation="Definition: Digital Public Service Machine Agent ABB is a Business Actor defined as the system that is designed to automate and improve the delivery of public services to citizens. &#xA;&#xA;Source: Inspired on the information available in Digital Public Services  in the Digital Economy and Society Index&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/desi-digital-public-services&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Digital Public Administration Facsheet (https://joinup.ec.europa.eu/sites/default/files/inline-files/DPA_Factsheets_2022_France_vFinal_0.pdf) or the Spanish public administration digitalization plan (https://portal.mineco.gob.es/RecursosArticulo/mineco/ministerio/ficheros/210902-digitalisation-of-public-admin-plan.pdf)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Interoperability Saliency: The Digital Public Service Machine Agent ABB is salient for organizational and behavioural interoperability because it permits the identification of procedures and business rules related to digital services of public administrations. This identification and consensus will facilitate the exchange of data, information and knowledge between machine-to-machine and machine-to-human interactions.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceMachineAgentBusinessActor&#xA;&#xA;ABB name: eira:DigitalPublicServiceMachineAgentBusinessActor&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceMachineAgentBusinessActor&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceMachineAgentBusinessActor"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalPublicServiceMachineAgentBusinessActor"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digital Public Service Machine Agent ABB is a Business Actor defined as the system that is designed to automate and improve the delivery of public services to citizens. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired on the information available in Digital Public Services  in the Digital Economy and Society Index"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/desi-digital-public-services"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Digital Public Administration Facsheet (https://joinup.ec.europa.eu/sites/default/files/inline-files/DPA_Factsheets_2022_France_vFinal_0.pdf) or the Spanish public administration digitalization plan (https://portal.mineco.gob.es/RecursosArticulo/mineco/ministerio/ficheros/210902-digitalisation-of-public-admin-plan.pdf)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Digital Public Service Machine Agent ABB is salient for organizational and behavioural interoperability because it permits the identification of procedures and business rules related to digital services of public administrations. This identification and consensus will facilitate the exchange of data, information and knowledge between machine-to-machine and machine-to-human interactions."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceMachineAgentBusinessActor"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessActor>

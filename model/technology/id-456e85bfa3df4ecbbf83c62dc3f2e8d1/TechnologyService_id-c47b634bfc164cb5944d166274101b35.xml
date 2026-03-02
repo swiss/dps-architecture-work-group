@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serverless Orchestrator"
+    id="id-c47b634bfc164cb5944d166274101b35"
+    documentation="Definition: Serveless Orchestration ABB is a Technology Service that implements the behaviour of coordinating and managing individual functions are deployed as separate, independent units of code that can be executed in response to specific events or triggers.&#xA;&#xA;Source: inspired in RedHat&#xA;&#xA;Source reference: https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Architecture of Orchestration for serverless computing. https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5d0f56561&amp;appId=PPGMS &#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Serverless Orchestrator ABB is salient for technical interoperability because it establishes the events and individual functions to combine information from legacy and public administrations service to respond to the applications and stakeholders that consume its information.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ServerlessOrchestratorTechnologyService&#xA;&#xA;ABB name: eira:ServerlessOrchestratorTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ServerlessOrchestratorTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ServerlessOrchestratorTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:ServerlessOrchestratorTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Serveless Orchestration ABB is a Technology Service that implements the behaviour of coordinating and managing individual functions are deployed as separate, independent units of code that can be executed in response to specific events or triggers."/>
+  <properties
+      key="eira:definitionSource"
+      value="inspired in RedHat"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Architecture of Orchestration for serverless computing. https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5d0f56561&amp;appId=PPGMS "/>
+  <properties
+      key="eira:iopSaliency"
+      value="Serverless Orchestrator ABB is salient for technical interoperability because it establishes the events and individual functions to combine information from legacy and public administrations service to respond to the applications and stakeholders that consume its information."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ServerlessOrchestratorTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

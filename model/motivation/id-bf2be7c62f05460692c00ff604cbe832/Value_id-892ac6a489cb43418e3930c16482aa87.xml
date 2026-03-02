@@ -1,0 +1,44 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatory Capacity"
+    id="id-892ac6a489cb43418e3930c16482aa87"
+    documentation="Definition: The Regulatory Capacity Value ABB relates to a government's ability to develop, implement, and enforce regulations and rules effectively. It involves having the necessary resources, expertise, and mechanisms in place to establish and enforce regulatory frameworks that protect public interests, promote compliance, and achieve desired outcomes.&#xA;&#xA;Source: Public Administration Reform: A Comparative Analysis&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;Viewpoint: Enterprise Architecture Framework alignment guidelines viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/RegulatoryCapacityValue&#xA;&#xA;ABB name: eira:RegulatoryCapacityValue&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/RegulatoryCapacityValue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/RegulatoryCapacityValue"/>
+  <properties
+      key="dct:type"
+      value="eira:RegulatoryCapacityValue"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="The Regulatory Capacity Value ABB relates to a government's ability to develop, implement, and enforce regulations and rules effectively. It involves having the necessary resources, expertise, and mechanisms in place to establish and enforce regulatory frameworks that protect public interests, promote compliance, and achieve desired outcomes."/>
+  <properties
+      key="eira:definitionSource"
+      value="Public Administration Reform: A Comparative Analysis"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/RegulatoryCapacityValue"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Value>

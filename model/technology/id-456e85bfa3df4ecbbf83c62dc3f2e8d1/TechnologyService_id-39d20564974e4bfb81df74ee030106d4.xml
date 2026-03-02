@@ -1,0 +1,50 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Containers Manager"
+    id="id-39d20564974e4bfb81df74ee030106d4"
+    documentation="Definition: Containers Manager ABB is a Technology Service that implements the process of organizing, adding or replacing large numbers of software containers&#xA;&#xA;Source: Inspired in referent cloud service providers &#xA;&#xA;Source reference:  &#xA;&#xA;Synonym:  &#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenSHIFT is a secure and an enterprise-grade cloud-based container orchestration system with Kubernetes at the backend. It can be used both as a Red Hat Container Orchestration Engine and Platform-as-a-Service (PaaS). https://github.com/openshift/origin&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Containers Manager ABB is salient for technical interoperability due to its setting up the software tool to manage virtual public services and tools. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/ContainersManagerTechnologyService&#xA;&#xA;ABB name: eira:ContainersManagerTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ContainersManagerTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ContainersManagerTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:ContainersManagerTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value=" "/>
+  <properties
+      key="skos:definition"
+      value="Containers Manager ABB is a Technology Service that implements the process of organizing, adding or replacing large numbers of software containers"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in referent cloud service providers "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value=" "/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OpenSHIFT is a secure and an enterprise-grade cloud-based container orchestration system with Kubernetes at the backend. It can be used both as a Red Hat Container Orchestration Engine and Platform-as-a-Service (PaaS). https://github.com/openshift/origin"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Containers Manager ABB is salient for technical interoperability due to its setting up the software tool to manage virtual public services and tools. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ContainersManagerTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

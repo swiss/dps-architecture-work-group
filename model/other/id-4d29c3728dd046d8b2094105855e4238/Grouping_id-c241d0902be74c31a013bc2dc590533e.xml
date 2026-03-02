@@ -1,0 +1,29 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Governance content"
+    id="id-c241d0902be74c31a013bc2dc590533e">
+  <properties
+      key="skos:definition"
+      value="Organizational Governance Content ABB is a Groping that refers to how an organization is managed and controlled."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in European Comission &quot;Company law and corporate governance&quot;"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://commission.europa.eu/business-economy-euro/doing-business-eu/company-law-and-corporate-governance_en"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+</archimate:Grouping>

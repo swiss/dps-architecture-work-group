@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Neutrality"
+    id="id-b085be545aaa4fae85e933f9356b4cbf"
+    documentation="Definition: Laws and regulations are technology neutral Regulations tied to a particular technology may quickly become obsolete and require further amendment. Also, technology-specific regulations lead to dependency on specific manufacturers, developers, suppliers or distributors of technology or services. It guarantees freedom of choice by not forcing users into using any specific technology.&#xA;&#xA;Source: Technological neutrality and data portability Underlying Principle (5) of the European Interoperability Framework (EIF)&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/technological-neutrality-and-data-portability&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/technology-neutrality&#xA;&#xA;ABB name: elap:TechnologyNeutralityPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Technology Neutrality&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:TechnologyNeutralityPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Technology Neutrality"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/technology-neutrality"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="Technological neutrality and data portability Underlying Principle (5) of the European Interoperability Framework (EIF)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/technological-neutrality-and-data-portability"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="Laws and regulations are technology neutral Regulations tied to a particular technology may quickly become obsolete and require further amendment. Also, technology-specific regulations lead to dependency on specific manufacturers, developers, suppliers or distributors of technology or services. It guarantees freedom of choice by not forcing users into using any specific technology."/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

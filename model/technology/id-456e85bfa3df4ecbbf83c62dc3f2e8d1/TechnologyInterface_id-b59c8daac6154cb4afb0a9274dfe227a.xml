@@ -1,0 +1,53 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technology Interface"
+    id="id-b59c8daac6154cb4afb0a9274dfe227a"
+    documentation="Definition: Technology Interface ABB is an archimate Technology Interface that represents a point of access where technology services offered by a technology internal active structure element can be accessed.&#xA;&#xA;Source: Inspired in Archimate&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/archimate3-doc/chap10.html&#xA;&#xA;Synonym:  &#xA;&#xA;Additional information: A technology interface specifies how the technology services of a technology internal active structure element can be accessed by other elements. A technology interface exposes a technology service to the environment. The same service may be exposed through different interfaces.&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Interoperability Saliency: Technology Interface ABB is a key interoperability enabler (*) for behavioural, technical and semantic interoperability by enabling interfaces and access points to the architectures for infrastructure-to-infrastructure data exchange.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TechnologyInterfaceTechnologyInterface&#xA;&#xA;ABB name: eira:TechnologyInterfaceTechnologyInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TechnologyInterfaceTechnologyInterface&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/TechnologyInterfaceTechnologyInterface"/>
+  <properties
+      key="dct:type"
+      value="eira:TechnologyInterfaceTechnologyInterface"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Technology Interface ABB is an archimate Technology Interface that represents a point of access where technology services offered by a technology internal active structure element can be accessed."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Archimate"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/archimate3-doc/chap10.html"/>
+  <properties
+      key="eira:synonym"
+      value=" "/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Technology Interface ABB is a key interoperability enabler (*) for behavioural, technical and semantic interoperability by enabling interfaces and access points to the architectures for infrastructure-to-infrastructure data exchange."/>
+  <properties
+      key="skos:note"
+      value="A technology interface specifies how the technology services of a technology internal active structure element can be accessed by other elements. A technology interface exposes a technology service to the environment. The same service may be exposed through different interfaces."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/TechnologyInterfaceTechnologyInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyInterface>

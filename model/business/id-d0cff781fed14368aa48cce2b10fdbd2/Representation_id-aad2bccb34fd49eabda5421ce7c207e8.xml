@@ -1,0 +1,54 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Act Representation"
+    id="id-aad2bccb34fd49eabda5421ce7c207e8"
+    documentation="Definition: Legal Act Representation ABB is a Representation manifesting the content of a legal Act in a digital format, thus making possible digital public services to exchange such content.&#xA;&#xA;Source: Based on the IFLA concepts of 'manifestation' and Legal Act.&#xA;&#xA;Source reference: https://repository.ifla.org/handle/123456789/40&#xA;&#xA;Additional information: Legal Act Representation can be human or machine readable. In the context of digital public services they are, either way, digitally supported (i.e., no physical sypports like paper or other that are not bytes are involved in the exchange of data and information).&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The XML specification Akoma Ntoso is used  to address the need of the public administration and European Institutions to generate draft legislation in the legal XML format Akoma Ntoso (the OASIS TC LegalXMLDocument). This specification is used by LEOS (Legislation Editing Open Software, https://joinup.ec.europa.eu/collection/justice-law-and-security/solution/leos-open-source-software-editing-legislation/release/330).&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Legal Act Representation ABB is salient for the Behavioural Interoperability because it enables the exchange, reading and processing of Legal Acts. It is also salient for the Structural Interoperability since the content digitally represented can be searched and reused in different domains and for differnt purposes.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegalActRepresentationRepresentation&#xA;&#xA;ABB name: eira:LegalActRepresentationRepresentation&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;eira:modelType: Behavioural IoP, Structural IoP&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegalActRepresentationRepresentation&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LegalActRepresentationRepresentation"/>
+  <properties
+      key="dct:type"
+      value="eira:LegalActRepresentationRepresentation"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Legal Act Representation ABB is a Representation manifesting the content of a legal Act in a digital format, thus making possible digital public services to exchange such content."/>
+  <properties
+      key="eira:definitionSource"
+      value="Based on the IFLA concepts of 'manifestation' and Legal Act."/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://repository.ifla.org/handle/123456789/40"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The XML specification Akoma Ntoso is used  to address the need of the public administration and European Institutions to generate draft legislation in the legal XML format Akoma Ntoso (the OASIS TC LegalXMLDocument). This specification is used by LEOS (Legislation Editing Open Software, https://joinup.ec.europa.eu/collection/justice-law-and-security/solution/leos-open-source-software-editing-legislation/release/330)."/>
+  <properties
+      key="eira:modelType"
+      value="Behavioural IoP, Structural IoP"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Legal Act Representation ABB is salient for the Behavioural Interoperability because it enables the exchange, reading and processing of Legal Acts. It is also salient for the Structural Interoperability since the content digitally represented can be searched and reused in different domains and for differnt purposes."/>
+  <properties
+      key="skos:note"
+      value="Legal Act Representation can be human or machine readable. In the context of digital public services they are, either way, digitally supported (i.e., no physical sypports like paper or other that are not bytes are involved in the exchange of data and information)."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LegalActRepresentationRepresentation"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Representation>

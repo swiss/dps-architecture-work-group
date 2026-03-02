@@ -1,0 +1,56 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontology"
+    id="id-b97580fdbd764aa7901964ad10d0456d"
+    documentation="Definition: Ontology ABB is a Data Object that defines a set of representational primitives with which to model a domain of knowledge or discourse&#xA;&#xA;Source: Formal definiion of Tom Gruber&#xA;&#xA;Source reference: https://tomgruber.org/writing/definition-of-ontology&#xA;&#xA;Additional information: Ontology ABB is a Data Object aiming to be a formal description of knowledge, as a set of concepts, within a domain and the axioms connecting concepts and allowing for logic inferences. When speaking about an ontology, we do not refer only to the terminology (or T-Box) but also to all the “assertions” about the concepts and roles (the A-Box), i.e. all the individuals or instances of concepts and roles of the terminology and as important, the rules for logic inference: the semantics “part&quot;.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Medical Dictionary for Regulatory Activities Terminology (MedDRA) - The university ontology includes classes, e.g., :Staff, :Students, :Department or :Course. These classes denote natural concepts that are shared or at least understood by users familiar with universities all over the world. Universities ontologies can be view in university portals.(http://bioportal.bioontology.org/ontologies/MEDDRA)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Ontology ABB is salient for semantic interoperability because it defined as a simplified, reusable and extensible data model that capture the fundamental characteristics of a data entity in a context-neutral and syntax-neutral fashion.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/OntologyDataObject&#xA;&#xA;ABB name: eira:OntologyDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/OntologyDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/OntologyDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:OntologyDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Ontology ABB is a Data Object that defines a set of representational primitives with which to model a domain of knowledge or discourse"/>
+  <properties
+      key="eira:definitionSource"
+      value="Formal definiion of Tom Gruber"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://tomgruber.org/writing/definition-of-ontology"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Medical Dictionary for Regulatory Activities Terminology (MedDRA) - The university ontology includes classes, e.g., :Staff, :Students, :Department or :Course. These classes denote natural concepts that are shared or at least understood by users familiar with universities all over the world. Universities ontologies can be view in university portals.(http://bioportal.bioontology.org/ontologies/MEDDRA)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Ontology ABB is salient for semantic interoperability because it defined as a simplified, reusable and extensible data model that capture the fundamental characteristics of a data entity in a context-neutral and syntax-neutral fashion."/>
+  <properties
+      key="skos:note"
+      value="Ontology ABB is a Data Object aiming to be a formal description of knowledge, as a set of concepts, within a domain and the axioms connecting concepts and allowing for logic inferences. When speaking about an ontology, we do not refer only to the terminology (or T-Box) but also to all the “assertions” about the concepts and roles (the A-Box), i.e. all the individuals or instances of concepts and roles of the terminology and as important, the rules for logic inference: the semantics “part&quot;."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/OntologyDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

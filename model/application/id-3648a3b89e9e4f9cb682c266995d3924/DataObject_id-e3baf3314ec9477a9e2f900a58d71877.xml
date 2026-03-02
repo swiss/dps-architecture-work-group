@@ -1,0 +1,49 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distributed Ledger"
+    id="id-e3baf3314ec9477a9e2f900a58d71877"
+    documentation="Definition: Distributed Ledger ABB is a Data Object that enables the sharing and recording of encrypted data across multiple sites, countries, or institutions.&#xA;&#xA;Source: Regulation of a pilot regime for market infrastructures based on distributed ledger technology&#xA;&#xA;Source reference: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52020PC0594&amp;from=EN&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): TOLAR (https://tolar.io/)is a tool implemented as the outcome of the Seduproject, Hashnet is in the process of evaluation by the European Blockchain Partnership to become one of the pilot protocols for European Blockchain Service Infrastructure. https://www.seedeuproject.eu/partners/hashnet/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Interoperability Saliency: The Distributed Ledger ABB is salient for semantic interoperability due to its capacity to exchange encrypted data amongst digital public services. It is also salient because it can be used across borders to ensure secure and trustworthy data exchange. Additionally, it is also relevant for new technologies incorporating blockchain technology. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/DistributedLedgerDataObject&#xA;&#xA;ABB name: eira:DistributedLedgerDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DistributedLedgerDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DistributedLedgerDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:DistributedLedgerDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Distributed Ledger ABB is a Data Object that enables the sharing and recording of encrypted data across multiple sites, countries, or institutions."/>
+  <properties
+      key="eira:definitionSource"
+      value="Regulation of a pilot regime for market infrastructures based on distributed ledger technology"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52020PC0594&amp;from=EN"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): TOLAR (https://tolar.io/)is a tool implemented as the outcome of the Seduproject, Hashnet is in the process of evaluation by the European Blockchain Partnership to become one of the pilot protocols for European Blockchain Service Infrastructure. https://www.seedeuproject.eu/partners/hashnet/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Distributed Ledger ABB is salient for semantic interoperability due to its capacity to exchange encrypted data amongst digital public services. It is also salient because it can be used across borders to ensure secure and trustworthy data exchange. Additionally, it is also relevant for new technologies incorporating blockchain technology. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DistributedLedgerDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

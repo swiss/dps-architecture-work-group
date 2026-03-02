@@ -1,0 +1,48 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RDF Mapping Language (RML)"
+    id="id-2f62a053e7c641a1a676d735e8453129"
+    documentation="Description: This document describes RML, a generic mapping language, based on and extending [R2RML]. The RDF Mapping language (RML) is a mapping language defined to express customized mapping rules from heterogeneous data structures and serializations to the RDF [RDF-CONCEPTS] data model. RML is defined as a superset of the W3C-standardized mapping language [R2RML], aiming to extend its applicability and broaden its scope, adding support for data in other structured formats. [R2RML] is the W3C standard to express customized mappings from relational databases to RDF. RML follows exactly the same syntax as R2RML; therefore, RML mappings are themselves RDF graphs. The present document describes the RML language and its concepts through definitions and examples.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;Publisher: IDLab Ghent University&#xA;&#xA;Source: https://rml.io/specs/rml/&#xA;&#xA;LOST view: SV-Data Mapping&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/RDFMappingLanguageDataObject&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/RDFMappingLanguageDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataMappingDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="IDLab Ghent University"/>
+  <properties
+      key="dct:description"
+      value="This document describes RML, a generic mapping language, based on and extending [R2RML]. The RDF Mapping language (RML) is a mapping language defined to express customized mapping rules from heterogeneous data structures and serializations to the RDF [RDF-CONCEPTS] data model. RML is defined as a superset of the W3C-standardized mapping language [R2RML], aiming to extend its applicability and broaden its scope, adding support for data in other structured formats. [R2RML] is the W3C standard to express customized mappings from relational databases to RDF. RML follows exactly the same syntax as R2RML; therefore, RML mappings are themselves RDF graphs. The present document describes the RML language and its concepts through definitions and examples."/>
+  <properties
+      key="dct:source"
+      value="https://rml.io/specs/rml/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/RDFMappingLanguageDataObject"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/RDFMappingLanguageDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Data Mapping"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataMappingDataObject"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:DataObject>

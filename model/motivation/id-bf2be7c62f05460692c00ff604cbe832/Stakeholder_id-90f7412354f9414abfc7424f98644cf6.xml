@@ -1,0 +1,51 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Individual"
+    id="id-90f7412354f9414abfc7424f98644cf6"
+    documentation="Definition: Individual ABB is a Stakeholder that is a human being who may be dead or alive, but not imaginary.&#xA;&#xA;Source: SEMIC-CPV&#xA;&#xA;Source reference: https://semiceu.github.io/Core-Person-Vocabulary/releases/2.00/#Person&#xA;&#xA;Synonym: Person&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Any instance of a person, for instance, Ursula von der Leyen, President of the European Commission. https://ec.europa.eu/commission/commissioners/2019-2024/president_en&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Individual ABB is salient for organizational and behavioural interoperability because it permits the identification of procedures and business rules related to this stakeholder that facilitates the exchange of data, information and knowledge between digital public services and individuals (and vice versa).&#xA;&#xA;Identifier: http://data.europa.eu/dr8/IndividualStakeholder&#xA;&#xA;ABB name: eira:IndividualStakeholder&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/IndividualStakeholder&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:type"
+      value="eira:IndividualStakeholder"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="SEMIC-CPV"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://semiceu.github.io/Core-Person-Vocabulary/releases/2.00/#Person"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Individual ABB is salient for organizational and behavioural interoperability because it permits the identification of procedures and business rules related to this stakeholder that facilitates the exchange of data, information and knowledge between digital public services and individuals (and vice versa)."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/IndividualStakeholder"/>
+  <properties
+      key="eira:synonym"
+      value="Person"/>
+  <properties
+      key="skos:definition"
+      value="Individual ABB is a Stakeholder that is a human being who may be dead or alive, but not imaginary."/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Any instance of a person, for instance, Ursula von der Leyen, President of the European Commission. https://ec.europa.eu/commission/commissioners/2019-2024/president_en"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/IndividualStakeholder"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Stakeholder>

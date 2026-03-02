@@ -1,0 +1,52 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata"
+    id="id-6a1f58b5f7c44ec382909a5f5a2be489"
+    documentation="Definition: Metadata ABB is a Data Object providing information about one or more aspects of the data&#xA;&#xA;Source: W3C&#xA;&#xA;Source reference: www.w3.org/Metadata/&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): https://data.europa.eu/en&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Interoperability Saliency: The Metadata ABB is a key interoperability enabler (*) for behavioural interoperability by enabling data discoverability and reuse enhancing the delivery and collaboration between digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MetadataDataObject&#xA;&#xA;ABB name: eira:MetadataDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MetadataDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/MetadataDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:MetadataDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Metadata ABB is a Data Object providing information about one or more aspects of the data"/>
+  <properties
+      key="eira:definitionSource"
+      value="W3C"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="www.w3.org/Metadata/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): https://data.europa.eu/en"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Metadata ABB is a key interoperability enabler (*) for behavioural interoperability by enabling data discoverability and reuse enhancing the delivery and collaboration between digital public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/MetadataDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

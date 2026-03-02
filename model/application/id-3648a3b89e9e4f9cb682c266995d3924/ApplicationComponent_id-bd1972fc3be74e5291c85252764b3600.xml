@@ -1,0 +1,58 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution"
+    id="id-bd1972fc3be74e5291c85252764b3600"
+    documentation="Definition: Digital Solution Component ABB is an Application Component that enables the encapsulation of a functionality provided by an Interoperable European Solution.&#xA;&#xA;Source: Inspired in ArchiMate® v3&#xA;&#xA;Source reference: http://pubs.opengroup.org/architecture/archimate3-doc/chap09.html&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU Login - EU Login is the European Commission's user authentication service. It allows authorised users to access a wide range of Commission web services and websites, using a single email address and password. EU Login implements the single sign-on functionality. https://webgate.ec.europa.eu/cas/help.html&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Digital Solution Component ABB is salient for technical interoperability because it is a central element the EIF's conceptual model for integrated public services. it represents all the functionalities provided by an Interoperable European Solutionas as stated in the EIF: &quot;Technical interoperability the applications and infrastructures linking systems and services.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionApplicationComponent&#xA;&#xA;ABB name: eira:DigitalSolutionApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digital Solution Component ABB is an Application Component that enables the encapsulation of a functionality provided by an Interoperable European Solution."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in ArchiMate® v3"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://pubs.opengroup.org/architecture/archimate3-doc/chap09.html"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU Login - EU Login is the European Commission's user authentication service. It allows authorised users to access a wide range of Commission web services and websites, using a single email address and password. EU Login implements the single sign-on functionality. https://webgate.ec.europa.eu/cas/help.html"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Digital Solution Component ABB is salient for technical interoperability because it is a central element the EIF's conceptual model for integrated public services. it represents all the functionalities provided by an Interoperable European Solutionas as stated in the EIF: &quot;Technical interoperability the applications and infrastructures linking systems and services.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:view"
+      value="EIRA Ontology view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperable European Solution viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

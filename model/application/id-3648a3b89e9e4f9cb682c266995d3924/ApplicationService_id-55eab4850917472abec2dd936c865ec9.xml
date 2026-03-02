@@ -1,0 +1,67 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataspace Connector Consumer"
+    id="id-55eab4850917472abec2dd936c865ec9"
+    documentation="Definition: Data Space Connector Consumer ABB is an Application Service that enables data gathering and accessibility over available data sources and data in terms of content, structure quality, actuality and other attributes.&#xA;&#xA;Source: IDSA&#xA;&#xA;Source reference: https://internationaldataspaces.org/offers/ids-components/&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Dataspace Connector from the International Data Spaces Association. https://international-data-spaces-association.github.io/DataspaceConnector/&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Interoperability Saliency: The Data Space Connector Consumer Application Service ABB is salient for technical interoperability because is the service that discovers and gather source for retrieving data. It is not just data, but the data space connector consumer service checks different characteristics and attributes from data such as content, and quality of the structure amongst others. This can be a clear and relevant role in the achievement of interoperability. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataspaceConnectorConsumerApplicationService&#xA;&#xA;ABB name: eira:DataspaceConnectorConsumerApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataspaceConnectorConsumerApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataspaceConnectorConsumerApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:DataspaceConnectorConsumerApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Space Connector Consumer ABB is an Application Service that enables data gathering and accessibility over available data sources and data in terms of content, structure quality, actuality and other attributes."/>
+  <properties
+      key="eira:definitionSource"
+      value="IDSA"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://internationaldataspaces.org/offers/ids-components/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Dataspace Connector from the International Data Spaces Association. https://international-data-spaces-association.github.io/DataspaceConnector/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Space Connector Consumer Application Service ABB is salient for technical interoperability because is the service that discovers and gather source for retrieving data. It is not just data, but the data space connector consumer service checks different characteristics and attributes from data such as content, and quality of the structure amongst others. This can be a clear and relevant role in the achievement of interoperability. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataspaceConnectorConsumerApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVA-Dataspace Enablers"/>
+  <properties
+      key="eira:view"
+      value="TVI-Management Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Data Management and Knowledge Discovery Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Trust Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Application Integration Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

@@ -1,0 +1,42 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Integration"
+    id="id-1340f87c600e44c0821275d8f1367822"
+    documentation="Definition: Data Integration ABB is an Application Component that implements the process of combining data from different sources or systems into a unified view, ensuring consistency, accuracy, and accessibility. It involves transforming and merging data from various formats, structures, and locations to provide a comprehensive and integrated data set.&#xA;&#xA;Source: Wikipedia&#xA;&#xA;Source reference: https://en.wikipedia.org/wiki/Data_integration&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataIntegrationApplicationComponent&#xA;&#xA;ABB name: egovera:DataIntegrationApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataIntegrationApplicationComponent&#xA;&#xA;Name: Data Integration Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationComponent&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataIntegrationApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataIntegrationApplicationComponent"/>
+  <properties
+      key="dct:title"
+      value="Data Integration Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataIntegrationApplicationComponent"/>
+  <properties
+      key="skos:definition"
+      value="Data Integration ABB is an Application Component that implements the process of combining data from different sources or systems into a unified view, ensuring consistency, accuracy, and accessibility. It involves transforming and merging data from various formats, structures, and locations to provide a comprehensive and integrated data set."/>
+  <properties
+      key="eira:definitionSource"
+      value="Wikipedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://en.wikipedia.org/wiki/Data_integration"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationComponent"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Exchanger Operations"
+    id="id-3d286f97adaa462f8cad432c6a3ead7d"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Data Exchanger Operations&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: The Data Exchanger Operations concept refers to the process of exchanging data between different systems or applications within an organization. This can involve transferring data from one database to another, integrating data from multiple sources, or sharing data between different departments or teams. The goal of Data Exchanger Operations is to ensure that data is accurate, up-to-date, and accessible to those who need it, while also maintaining data security and compliance with relevant regulations. This concept is an important part of IT architecture, as it helps to ensure that data is effectively managed and utilized throughout an organization.&#xA;&#xA;Example: Decision: The Data Exchanger role is operated by a separate entity than Data Consumer and Data Provider.&#xA;Consequence: New entity potentially operating the Data Exchange responsibilities for both Data Consumers and Data Providers&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataExchangerOperationsGoal&#xA;&#xA;ABB name: eira:DataExchangerOperationsGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947517&#xA;&#xA;Name: Architecture Decision Record about Data Exchanger Operations&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947517"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Data Exchanger Operations"/>
+  <properties
+      key="skos:example"
+      value="Decision: The Data Exchanger role is operated by a separate entity than Data Consumer and Data Provider.&#xA;Consequence: New entity potentially operating the Data Exchange responsibilities for both Data Consumers and Data Providers"/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="The Data Exchanger Operations concept refers to the process of exchanging data between different systems or applications within an organization. This can involve transferring data from one database to another, integrating data from multiple sources, or sharing data between different departments or teams. The goal of Data Exchanger Operations is to ensure that data is accurate, up-to-date, and accessible to those who need it, while also maintaining data security and compliance with relevant regulations. This concept is an important part of IT architecture, as it helps to ensure that data is effectively managed and utilized throughout an organization."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataExchangerOperationsGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:DataExchangerOperationsGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Data Exchanger Operations"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

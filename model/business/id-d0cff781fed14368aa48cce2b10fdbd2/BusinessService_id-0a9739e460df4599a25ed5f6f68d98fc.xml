@@ -1,0 +1,54 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Quality"
+    id="id-0a9739e460df4599a25ed5f6f68d98fc"
+    documentation="Definition: Data Quality ABB is a Business Service that enables the implementation of an organization's data quality management capabilities, provisioned via a data quality service delivery mode by, or on behalf of an organization. A Data Quality Business Service comprises any data quality service exposed to ensure the accuracy, completeness, reliability, and timeliness of data within the organization.&#xA;&#xA;Source: EIRA Team&#xA;&#xA;LOST view: OV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataQualityBusinessService&#xA;&#xA;ABB name: egovera:DataQualityBusinessService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataQualityBusinessService&#xA;&#xA;Name: eNotification Digital Public Service&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalPublicBusinessService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataQualityBusinessService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataQualityBusinessService"/>
+  <properties
+      key="dct:title"
+      value="eNotification Digital Public Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataQualityBusinessService"/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="skos:definition"
+      value="Data Quality ABB is a Business Service that enables the implementation of an organization's data quality management capabilities, provisioned via a data quality service delivery mode by, or on behalf of an organization. A Data Quality Business Service comprises any data quality service exposed to ensure the accuracy, completeness, reliability, and timeliness of data within the organization."/>
+  <properties
+      key="eira:view"
+      value="OV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Organisational view [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalPublicBusinessService"/>
+</archimate:BusinessService>

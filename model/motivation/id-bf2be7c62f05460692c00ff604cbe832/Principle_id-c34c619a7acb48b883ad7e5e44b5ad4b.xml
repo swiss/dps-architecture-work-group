@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trust"
+    id="id-c34c619a7acb48b883ad7e5e44b5ad4b"
+    documentation="Definition: Digital Public Services, the organisations behind them and the data managed need to incorporate the relevant mechanism to ensure overall trustworthiness. Trust entails citizens reliance on trustworthy and verifiable digital government applications and services, which fully conform to high-security standards and respond to user needs. Fundamental rights and security should be integrated into all policies with a digital dimension. To foster trust in digital interactions with the public sector, suitable regulatory frameworks that ensure transparency, predictability, security-by-design and, where necessary, reinforcement or adjustment of existing provisions must be provided. The principle has a horizontal approach, where it affects the adoption of legal measures, organisational mechanisms, and technical means to ensure services are part of a network of trustworthiness interactions. At the legal level, relevant and binding legislation needs to be put in place to ensure legal interoperability and guarantee that trust is the base of data interactions (exchange, processing, etc amongst digital public services).At the technical level, mechanisms, tools and standards should be part of processes certification that data exchange involving all stakeholders, is saved, with integrity and trustable. &quot;&quot;&#xA;&#xA;Source: Digital trust, from Shaping Europe’s digital future&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/trust&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/trust&#xA;&#xA;ABB name: elap:TrustPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Trust&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:TrustPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Trust"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/trust"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="Digital trust, from Shaping Europe’s digital future"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/trust"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="Digital Public Services, the organisations behind them and the data managed need to incorporate the relevant mechanism to ensure overall trustworthiness. Trust entails citizens reliance on trustworthy and verifiable digital government applications and services, which fully conform to high-security standards and respond to user needs. Fundamental rights and security should be integrated into all policies with a digital dimension. To foster trust in digital interactions with the public sector, suitable regulatory frameworks that ensure transparency, predictability, security-by-design and, where necessary, reinforcement or adjustment of existing provisions must be provided. The principle has a horizontal approach, where it affects the adoption of legal measures, organisational mechanisms, and technical means to ensure services are part of a network of trustworthiness interactions. At the legal level, relevant and binding legislation needs to be put in place to ensure legal interoperability and guarantee that trust is the base of data interactions (exchange, processing, etc amongst digital public services).At the technical level, mechanisms, tools and standards should be part of processes certification that data exchange involving all stakeholders, is saved, with integrity and trustable. &quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

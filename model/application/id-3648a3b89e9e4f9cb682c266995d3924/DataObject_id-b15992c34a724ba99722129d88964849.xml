@@ -1,0 +1,47 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Syntax Mapping Catalogue"
+    id="id-b15992c34a724ba99722129d88964849"
+    documentation="Definition: Data Syntax Mapping Catalogue ABB is an Data Object bridging the differences between two systems, or data models, so that when data is moved from a source, it is accurate and usable at the destination.&#xA;&#xA;Source: Inspired in Digital Strategy Europe&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/library/study-mapping-data-flows&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataSyntaxMappingCatalogueDataObject&#xA;&#xA;ABB name: eira:DataSyntaxMappingCatalogueDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataSyntaxMappingCatalogueDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataSyntaxMappingCatalogueDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:DataSyntaxMappingCatalogueDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Syntax Mapping Catalogue ABB is an Data Object bridging the differences between two systems, or data models, so that when data is moved from a source, it is accurate and usable at the destination."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Digital Strategy Europe"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/library/study-mapping-data-flows"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataSyntaxMappingCatalogueDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

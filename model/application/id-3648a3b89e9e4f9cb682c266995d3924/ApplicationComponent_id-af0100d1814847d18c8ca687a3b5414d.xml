@@ -1,0 +1,49 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Administration Single Window"
+    id="id-af0100d1814847d18c8ca687a3b5414d"
+    documentation="Definition: Public Administration Single Window Component ABB is an Application Component that enables the implementation of the procedures to submit information and documents with a single entry point to fulfil all regulatory requirements.&#xA;&#xA;Source: United Nations&#xA;&#xA;Source reference: https://tfig.unece.org/contents/single-window-concept.htm&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Mi Carpeta Ciudadana Carpeta Ciudadana is a personal online space that facilitates your relationship with public administrations. https://carpetaciudadana.gob.es/carpeta/clave.htm&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Public Administration Single Window Application Component ABB is salient for technical interoperability because it implements the platform that realises the service, meaning that includes the tool for administrations and stakeholders (citizens and businesses) to share documentation, information or relevant data. As the platform and services must be compliant with all regulatory aspects depending on the domain of the public service, it can enable interoperability between other public services by allowing regulation compliance of the data provided. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicAdministrationSingleWindowApplicationComponent&#xA;&#xA;ABB name: eira:PublicAdministrationSingleWindowApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicAdministrationSingleWindowApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PublicAdministrationSingleWindowApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicAdministrationSingleWindowApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Public Administration Single Window Component ABB is an Application Component that enables the implementation of the procedures to submit information and documents with a single entry point to fulfil all regulatory requirements."/>
+  <properties
+      key="eira:definitionSource"
+      value="United Nations"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://tfig.unece.org/contents/single-window-concept.htm"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Mi Carpeta Ciudadana Carpeta Ciudadana is a personal online space that facilitates your relationship with public administrations. https://carpetaciudadana.gob.es/carpeta/clave.htm"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Public Administration Single Window Application Component ABB is salient for technical interoperability because it implements the platform that realises the service, meaning that includes the tool for administrations and stakeholders (citizens and businesses) to share documentation, information or relevant data. As the platform and services must be compliant with all regulatory aspects depending on the domain of the public service, it can enable interoperability between other public services by allowing regulation compliance of the data provided. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PublicAdministrationSingleWindowApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

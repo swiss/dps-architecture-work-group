@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Federated Identity Provider"
+    id="id-a4f81e6ae13f43f28697cd02db536fb3"
+    documentation="Definition: Federated Identity Provider ABB is a Technology Service that enables users to access multiple applications and services across different organizations or domains using a single set of credentials&#xA;&#xA;Source: Inpired in eIDAS&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/eidas-regulation&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Federated Identity can be achieved by implementing the OpenID Connect Federation specification.  https://openid.net/specs/openid-connect-federation-1_0.html&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Federated Identity Provider ABB is salient for technical interoperability because it conforms to the network of identity provider systems to distribute the transference and identification of stakeholders to access and make use of public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FederatedIdentityProviderTechnologyService&#xA;&#xA;ABB name: eira:FederatedIdentityProviderTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/FederatedIdentityProviderTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/FederatedIdentityProviderTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:FederatedIdentityProviderTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Federated Identity Provider ABB is a Technology Service that enables users to access multiple applications and services across different organizations or domains using a single set of credentials"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inpired in eIDAS"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/eidas-regulation"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Federated Identity can be achieved by implementing the OpenID Connect Federation specification.  https://openid.net/specs/openid-connect-federation-1_0.html"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Federated Identity Provider ABB is salient for technical interoperability because it conforms to the network of identity provider systems to distribute the transference and identification of stakeholders to access and make use of public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/FederatedIdentityProviderTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

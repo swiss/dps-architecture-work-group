@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usability"
+    id="id-76a8f738f22045679625b64a9a0bb2dd"
+    documentation="Definition: Usability is a non-functional requirement that refers to the ease of use and learnability of a software system. It encompasses factors such as user interface design, navigation, and accessibility, and aims to ensure that the system is intuitive and efficient for users to interact with. Usability is important for ensuring user satisfaction, reducing errors and frustration, and ultimately improving the overall user experience.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Usability is a non-functional requirement that refers to the ease of use and learnability of a system or application. It encompasses various aspects such as user interface design, navigation, and user experience. &#xA;&#xA;Usability is an important consideration for any system or application as it directly impacts user satisfaction and productivity. A system that is difficult to use or navigate can lead to frustration and errors, which can ultimately result in decreased productivity and user adoption.&#xA;&#xA;To ensure that a system meets the usability requirement, it is important to consider the needs and expectations of the users. This can be achieved through user research and testing, as well as incorporating user feedback throughout the development process. &#xA;&#xA;Usability can also be measured through various metrics such as task completion time, error rates, and user satisfaction surveys. These metrics can help identify areas for improvement and ensure that the system is meeting the needs of its users.&#xA;&#xA;Overall, the usability non-functional requirement is an important consideration for any system or application and should be addressed throughout the development process to ensure user satisfaction and productivity.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Usability' could be that the software application should have a clear and intuitive user interface that is easy to navigate and understand, even for users who are not technically proficient. This could include features such as clear labeling of buttons and menus, consistent design elements throughout the application, and the ability to customize the interface to suit individual user preferences. Additionally, the application should be responsive and fast, with minimal lag or delays when performing tasks or loading data.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/UsabilityRequirement&#xA;&#xA;ABB name: eira:UsabilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/UsabilityRequirement&#xA;&#xA;Name: Usability Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/UsabilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Usability Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Usability' could be that the software application should have a clear and intuitive user interface that is easy to navigate and understand, even for users who are not technically proficient. This could include features such as clear labeling of buttons and menus, consistent design elements throughout the application, and the ability to customize the interface to suit individual user preferences. Additionally, the application should be responsive and fast, with minimal lag or delays when performing tasks or loading data."/>
+  <properties
+      key="skos:definition"
+      value="Usability is a non-functional requirement that refers to the ease of use and learnability of a software system. It encompasses factors such as user interface design, navigation, and accessibility, and aims to ensure that the system is intuitive and efficient for users to interact with. Usability is important for ensuring user satisfaction, reducing errors and frustration, and ultimately improving the overall user experience."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Usability is a non-functional requirement that refers to the ease of use and learnability of a system or application. It encompasses various aspects such as user interface design, navigation, and user experience. &#xA;&#xA;Usability is an important consideration for any system or application as it directly impacts user satisfaction and productivity. A system that is difficult to use or navigate can lead to frustration and errors, which can ultimately result in decreased productivity and user adoption.&#xA;&#xA;To ensure that a system meets the usability requirement, it is important to consider the needs and expectations of the users. This can be achieved through user research and testing, as well as incorporating user feedback throughout the development process. &#xA;&#xA;Usability can also be measured through various metrics such as task completion time, error rates, and user satisfaction surveys. These metrics can help identify areas for improvement and ensure that the system is meeting the needs of its users.&#xA;&#xA;Overall, the usability non-functional requirement is an important consideration for any system or application and should be addressed throughout the development process to ensure user satisfaction and productivity."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/UsabilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:UsabilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

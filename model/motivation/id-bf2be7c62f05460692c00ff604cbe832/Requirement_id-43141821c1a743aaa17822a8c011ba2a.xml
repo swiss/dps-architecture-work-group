@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agility"
+    id="id-43141821c1a743aaa17822a8c011ba2a"
+    documentation="Definition: Agility is an IT non-functional requirement that refers to the ability of a system to adapt quickly and easily to changing business needs or market conditions. It involves the system's ability to respond to new requirements, integrate with other systems, and scale up or down as needed. An agile system is one that can be easily modified or updated without disrupting the overall functionality of the system. This requirement is important for businesses that need to stay competitive and responsive to changing market conditions.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Agility is a non-functional requirement that refers to the ability of an IT system to respond quickly and effectively to changing business needs and market conditions. This requirement is closely related to the concept of flexibility, which involves the ability to adapt to new situations and requirements.&#xA;&#xA;To meet the Agility requirement, an IT system must be designed with a high degree of modularity, scalability, and interoperability. It should be able to integrate easily with other systems and technologies, and should be able to support a wide range of business processes and workflows.&#xA;&#xA;In addition, an Agile IT system should be designed with a focus on continuous improvement and innovation. This means that it should be able to evolve and adapt over time, incorporating new features and functionality as needed to meet changing business needs.&#xA;&#xA;To achieve these goals, an Agile IT system should be built using modern software development methodologies such as Agile or DevOps. It should also be designed with a high degree of automation, including automated testing, deployment, and monitoring.&#xA;&#xA;Overall, the Agility requirement is an important consideration for any IT system, as it can help to ensure that the system remains relevant and effective in the face of changing business needs and market conditions. By following the TOGAF guidelines and documentation, IT architects and designers can create systems that are both flexible and adaptable, and that can support the evolving needs of the organization over time.&#xA;&#xA;Example: One example of an IT non-functional requirement for agility could be the ability for a software system to quickly adapt to changing business requirements or market conditions. This could involve the ability to easily add or modify features, integrate with new technologies, or scale up or down as needed. The system should also be able to respond quickly to user feedback and incorporate changes into future releases.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgilityRequirement&#xA;&#xA;ABB name: eira:AgilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgilityRequirement&#xA;&#xA;Name: Agility Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AgilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Agility Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of an IT non-functional requirement for agility could be the ability for a software system to quickly adapt to changing business requirements or market conditions. This could involve the ability to easily add or modify features, integrate with new technologies, or scale up or down as needed. The system should also be able to respond quickly to user feedback and incorporate changes into future releases."/>
+  <properties
+      key="skos:definition"
+      value="Agility is an IT non-functional requirement that refers to the ability of a system to adapt quickly and easily to changing business needs or market conditions. It involves the system's ability to respond to new requirements, integrate with other systems, and scale up or down as needed. An agile system is one that can be easily modified or updated without disrupting the overall functionality of the system. This requirement is important for businesses that need to stay competitive and responsive to changing market conditions."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Agility is a non-functional requirement that refers to the ability of an IT system to respond quickly and effectively to changing business needs and market conditions. This requirement is closely related to the concept of flexibility, which involves the ability to adapt to new situations and requirements.&#xA;&#xA;To meet the Agility requirement, an IT system must be designed with a high degree of modularity, scalability, and interoperability. It should be able to integrate easily with other systems and technologies, and should be able to support a wide range of business processes and workflows.&#xA;&#xA;In addition, an Agile IT system should be designed with a focus on continuous improvement and innovation. This means that it should be able to evolve and adapt over time, incorporating new features and functionality as needed to meet changing business needs.&#xA;&#xA;To achieve these goals, an Agile IT system should be built using modern software development methodologies such as Agile or DevOps. It should also be designed with a high degree of automation, including automated testing, deployment, and monitoring.&#xA;&#xA;Overall, the Agility requirement is an important consideration for any IT system, as it can help to ensure that the system remains relevant and effective in the face of changing business needs and market conditions. By following the TOGAF guidelines and documentation, IT architects and designers can create systems that are both flexible and adaptable, and that can support the evolving needs of the organization over time."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AgilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:AgilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

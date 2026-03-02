@@ -1,0 +1,46 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External Service"
+    id="id-9305c5b779524e8b806f0cb788154529"
+    documentation="Definition: External Service ABB is a Technology Service that enables the procedures to offer services that are delivered by a third-party organization or vendor.&#xA;&#xA;Source: Inspired in Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/esp-external-services-provider&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The External Service ABB is salient for organizational and semantic interoperability because it establishes the business rules and responsibilities to share digital services on the use of the public administration to complement the existing ones. This ABB also provides standardised data exchange models to share the information provided by external services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ExternalServiceTechnologyService&#xA;&#xA;ABB name: eira:ExternalServiceTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ExternalServiceTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ExternalServiceTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:ExternalServiceTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="External Service ABB is a Technology Service that enables the procedures to offer services that are delivered by a third-party organization or vendor."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/esp-external-services-provider"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The External Service ABB is salient for organizational and semantic interoperability because it establishes the business rules and responsibilities to share digital services on the use of the public administration to complement the existing ones. This ABB also provides standardised data exchange models to share the information provided by external services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ExternalServiceTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

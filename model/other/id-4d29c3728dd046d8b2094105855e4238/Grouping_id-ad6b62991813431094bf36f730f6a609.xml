@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution Scalability Architecture Decision Catalogue"
+    id="id-ad6b62991813431094bf36f730f6a609"
+    documentation="Definition: Digital Solution Scalability Architecture Decision Catalogue ABB is a grouping that covers a range of Architecture Decision Records (ADRs) that are designed to ensure that a system can effectively scale to handle increased workload or user demands. This includes decisions related to horizontal scaling, database sharding, elastic cloud infrastructure, containerization and orchestration, vertical scaling, load balancing strategy, and scalability for growth.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Digital Solution Scalability Architecture Decision Catalogue ABB is a comprehensive collection of ADRs that address various aspects of system scalability. 'Horizontal Scaling' refers to the ability to increase capacity by connecting multiple hardware or software entities to work as a single logical unit. 'Database Sharding' is a type of database partitioning that separates very large databases into smaller, faster, more easily managed parts called data shards. 'Elastic Cloud Infrastructure' refers to the provision of IT infrastructure through the internet on an on-demand, pay-per-use basis. 'Containerization and Orchestration' involves encapsulating or packaging up software code and all its dependencies so that it can run uniformly and consistently on any infrastructure. 'Vertical Scaling' involves adding more resources such as computing power or memory to a server, or replacing one server with a more powerful one. 'Load Balancing Strategy' involves distributing network traffic across multiple servers to ensure no single server becomes overwhelmed with traffic. 'Scalability for Growth' involves designing the system in such a way that it can handle increased workload or user demands in the future.&#xA;&#xA;Example: For instance, a company might decide to adopt a horizontal scaling strategy to handle increased user demands during peak times. This might involve adding more servers to their system to distribute the load more evenly. Similarly, a company with a large, complex database might decide to implement database sharding to improve performance and make the database more manageable. On the other hand, a company expecting rapid growth might decide to adopt an elastic cloud infrastructure to easily scale up or down based on demand.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionScalabilityArchitectureDecisionCatalogueGrouping&#xA;&#xA;ABB name: eira:DigitalSolutionScalabilityArchitectureDecisionCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionScalabilityArchitectureDecisionCatalogueGrouping&#xA;&#xA;Name: Digital Solution Scalability Architecture Decision Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionScalabilityArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionScalabilityArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Digital Solution Scalability Architecture Decision Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionScalabilityArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Digital Solution Scalability Architecture Decision Catalogue ABB is a grouping that covers a range of Architecture Decision Records (ADRs) that are designed to ensure that a system can effectively scale to handle increased workload or user demands. This includes decisions related to horizontal scaling, database sharding, elastic cloud infrastructure, containerization and orchestration, vertical scaling, load balancing strategy, and scalability for growth."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, a company might decide to adopt a horizontal scaling strategy to handle increased user demands during peak times. This might involve adding more servers to their system to distribute the load more evenly. Similarly, a company with a large, complex database might decide to implement database sharding to improve performance and make the database more manageable. On the other hand, a company expecting rapid growth might decide to adopt an elastic cloud infrastructure to easily scale up or down based on demand."/>
+  <properties
+      key="skos:note"
+      value="The Digital Solution Scalability Architecture Decision Catalogue ABB is a comprehensive collection of ADRs that address various aspects of system scalability. 'Horizontal Scaling' refers to the ability to increase capacity by connecting multiple hardware or software entities to work as a single logical unit. 'Database Sharding' is a type of database partitioning that separates very large databases into smaller, faster, more easily managed parts called data shards. 'Elastic Cloud Infrastructure' refers to the provision of IT infrastructure through the internet on an on-demand, pay-per-use basis. 'Containerization and Orchestration' involves encapsulating or packaging up software code and all its dependencies so that it can run uniformly and consistently on any infrastructure. 'Vertical Scaling' involves adding more resources such as computing power or memory to a server, or replacing one server with a more powerful one. 'Load Balancing Strategy' involves distributing network traffic across multiple servers to ensure no single server becomes overwhelmed with traffic. 'Scalability for Growth' involves designing the system in such a way that it can handle increased workload or user demands in the future."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

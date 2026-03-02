@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution Non-Functional Requirements Catalogue"
+    id="id-726afdd8c9bc4310b5dd5d2255093079"
+    documentation="Definition: Interoperability Non-Functional Requirements Catalogue ABB is a Grouping of technical specifications and capabilities that enable different systems, applications, or devices to exchange information and work together seamlessly&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Digital Solution Non-Functional Requirements Catalogue ABB includes various elements such as Extensibility, Observability, Security, Agility, Resiliency, Consistency, Scalability, Availability, Usability, and Durability. Each of these elements has a specific role and importance in the overall system design and operation. For instance, Extensibility refers to the system's ability to accommodate future changes or additions seamlessly, while Observability refers to the system's ability to monitor and analyze its behavior in real-time. Similarly, Security refers to the system's ability to protect itself against unauthorized access and data breaches, while Agility refers to the system's ability to adapt quickly to changing business needs or market conditions. The catalogue also includes various sub-elements under each main element, providing a comprehensive list of non-functional requirements for digital solutions.&#xA;&#xA;Example: An example of applying the Digital Solution Non-Functional Requirements Catalogue ABB could be during the design and development of a new digital banking application. The developers would need to consider various non-functional requirements such as Security (to protect users' financial information), Availability (to ensure the app is always accessible), Usability (to ensure the app is user-friendly), Scalability (to handle increasing number of users), and Extensibility (to easily add new features in the future). Additionally, they would also need to consider sub-elements such as Confidentiality and Integrity under Security, Accessibility and Learnability under Usability, and Disaster Recovery and Recoverability under Resiliency.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionNon-FunctionalRequirementsCatalogueGrouping&#xA;&#xA;ABB name: eira:DigitalSolutionNon-FunctionalRequirementsCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionNon-FunctionalRequirementsCatalogueGrouping&#xA;&#xA;Name: Digital Solution Non-Functional Requirements Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionNon-FunctionalRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionNon-FunctionalRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Digital Solution Non-Functional Requirements Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionNon-FunctionalRequirementsCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Interoperability Non-Functional Requirements Catalogue ABB is a Grouping of technical specifications and capabilities that enable different systems, applications, or devices to exchange information and work together seamlessly"/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of applying the Digital Solution Non-Functional Requirements Catalogue ABB could be during the design and development of a new digital banking application. The developers would need to consider various non-functional requirements such as Security (to protect users' financial information), Availability (to ensure the app is always accessible), Usability (to ensure the app is user-friendly), Scalability (to handle increasing number of users), and Extensibility (to easily add new features in the future). Additionally, they would also need to consider sub-elements such as Confidentiality and Integrity under Security, Accessibility and Learnability under Usability, and Disaster Recovery and Recoverability under Resiliency."/>
+  <properties
+      key="skos:note"
+      value="The Digital Solution Non-Functional Requirements Catalogue ABB includes various elements such as Extensibility, Observability, Security, Agility, Resiliency, Consistency, Scalability, Availability, Usability, and Durability. Each of these elements has a specific role and importance in the overall system design and operation. For instance, Extensibility refers to the system's ability to accommodate future changes or additions seamlessly, while Observability refers to the system's ability to monitor and analyze its behavior in real-time. Similarly, Security refers to the system's ability to protect itself against unauthorized access and data breaches, while Agility refers to the system's ability to adapt quickly to changing business needs or market conditions. The catalogue also includes various sub-elements under each main element, providing a comprehensive list of non-functional requirements for digital solutions."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

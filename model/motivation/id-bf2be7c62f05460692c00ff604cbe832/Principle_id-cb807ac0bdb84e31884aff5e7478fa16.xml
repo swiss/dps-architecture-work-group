@@ -1,0 +1,48 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administrative Simplification&#xA;"
+    id="id-cb807ac0bdb84e31884aff5e7478fa16"
+    documentation="Definition: Where possible, public administrations should seek to streamline and simplify their administrative processes by improving them or eliminating any that do not provide public value. Administrative simplification means, where possible, streamlining and simplifying administrative processes by improving them or eliminating anything that does not provide public value. Administrative simplification can help businesses and citizens to reduce the administrative burden of complying with EU legislation or national obligations.Digitisation of public services should take place in accordance with the following concepts:• digital-by-default, whenever appropriate, so that there is at least one digital channel available for accessing and using a given European public service;• digital-first which means that priority is given to using public services via digital channels while applying the multi-channel delivery concept and the no-wrong-door policy, i.e. physical and digital channels co-exist. Simplify processes and use digital channels whenever appropriate for thedelivery of European public services, to respond promptly and with highquality to users’ requests and reduce the administrative burden on publicadministrations, businesses and citizens.&quot;&quot;&#xA;&#xA;Source: Administrative Simplification Underlying Principle (10) of the European Interoperability Framework (EIF)&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/administrative-simplification&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/administrative-simplification&#xA;&#xA;ABB name: elap:administrative-simplification&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Administrative Simplification&#xA;&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:administrative-simplification"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/administrative-simplification"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="dct:title"
+      value="Administrative Simplification&#xA;"/>
+  <properties
+      key="eira:definitionSource"
+      value="Administrative Simplification Underlying Principle (10) of the European Interoperability Framework (EIF)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/administrative-simplification"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVA-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:definition"
+      value="Where possible, public administrations should seek to streamline and simplify their administrative processes by improving them or eliminating any that do not provide public value. Administrative simplification means, where possible, streamlining and simplifying administrative processes by improving them or eliminating anything that does not provide public value. Administrative simplification can help businesses and citizens to reduce the administrative burden of complying with EU legislation or national obligations.Digitisation of public services should take place in accordance with the following concepts:• digital-by-default, whenever appropriate, so that there is at least one digital channel available for accessing and using a given European public service;• digital-first which means that priority is given to using public services via digital channels while applying the multi-channel delivery concept and the no-wrong-door policy, i.e. physical and digital channels co-exist. Simplify processes and use digital channels whenever appropriate for thedelivery of European public services, to respond promptly and with highquality to users’ requests and reduce the administrative burden on publicadministrations, businesses and citizens.&quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

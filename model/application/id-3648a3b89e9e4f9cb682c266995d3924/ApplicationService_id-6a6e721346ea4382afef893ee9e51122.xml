@@ -1,0 +1,51 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Certification eSignature Service"
+    id="id-6a6e721346ea4382afef893ee9e51122"
+    documentation="Definition: The Digital Certification eSignature Service enables users to securely sign electronic documents using digital certificates. It leverages cryptographic techniques to ensure the integrity, authenticity, and non-repudiation of digitally signed documents. This service provides a user-friendly interface accessible via the web, allowing users to upload their documents, apply their digital signature, and generate a digitally signed version. It utilizes digital certificate authorities to issue and manage digital certificates, providing a trusted framework for electronic signatures. The Digital Certification eSignature Service enhances document security, eliminates the need for physical signatures, and supports the digital transformation of business processes.&#xA;&#xA;Source: ETSI&#xA;&#xA;Source reference: https://www.etsi.org/deliver/etsi_ts/102700_102799/10277801/01.01.01_60/ts_10277801v010101p.pdf&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: TVA-Trust Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalCertificationESignatureServiceApplicationService&#xA;&#xA;ABB name: egovera:DigitalCertificationESignatureServiceApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DigitalCertificationESignatureServiceApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/E-SignatureVerificationAndValidationApplicationService&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="The Digital Certification eSignature Service enables users to securely sign electronic documents using digital certificates. It leverages cryptographic techniques to ensure the integrity, authenticity, and non-repudiation of digitally signed documents. This service provides a user-friendly interface accessible via the web, allowing users to upload their documents, apply their digital signature, and generate a digitally signed version. It utilizes digital certificate authorities to issue and manage digital certificates, providing a trusted framework for electronic signatures. The Digital Certification eSignature Service enhances document security, eliminates the need for physical signatures, and supports the digital transformation of business processes."/>
+  <properties
+      key="eira:definitionSource"
+      value="ETSI"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.etsi.org/deliver/etsi_ts/102700_102799/10277801/01.01.01_60/ts_10277801v010101p.pdf"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DigitalCertificationESignatureServiceApplicationService"/>
+  <properties
+      key="dct:type"
+      value="egovera:DigitalCertificationESignatureServiceApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Trust Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Trust Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DigitalCertificationESignatureServiceApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/E-SignatureVerificationAndValidationApplicationService"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:ApplicationService>

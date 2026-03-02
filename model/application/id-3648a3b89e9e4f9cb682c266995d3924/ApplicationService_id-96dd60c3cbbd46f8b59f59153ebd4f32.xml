@@ -1,0 +1,51 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Containers Orchestrator"
+    id="id-96dd60c3cbbd46f8b59f59153ebd4f32"
+    documentation="Definition: Containers Orchestrator is a software tool or platform that automates the deployment, management, and scaling of containerized applications. It provides a centralized control plane to efficiently manage and coordinate the deployment and operation of containers across a cluster of machines or nodes.&#xA;&#xA;Source: Wikipedia&#xA;&#xA;Source reference: https://en.wikipedia.org/wiki/Container_orchestration&#xA;&#xA;Additional information: Containers Orchestrator simplifies the management of containerized applications by abstracting away the underlying infrastructure complexities. It enables efficient resource utilization, load balancing, high availability, and fault tolerance. The orchestrator handles tasks such as container scheduling, service discovery, networking, storage management, and health monitoring. It allows developers to focus on application development and deployment, while ensuring scalability, resilience, and ease of management.&#xA;&#xA;Example: One popular example of a Containers Orchestrator is Kubernetes. It provides a robust and scalable platform for managing containerized applications. With Kubernetes, developers can define the desired state of their application using declarative configuration files, and the orchestrator takes care of deploying and managing the containers accordingly. It offers features like automatic scaling, rolling updates, service discovery, and load balancing, making it easier to deploy and manage applications in a distributed environment.&#xA;&#xA;LOST view: TVA-Containerization Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ContainersOrchestratorApplicationService&#xA;&#xA;ABB name: egovera:ContainersOrchestratorApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ContainersOrchestratorApplicationService&#xA;&#xA;Name: Containers Orchestrator Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ContainersOrchestratorApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ContainersOrchestratorApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Containers Orchestrator Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:ContainersOrchestratorApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="Containers Orchestrator is a software tool or platform that automates the deployment, management, and scaling of containerized applications. It provides a centralized control plane to efficiently manage and coordinate the deployment and operation of containers across a cluster of machines or nodes."/>
+  <properties
+      key="eira:definitionSource"
+      value="Wikipedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://en.wikipedia.org/wiki/Container_orchestration"/>
+  <properties
+      key="skos:example"
+      value="One popular example of a Containers Orchestrator is Kubernetes. It provides a robust and scalable platform for managing containerized applications. With Kubernetes, developers can define the desired state of their application using declarative configuration files, and the orchestrator takes care of deploying and managing the containers accordingly. It offers features like automatic scaling, rolling updates, service discovery, and load balancing, making it easier to deploy and manage applications in a distributed environment."/>
+  <properties
+      key="skos:note"
+      value="Containers Orchestrator simplifies the management of containerized applications by abstracting away the underlying infrastructure complexities. It enables efficient resource utilization, load balancing, high availability, and fault tolerance. The orchestrator handles tasks such as container scheduling, service discovery, networking, storage management, and health monitoring. It allows developers to focus on application development and deployment, while ensuring scalability, resilience, and ease of management."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Containerization Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

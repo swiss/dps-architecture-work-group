@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scalability Requirements Catalogue"
+    id="id-89073caaca77448cb5b4e4581324e1a0"
+    documentation="Definition: Scalability Requirements Catalogue ABB is a grouping that covers a range of non-functional IT requirements that are critical for ensuring the scalability, performance, and efficiency of a system or application. It includes elements such as Traffic Pattern, Elasticity, and Latency, each of which plays a key role in determining how well a system can handle user traffic and respond to changes in demand.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Scalability Requirements Catalogue ABB is a comprehensive collection of non-functional requirements that are essential for the design and operation of scalable IT systems. The 'Traffic Pattern' element refers to the expected volume and frequency of user traffic, which helps in planning the necessary infrastructure and resources. 'Elasticity' refers to the system's ability to scale up or down based on demand, ensuring optimal performance and cost-efficiency. 'Latency', on the other hand, refers to the time delay between a request and response, which is a crucial factor in the overall user experience. By considering these elements, IT professionals can design systems that are robust, scalable, and efficient, meeting the needs of users while optimizing resource utilization.&#xA;&#xA;Example: For instance, a video streaming service needs to consider all these elements in their system design. The 'Traffic Pattern' would help them prepare for peak viewing times and ensure the system can handle the load. 'Elasticity' would allow the service to scale up during popular live events and scale down during off-peak hours, optimizing resource use. Lastly, 'Latency' is critical for providing a smooth viewing experience, as high latency could lead to buffering and lagging issues.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ScalabilityRequirementsCatalogueGrouping&#xA;&#xA;ABB name: eira:ScalabilityRequirementsCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ScalabilityRequirementsCatalogueGrouping&#xA;&#xA;Name: Scalability Requirements Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ScalabilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ScalabilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Scalability Requirements Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:ScalabilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Scalability Requirements Catalogue ABB is a grouping that covers a range of non-functional IT requirements that are critical for ensuring the scalability, performance, and efficiency of a system or application. It includes elements such as Traffic Pattern, Elasticity, and Latency, each of which plays a key role in determining how well a system can handle user traffic and respond to changes in demand."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="For instance, a video streaming service needs to consider all these elements in their system design. The 'Traffic Pattern' would help them prepare for peak viewing times and ensure the system can handle the load. 'Elasticity' would allow the service to scale up during popular live events and scale down during off-peak hours, optimizing resource use. Lastly, 'Latency' is critical for providing a smooth viewing experience, as high latency could lead to buffering and lagging issues."/>
+  <properties
+      key="skos:note"
+      value="The Scalability Requirements Catalogue ABB is a comprehensive collection of non-functional requirements that are essential for the design and operation of scalable IT systems. The 'Traffic Pattern' element refers to the expected volume and frequency of user traffic, which helps in planning the necessary infrastructure and resources. 'Elasticity' refers to the system's ability to scale up or down based on demand, ensuring optimal performance and cost-efficiency. 'Latency', on the other hand, refers to the time delay between a request and response, which is a crucial factor in the overall user experience. By considering these elements, IT professionals can design systems that are robust, scalable, and efficient, meeting the needs of users while optimizing resource utilization."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

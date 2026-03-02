@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Disaster recovery"
+    id="id-0c4a6b036e36401aae36fc93f923e16e"
+    documentation="Definition: Disaster recovery is an IT non-functional requirement that ensures that a system can recover from any catastrophic event or disaster, such as natural disasters, power outages, or cyber-attacks. This requirement involves creating a plan and implementing strategies to minimize the impact of such events on the system's functionality and data. The disaster recovery plan should include backup and recovery procedures, redundant systems, and failover mechanisms to ensure that the system can quickly and efficiently recover from any disaster. The goal of disaster recovery is to minimize downtime, data loss, and ensure business continuity.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Disaster Recovery is a non-functional requirement that refers to the ability of an IT system to recover from a catastrophic event or disaster. This requirement is essential for ensuring the continuity of business operations and minimizing the impact of disruptions on the organization.&#xA;&#xA;The Disaster Recovery requirement includes the following elements:&#xA;&#xA;1. Recovery Time Objective (RTO): This refers to the maximum amount of time that the IT system can be down before it must be restored to full functionality. The RTO is typically measured in hours or days and is determined by the criticality of the system to the business.&#xA;&#xA;2. Recovery Point Objective (RPO): This refers to the maximum amount of data loss that the organization can tolerate in the event of a disaster. The RPO is typically measured in minutes or hours and is determined by the criticality of the data to the business.&#xA;&#xA;3. Backup and Recovery Procedures: This refers to the processes and procedures that are in place to backup and restore the IT system in the event of a disaster. These procedures must be tested regularly to ensure that they are effective and can be executed quickly and efficiently.&#xA;&#xA;4. Disaster Recovery Plan: This refers to the overall plan that outlines the steps that must be taken to recover the IT system in the event of a disaster. The plan must be comprehensive and include all necessary information, such as contact information for key personnel, backup and recovery procedures, and communication protocols.&#xA;&#xA;5. Testing and Maintenance: This refers to the ongoing testing and maintenance of the Disaster Recovery plan and procedures to ensure that they remain effective and up-to-date. Testing must be conducted regularly to identify any weaknesses or gaps in the plan and to ensure that all personnel are familiar with their roles and responsibilities.&#xA;&#xA;Overall, the Disaster Recovery requirement is critical for ensuring the continuity of business operations in the event of a catastrophic event or disaster. Organizations must ensure that they have a comprehensive plan in place that includes backup and recovery procedures, testing and maintenance, and clear communication protocols to minimize the impact of disruptions on the organization.&#xA;&#xA;Example: In the event of a natural disaster or system failure, the system must be able to recover all data and functionality within 24 hours with minimal data loss.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DisasterRecoveryRequirement&#xA;&#xA;ABB name: eira:DisasterRecoveryRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DisasterrecoveryRequirement&#xA;&#xA;Name: Disaster recovery Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DisasterrecoveryRequirement"/>
+  <properties
+      key="dct:title"
+      value="Disaster recovery Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="In the event of a natural disaster or system failure, the system must be able to recover all data and functionality within 24 hours with minimal data loss."/>
+  <properties
+      key="skos:definition"
+      value="Disaster recovery is an IT non-functional requirement that ensures that a system can recover from any catastrophic event or disaster, such as natural disasters, power outages, or cyber-attacks. This requirement involves creating a plan and implementing strategies to minimize the impact of such events on the system's functionality and data. The disaster recovery plan should include backup and recovery procedures, redundant systems, and failover mechanisms to ensure that the system can quickly and efficiently recover from any disaster. The goal of disaster recovery is to minimize downtime, data loss, and ensure business continuity."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Disaster Recovery is a non-functional requirement that refers to the ability of an IT system to recover from a catastrophic event or disaster. This requirement is essential for ensuring the continuity of business operations and minimizing the impact of disruptions on the organization.&#xA;&#xA;The Disaster Recovery requirement includes the following elements:&#xA;&#xA;1. Recovery Time Objective (RTO): This refers to the maximum amount of time that the IT system can be down before it must be restored to full functionality. The RTO is typically measured in hours or days and is determined by the criticality of the system to the business.&#xA;&#xA;2. Recovery Point Objective (RPO): This refers to the maximum amount of data loss that the organization can tolerate in the event of a disaster. The RPO is typically measured in minutes or hours and is determined by the criticality of the data to the business.&#xA;&#xA;3. Backup and Recovery Procedures: This refers to the processes and procedures that are in place to backup and restore the IT system in the event of a disaster. These procedures must be tested regularly to ensure that they are effective and can be executed quickly and efficiently.&#xA;&#xA;4. Disaster Recovery Plan: This refers to the overall plan that outlines the steps that must be taken to recover the IT system in the event of a disaster. The plan must be comprehensive and include all necessary information, such as contact information for key personnel, backup and recovery procedures, and communication protocols.&#xA;&#xA;5. Testing and Maintenance: This refers to the ongoing testing and maintenance of the Disaster Recovery plan and procedures to ensure that they remain effective and up-to-date. Testing must be conducted regularly to identify any weaknesses or gaps in the plan and to ensure that all personnel are familiar with their roles and responsibilities.&#xA;&#xA;Overall, the Disaster Recovery requirement is critical for ensuring the continuity of business operations in the event of a catastrophic event or disaster. Organizations must ensure that they have a comprehensive plan in place that includes backup and recovery procedures, testing and maintenance, and clear communication protocols to minimize the impact of disruptions on the organization."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DisasterRecoveryRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:DisasterRecoveryRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

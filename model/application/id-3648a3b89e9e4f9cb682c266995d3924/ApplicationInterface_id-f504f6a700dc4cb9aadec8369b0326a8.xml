@@ -1,0 +1,48 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geo-Localization"
+    id="id-f504f6a700dc4cb9aadec8369b0326a8"
+    documentation="Definition: The Geo-localization Application Service is a web service that provides functionality for determining and retrieving the geographic location of a device, user, or point of interest using various data sources and techniques. It enables applications to integrate location-based features and services, such as mapping, routing, proximity search, and geofencing, into their functionality. The Geo-localization Application Service utilizes a combination of technologies, including GPS, IP geolocation, Wi-Fi positioning, cellular network data, and geospatial algorithms, to accurately determine and track the location information. It offers a standardized and accessible interface for developers to query and utilize location data in their applications, allowing for enhanced user experiences, targeted services, and location-aware functionality&#xA;&#xA;Source: European Location Framework (ELF)&#xA;&#xA;Source reference: https://www.elfproject.eu/&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/Geo-LocalizationApplicationInterface&#xA;&#xA;ABB name: egovera:Geo-LocalizationApplicationInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/Geo-LocalizationApplicationInterface&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/WebServiceApplicationInterface&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="The Geo-localization Application Service is a web service that provides functionality for determining and retrieving the geographic location of a device, user, or point of interest using various data sources and techniques. It enables applications to integrate location-based features and services, such as mapping, routing, proximity search, and geofencing, into their functionality. The Geo-localization Application Service utilizes a combination of technologies, including GPS, IP geolocation, Wi-Fi positioning, cellular network data, and geospatial algorithms, to accurately determine and track the location information. It offers a standardized and accessible interface for developers to query and utilize location data in their applications, allowing for enhanced user experiences, targeted services, and location-aware functionality"/>
+  <properties
+      key="eira:definitionSource"
+      value="European Location Framework (ELF)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.elfproject.eu/"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/Geo-LocalizationApplicationInterface"/>
+  <properties
+      key="dct:type"
+      value="egovera:Geo-LocalizationApplicationInterface"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Management Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Application Integration Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/Geo-LocalizationApplicationInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/WebServiceApplicationInterface"/>
+</archimate:ApplicationInterface>

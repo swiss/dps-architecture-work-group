@@ -1,0 +1,47 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Data Policy Catalogue"
+    id="id-8546f32c10634915a05b03ea9f3fd025"
+    documentation="Definition: Security Data Policy Catalogue ABB is a grouping that covers a range of policies and guidelines related to the security and management of data within an organization. The catalogue includes elements such as 'Permission Policy', which are designed to govern the authorization and access rights granted to individuals or roles within a system or organization.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Security Data Policy Catalogue ABB is a comprehensive collection of data security policies, each with its own specific purpose and application. For instance, the 'Permission Policy' is a set of rules, guidelines, and controls that dictate the specific permissions and privileges assigned to different entities within an organization. This policy is crucial in ensuring appropriate access control and maintaining the confidentiality, integrity, and availability of resources or information. The catalogue serves as a reference and guide for organizations to establish, implement, and manage their data security policies effectively.&#xA;&#xA;Example: An example of an application of the Security Data Policy Catalogue ABB is in the management of user permissions within an organization. The 'Permission Policy' element of the catalogue would be used to define the access rights of different roles within the organization, ensuring that each individual has the appropriate level of access to the system and its resources. This could include specifying that only certain roles have the ability to view, edit, or delete specific data, thereby protecting the integrity and confidentiality of the data.&#xA;&#xA;LOST view: SV-Governance Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SecurityDataPolicyCatalogueGrouping&#xA;&#xA;ABB name: egovera:SecurityDataPolicyCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SecurityDataPolicyCatalogueGrouping&#xA;&#xA;Name: Security Data Policy Catalogue Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/SecurityDataPolicyCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/SecurityDataPolicyCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Security Data Policy Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:SecurityDataPolicyCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Security Data Policy Catalogue ABB is a grouping that covers a range of policies and guidelines related to the security and management of data within an organization. The catalogue includes elements such as 'Permission Policy', which are designed to govern the authorization and access rights granted to individuals or roles within a system or organization."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of an application of the Security Data Policy Catalogue ABB is in the management of user permissions within an organization. The 'Permission Policy' element of the catalogue would be used to define the access rights of different roles within the organization, ensuring that each individual has the appropriate level of access to the system and its resources. This could include specifying that only certain roles have the ability to view, edit, or delete specific data, thereby protecting the integrity and confidentiality of the data."/>
+  <properties
+      key="skos:note"
+      value="The Security Data Policy Catalogue ABB is a comprehensive collection of data security policies, each with its own specific purpose and application. For instance, the 'Permission Policy' is a set of rules, guidelines, and controls that dictate the specific permissions and privileges assigned to different entities within an organization. This policy is crucial in ensuring appropriate access control and maintaining the confidentiality, integrity, and availability of resources or information. The catalogue serves as a reference and guide for organizations to establish, implement, and manage their data security policies effectively."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

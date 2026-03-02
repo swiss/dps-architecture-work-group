@@ -1,0 +1,49 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Model"
+    id="id-9fec22e6672747689750437eaa82680e"
+    documentation="Definition: Data Model ABB is a Data Object aiming to be a collection of entities, their properties and the relationships among them, which focus at formally representing a domain, a concept or a real-world thing.&#xA;&#xA;Source: ISA2 - SEMIC Action &#xA;&#xA;Source reference: https://joinup.ec.europa.eu/sites/default/files/methodology_and_tools_for_metadata_governance_and_management_for_eu_institutions.pdf&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ESPD - Exchange data model - The ESPD Exchange Data Model was designed to implement the data requirements expressed in the Annex 2 of the COMMISSION IMPLEMENTING REGULATION (EU) 2016/7 of 5 January 2016 (from now on &quot;the Annex to the Regulation 2016/7&quot;), establishing the standard form for the European Single Document. Additionally to these requirements, the model took also into account the Information Requirements Model specified by the CEN/BII-Workshops.[3] (namely Workshop 3), and the latest developments relating to the Virtual Company Dossier (VCD) in e-Sens.[4].&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Interoperability Saliency: The Data Model ABB is salient for semantic interoperability because it ensures compatible interpretations of data exchange as specified in the document &quot;Methodology and tools for metadata governance and management for EU Institutions&quot;, developed under the SEMIC action of the ISA Programme: &quot;Whilst technological developments offer various means to automate the exchange of information, technological developments alone cannot guarantee a greater interoperability between information systems. A fundamental aspect is the need for common data standards: primarily data models and reference data [...]&quot;.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataModelDataObject&#xA;&#xA;ABB name: eira:DataModelDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataModelDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataModelDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:DataModelDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Model ABB is a Data Object aiming to be a collection of entities, their properties and the relationships among them, which focus at formally representing a domain, a concept or a real-world thing."/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2 - SEMIC Action "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/sites/default/files/methodology_and_tools_for_metadata_governance_and_management_for_eu_institutions.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Model ABB is salient for semantic interoperability because it ensures compatible interpretations of data exchange as specified in the document &quot;Methodology and tools for metadata governance and management for EU Institutions&quot;, developed under the SEMIC action of the ISA Programme: &quot;Whilst technological developments offer various means to automate the exchange of information, technological developments alone cannot guarantee a greater interoperability between information systems. A fundamental aspect is the need for common data standards: primarily data models and reference data [...]&quot;."/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ESPD - Exchange data model - The ESPD Exchange Data Model was designed to implement the data requirements expressed in the Annex 2 of the COMMISSION IMPLEMENTING REGULATION (EU) 2016/7 of 5 January 2016 (from now on &quot;the Annex to the Regulation 2016/7&quot;), establishing the standard form for the European Single Document. Additionally to these requirements, the model took also into account the Information Requirements Model specified by the CEN/BII-Workshops.[3] (namely Workshop 3), and the latest developments relating to the Virtual Company Dossier (VCD) in e-Sens.[4]."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataModelDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

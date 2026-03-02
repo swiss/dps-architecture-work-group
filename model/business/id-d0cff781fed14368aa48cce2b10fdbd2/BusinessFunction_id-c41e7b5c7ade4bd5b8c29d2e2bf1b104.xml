@@ -1,0 +1,49 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Public Service Provision"
+    id="id-c41e7b5c7ade4bd5b8c29d2e2bf1b104"
+    documentation="Definition: Digital Public Service Provision ABB is a Business Function representing the delivery of services through digital channels aiming at incresing transparency, efficiency and responsiveness of public organizations&#xA;&#xA;Source: [OECD, Springer, EC Digital Public Service Provision Needs document]&#xA;&#xA;Source reference: [https://www.oecd-ilibrary.org/docserver/gov_glance-2017-72-en.pdf?expires=1649771036&amp;id=id&amp;accname=guest&amp;checksum=15BFD2F7E916921236CCF160605A6430, https://joinup.ec.europa.eu/collection/better-legislation-smoother-implementation/document/digital-public-service-provision-needs-digitally-compatible-law-modular-concept-income, https://link.springer.com/chapter/10.1007/978-3-030-91247-5_3]&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Spanish Tax Agency is responsible for providing Digital Public Services on TAX payment. https://sede.agenciatributaria.gob.es/Sede/en_gb/iva.html&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Interoperability Saliency: The Digital Public Service Provision ABB is salient for organizational and semantic interoperability because it offers (i) mechanisms to exchange information transparently; (ii) manage the information with needed security and trust; (iii) combine and harmonise information coming from multiple data stores to give service to the different agents (or stakeholders)&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceProvisionBusinessFunction&#xA;&#xA;ABB name: eira:DigitalPublicServiceProvisionBusinessFunction&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceProvisionBusinessFunction&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceProvisionBusinessFunction"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalPublicServiceProvisionBusinessFunction"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digital Public Service Provision ABB is a Business Function representing the delivery of services through digital channels aiming at incresing transparency, efficiency and responsiveness of public organizations"/>
+  <properties
+      key="eira:definitionSource"
+      value="[OECD, Springer, EC Digital Public Service Provision Needs document]"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="[https://www.oecd-ilibrary.org/docserver/gov_glance-2017-72-en.pdf?expires=1649771036&amp;id=id&amp;accname=guest&amp;checksum=15BFD2F7E916921236CCF160605A6430, https://joinup.ec.europa.eu/collection/better-legislation-smoother-implementation/document/digital-public-service-provision-needs-digitally-compatible-law-modular-concept-income, https://link.springer.com/chapter/10.1007/978-3-030-91247-5_3]"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Spanish Tax Agency is responsible for providing Digital Public Services on TAX payment. https://sede.agenciatributaria.gob.es/Sede/en_gb/iva.html"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Digital Public Service Provision ABB is salient for organizational and semantic interoperability because it offers (i) mechanisms to exchange information transparently; (ii) manage the information with needed security and trust; (iii) combine and harmonise information coming from multiple data stores to give service to the different agents (or stakeholders)"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceProvisionBusinessFunction"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy"
+    id="id-91650330e9414c1aa16666b2981ddabd"
+    documentation="Definition: Privacy is an important non-functional requirement in IT systems that ensures the protection of sensitive information from unauthorized access, use, or disclosure. It involves implementing security measures such as encryption, access controls, and data masking to safeguard personal and confidential data. Privacy also includes compliance with legal and regulatory requirements such as GDPR, HIPAA, and CCPA. Maintaining privacy in IT systems is crucial for building trust with users and protecting their personal information from potential threats.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, guidelines, and documentation, the non-functional requirement of 'Privacy' refers to the ability of a system to protect the confidentiality, integrity, and availability of personal information. This requirement is essential for ensuring that sensitive data is not disclosed to unauthorized parties, and that individuals have control over how their personal information is collected, used, and shared.&#xA;&#xA;To meet the Privacy requirement, the system must comply with relevant laws, regulations, and industry standards related to data protection and privacy. This includes implementing appropriate security measures such as encryption, access controls, and data masking to prevent unauthorized access, modification, or disclosure of personal information.&#xA;&#xA;The system must also provide users with clear and concise privacy policies that explain how their personal information is collected, used, and shared. Users must be given the option to opt-out of data collection or sharing, and their consent must be obtained before any personal information is collected or used.&#xA;&#xA;In addition, the system must have mechanisms in place to detect and respond to privacy breaches. This includes monitoring for unauthorized access or use of personal information, and taking appropriate action to mitigate any potential harm to affected individuals.&#xA;&#xA;Overall, the Privacy non-functional requirement is critical for ensuring that personal information is protected and that individuals have control over their data. By meeting this requirement, the system can build trust with users and stakeholders, and avoid potential legal or reputational risks associated with privacy breaches.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Privacy' could be that the system must ensure that all user data is encrypted and stored securely to prevent unauthorized access or data breaches.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PrivacyRequirement&#xA;&#xA;ABB name: eira:PrivacyRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PrivacyRequirement&#xA;&#xA;Name: Privacy Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PrivacyRequirement"/>
+  <properties
+      key="dct:title"
+      value="Privacy Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Privacy' could be that the system must ensure that all user data is encrypted and stored securely to prevent unauthorized access or data breaches."/>
+  <properties
+      key="skos:definition"
+      value="Privacy is an important non-functional requirement in IT systems that ensures the protection of sensitive information from unauthorized access, use, or disclosure. It involves implementing security measures such as encryption, access controls, and data masking to safeguard personal and confidential data. Privacy also includes compliance with legal and regulatory requirements such as GDPR, HIPAA, and CCPA. Maintaining privacy in IT systems is crucial for building trust with users and protecting their personal information from potential threats."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, guidelines, and documentation, the non-functional requirement of 'Privacy' refers to the ability of a system to protect the confidentiality, integrity, and availability of personal information. This requirement is essential for ensuring that sensitive data is not disclosed to unauthorized parties, and that individuals have control over how their personal information is collected, used, and shared.&#xA;&#xA;To meet the Privacy requirement, the system must comply with relevant laws, regulations, and industry standards related to data protection and privacy. This includes implementing appropriate security measures such as encryption, access controls, and data masking to prevent unauthorized access, modification, or disclosure of personal information.&#xA;&#xA;The system must also provide users with clear and concise privacy policies that explain how their personal information is collected, used, and shared. Users must be given the option to opt-out of data collection or sharing, and their consent must be obtained before any personal information is collected or used.&#xA;&#xA;In addition, the system must have mechanisms in place to detect and respond to privacy breaches. This includes monitoring for unauthorized access or use of personal information, and taking appropriate action to mitigate any potential harm to affected individuals.&#xA;&#xA;Overall, the Privacy non-functional requirement is critical for ensuring that personal information is protected and that individuals have control over their data. By meeting this requirement, the system can build trust with users and stakeholders, and avoid potential legal or reputational risks associated with privacy breaches."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PrivacyRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:PrivacyRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

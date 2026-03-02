@@ -1,0 +1,48 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authorised payment methods metadata"
+    id="id-3d500e79beb24e148f54dcd987746cc7"
+    documentation="Definition: Authorised Payment Methods Metadata refers to structured information that provides details about the various payment methods that are accepted and authorized by a system or platform for financial transactions. It includes attributes such as payment method type, supported currencies, transaction limits, authentication requirements, and any additional metadata that helps define the characteristics and specifications of each payment method. Authorised Payment Methods Metadata enables seamless integration and processing of different payment methods, ensuring secure and efficient financial transactions.&#xA;&#xA;Source: OpenAPI Specification (OAS)&#xA;&#xA;Source reference: https://www.openapis.org/&#xA;&#xA;LOST view: SV-Business Agnostic Metadata&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/AuthorisedPaymentMethodsMetadataDataObject&#xA;&#xA;ABB name: egovera:AuthorisedPaymentMethodsMetadataDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/AuthorisedPaymentMethodsMetadataDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataSetDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="Authorised Payment Methods Metadata refers to structured information that provides details about the various payment methods that are accepted and authorized by a system or platform for financial transactions. It includes attributes such as payment method type, supported currencies, transaction limits, authentication requirements, and any additional metadata that helps define the characteristics and specifications of each payment method. Authorised Payment Methods Metadata enables seamless integration and processing of different payment methods, ensuring secure and efficient financial transactions."/>
+  <properties
+      key="eira:definitionSource"
+      value="OpenAPI Specification (OAS)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.openapis.org/"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/AuthorisedPaymentMethodsMetadataDataObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:AuthorisedPaymentMethodsMetadataDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic Metadata"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/AuthorisedPaymentMethodsMetadataDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataSetDataObject"/>
+</archimate:DataObject>

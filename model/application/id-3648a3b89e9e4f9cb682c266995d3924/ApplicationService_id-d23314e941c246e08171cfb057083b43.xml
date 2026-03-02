@@ -1,0 +1,70 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataspace Connector"
+    id="id-d23314e941c246e08171cfb057083b43"
+    documentation="Definition: Dataspace Connector ABB is an Application Service that enables the easy and trustworthy procedure to share data and work collaboratively with other research institutions.&#xA;&#xA;Source: IDSA&#xA;&#xA;Source reference: https://international-data-spaces-association.github.io/DataspaceConnector/&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Dataspace Connector from the International Data Spaces Association. https://international-data-spaces-association.github.io/DataspaceConnector/&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: TVA-Data Space Enablers [Motivation]&#xA;&#xA;Interoperability Saliency: The Dataspace Connector Application Service ABB is salient for technical interoperability because it provides the way or method, the procedure for different parties (public services, public organisations, etc) to exchange data in a collaborative method. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataspaceConnectorApplicationService&#xA;&#xA;ABB name: eira:DataspaceConnectorApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataspaceConnectorApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataspaceConnectorApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:DataspaceConnectorApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Dataspace Connector ABB is an Application Service that enables the easy and trustworthy procedure to share data and work collaboratively with other research institutions."/>
+  <properties
+      key="eira:definitionSource"
+      value="IDSA"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://international-data-spaces-association.github.io/DataspaceConnector/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The Dataspace Connector from the International Data Spaces Association. https://international-data-spaces-association.github.io/DataspaceConnector/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Dataspace Connector Application Service ABB is salient for technical interoperability because it provides the way or method, the procedure for different parties (public services, public organisations, etc) to exchange data in a collaborative method. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataspaceConnectorApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Data Space Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVA-Dataspace Enablers"/>
+  <properties
+      key="eira:view"
+      value="TVI-Management Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Data Management and Knowledge Discovery Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Trust Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Application Integration Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

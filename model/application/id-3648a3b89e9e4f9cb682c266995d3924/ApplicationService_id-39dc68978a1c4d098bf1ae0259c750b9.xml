@@ -1,0 +1,50 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consent Management"
+    id="id-39dc68978a1c4d098bf1ae0259c750b9"
+    documentation="Definition: A Consent Management Application Service refers to a software solution or service that enables organizations to manage and track user consent for the collection, use, and processing of personal data. It provides a centralized platform for obtaining, recording, and managing consent preferences in compliance with privacy regulations and data protection requirements. The Consent Management Application Service typically includes features such as consent capture, storage, consent preference management, and consent lifecycle tracking.&#xA;&#xA;Source: Gartner&#xA;&#xA;Additional information: Consent Management plays a crucial role in ensuring compliance with data protection regulations, such as the General Data Protection Regulation (GDPR). It requires organizations to implement mechanisms that enable individuals to easily give, withdraw, or modify their consent preferences. This involves providing clear and concise consent requests, offering granular choices for different processing activities, and maintaining an auditable record of consent. Consent Management systems often include features like consent forms, preference centers, and consent lifecycle management to facilitate the effective management of user consent.&#xA;&#xA;Example: An example of Consent Management in practice is a website that presents users with a cookie banner upon their first visit. The banner provides clear information about the types of cookies used, their purposes, and the option to accept or decline their use. The user's choice is recorded and respected throughout their browsing session. Additionally, the website offers a preference center where users can review and modify their consent preferences at any time. This ensures that the website is transparent, respects user choices, and complies with applicable data protection regulations.&#xA;&#xA;LOST view: TVA-Privacy Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ConsentManagementApplicationService&#xA;&#xA;ABB name: egovera:ConsentManagementApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ConsentManagementApplicationService&#xA;&#xA;Name: Consent Management Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ConsentManagementApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ConsentManagementApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Consent Management Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:ConsentManagementApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="A Consent Management Application Service refers to a software solution or service that enables organizations to manage and track user consent for the collection, use, and processing of personal data. It provides a centralized platform for obtaining, recording, and managing consent preferences in compliance with privacy regulations and data protection requirements. The Consent Management Application Service typically includes features such as consent capture, storage, consent preference management, and consent lifecycle tracking."/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of Consent Management in practice is a website that presents users with a cookie banner upon their first visit. The banner provides clear information about the types of cookies used, their purposes, and the option to accept or decline their use. The user's choice is recorded and respected throughout their browsing session. Additionally, the website offers a preference center where users can review and modify their consent preferences at any time. This ensures that the website is transparent, respects user choices, and complies with applicable data protection regulations."/>
+  <properties
+      key="skos:note"
+      value="Consent Management plays a crucial role in ensuring compliance with data protection regulations, such as the General Data Protection Regulation (GDPR). It requires organizations to implement mechanisms that enable individuals to easily give, withdraw, or modify their consent preferences. This involves providing clear and concise consent requests, offering granular choices for different processing activities, and maintaining an auditable record of consent. Consent Management systems often include features like consent forms, preference centers, and consent lifecycle management to facilitate the effective management of user consent."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Privacy Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

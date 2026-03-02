@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Learnability"
+    id="id-ddd5298b35974d8081b6f0d38a54a891"
+    documentation="Definition: Learnability is an important non-functional requirement in IT that refers to the capability to learn and understand how to use a system or application. It is a measure of how quickly and efficiently users can become proficient in using the system, without requiring extensive training or support. Learnability is essential for ensuring user satisfaction and productivity, as well as reducing the risk of errors and mistakes. A system with good learnability should have clear and intuitive interfaces, consistent design patterns, and well-organized documentation and help resources.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Learnability is a non-functional requirement that refers to the ease with which users can learn to use a system or application. This requirement is essential for ensuring that users can quickly and easily understand how to use the system, reducing the need for extensive training and support.&#xA;&#xA;The Learnability requirement is typically addressed during the design and development phases of a project, with a focus on creating user-friendly interfaces, clear and concise documentation, and intuitive navigation. This requirement is closely related to other non-functional requirements, such as Usability, Accessibility, and User Experience (UX), which all contribute to the overall ease of use and satisfaction of the system.&#xA;&#xA;To ensure that the Learnability requirement is met, the TOGAF documentation recommends conducting user testing and feedback sessions throughout the development process. This allows developers to gather feedback from users and make adjustments to the system as needed to improve its ease of use and learnability.&#xA;&#xA;Overall, the Learnability requirement is critical for ensuring that users can quickly and easily learn to use a system or application, reducing the need for extensive training and support and improving overall user satisfaction.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Learnability' could be for a new software application to have a user-friendly interface that is easy to navigate and understand, allowing users to quickly learn how to use the application without requiring extensive training or support. This could include clear and concise instructions, intuitive design elements, and helpful tooltips or pop-ups to guide users through the application's features and functionality. The goal of this requirement would be to minimize the learning curve for users and increase overall adoption and satisfaction with the software.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LearnabilityRequirement&#xA;&#xA;ABB name: eira:LearnabilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LearnabilityRequirement&#xA;&#xA;Name: Learnability Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LearnabilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Learnability Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Learnability' could be for a new software application to have a user-friendly interface that is easy to navigate and understand, allowing users to quickly learn how to use the application without requiring extensive training or support. This could include clear and concise instructions, intuitive design elements, and helpful tooltips or pop-ups to guide users through the application's features and functionality. The goal of this requirement would be to minimize the learning curve for users and increase overall adoption and satisfaction with the software."/>
+  <properties
+      key="skos:definition"
+      value="Learnability is an important non-functional requirement in IT that refers to the capability to learn and understand how to use a system or application. It is a measure of how quickly and efficiently users can become proficient in using the system, without requiring extensive training or support. Learnability is essential for ensuring user satisfaction and productivity, as well as reducing the risk of errors and mistakes. A system with good learnability should have clear and intuitive interfaces, consistent design patterns, and well-organized documentation and help resources."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Learnability is a non-functional requirement that refers to the ease with which users can learn to use a system or application. This requirement is essential for ensuring that users can quickly and easily understand how to use the system, reducing the need for extensive training and support.&#xA;&#xA;The Learnability requirement is typically addressed during the design and development phases of a project, with a focus on creating user-friendly interfaces, clear and concise documentation, and intuitive navigation. This requirement is closely related to other non-functional requirements, such as Usability, Accessibility, and User Experience (UX), which all contribute to the overall ease of use and satisfaction of the system.&#xA;&#xA;To ensure that the Learnability requirement is met, the TOGAF documentation recommends conducting user testing and feedback sessions throughout the development process. This allows developers to gather feedback from users and make adjustments to the system as needed to improve its ease of use and learnability.&#xA;&#xA;Overall, the Learnability requirement is critical for ensuring that users can quickly and easily learn to use a system or application, reducing the need for extensive training and support and improving overall user satisfaction."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LearnabilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:LearnabilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

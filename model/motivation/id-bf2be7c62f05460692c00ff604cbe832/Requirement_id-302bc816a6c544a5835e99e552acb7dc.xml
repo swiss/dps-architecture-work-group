@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pluggability"
+    id="id-302bc816a6c544a5835e99e552acb7dc"
+    documentation="Definition: Pluggability is an IT non-functional requirement that refers to the ability of a system to easily integrate with other systems or components without requiring significant modifications to the existing codebase. This requirement ensures that the system can be easily extended or customized by adding or removing components, modules, or plugins, without affecting the overall functionality of the system. Pluggability is essential for systems that need to be scalable, flexible, and adaptable to changing business requirements, as it allows for easy integration with third-party tools and technologies.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Pluggability is a non-functional requirement that refers to the ability of a system or application to easily integrate with other systems or components without requiring significant modifications to the existing architecture. This requirement is closely related to the concept of interoperability, which is the ability of different systems to work together seamlessly.&#xA;&#xA;Pluggability is an important non-functional requirement for modern IT systems, as it allows organizations to easily integrate new technologies and components into their existing infrastructure. This can help to reduce costs, improve efficiency, and enhance the overall functionality of the system.&#xA;&#xA;To achieve pluggability, IT systems must be designed with a modular architecture that allows for easy integration of new components. This can be achieved through the use of standard interfaces, protocols, and APIs that enable different systems to communicate with each other.&#xA;&#xA;In addition, pluggability requires that IT systems be designed with a high degree of flexibility and scalability. This means that the system must be able to adapt to changing requirements and accommodate new components as they are added.&#xA;&#xA;Overall, pluggability is an important non-functional requirement for IT systems that enables organizations to easily integrate new technologies and components into their existing infrastructure. By designing systems with a modular architecture and a high degree of flexibility, organizations can achieve pluggability and reap the benefits of a more efficient and effective IT infrastructure.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Pluggability' could be the ability of a software application to seamlessly integrate with third-party plugins or modules. For instance, a content management system (CMS) should be able to support various plugins for search engine optimization (SEO), social media integration, and e-commerce functionality. The pluggability requirement ensures that the software can be easily extended and customized to meet the specific needs of the users without requiring significant modifications to the core codebase.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PluggabilityRequirement&#xA;&#xA;ABB name: eira:PluggabilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PluggabilityRequirement&#xA;&#xA;Name: Pluggability Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PluggabilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Pluggability Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Pluggability' could be the ability of a software application to seamlessly integrate with third-party plugins or modules. For instance, a content management system (CMS) should be able to support various plugins for search engine optimization (SEO), social media integration, and e-commerce functionality. The pluggability requirement ensures that the software can be easily extended and customized to meet the specific needs of the users without requiring significant modifications to the core codebase."/>
+  <properties
+      key="skos:definition"
+      value="Pluggability is an IT non-functional requirement that refers to the ability of a system to easily integrate with other systems or components without requiring significant modifications to the existing codebase. This requirement ensures that the system can be easily extended or customized by adding or removing components, modules, or plugins, without affecting the overall functionality of the system. Pluggability is essential for systems that need to be scalable, flexible, and adaptable to changing business requirements, as it allows for easy integration with third-party tools and technologies."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Pluggability is a non-functional requirement that refers to the ability of a system or application to easily integrate with other systems or components without requiring significant modifications to the existing architecture. This requirement is closely related to the concept of interoperability, which is the ability of different systems to work together seamlessly.&#xA;&#xA;Pluggability is an important non-functional requirement for modern IT systems, as it allows organizations to easily integrate new technologies and components into their existing infrastructure. This can help to reduce costs, improve efficiency, and enhance the overall functionality of the system.&#xA;&#xA;To achieve pluggability, IT systems must be designed with a modular architecture that allows for easy integration of new components. This can be achieved through the use of standard interfaces, protocols, and APIs that enable different systems to communicate with each other.&#xA;&#xA;In addition, pluggability requires that IT systems be designed with a high degree of flexibility and scalability. This means that the system must be able to adapt to changing requirements and accommodate new components as they are added.&#xA;&#xA;Overall, pluggability is an important non-functional requirement for IT systems that enables organizations to easily integrate new technologies and components into their existing infrastructure. By designing systems with a modular architecture and a high degree of flexibility, organizations can achieve pluggability and reap the benefits of a more efficient and effective IT infrastructure."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PluggabilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:PluggabilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

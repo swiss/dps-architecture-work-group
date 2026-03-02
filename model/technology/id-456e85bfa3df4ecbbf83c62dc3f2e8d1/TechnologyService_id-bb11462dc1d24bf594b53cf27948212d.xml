@@ -1,0 +1,52 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Databricks"
+    id="id-bb11462dc1d24bf594b53cf27948212d"
+    documentation="Definition: Databriks ABB is a Technology Service that enables the procedures of a collaborative workspace to process large amounts of public administration data&#xA;&#xA;Source: Inspired in Databriks&#xA;&#xA;Source reference: https://docs.databricks.com/introduction/index.html&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): IOStack is an H2020 funded by the European Commission that implemented Databricks as the tool for processing large amounts of data. https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5ae65ba9a&amp;appId=PPGMS&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Databriks ABB is salient for semantic interoperability because it permits to break of public administration siloes through the construction of shared spaces to process and analyse data from different sources and domains.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DatabricksTechnologyService&#xA;&#xA;ABB name: eira:DatabricksTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DatabricksTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DatabricksTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:DatabricksTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Databriks ABB is a Technology Service that enables the procedures of a collaborative workspace to process large amounts of public administration data"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Databriks"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://docs.databricks.com/introduction/index.html"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): IOStack is an H2020 funded by the European Commission that implemented Databricks as the tool for processing large amounts of data. https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5ae65ba9a&amp;appId=PPGMS"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Databriks ABB is salient for semantic interoperability because it permits to break of public administration siloes through the construction of shared spaces to process and analyse data from different sources and domains."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DatabricksTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

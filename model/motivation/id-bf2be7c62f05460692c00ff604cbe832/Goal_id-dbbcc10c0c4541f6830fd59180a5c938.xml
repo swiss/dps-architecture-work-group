@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asynchronous Procesing"
+    id="id-dbbcc10c0c4541f6830fd59180a5c938"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Asynchronous Procesing&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: Asynchronous Processing is a concept in IT architecture that involves executing tasks or processes independently of each other, without waiting for the completion of one task before starting another. This approach allows for greater efficiency and scalability, as multiple tasks can be executed simultaneously without causing delays or bottlenecks. Asynchronous processing is commonly used in web applications, where multiple users may be accessing the same system at the same time, and in distributed systems, where tasks may be spread across multiple servers or nodes. It is also used in event-driven architectures, where processes are triggered by specific events or messages. Overall, asynchronous processing is a key component of modern IT architectures, enabling faster, more efficient, and more scalable systems.&#xA;&#xA;Example: Decision: Integrating Apache Kafka and Apache Spark for processing large volumes of data in near real-time.&#xA;Rationale: Kafka allows for the ingestion of high-volume data streams, while Spark provides a distributed processing framework for performing complex analytics and transformations on the data.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AsynchronousProcesingGoal&#xA;&#xA;ABB name: eira:AsynchronousProcesingGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947673&#xA;&#xA;Name: Architecture Decision Record about Asynchronous Procesing&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947673"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Asynchronous Procesing"/>
+  <properties
+      key="skos:example"
+      value="Decision: Integrating Apache Kafka and Apache Spark for processing large volumes of data in near real-time.&#xA;Rationale: Kafka allows for the ingestion of high-volume data streams, while Spark provides a distributed processing framework for performing complex analytics and transformations on the data."/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="Asynchronous Processing is a concept in IT architecture that involves executing tasks or processes independently of each other, without waiting for the completion of one task before starting another. This approach allows for greater efficiency and scalability, as multiple tasks can be executed simultaneously without causing delays or bottlenecks. Asynchronous processing is commonly used in web applications, where multiple users may be accessing the same system at the same time, and in distributed systems, where tasks may be spread across multiple servers or nodes. It is also used in event-driven architectures, where processes are triggered by specific events or messages. Overall, asynchronous processing is a key component of modern IT architectures, enabling faster, more efficient, and more scalable systems."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AsynchronousProcesingGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:AsynchronousProcesingGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Asynchronous Procesing"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

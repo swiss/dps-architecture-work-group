@@ -1,0 +1,50 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisation"
+    id="id-0f4f023733a242e095bd0e3d9b7e7b1f"
+    documentation="Definition: Organization ABB is a Stakeholder that corresponds to a collection of people organized together into a community or other social, commercial or political structure. The group has some common purpose or reason for existence which goes beyond the set of people belonging to it and can act as an Agent. Organizations are often decomposable into hierarchical structures.&#xA;&#xA;Source: SEMIC-CPOV&#xA;&#xA;Source reference: https://semiceu.github.io/CPOV/releases/2.1.0/#Organization&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Any instance of an organisation with a legal personality, e.g. a Business, a Public Organisation, a Consortium, an NGO, etc.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Organization ABB is relevant for behavioural and organizational interoperability because it permits the identification of procedures, stakeholders and intra-company frameworks that facilitate the exchange of data, information and knowledge between digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/OrganisationStakeholder&#xA;&#xA;ABB name: eira:OrganisationStakeholder&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/OrganisationStakeholder&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/OrganisationStakeholder"/>
+  <properties
+      key="dct:type"
+      value="eira:OrganisationStakeholder"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Organization ABB is a Stakeholder that corresponds to a collection of people organized together into a community or other social, commercial or political structure. The group has some common purpose or reason for existence which goes beyond the set of people belonging to it and can act as an Agent. Organizations are often decomposable into hierarchical structures."/>
+  <properties
+      key="eira:definitionSource"
+      value="SEMIC-CPOV"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://semiceu.github.io/CPOV/releases/2.1.0/#Organization"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Any instance of an organisation with a legal personality, e.g. a Business, a Public Organisation, a Consortium, an NGO, etc."/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Organization ABB is relevant for behavioural and organizational interoperability because it permits the identification of procedures, stakeholders and intra-company frameworks that facilitate the exchange of data, information and knowledge between digital public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/OrganisationStakeholder"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Stakeholder>

@@ -1,0 +1,51 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Container"
+    id="id-eabd2123e92f40bf8916a7f55b7d3b23"
+    documentation="Definition: A container is a lightweight and portable software package that includes everything needed to run an application, including the code, runtime, system tools, libraries, and settings. Containers provide a consistent and isolated environment for applications to run, ensuring that they can run reliably across different computing environments.&#xA;&#xA;Source: Techopedia&#xA;&#xA;Source reference: https://www.techopedia.com/definition/28536/container&#xA;&#xA;Additional information: Containers are based on the concept of virtualization but differ in their approach. While traditional virtualization involves running multiple operating systems on a single physical machine, containers share the host operating system kernel and only isolate the application processes. This makes containers more lightweight, faster to start, and more efficient in terms of resource utilization. Containers are commonly used in modern IT infrastructure, enabling developers to package applications with their dependencies and deploy them consistently across different environments, such as development, testing, and production.&#xA;&#xA;Example: An example of container usage is in microservices architecture, where an application is broken down into smaller, loosely coupled services. Each service can be packaged as a container, allowing for independent development, scaling, and deployment. Containers also find applications in cloud computing, where they enable efficient resource utilization and easy migration of applications between different cloud providers.&#xA;&#xA;LOST view: TVA-Containerization Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ContainerApplicationService&#xA;&#xA;ABB name: egovera:ContainerApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ContainerApplicationService&#xA;&#xA;Name: Container Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ContainerApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ContainerApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Container Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:ContainerApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="A container is a lightweight and portable software package that includes everything needed to run an application, including the code, runtime, system tools, libraries, and settings. Containers provide a consistent and isolated environment for applications to run, ensuring that they can run reliably across different computing environments."/>
+  <properties
+      key="eira:definitionSource"
+      value="Techopedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.techopedia.com/definition/28536/container"/>
+  <properties
+      key="skos:example"
+      value="An example of container usage is in microservices architecture, where an application is broken down into smaller, loosely coupled services. Each service can be packaged as a container, allowing for independent development, scaling, and deployment. Containers also find applications in cloud computing, where they enable efficient resource utilization and easy migration of applications between different cloud providers."/>
+  <properties
+      key="skos:note"
+      value="Containers are based on the concept of virtualization but differ in their approach. While traditional virtualization involves running multiple operating systems on a single physical machine, containers share the host operating system kernel and only isolate the application processes. This makes containers more lightweight, faster to start, and more efficient in terms of resource utilization. Containers are commonly used in modern IT infrastructure, enabling developers to package applications with their dependencies and deploy them consistently across different environments, such as development, testing, and production."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Containerization Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

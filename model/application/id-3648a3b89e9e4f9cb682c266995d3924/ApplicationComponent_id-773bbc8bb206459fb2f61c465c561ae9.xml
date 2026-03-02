@@ -1,0 +1,52 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy"
+    id="id-773bbc8bb206459fb2f61c465c561ae9"
+    documentation="Definition: Privacy ABB is an Application Component that enables the implementation of functionalities such as storing, securing, anonymising, pseudonymising, rectifying and erasing personal data.&#xA;&#xA;Source: ePrivacy Regulation&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/eprivacy-regulation&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): SOLVIT - Solvit is a mailbox service for the access, rectification or deletion of personal data.(http://ec.europa.eu/solvit/privacy-statement/#maincontentSec8)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Privacy Component ABB  is salient for interoperability because &quot;security and privacy are primary concerns in the provision of public services&quot; (EIF) and, as stated in EIF Recommendation 15: &quot;Define a common security and privacy framework and establish processes for public services to ensure secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PrivacyApplicationComponent&#xA;&#xA;ABB name: eira:PrivacyApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PrivacyApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PrivacyApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:PrivacyApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Privacy ABB is an Application Component that enables the implementation of functionalities such as storing, securing, anonymising, pseudonymising, rectifying and erasing personal data."/>
+  <properties
+      key="eira:definitionSource"
+      value="ePrivacy Regulation"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/eprivacy-regulation"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): SOLVIT - Solvit is a mailbox service for the access, rectification or deletion of personal data.(http://ec.europa.eu/solvit/privacy-statement/#maincontentSec8)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Privacy Component ABB  is salient for interoperability because &quot;security and privacy are primary concerns in the provision of public services&quot; (EIF) and, as stated in EIF Recommendation 15: &quot;Define a common security and privacy framework and establish processes for public services to ensure secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PrivacyApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

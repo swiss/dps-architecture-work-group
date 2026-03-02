@@ -1,0 +1,48 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citizen Participation"
+    id="id-b2567fd00151492b82fb5f7e8a968eb5"
+    documentation="Definition: Citizen Participation is a principle of European Data Sharing that emphasizes the involvement of citizens in decision-making processes related to data sharing. It recognizes the importance of including citizens in discussions, consultations, and collaborations to ensure transparency, accountability, and democratic governance in data sharing initiatives.&#xA;&#xA;Source: European Commission&#xA;&#xA;Source reference: https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en&#xA;&#xA;Additional information: Citizen Participation promotes the active engagement of individuals, communities, and civil society organizations in shaping data sharing policies, frameworks, and practices. It aims to foster trust, promote inclusivity, and empower citizens to have a say in how their data is collected, used, and shared. By involving citizens, data sharing initiatives can better address societal needs, protect privacy rights, and ensure that data-driven decisions align with public interests.&#xA;&#xA;Example: An example of Citizen Participation in practice is when a city government initiates a public consultation process to gather input from residents on the use of data collected through smart city sensors. Citizens are invited to provide feedback, express concerns, and suggest potential uses for the data. This participatory approach allows the city to make informed decisions that reflect the needs and preferences of its citizens, ensuring that data sharing initiatives are transparent, accountable, and beneficial to the community as a whole.&#xA;&#xA;LOST view: Architecture Principles view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/CitizenParticipationPrinciple&#xA;&#xA;ABB name: eira:CitizenParticipationPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/CitizenParticipationPrinciple&#xA;&#xA;Name: Citizen Participation&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/ArchitecturePrinciple&#xA;&#xA;">
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/CitizenParticipationPrinciple"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:title"
+      value="Citizen Participation"/>
+  <properties
+      key="dct:type"
+      value="eira:CitizenParticipationPrinciple"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="European Commission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/CitizenParticipationPrinciple"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/ArchitecturePrinciple"/>
+  <properties
+      key="skos:definition"
+      value="Citizen Participation is a principle of European Data Sharing that emphasizes the involvement of citizens in decision-making processes related to data sharing. It recognizes the importance of including citizens in discussions, consultations, and collaborations to ensure transparency, accountability, and democratic governance in data sharing initiatives."/>
+  <properties
+      key="skos:example"
+      value="An example of Citizen Participation in practice is when a city government initiates a public consultation process to gather input from residents on the use of data collected through smart city sensors. Citizens are invited to provide feedback, express concerns, and suggest potential uses for the data. This participatory approach allows the city to make informed decisions that reflect the needs and preferences of its citizens, ensuring that data sharing initiatives are transparent, accountable, and beneficial to the community as a whole."/>
+  <properties
+      key="skos:note"
+      value="Citizen Participation promotes the active engagement of individuals, communities, and civil society organizations in shaping data sharing policies, frameworks, and practices. It aims to foster trust, promote inclusivity, and empower citizens to have a say in how their data is collected, used, and shared. By involving citizens, data sharing initiatives can better address societal needs, protect privacy rights, and ensure that data-driven decisions align with public interests."/>
+</archimate:Principle>

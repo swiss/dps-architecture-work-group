@@ -1,0 +1,49 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Syntax"
+    id="id-b017dfa9d8e045459dd350201feb2171"
+    documentation="Definition: Data Syntax ABB is a Data Object defining the way in which data is put together with appropriate identifiers, delimiters, separator character(s), and other non-data characters to form messages.&#xA;&#xA;Source: ISO &#xA;&#xA;Source reference: https://www.iso.org/obp/ui/#iso:std:iso:14817:-1:ed-1:v1:en:term:4.59&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): XML syntax - XML syntax refers to the rules that determine how an XML application can be written. The XML syntax is very straight forward, and this makes XML very easy to learn. Below are the main points to remember when creating XML documents.(https://www.quackit.com/xml/tutorial/xml_syntax.cfm)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Interoperability Saliency: The Data Syntax ABB is salient for semantic interoperability because it provides the rules establishing how data have to to be written.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataSyntaxDataObject&#xA;&#xA;ABB name: eira:DataSyntaxDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataSyntaxDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataSyntaxDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:DataSyntaxDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Syntax ABB is a Data Object defining the way in which data is put together with appropriate identifiers, delimiters, separator character(s), and other non-data characters to form messages."/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/obp/ui/#iso:std:iso:14817:-1:ed-1:v1:en:term:4.59"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): XML syntax - XML syntax refers to the rules that determine how an XML application can be written. The XML syntax is very straight forward, and this makes XML very easy to learn. Below are the main points to remember when creating XML documents.(https://www.quackit.com/xml/tutorial/xml_syntax.cfm)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Syntax ABB is salient for semantic interoperability because it provides the rules establishing how data have to to be written."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataSyntaxDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

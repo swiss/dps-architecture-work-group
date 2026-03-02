@@ -1,0 +1,48 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Management Console"
+    id="id-e3936a6d481643ac9199de806c37edef"
+    documentation="Definition: Management Console ABB is a Technology Service that enables the procedures to elaborate a centralised interface to manage and monitor digital platforms.&#xA;&#xA;Source: Inspired in the definition provided by relebant cloud service organizations.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Open e-TrustEx. https://joinup.ec.europa.eu/collection/e-trustex/solution/open-e-trustex/about&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Management Console ABB is salient for technical interoperability due to it contributes to consolidating the management and monitoring of public digital services to ensure their availability according to the service level agreements established. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/ManagementConsoleTechnologyService&#xA;&#xA;ABB name: eira:ManagementConsoleTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ManagementConsoleTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ManagementConsoleTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:ManagementConsoleTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Management Console ABB is a Technology Service that enables the procedures to elaborate a centralised interface to manage and monitor digital platforms."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the definition provided by relebant cloud service organizations."/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Open e-TrustEx. https://joinup.ec.europa.eu/collection/e-trustex/solution/open-e-trustex/about"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Management Console ABB is salient for technical interoperability due to it contributes to consolidating the management and monitoring of public digital services to ensure their availability according to the service level agreements established. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ManagementConsoleTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

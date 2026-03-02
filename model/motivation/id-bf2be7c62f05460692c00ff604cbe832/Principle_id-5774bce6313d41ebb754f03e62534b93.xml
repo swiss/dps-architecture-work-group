@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Multilingualism"
+    id="id-5774bce6313d41ebb754f03e62534b93"
+    documentation="Definition: European digital public services are multilingual.&quot;@en, &quot;European public services can potentially be used by anyone in any Member State. So multilingualism needs to be carefully considered when designing them. Citizens across Europe often have problems accessing and using digital public services if these are not available in the languages they speak.&#xA;&#xA;Source: Multilingualism Underlying Principle (9) of the European Interoperability Framework (EIF)&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/multilingualism&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/multilingualism&#xA;&#xA;ABB name: elap:MultilingualismPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Multilingualism&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:MultilingualismPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Multilingualism"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/multilingualism"/>
+  <properties
+      key="skos:definition"
+      value="European digital public services are multilingual.&quot;@en, &quot;European public services can potentially be used by anyone in any Member State. So multilingualism needs to be carefully considered when designing them. Citizens across Europe often have problems accessing and using digital public services if these are not available in the languages they speak."/>
+  <properties
+      key="eira:definitionSource"
+      value="Multilingualism Underlying Principle (9) of the European Interoperability Framework (EIF)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/multilingualism"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

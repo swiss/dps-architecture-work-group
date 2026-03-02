@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence based Public Policy"
+    id="id-f0fbf17b614648e6a9b60570729d0ae9"
+    documentation="Definition: Evidence-based Public Policies are policies designed and periodically reviewed looking at experimental evidences and incontrovertible data. The primary goal is to improve the reliability of advice concerning the efficiency and effectiveness of policy settings and possible alternatives.There are three crucial enabling factors that underpin modern conceptions of evidence-based policy (EBP): high-quality information basis on relevant topic areas, cohorts of professionals with skills in data analysis and policy evaluation, and political incentives for utilising evidence-based analysis and advice in governmental decision-making processes. Public administrations should foster the creation of public policies by: - Promoting the creation and collection of information and knowledge on relevant topics for the administration; - Training and ensuring the evolution and aggregation of professionals knowledgable in all domains that public administrations should legislate,  and elaborate policies; - Actively promoting the creation of public policies based on the analysis and collection of evidence.Additionally, public administrations must put in place mechanisms to review ongoing public policies but also the whole public policy life cycle. &quot;&quot;&#xA;&#xA;Source: Evidence-based policy (EBP)&#xA;&#xA;Source reference: https://www.researchgate.net/publication/242709855_2_Evidence-based_policy_principles_and_requirements&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/evidence-based-public-policy&#xA;&#xA;ABB name: elap:EvidenceBasedPublicPolicyPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Evidence based Public Policy&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:EvidenceBasedPublicPolicyPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Evidence based Public Policy"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/evidence-based-public-policy"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="Evidence-based policy (EBP)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.researchgate.net/publication/242709855_2_Evidence-based_policy_principles_and_requirements"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="Evidence-based Public Policies are policies designed and periodically reviewed looking at experimental evidences and incontrovertible data. The primary goal is to improve the reliability of advice concerning the efficiency and effectiveness of policy settings and possible alternatives.There are three crucial enabling factors that underpin modern conceptions of evidence-based policy (EBP): high-quality information basis on relevant topic areas, cohorts of professionals with skills in data analysis and policy evaluation, and political incentives for utilising evidence-based analysis and advice in governmental decision-making processes. Public administrations should foster the creation of public policies by: - Promoting the creation and collection of information and knowledge on relevant topics for the administration; - Training and ensuring the evolution and aggregation of professionals knowledgable in all domains that public administrations should legislate,  and elaborate policies; - Actively promoting the creation of public policies based on the analysis and collection of evidence.Additionally, public administrations must put in place mechanisms to review ongoing public policies but also the whole public policy life cycle. &quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

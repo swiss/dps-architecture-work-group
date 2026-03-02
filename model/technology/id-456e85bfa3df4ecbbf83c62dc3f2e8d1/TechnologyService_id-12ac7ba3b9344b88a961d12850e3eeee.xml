@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logger"
+    id="id-12ac7ba3b9344b88a961d12850e3eeee"
+    documentation="Definition: Logger ABB is a Technology Service that enables the procedures recording events or messages that occur within a system or application&#xA;&#xA;Source: Inspired in Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/event-fault-and-log-management&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OECD-OPSI- Quality of Public Administrations - A toolbox for practicioners. https://oecd-opsi.org/toolkits/quality-of-public-administration-a-toolbox-for-practitioners/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Logger ABB is salient for semantic and technical interoperability due to it defines the mechanisms to manage messages from the applications to enhance their behavioural understanding in the execution or when unexpected behaviours occur. These mechanisms are based on open specifications for messaging representation and exchange. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/LoggerTechnologyService&#xA;&#xA;ABB name: eira:LoggerTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LoggerTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LoggerTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:LoggerTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Logger ABB is a Technology Service that enables the procedures recording events or messages that occur within a system or application"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/event-fault-and-log-management"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OECD-OPSI- Quality of Public Administrations - A toolbox for practicioners. https://oecd-opsi.org/toolkits/quality-of-public-administration-a-toolbox-for-practitioners/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Logger ABB is salient for semantic and technical interoperability due to it defines the mechanisms to manage messages from the applications to enhance their behavioural understanding in the execution or when unexpected behaviours occur. These mechanisms are based on open specifications for messaging representation and exchange. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LoggerTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

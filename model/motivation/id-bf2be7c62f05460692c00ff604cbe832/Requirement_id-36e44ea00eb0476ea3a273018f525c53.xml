@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accountability"
+    id="id-36e44ea00eb0476ea3a273018f525c53"
+    documentation="Definition: Accountability is an IT non-functional requirement that refers to the ability of a system to track and record the actions of users and processes. This requirement ensures that all activities within the system can be traced back to their source, allowing for transparency and responsibility. Accountability is essential for compliance with regulations and standards, as well as for detecting and preventing fraudulent or malicious activities. It also helps to build trust and confidence in the system by providing a clear audit trail of all actions taken.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Accountability is a non-functional requirement that refers to the ability to trace and audit the actions and decisions made by a system or its users. This requirement ensures that the system can be held responsible for its actions and that there is a clear record of who made what decision and when.&#xA;&#xA;To meet this requirement, the system must have the ability to log and track all user actions and system events. This includes the ability to record user login and logout times, the actions taken by users while logged in, and any system events that occur during operation. The system must also be able to generate reports and audit trails that can be used to trace the actions and decisions made by the system and its users.&#xA;&#xA;In addition, the system must provide mechanisms for controlling access to sensitive data and functionality. This includes the ability to restrict access to certain features or data based on user roles and permissions. The system must also provide mechanisms for enforcing data privacy and security policies to ensure that sensitive data is protected from unauthorized access or disclosure.&#xA;&#xA;Overall, the Accountability non-functional requirement is critical for ensuring that the system is transparent and can be held responsible for its actions. By providing the ability to trace and audit user actions and system events, the system can be used with confidence and trust.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Accountability' could be ensuring that all actions taken by users on a system are logged and traceable to the individual user. This would allow for accountability in the event of any unauthorized or malicious activity on the system.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AccountabilityRequirement&#xA;&#xA;ABB name: eira:AccountabilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AccountabilityRequirement&#xA;&#xA;Name: Accountability Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AccountabilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Accountability Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Accountability' could be ensuring that all actions taken by users on a system are logged and traceable to the individual user. This would allow for accountability in the event of any unauthorized or malicious activity on the system."/>
+  <properties
+      key="skos:definition"
+      value="Accountability is an IT non-functional requirement that refers to the ability of a system to track and record the actions of users and processes. This requirement ensures that all activities within the system can be traced back to their source, allowing for transparency and responsibility. Accountability is essential for compliance with regulations and standards, as well as for detecting and preventing fraudulent or malicious activities. It also helps to build trust and confidence in the system by providing a clear audit trail of all actions taken."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Accountability is a non-functional requirement that refers to the ability to trace and audit the actions and decisions made by a system or its users. This requirement ensures that the system can be held responsible for its actions and that there is a clear record of who made what decision and when.&#xA;&#xA;To meet this requirement, the system must have the ability to log and track all user actions and system events. This includes the ability to record user login and logout times, the actions taken by users while logged in, and any system events that occur during operation. The system must also be able to generate reports and audit trails that can be used to trace the actions and decisions made by the system and its users.&#xA;&#xA;In addition, the system must provide mechanisms for controlling access to sensitive data and functionality. This includes the ability to restrict access to certain features or data based on user roles and permissions. The system must also provide mechanisms for enforcing data privacy and security policies to ensure that sensitive data is protected from unauthorized access or disclosure.&#xA;&#xA;Overall, the Accountability non-functional requirement is critical for ensuring that the system is transparent and can be held responsible for its actions. By providing the ability to trace and audit user actions and system events, the system can be used with confidence and trust."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AccountabilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:AccountabilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

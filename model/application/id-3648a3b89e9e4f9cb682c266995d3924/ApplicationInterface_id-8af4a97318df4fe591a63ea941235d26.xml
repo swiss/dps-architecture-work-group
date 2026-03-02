@@ -1,0 +1,65 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Interface"
+    id="id-8af4a97318df4fe591a63ea941235d26"
+    documentation="Definition: Human Interface ABB is an Application Interface that enables the exchange of data between stakeholders (individuals, public administration or legal entities) and a service. This ABB is a key interoperability enabler (*) for assessing compatible interfaces.&#xA;&#xA;Source: EIA Action &#xA;&#xA;Source reference: https://ec.europa.eu/isa2/eif_en&#xA;&#xA;Synonym: User interface, UI, Graphical User Interface, GUI&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): GrapesJS - GrapesJS is an open-source, multi-purpose, Web Builder Framework which combines different tools and features with the goal to help you (or users of your application) to build HTML templates without any knowledge of coding. It's a perfect solution to replace the common WYSIWYG editors, which are good for content editing but inappropriate for creating HTML structures. You can see it in action with the official demos, but using its API you're able to build your own editors. https://grapesjs.com/&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Human Interface ABB is a key interoperability enabler because it supports to achieve technical behavioral interoperability by enabling the exchange of data, information, and knowledge between digital public services and individuals.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/HumanInterfaceApplicationInterface&#xA;&#xA;ABB name: eira:HumanInterfaceApplicationInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/HumanInterfaceApplicationInterface&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/HumanInterfaceApplicationInterface"/>
+  <properties
+      key="dct:type"
+      value="eira:HumanInterfaceApplicationInterface"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value="User interface, UI, Graphical User Interface, GUI"/>
+  <properties
+      key="skos:definition"
+      value="Human Interface ABB is an Application Interface that enables the exchange of data between stakeholders (individuals, public administration or legal entities) and a service. This ABB is a key interoperability enabler (*) for assessing compatible interfaces."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIA Action "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/eif_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): GrapesJS - GrapesJS is an open-source, multi-purpose, Web Builder Framework which combines different tools and features with the goal to help you (or users of your application) to build HTML templates without any knowledge of coding. It's a perfect solution to replace the common WYSIWYG editors, which are good for content editing but inappropriate for creating HTML structures. You can see it in action with the official demos, but using its API you're able to build your own editors. https://grapesjs.com/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Human Interface ABB is a key interoperability enabler because it supports to achieve technical behavioral interoperability by enabling the exchange of data, information, and knowledge between digital public services and individuals."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:view"
+      value="EIRA Ontology view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperable European Solution viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="REST API viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/HumanInterfaceApplicationInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationInterface>

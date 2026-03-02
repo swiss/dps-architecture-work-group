@@ -1,0 +1,52 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Secure Public Network"
+    id="id-cb58cd44ea6b4b2d81e3dc51d527688e"
+    documentation="Definition: Secure Public Network ABB is a Communication Network that enables access to the public, but is designed and configured to protect against unauthorized access and cyber threats&#xA;&#xA;Source: ISA2 - EIA Action&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/news/isa2-interoperability-solutions-european-public-administrations-first-work-programme-adopted&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): World-Wide-Web (WWW) - The WorldWideWeb (W3) is a wide-area hypermedia information retrieval initiative aiming to give universal access to a large universe of documents.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Secure Public Network ABB is salient for technical interoperability because it set up the network infrastructure to establish secure communications with the public administration services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SecurePublicNetworkCommunicationNetwork&#xA;&#xA;ABB name: eira:SecurePublicNetworkCommunicationNetwork&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SecurePublicNetworkCommunicationNetwork&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SecurePublicNetworkCommunicationNetwork"/>
+  <properties
+      key="dct:type"
+      value="eira:SecurePublicNetworkCommunicationNetwork"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Secure Public Network ABB is a Communication Network that enables access to the public, but is designed and configured to protect against unauthorized access and cyber threats"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2 - EIA Action"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/news/isa2-interoperability-solutions-european-public-administrations-first-work-programme-adopted"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): World-Wide-Web (WWW) - The WorldWideWeb (W3) is a wide-area hypermedia information retrieval initiative aiming to give universal access to a large universe of documents."/>
+  <properties
+      key="eira:iopSaliency"
+      value="Secure Public Network ABB is salient for technical interoperability because it set up the network infrastructure to establish secure communications with the public administration services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SecurePublicNetworkCommunicationNetwork"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:CommunicationNetwork>

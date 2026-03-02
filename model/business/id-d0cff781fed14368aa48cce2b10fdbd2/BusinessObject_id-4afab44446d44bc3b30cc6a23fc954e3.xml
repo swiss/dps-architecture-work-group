@@ -1,0 +1,42 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permission Policy"
+    id="id-4afab44446d44bc3b30cc6a23fc954e3"
+    documentation="Definition: A permission policy can be defined as a set of rules, guidelines, and controls that govern the authorization and access rights granted to individuals or roles within a system or organization. It outlines the specific permissions and privileges assigned to different entities to ensure appropriate access control and maintain the confidentiality, integrity, and availability of resources or information.&#xA;&#xA;Source: ENISA&#xA;&#xA;Source reference: https://resilience.enisa.europa.eu/article-13/guideline-for-minimum-security-measures/Article_13a_ENISA_Technical_Guideline_On_Security_Measures_v2_0.pdf&#xA;&#xA;LOST view: SV-Governance Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/PermissionPolicyBusinessObject&#xA;&#xA;ABB name: egovera:PermissionPolicyBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/PermissionPolicyBusinessObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataPolicy&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="A permission policy can be defined as a set of rules, guidelines, and controls that govern the authorization and access rights granted to individuals or roles within a system or organization. It outlines the specific permissions and privileges assigned to different entities to ensure appropriate access control and maintain the confidentiality, integrity, and availability of resources or information."/>
+  <properties
+      key="eira:definitionSource"
+      value="ENISA"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://resilience.enisa.europa.eu/article-13/guideline-for-minimum-security-measures/Article_13a_ENISA_Technical_Guideline_On_Security_Measures_v2_0.pdf"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/PermissionPolicyBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:PermissionPolicyBusinessObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/PermissionPolicyBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataPolicy"/>
+</archimate:BusinessObject>

@@ -1,0 +1,57 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital-ready Policymaking"
+    id="id-20dc844399054841b341b4cdb0e881f2"
+    documentation="Definition: Digital-ready Policymaking ABB is a Business Process consisting in formulating digital-ready policies and legislation by considering digital aspects from the start of the policy cycle to ensure that they are ready for the digital age, future-proof and interoperable.&#xA;&#xA;Source: Joinup (Digital Ready Policies)&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/better-legislation-smoother-implementation/digital-ready-policymaking&#xA;&#xA;Synonym: Policy Cycle&#xA;&#xA;Additional information: Policies (and legislative acts) are digital-ready if they enable smooth and digital by default policy implementation and foster digital transformation through best use of digital technologies and data. This implies that policymakers work in a multidisciplinary team and consider the following digital-ready components: 1. user-centric processes ready for automation, 2. alignment with digital policies (for example on accessibility, eID...), 3. the once-only principle and the reuse of data, 4. the evolving ICT landscape, 5. innovation and digital technologies, and 6. digital-ready drafting.&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Performance-based Full Policy Cycle for the Digital Single Market (http://www.europarl.europa.eu/RegData/etudes/etudes/join/2013/507457/IPOL-IMCO_ET(2013)507457_EN.pdf). The key features of a performance-based full policy cycle are a clear articulation of policy objectives, the identification and use of quantitative indicators of expected short-term and longer-term policy impacts, the identification of synergies between policies, a much greater use of quantitative data in ex-ante impact assessments, the implementation of robust, data-based, independent ex post assessments of the performance of policies relative to their expected impacts and a wide dissemination of lessons learned in such ex-post performance assessments&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: Enterprise Architecture Framework alignment guidelines viewpoint&#xA;&#xA;Interoperability Saliency: The Public Policy Cycle ABB is salient for the governance  interoperability because it impacts on the design and formulation of public policies, which are implemented through legal acts. Also, the ABB also is salient for the legal interoperability due to it establis the legal actions and directives for public administration services as the case of interoperability principles need to be taken into account during the whole public policy cycle.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/Digital-readyPolicymakingBusinessProcess&#xA;&#xA;ABB name: eira:Digital-readyPolicymakingBusinessProcess&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/Digital-readyPolicymakingBusinessProcess&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/Digital-readyPolicymakingBusinessProcess"/>
+  <properties
+      key="dct:type"
+      value="eira:Digital-readyPolicymakingBusinessProcess"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value="Policy Cycle"/>
+  <properties
+      key="skos:definition"
+      value="Digital-ready Policymaking ABB is a Business Process consisting in formulating digital-ready policies and legislation by considering digital aspects from the start of the policy cycle to ensure that they are ready for the digital age, future-proof and interoperable."/>
+  <properties
+      key="eira:definitionSource"
+      value="Joinup (Digital Ready Policies)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/better-legislation-smoother-implementation/digital-ready-policymaking"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Performance-based Full Policy Cycle for the Digital Single Market (http://www.europarl.europa.eu/RegData/etudes/etudes/join/2013/507457/IPOL-IMCO_ET(2013)507457_EN.pdf). The key features of a performance-based full policy cycle are a clear articulation of policy objectives, the identification and use of quantitative indicators of expected short-term and longer-term policy impacts, the identification of synergies between policies, a much greater use of quantitative data in ex-ante impact assessments, the implementation of robust, data-based, independent ex post assessments of the performance of policies relative to their expected impacts and a wide dissemination of lessons learned in such ex-post performance assessments"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Public Policy Cycle ABB is salient for the governance  interoperability because it impacts on the design and formulation of public policies, which are implemented through legal acts. Also, the ABB also is salient for the legal interoperability due to it establis the legal actions and directives for public administration services as the case of interoperability principles need to be taken into account during the whole public policy cycle."/>
+  <properties
+      key="skos:note"
+      value="Policies (and legislative acts) are digital-ready if they enable smooth and digital by default policy implementation and foster digital transformation through best use of digital technologies and data. This implies that policymakers work in a multidisciplinary team and consider the following digital-ready components: 1. user-centric processes ready for automation, 2. alignment with digital policies (for example on accessibility, eID...), 3. the once-only principle and the reuse of data, 4. the evolving ICT landscape, 5. innovation and digital technologies, and 6. digital-ready drafting."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/Digital-readyPolicymakingBusinessProcess"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:BusinessProcess>

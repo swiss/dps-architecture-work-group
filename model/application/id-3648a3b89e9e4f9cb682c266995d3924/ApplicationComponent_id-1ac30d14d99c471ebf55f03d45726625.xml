@@ -1,0 +1,51 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Extraction, Transformation, and Loading"
+    id="id-1ac30d14d99c471ebf55f03d45726625"
+    documentation="Definition: Data Extraction, Transformation and Loading ABB is an Application Component that enables the implementation of the process of extracting data from various sources, transforming the data to specific data models and loading the data into a target data store.&#xA;&#xA;Source: Inspired in definitions from referent companies of IT sector&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Eurostat SDMX converter - The SDMX Converter is a tool that converts statistical datasets between different formats. It is a Java application which is actively developed by Eurostat and is published as open source software. http://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-converter&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Data Extraction, Transformation, and Loading Component ABB  is salient for technical interoperability  because it enables the implementation of the functionalities to transform internal data structures to common and agreed interoperable formats as stated in the EIF recommendation n° 41: &quot;Establish procedures and processes to integrate the opening of data in your common business processes, working routines, and in the development of new information systems.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataExtractionTransformationAndLoadingApplicationComponent&#xA;&#xA;ABB name: eira:DataExtractionTransformationAndLoadingApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataExtractionTransformationAndLoadingApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataExtractionTransformationAndLoadingApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:DataExtractionTransformationAndLoadingApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Extraction, Transformation and Loading ABB is an Application Component that enables the implementation of the process of extracting data from various sources, transforming the data to specific data models and loading the data into a target data store."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in definitions from referent companies of IT sector"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Eurostat SDMX converter - The SDMX Converter is a tool that converts statistical datasets between different formats. It is a Java application which is actively developed by Eurostat and is published as open source software. http://ec.europa.eu/eurostat/web/sdmx-infospace/sdmx-it-tools/sdmx-converter"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Extraction, Transformation, and Loading Component ABB  is salient for technical interoperability  because it enables the implementation of the functionalities to transform internal data structures to common and agreed interoperable formats as stated in the EIF recommendation n° 41: &quot;Establish procedures and processes to integrate the opening of data in your common business processes, working routines, and in the development of new information systems.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataExtractionTransformationAndLoadingApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

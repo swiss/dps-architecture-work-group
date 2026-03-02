@@ -1,0 +1,51 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataspace Enablers"
+    id="id-1a422cc5076e480db497793fea533e87"
+    documentation="Definition: Data Space Enablers ABB is a Grouping that refers to components and services that support the creation and management of a dataspace.&#xA;&#xA;Source: Inspired in IDSA&#xA;&#xA;Source reference: https://internationaldataspaces.org/why/data-spaces/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The Data Spaces Enablers Grouping ABB is salient for technical interoperability because it comprises the core elements, components, and services required to set up Data Spaces that are interoperable between them. Data Spaces can be part of the environment for the implementation and delivery of interoperable digital public services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataspaceEnablersGrouping&#xA;&#xA;ABB name: eira:DataspaceEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataspaceEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataspaceEnablersGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:DataspaceEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Space Enablers ABB is a Grouping that refers to components and services that support the creation and management of a dataspace."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in IDSA"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://internationaldataspaces.org/why/data-spaces/"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Spaces Enablers Grouping ABB is salient for technical interoperability because it comprises the core elements, components, and services required to set up Data Spaces that are interoperable between them. Data Spaces can be part of the environment for the implementation and delivery of interoperable digital public services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataspaceEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

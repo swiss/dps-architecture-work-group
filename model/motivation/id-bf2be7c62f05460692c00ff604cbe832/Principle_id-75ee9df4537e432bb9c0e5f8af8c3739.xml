@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Openness"
+    id="id-75ee9df4537e432bb9c0e5f8af8c3739"
+    documentation="Definition: In the context of interoperable public services, the concept of openness mainly relates to data, specifications and software. This principle is based on three pillars: the openness of public administrations data, the openness of the software used and implemented and the openness of standards and specifications used to develop digital public services. Refers to the idea that all public data should be freely available for use and reuse by others unless restrictions apply e.g. for the protection of personal data, confidentiality, or intellectual property rights. Also, refers to ensuring a level playing field for open-source software and demonstrating active and fair consideration of using open-source software, taking into account the total cost of ownership of the solution.And last but not least, give preference to open specifications, taking due account of the coverage of functional needs, maturity and market support and innovation.&quot;&quot;&#xA;&#xA;Source: Openness Underlying Principle (2) of the European Interoperability Framework (EIF)&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/2-underlying-principles-european-public-services#2.3&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/openness&#xA;&#xA;ABB name: elap:OpennessPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Openness&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:OpennessPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Openness"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/openness"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="Openness Underlying Principle (2) of the European Interoperability Framework (EIF)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/2-underlying-principles-european-public-services#2.3"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="In the context of interoperable public services, the concept of openness mainly relates to data, specifications and software. This principle is based on three pillars: the openness of public administrations data, the openness of the software used and implemented and the openness of standards and specifications used to develop digital public services. Refers to the idea that all public data should be freely available for use and reuse by others unless restrictions apply e.g. for the protection of personal data, confidentiality, or intellectual property rights. Also, refers to ensuring a level playing field for open-source software and demonstrating active and fair consideration of using open-source software, taking into account the total cost of ownership of the solution.And last but not least, give preference to open specifications, taking due account of the coverage of functional needs, maturity and market support and innovation.&quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

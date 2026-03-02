@@ -1,0 +1,36 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ODRL"
+    id="id-657d5cbdd6e0463d97bc4030772a04b7"
+    documentation="Description: The Organization Ontology is a standardized representation of organizational structures, roles, and relationships within the field of Linked Data and the Semantic Web. It provides a framework for describing and modeling various aspects of organizations, such as their hierarchy, departments, employees, and roles.&#xA;&#xA;Publisher: W3C&#xA;&#xA;Source: https://www.w3.org/TR/vocab-org/&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ODRLDataObject&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ODRLDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/Ontology&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="W3C"/>
+  <properties
+      key="dct:description"
+      value="The Organization Ontology is a standardized representation of organizational structures, roles, and relationships within the field of Linked Data and the Semantic Web. It provides a framework for describing and modeling various aspects of organizations, such as their hierarchy, departments, employees, and roles."/>
+  <properties
+      key="dct:source"
+      value="https://www.w3.org/TR/vocab-org/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ODRLDataObject"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ODRLDataObject"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/Ontology"/>
+</archimate:DataObject>

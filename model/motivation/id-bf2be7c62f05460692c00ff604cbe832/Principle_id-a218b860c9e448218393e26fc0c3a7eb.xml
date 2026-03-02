@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Code of ethics compliance"
+    id="id-a218b860c9e448218393e26fc0c3a7eb"
+    documentation="Definition: Code of ethics compliance refers to the expression of important values and standards that are also to be found in the law, but not only aspects related to legally-binding issues. A code of ethics is a written set of expectations that an organization has for its employees to conduct business in an honest manner. Ethics are values and principles that govern behaviour or conduct. Apart from legislation, the European foundational text \&quot;Treaty on the Functioning of the European Union\&quot; sets up the different terms and relevant aspects for the proper function of the European Union. All public services provided by public administrations under European Union must be aligned and fully compliant with European Union values.  All initiatives and services need to be aligned and compliant with European Union values.&#xA;&#xA;Source: European Ombudsman&#xA;&#xA;Source reference: https://www.ombudsman.europa.eu/en/speech/en/49379;https://ec.europa.eu/commission/presscorner/detail/en/IP_22_452&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/code-ethics-compliance&#xA;&#xA;ABB name: elap:CodeOfEthicsCompliancePrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Code of ethics compliance&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:CodeOfEthicsCompliancePrinciple"/>
+  <properties
+      key="dct:title"
+      value="Code of ethics compliance"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/code-ethics-compliance"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="European Ombudsman"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.ombudsman.europa.eu/en/speech/en/49379;https://ec.europa.eu/commission/presscorner/detail/en/IP_22_452"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="Code of ethics compliance refers to the expression of important values and standards that are also to be found in the law, but not only aspects related to legally-binding issues. A code of ethics is a written set of expectations that an organization has for its employees to conduct business in an honest manner. Ethics are values and principles that govern behaviour or conduct. Apart from legislation, the European foundational text \&quot;Treaty on the Functioning of the European Union\&quot; sets up the different terms and relevant aspects for the proper function of the European Union. All public services provided by public administrations under European Union must be aligned and fully compliant with European Union values.  All initiatives and services need to be aligned and compliant with European Union values."/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

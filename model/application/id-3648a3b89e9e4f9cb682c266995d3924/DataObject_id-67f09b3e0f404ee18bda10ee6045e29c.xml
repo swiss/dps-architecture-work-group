@@ -1,0 +1,49 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master Data"
+    id="id-67f09b3e0f404ee18bda10ee6045e29c"
+    documentation="Definition: Master Data ABB is a Data Object that enables the implementation of non-transactional information to play a key role in the core operation of a business in public administrations and re-used for multiple purposes&#xA;&#xA;Source: European Medicines Agency&#xA;&#xA;Source reference: https://www.ema.europa.eu/en/glossary/master-data#:~:text=Master%20data%20Any%20non-transactional%20information%20considered%20to%20play,product%2C%20organisation%20and%20referential%20%28SPOR%29%20master%20data%20%27.&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU-ERS: Master Data Register. https://circabc.europa.eu/ui/group/3cc8c417-0f2a-4eb4-8ff7-10d60638446a/information&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Interoperability Saliency: The Master Data ABB is a key interoperable enabler for semantic interoperability because it is a core element for digital public services enabling the reuse of relevant data such as identifiers for parties, or locations.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MasterDataDataObject&#xA;&#xA;ABB name: eira:MasterDataDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MasterDataDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/MasterDataDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:MasterDataDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Master Data ABB is a Data Object that enables the implementation of non-transactional information to play a key role in the core operation of a business in public administrations and re-used for multiple purposes"/>
+  <properties
+      key="eira:definitionSource"
+      value="European Medicines Agency"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.ema.europa.eu/en/glossary/master-data#:~:text=Master%20data%20Any%20non-transactional%20information%20considered%20to%20play,product%2C%20organisation%20and%20referential%20%28SPOR%29%20master%20data%20%27."/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU-ERS: Master Data Register. https://circabc.europa.eu/ui/group/3cc8c417-0f2a-4eb4-8ff7-10d60638446a/information"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Master Data ABB is a key interoperable enabler for semantic interoperability because it is a core element for digital public services enabling the reuse of relevant data such as identifiers for parties, or locations."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/MasterDataDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

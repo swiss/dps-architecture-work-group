@@ -1,0 +1,52 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Catalog"
+    id="id-5a7003b6f6064b15b618be77ccc6aeee"
+    documentation="Definition: Data Catalog ABB is a Technology Service that enables the procedures of a centralised metadata repository to provide information about the data assets in a public administration&#xA;&#xA;Source: Inspired in JRC&#xA;&#xA;Source reference: https://data.jrc.ec.europa.eu/about&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Jount Research Centre Data Catalogue. https://data.jrc.ec.europa.eu/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Data Catalog ABB is salient for semantic interoperability because it provides grouped datasets of information enhanced with metadata to promote their discovery, sharing and understanding for other digital services and public administrations&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataCatalogTechnologyService&#xA;&#xA;ABB name: eira:DataCatalogTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataCatalogTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataCatalogTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:DataCatalogTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Catalog ABB is a Technology Service that enables the procedures of a centralised metadata repository to provide information about the data assets in a public administration"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in JRC"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://data.jrc.ec.europa.eu/about"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Jount Research Centre Data Catalogue. https://data.jrc.ec.europa.eu/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Data Catalog ABB is salient for semantic interoperability because it provides grouped datasets of information enhanced with metadata to promote their discovery, sharing and understanding for other digital services and public administrations"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataCatalogTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

@@ -1,0 +1,47 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Translation Item Metadata"
+    id="id-0999ee6adac8486d8cf9c75a82525b46"
+    documentation="Definition: Translation Item Metadata refers to structured information that provides descriptive and contextual details about a translation item or unit of content in a translation process. It includes attributes such as the item's source language, target language, content type, translation status, translator information, and any additional metadata that helps define its characteristics and supports the translation workflow. Translation Item Metadata enables efficient management, tracking, and quality control of translation tasks, ensuring accuracy and consistency across multilingual content.&#xA;&#xA;Source: Based on relevant standards for translation services&#xA;&#xA;LOST view: SV-Business Agnostic Metadata&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TranslationItemMetadataDataObject&#xA;&#xA;ABB name: egovera:TranslationItemMetadataDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TranslationItemMetadataDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataSetDataObject&#xA;&#xA;">
+  <properties
+      key="skos:definition"
+      value="Translation Item Metadata refers to structured information that provides descriptive and contextual details about a translation item or unit of content in a translation process. It includes attributes such as the item's source language, target language, content type, translation status, translator information, and any additional metadata that helps define its characteristics and supports the translation workflow. Translation Item Metadata enables efficient management, tracking, and quality control of translation tasks, ensuring accuracy and consistency across multilingual content."/>
+  <properties
+      key="eira:definitionSource"
+      value="Based on relevant standards for translation services"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/TranslationItemMetadataDataObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:TranslationItemMetadataDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic Metadata"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/TranslationItemMetadataDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataSetDataObject"/>
+</archimate:DataObject>

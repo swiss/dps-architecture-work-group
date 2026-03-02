@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deployability"
+    id="id-d598a38d11de40aab9f81ada7f597488"
+    documentation="Definition: Deployability is an IT non-functional requirement that refers to the ease and efficiency with which software applications can be deployed and installed on different platforms and environments. It involves ensuring that the software can be easily installed, configured, and updated without causing any disruption to the existing system. Deployability is critical for ensuring that software can be quickly and easily rolled out to users, reducing downtime, and minimizing the risk of errors or conflicts. It also helps to ensure that the software can be easily maintained and updated over time, ensuring that it remains secure and up to date with the latest features and functionality.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, guidelines, and documentation, the non-functional requirement of Deployability refers to the ease with which a system or application can be deployed into a production environment. This requirement encompasses a range of factors, including the ease of installation, configuration, and maintenance of the system, as well as the ability to scale the system to meet changing demands.&#xA;&#xA;To meet the Deployability requirement, the system must be designed with a focus on ease of deployment. This can include the use of standard deployment tools and processes, such as automated deployment scripts and configuration management tools. The system must also be designed to be easily configurable, with clear documentation and support for common configuration scenarios.&#xA;&#xA;In addition, the system must be designed to be easily maintainable, with clear documentation and support for common maintenance tasks. This can include the use of automated monitoring and alerting tools, as well as the ability to easily diagnose and resolve issues.&#xA;&#xA;Finally, the system must be designed to be scalable, with the ability to easily add or remove resources as needed to meet changing demands. This can include the use of cloud-based infrastructure, as well as the ability to easily add or remove servers or other resources as needed.&#xA;&#xA;Overall, the Deployability requirement is critical to ensuring that a system or application can be easily and reliably deployed into a production environment, and that it can be easily maintained and scaled to meet changing demands.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Deployability' could be the ability of a software application to be easily installed and configured on different operating systems and hardware configurations without requiring extensive technical knowledge or expertise. This could include features such as automated installation scripts, clear documentation and user guides, and compatibility with common deployment tools and platforms. The goal of this requirement is to ensure that the application can be quickly and efficiently deployed in a variety of environments, reducing the time and effort required for IT teams to set up and maintain the software.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DeployabilityRequirement&#xA;&#xA;ABB name: eira:DeployabilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DeployabilityRequirement&#xA;&#xA;Name: Deployability Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DeployabilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Deployability Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Deployability' could be the ability of a software application to be easily installed and configured on different operating systems and hardware configurations without requiring extensive technical knowledge or expertise. This could include features such as automated installation scripts, clear documentation and user guides, and compatibility with common deployment tools and platforms. The goal of this requirement is to ensure that the application can be quickly and efficiently deployed in a variety of environments, reducing the time and effort required for IT teams to set up and maintain the software."/>
+  <properties
+      key="skos:definition"
+      value="Deployability is an IT non-functional requirement that refers to the ease and efficiency with which software applications can be deployed and installed on different platforms and environments. It involves ensuring that the software can be easily installed, configured, and updated without causing any disruption to the existing system. Deployability is critical for ensuring that software can be quickly and easily rolled out to users, reducing downtime, and minimizing the risk of errors or conflicts. It also helps to ensure that the software can be easily maintained and updated over time, ensuring that it remains secure and up to date with the latest features and functionality."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, guidelines, and documentation, the non-functional requirement of Deployability refers to the ease with which a system or application can be deployed into a production environment. This requirement encompasses a range of factors, including the ease of installation, configuration, and maintenance of the system, as well as the ability to scale the system to meet changing demands.&#xA;&#xA;To meet the Deployability requirement, the system must be designed with a focus on ease of deployment. This can include the use of standard deployment tools and processes, such as automated deployment scripts and configuration management tools. The system must also be designed to be easily configurable, with clear documentation and support for common configuration scenarios.&#xA;&#xA;In addition, the system must be designed to be easily maintainable, with clear documentation and support for common maintenance tasks. This can include the use of automated monitoring and alerting tools, as well as the ability to easily diagnose and resolve issues.&#xA;&#xA;Finally, the system must be designed to be scalable, with the ability to easily add or remove resources as needed to meet changing demands. This can include the use of cloud-based infrastructure, as well as the ability to easily add or remove servers or other resources as needed.&#xA;&#xA;Overall, the Deployability requirement is critical to ensuring that a system or application can be easily and reliably deployed into a production environment, and that it can be easily maintained and scaled to meet changing demands."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DeployabilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:DeployabilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

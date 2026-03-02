@@ -1,0 +1,52 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master Data Policy"
+    id="id-d9d8e52f159a4ba79a06a554fad4e97a"
+    documentation="Definition: Master Data Policy ABB is a Business Object being applied to the authoritative, most accurate data that is available about key business entities, used to establish the context for business transactions and transactional data.&#xA;&#xA;Source: DAMA DM_BOK&#xA;&#xA;Source reference: http://www.dama.org&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EMVO: EMVS Master Data Guide - The EMVS (European Medicines Verification System) requires that OBP’s (OnBoarding Partners) upload both product master data and product batch/pack data. The aim of this guide is to clarify what data is expected to be used for the EMVS master data noting that the long-term goal is to source directly from the IDMP/SPOR system. https://emvo-medicines.eu/new/wp-content/uploads/EMVO_0122_EMVS-Master-Data-Guide-1.pdf&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Interoperability Governance viewpoint&#xA;&#xA;Interoperability Saliency: The Master Data Policy ABB is salient for semantic interoperability because Master Data is used to establish the context for business transactions and transactional data by providing accurate data usually stored and available for reuse by other parties. Its management should be prioritised as stated in the EIF recommendation n° 31: &quot;Put in place an information management strategy at the highest possible level to avoid fragmentation and duplication. Management of metadata, master data and reference data should be prioritised.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MasterDataPolicyBusinessObject&#xA;&#xA;ABB name: eira:MasterDataPolicyBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/MasterDataPolicyBusinessObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/MasterDataPolicyBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="eira:MasterDataPolicyBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Master Data Policy ABB is a Business Object being applied to the authoritative, most accurate data that is available about key business entities, used to establish the context for business transactions and transactional data."/>
+  <properties
+      key="eira:definitionSource"
+      value="DAMA DM_BOK"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://www.dama.org"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EMVO: EMVS Master Data Guide - The EMVS (European Medicines Verification System) requires that OBP’s (OnBoarding Partners) upload both product master data and product batch/pack data. The aim of this guide is to clarify what data is expected to be used for the EMVS master data noting that the long-term goal is to source directly from the IDMP/SPOR system. https://emvo-medicines.eu/new/wp-content/uploads/EMVO_0122_EMVS-Master-Data-Guide-1.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Master Data Policy ABB is salient for semantic interoperability because Master Data is used to establish the context for business transactions and transactional data by providing accurate data usually stored and available for reuse by other parties. Its management should be prioritised as stated in the EIF recommendation n° 31: &quot;Put in place an information management strategy at the highest possible level to avoid fragmentation and duplication. Management of metadata, master data and reference data should be prioritised.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/MasterDataPolicyBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:BusinessObject>

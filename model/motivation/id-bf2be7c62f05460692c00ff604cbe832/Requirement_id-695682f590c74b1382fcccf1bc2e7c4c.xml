@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Confidentiality"
+    id="id-695682f590c74b1382fcccf1bc2e7c4c"
+    documentation="Definition: Confidentiality is a non-functional requirement that ensures that sensitive information is protected from unauthorized access, disclosure, or modification. It is essential for maintaining the privacy and security of data, especially in industries such as healthcare, finance, and government. Confidentiality can be achieved through various measures, such as encryption, access controls, and secure communication channels. It is crucial to ensure that confidential information is only accessible to authorized personnel and is not compromised in any way.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, confidentiality is a non-functional requirement that refers to the protection of sensitive information from unauthorized access, disclosure, or modification. This requirement is critical for ensuring the privacy and security of data, particularly in systems that handle sensitive or confidential information.&#xA;&#xA;To achieve confidentiality, the system must have appropriate security controls in place, such as access controls, encryption, and authentication mechanisms. These controls should be designed to prevent unauthorized access to data, both in transit and at rest, and to ensure that only authorized users can view or modify sensitive information.&#xA;&#xA;In addition, the system should be designed to detect and respond to security breaches or incidents that could compromise confidentiality. This may involve implementing intrusion detection and prevention systems, monitoring access logs, and conducting regular security audits and assessments.&#xA;&#xA;Overall, confidentiality is a key non-functional requirement that must be carefully considered and addressed in any system that handles sensitive or confidential information. By implementing appropriate security controls and monitoring mechanisms, organizations can ensure that their data remains secure and protected from unauthorized access or disclosure.&#xA;&#xA;Example: In a healthcare system, patient medical records must be kept confidential and only accessible to authorized personnel.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ConfidentialityRequirement&#xA;&#xA;ABB name: eira:ConfidentialityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ConfidentialityRequirement&#xA;&#xA;Name: Confidentiality Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ConfidentialityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Confidentiality Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="In a healthcare system, patient medical records must be kept confidential and only accessible to authorized personnel."/>
+  <properties
+      key="skos:definition"
+      value="Confidentiality is a non-functional requirement that ensures that sensitive information is protected from unauthorized access, disclosure, or modification. It is essential for maintaining the privacy and security of data, especially in industries such as healthcare, finance, and government. Confidentiality can be achieved through various measures, such as encryption, access controls, and secure communication channels. It is crucial to ensure that confidential information is only accessible to authorized personnel and is not compromised in any way."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, confidentiality is a non-functional requirement that refers to the protection of sensitive information from unauthorized access, disclosure, or modification. This requirement is critical for ensuring the privacy and security of data, particularly in systems that handle sensitive or confidential information.&#xA;&#xA;To achieve confidentiality, the system must have appropriate security controls in place, such as access controls, encryption, and authentication mechanisms. These controls should be designed to prevent unauthorized access to data, both in transit and at rest, and to ensure that only authorized users can view or modify sensitive information.&#xA;&#xA;In addition, the system should be designed to detect and respond to security breaches or incidents that could compromise confidentiality. This may involve implementing intrusion detection and prevention systems, monitoring access logs, and conducting regular security audits and assessments.&#xA;&#xA;Overall, confidentiality is a key non-functional requirement that must be carefully considered and addressed in any system that handles sensitive or confidential information. By implementing appropriate security controls and monitoring mechanisms, organizations can ensure that their data remains secure and protected from unauthorized access or disclosure."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ConfidentialityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:ConfidentialityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

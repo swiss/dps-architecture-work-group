@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geodes"
+    id="id-2cc43df517454a12a82545373e7c2437"
+    documentation="Definition: Geodes is a non-functional requirement that refers to the ability of a system to accurately determine the location of a user or device. This requirement is important for systems that rely on location-based services, such as navigation apps or emergency response systems. Geodes involves the use of GPS or other location tracking technologies to provide precise location data, which can be used to improve the functionality and usability of the system. The accuracy and reliability of geodes is critical, as errors or inaccuracies can lead to serious consequences in certain applications.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Geodes can be classified as a non-functional requirement related to the performance and scalability of the IT system. Geodes refer to the ability of the system to handle and process large volumes of data and transactions in a timely and efficient manner. This requirement is critical for systems that deal with geospatial data, such as mapping and navigation applications.&#xA;&#xA;To meet the Geodes requirement, the IT system must be designed to handle large amounts of data and transactions without compromising performance or scalability. This can be achieved through the use of distributed computing architectures, such as cloud computing or grid computing, which allow for the processing of data across multiple nodes or servers.&#xA;&#xA;Additionally, the IT system must be designed to optimize the use of resources, such as memory and processing power, to ensure that performance is not impacted by the volume of data being processed. This can be achieved through the use of caching mechanisms, data compression, and other optimization techniques.&#xA;&#xA;Overall, the Geodes requirement is critical for systems that deal with geospatial data and must be carefully considered during the design and implementation of the IT system to ensure that performance and scalability are not compromised.&#xA;&#xA;Example: One example of an IT non-functional requirement for geodes could be that the system must be able to accurately track and display the location of assets or vehicles in real-time, with a margin of error no greater than 10 meters. This requirement would ensure that the system is reliable and precise enough to be used for applications such as fleet management or logistics tracking.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/GeodesRequirement&#xA;&#xA;ABB name: eira:GeodesRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/GeodesRequirement&#xA;&#xA;Name: Geodes Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/GeodesRequirement"/>
+  <properties
+      key="dct:title"
+      value="Geodes Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of an IT non-functional requirement for geodes could be that the system must be able to accurately track and display the location of assets or vehicles in real-time, with a margin of error no greater than 10 meters. This requirement would ensure that the system is reliable and precise enough to be used for applications such as fleet management or logistics tracking."/>
+  <properties
+      key="skos:definition"
+      value="Geodes is a non-functional requirement that refers to the ability of a system to accurately determine the location of a user or device. This requirement is important for systems that rely on location-based services, such as navigation apps or emergency response systems. Geodes involves the use of GPS or other location tracking technologies to provide precise location data, which can be used to improve the functionality and usability of the system. The accuracy and reliability of geodes is critical, as errors or inaccuracies can lead to serious consequences in certain applications."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Geodes can be classified as a non-functional requirement related to the performance and scalability of the IT system. Geodes refer to the ability of the system to handle and process large volumes of data and transactions in a timely and efficient manner. This requirement is critical for systems that deal with geospatial data, such as mapping and navigation applications.&#xA;&#xA;To meet the Geodes requirement, the IT system must be designed to handle large amounts of data and transactions without compromising performance or scalability. This can be achieved through the use of distributed computing architectures, such as cloud computing or grid computing, which allow for the processing of data across multiple nodes or servers.&#xA;&#xA;Additionally, the IT system must be designed to optimize the use of resources, such as memory and processing power, to ensure that performance is not impacted by the volume of data being processed. This can be achieved through the use of caching mechanisms, data compression, and other optimization techniques.&#xA;&#xA;Overall, the Geodes requirement is critical for systems that deal with geospatial data and must be carefully considered during the design and implementation of the IT system to ensure that performance and scalability are not compromised."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/GeodesRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:GeodesRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

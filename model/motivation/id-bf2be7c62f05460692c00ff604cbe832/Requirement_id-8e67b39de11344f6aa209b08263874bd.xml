@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configurability"
+    id="id-8e67b39de11344f6aa209b08263874bd"
+    documentation="Definition: Configurability is an IT non-functional requirement that refers to the ability of a system or software to be easily customized or modified to meet the specific needs or preferences of different users or organizations. This includes the ability to change settings, parameters, and other aspects of the system without requiring extensive programming or technical knowledge. Configurability is important for ensuring that the system can adapt to changing requirements and environments, and can be tailored to meet the unique needs of different users or organizations.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, configurability is a non-functional requirement that refers to the ability of a system or application to be easily configured or customized to meet the specific needs of different users or organizations. This includes the ability to modify settings, parameters, and other configuration options without requiring significant changes to the underlying code or architecture of the system.&#xA;&#xA;Configurability is an important non-functional requirement for many systems, particularly those that are used by multiple organizations or users with different requirements. By providing a high degree of configurability, these systems can be adapted to meet the specific needs of each user or organization, without requiring significant customization or development efforts.&#xA;&#xA;To meet the configurability requirement, systems should provide a range of configuration options that are easy to access and modify. These options should be well-documented and clearly explained, so that users can understand how to make the necessary changes. Additionally, systems should be designed in a modular and flexible way, so that changes to one part of the system do not require significant changes to other parts.&#xA;&#xA;Overall, configurability is an important non-functional requirement that can help to ensure that systems are adaptable and flexible enough to meet the needs of different users and organizations. By following the TOGAF guidelines and best practices for configurability, organizations can ensure that their systems are well-designed and easy to use, while also providing the necessary flexibility and customization options to meet the needs of their users.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Configurability' could be the ability for a software application to be easily customized and adapted to meet the specific needs and requirements of different users or organizations. This could include features such as the ability to modify user interface elements, configure system settings and preferences, and integrate with other software systems or platforms. By providing a high degree of configurability, the application can be more easily tailored to meet the unique needs of different users, improving overall usability and user satisfaction.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ConfigurabilityRequirement&#xA;&#xA;ABB name: eira:ConfigurabilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ConfigurabilityRequirement&#xA;&#xA;Name: Configurability Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ConfigurabilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Configurability Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Configurability' could be the ability for a software application to be easily customized and adapted to meet the specific needs and requirements of different users or organizations. This could include features such as the ability to modify user interface elements, configure system settings and preferences, and integrate with other software systems or platforms. By providing a high degree of configurability, the application can be more easily tailored to meet the unique needs of different users, improving overall usability and user satisfaction."/>
+  <properties
+      key="skos:definition"
+      value="Configurability is an IT non-functional requirement that refers to the ability of a system or software to be easily customized or modified to meet the specific needs or preferences of different users or organizations. This includes the ability to change settings, parameters, and other aspects of the system without requiring extensive programming or technical knowledge. Configurability is important for ensuring that the system can adapt to changing requirements and environments, and can be tailored to meet the unique needs of different users or organizations."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, configurability is a non-functional requirement that refers to the ability of a system or application to be easily configured or customized to meet the specific needs of different users or organizations. This includes the ability to modify settings, parameters, and other configuration options without requiring significant changes to the underlying code or architecture of the system.&#xA;&#xA;Configurability is an important non-functional requirement for many systems, particularly those that are used by multiple organizations or users with different requirements. By providing a high degree of configurability, these systems can be adapted to meet the specific needs of each user or organization, without requiring significant customization or development efforts.&#xA;&#xA;To meet the configurability requirement, systems should provide a range of configuration options that are easy to access and modify. These options should be well-documented and clearly explained, so that users can understand how to make the necessary changes. Additionally, systems should be designed in a modular and flexible way, so that changes to one part of the system do not require significant changes to other parts.&#xA;&#xA;Overall, configurability is an important non-functional requirement that can help to ensure that systems are adaptable and flexible enough to meet the needs of different users and organizations. By following the TOGAF guidelines and best practices for configurability, organizations can ensure that their systems are well-designed and easy to use, while also providing the necessary flexibility and customization options to meet the needs of their users."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ConfigurabilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:ConfigurabilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

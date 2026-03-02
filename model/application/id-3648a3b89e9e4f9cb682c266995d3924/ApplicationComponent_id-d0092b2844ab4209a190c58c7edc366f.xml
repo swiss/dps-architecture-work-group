@@ -1,0 +1,52 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit"
+    id="id-d0092b2844ab4209a190c58c7edc366f"
+    documentation="Definition: Audit ABB is an Application Component that enables the implementation of the procedural services for monitoring a building block, ensuring security or compliance with standards, regulations and best practices&#xA;&#xA;Source: Inspired in SIMPL&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/news/simpl-cloud-edge-federations-and-data-spaces-made-simple&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Activiti audit feature - The audit feature of Activiti archives all process instances, activity instances, keeps variable values continuously in sync and all form properties that are submitted so that all user interaction through forms is traceable and can be audited. Authenticated users who submitted the forms are accessible in the history as well as for start forms and task forms. https://www.activiti.org/userguide/#historyFormAuditPurposes&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Audit Component ABB  is salient for technical interoperability because it allows the implementation of audit policies as stated in the EIF: &quot;Public administrations should ensure that a 'data access and authorisation plan’ which determines who has access to what data and under what conditions, to ensure privacy. Unauthorised access and security breaches should be monitored and appropriate actions should be taken to prevent any recurrence of breaches&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuditApplicationComponent&#xA;&#xA;ABB name: eira:AuditApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuditApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AuditApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:AuditApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Audit ABB is an Application Component that enables the implementation of the procedural services for monitoring a building block, ensuring security or compliance with standards, regulations and best practices"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in SIMPL"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/news/simpl-cloud-edge-federations-and-data-spaces-made-simple"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Activiti audit feature - The audit feature of Activiti archives all process instances, activity instances, keeps variable values continuously in sync and all form properties that are submitted so that all user interaction through forms is traceable and can be audited. Authenticated users who submitted the forms are accessible in the history as well as for start forms and task forms. https://www.activiti.org/userguide/#historyFormAuditPurposes"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Audit Component ABB  is salient for technical interoperability because it allows the implementation of audit policies as stated in the EIF: &quot;Public administrations should ensure that a 'data access and authorisation plan’ which determines who has access to what data and under what conditions, to ensure privacy. Unauthorised access and security breaches should be monitored and appropriate actions should be taken to prevent any recurrence of breaches&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AuditApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

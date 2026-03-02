@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logging"
+    id="id-78dacf9928e045468b2e9a198a090ba3"
+    documentation="Definition: Logging is an IT non-functional requirement that involves the recording of events and activities within a system or application. This includes capturing information such as user actions, system errors, and performance metrics. The purpose of logging is to provide a detailed record of system behavior that can be used for troubleshooting, auditing, and analysis. Logging is essential for ensuring the security and reliability of IT systems, as it enables administrators to identify and address issues quickly and effectively. Additionally, logging can help organizations meet regulatory compliance requirements by providing a comprehensive record of system activity.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, guidelines, and documentation, the non-functional requirement of 'Logging' refers to the ability of a system to record and store information about its activities and events in a structured and organized manner. This information can be used for various purposes, such as troubleshooting, auditing, compliance, and performance analysis.&#xA;&#xA;The logging requirement should specify the types of events that need to be logged, the format and structure of the log data, the storage location and retention period, and the access control and security measures for the log files. The logging mechanism should be reliable, efficient, and scalable, and should not impact the performance or availability of the system.&#xA;&#xA;The logging requirement should also consider the legal and regulatory requirements for data privacy, protection, and disclosure. The log data should be encrypted, anonymized, or masked if necessary, and should only be accessible to authorized personnel with a legitimate need to know.&#xA;&#xA;The logging requirement should be documented in the system architecture and design, and should be tested and validated during the system development and deployment phases. The logging mechanism should be monitored and maintained throughout the system lifecycle, and should be updated or improved as needed to meet changing business and technical requirements.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Logging' could be for a financial application to log all user activity and transactions for auditing and compliance purposes. This would include logging user login and logout times, as well as any changes made to account balances or transactions. The logs would need to be secure and tamper-proof, with access restricted to authorized personnel only. The system would also need to be able to generate reports based on the logged data, such as transaction histories or user activity summaries.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LoggingRequirement&#xA;&#xA;ABB name: eira:LoggingRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LoggingRequirement&#xA;&#xA;Name: Logging Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LoggingRequirement"/>
+  <properties
+      key="dct:title"
+      value="Logging Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Logging' could be for a financial application to log all user activity and transactions for auditing and compliance purposes. This would include logging user login and logout times, as well as any changes made to account balances or transactions. The logs would need to be secure and tamper-proof, with access restricted to authorized personnel only. The system would also need to be able to generate reports based on the logged data, such as transaction histories or user activity summaries."/>
+  <properties
+      key="skos:definition"
+      value="Logging is an IT non-functional requirement that involves the recording of events and activities within a system or application. This includes capturing information such as user actions, system errors, and performance metrics. The purpose of logging is to provide a detailed record of system behavior that can be used for troubleshooting, auditing, and analysis. Logging is essential for ensuring the security and reliability of IT systems, as it enables administrators to identify and address issues quickly and effectively. Additionally, logging can help organizations meet regulatory compliance requirements by providing a comprehensive record of system activity."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, guidelines, and documentation, the non-functional requirement of 'Logging' refers to the ability of a system to record and store information about its activities and events in a structured and organized manner. This information can be used for various purposes, such as troubleshooting, auditing, compliance, and performance analysis.&#xA;&#xA;The logging requirement should specify the types of events that need to be logged, the format and structure of the log data, the storage location and retention period, and the access control and security measures for the log files. The logging mechanism should be reliable, efficient, and scalable, and should not impact the performance or availability of the system.&#xA;&#xA;The logging requirement should also consider the legal and regulatory requirements for data privacy, protection, and disclosure. The log data should be encrypted, anonymized, or masked if necessary, and should only be accessible to authorized personnel with a legitimate need to know.&#xA;&#xA;The logging requirement should be documented in the system architecture and design, and should be tested and validated during the system development and deployment phases. The logging mechanism should be monitored and maintained throughout the system lifecycle, and should be updated or improved as needed to meet changing business and technical requirements."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LoggingRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:LoggingRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

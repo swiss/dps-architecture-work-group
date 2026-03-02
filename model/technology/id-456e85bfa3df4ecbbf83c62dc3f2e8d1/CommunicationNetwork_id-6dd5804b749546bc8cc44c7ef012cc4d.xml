@@ -1,0 +1,55 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Network"
+    id="id-6dd5804b749546bc8cc44c7ef012cc4d"
+    documentation="Definition: Public Network ABB is a Communication Network that enables access to the public (public administrations, businesses and citizens) without specific authorisations. Interoperable European Solutions can rely on Public Networks (e.g. the Internet) to realise the physical communication between nodes.&#xA;&#xA;Source: ISA2 - EIA Action&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/news/isa2-interoperability-solutions-european-public-administrations-first-work-programme-adopted&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): World-Wide-Web (WWW) - The WorldWideWeb (W3) is a wide-area hypermedia information retrieval initiative aiming to give universal access to a large universe of documents.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Viewpoint: REST API viewpoint&#xA;&#xA;Interoperability Saliency: The Public Network ABB is salient for technical interoperability due to it provides the network infrastructure to facilitate access to the public administration digital service to the general public.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicNetworkCommunicationNetwork&#xA;&#xA;ABB name: eira:PublicNetworkCommunicationNetwork&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicNetworkCommunicationNetwork&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PublicNetworkCommunicationNetwork"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicNetworkCommunicationNetwork"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Public Network ABB is a Communication Network that enables access to the public (public administrations, businesses and citizens) without specific authorisations. Interoperable European Solutions can rely on Public Networks (e.g. the Internet) to realise the physical communication between nodes."/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2 - EIA Action"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/news/isa2-interoperability-solutions-european-public-administrations-first-work-programme-adopted"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): World-Wide-Web (WWW) - The WorldWideWeb (W3) is a wide-area hypermedia information retrieval initiative aiming to give universal access to a large universe of documents."/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Public Network ABB is salient for technical interoperability due to it provides the network infrastructure to facilitate access to the public administration digital service to the general public."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="eira:viewpoint"
+      value="REST API viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PublicNetworkCommunicationNetwork"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:CommunicationNetwork>

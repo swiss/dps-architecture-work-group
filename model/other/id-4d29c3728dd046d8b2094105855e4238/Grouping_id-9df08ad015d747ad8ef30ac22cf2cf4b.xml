@@ -1,0 +1,53 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Data Management Digital Business Capability Map"
+    id="id-9df08ad015d747ad8ef30ac22cf2cf4b"
+    documentation="Definition: Business Agnostic Data Management Digital Business Capability Map ABB is a Grouping that refers to the actual catalogue of digital business capabilities (DBC) that puts together a range of capabilities related to data management. These capabilities are crucial for organizations to effectively and efficiently manage their data assets, gain valuable insights, make informed decisions, ensure data quality, security, and compliance, and generate value and revenue. The catalogue includes capabilities such as Data Discovery, Data Analytics, Data Monetization, Data Governance, Data Ethics, Data Interoperability, Data Sharing, Data Quality, Data Security, and Data Lineage.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Business Agnostic Data Management Digital Business Capability Catalogue ABB is a comprehensive catalogue that encompasses various aspects of data management. Each capability in the catalogue has a specific role and purpose in the overall data management strategy of an organization. For instance, Data Discovery and Data Analytics capabilities enable organizations to discover, analyze, and interpret large volumes of data to gain valuable insights and make informed decisions. Data Monetization capability allows organizations to generate value and revenue from their data assets. Data Governance and Data Ethics capabilities ensure the effective management, governance, and ethical use of data. Data Interoperability and Data Sharing capabilities facilitate seamless data exchange and integration across different systems and platforms. Data Quality and Data Security capabilities ensure the accuracy, integrity, and security of data. Lastly, Data Lineage capability enables organizations to track and trace the origin, movement, and transformation of data throughout its lifecycle.&#xA;&#xA;Example: An example of the application of the Business Agnostic Data Management Digital Business Capability Catalogue ABB could be a large corporation implementing a data-driven strategy. The corporation could leverage the Data Discovery and Data Analytics capabilities to analyze customer data and gain insights into customer behavior and preferences. They could use the Data Monetization capability to create new revenue streams by selling these insights or using them to develop new products or services. The corporation could implement Data Governance and Data Ethics policies to ensure the ethical use of customer data and compliance with data protection regulations. They could use Data Interoperability and Data Sharing capabilities to integrate customer data from different systems and share it with relevant departments. The corporation could ensure the accuracy and security of the customer data by implementing Data Quality and Data Security measures. Finally, they could use the Data Lineage capability to track the origin and movement of the customer data across different systems and processes.&#xA;&#xA;LOST view: OV-Data Spaces [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDataManagementDigitalBusinessCapabilityMapGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticDataManagementDigitalBusinessCapabilityMapGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticDataManagementDigitalBusinessCapabilityMapGrouping&#xA;&#xA;Name: Business Agnostic Data Management Digital Business Capability Map&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalBusinessCapability&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDataManagementDigitalBusinessCapabilityMapGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticDataManagementDigitalBusinessCapabilityMapGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Data Management Digital Business Capability Map"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticDataManagementDigitalBusinessCapabilityMapGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic Data Management Digital Business Capability Map ABB is a Grouping that refers to the actual catalogue of digital business capabilities (DBC) that puts together a range of capabilities related to data management. These capabilities are crucial for organizations to effectively and efficiently manage their data assets, gain valuable insights, make informed decisions, ensure data quality, security, and compliance, and generate value and revenue. The catalogue includes capabilities such as Data Discovery, Data Analytics, Data Monetization, Data Governance, Data Ethics, Data Interoperability, Data Sharing, Data Quality, Data Security, and Data Lineage."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of the application of the Business Agnostic Data Management Digital Business Capability Catalogue ABB could be a large corporation implementing a data-driven strategy. The corporation could leverage the Data Discovery and Data Analytics capabilities to analyze customer data and gain insights into customer behavior and preferences. They could use the Data Monetization capability to create new revenue streams by selling these insights or using them to develop new products or services. The corporation could implement Data Governance and Data Ethics policies to ensure the ethical use of customer data and compliance with data protection regulations. They could use Data Interoperability and Data Sharing capabilities to integrate customer data from different systems and share it with relevant departments. The corporation could ensure the accuracy and security of the customer data by implementing Data Quality and Data Security measures. Finally, they could use the Data Lineage capability to track the origin and movement of the customer data across different systems and processes."/>
+  <properties
+      key="skos:note"
+      value="The Business Agnostic Data Management Digital Business Capability Catalogue ABB is a comprehensive catalogue that encompasses various aspects of data management. Each capability in the catalogue has a specific role and purpose in the overall data management strategy of an organization. For instance, Data Discovery and Data Analytics capabilities enable organizations to discover, analyze, and interpret large volumes of data to gain valuable insights and make informed decisions. Data Monetization capability allows organizations to generate value and revenue from their data assets. Data Governance and Data Ethics capabilities ensure the effective management, governance, and ethical use of data. Data Interoperability and Data Sharing capabilities facilitate seamless data exchange and integration across different systems and platforms. Data Quality and Data Security capabilities ensure the accuracy, integrity, and security of data. Lastly, Data Lineage capability enables organizations to track and trace the origin, movement, and transformation of data throughout its lifecycle."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalBusinessCapability"/>
+</archimate:Grouping>

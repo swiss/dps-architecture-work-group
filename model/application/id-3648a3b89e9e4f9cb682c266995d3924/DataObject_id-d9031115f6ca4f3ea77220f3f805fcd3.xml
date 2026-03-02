@@ -1,0 +1,49 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Catalogue"
+    id="id-d9031115f6ca4f3ea77220f3f805fcd3"
+    documentation="Definition: API Catalogue ABB is a Data Object that corresponds to a collection of (open) software interfaces that allow data consumption by a specific digital solution&#xA;&#xA;Source: Inspired in JRC&#xA;&#xA;Source reference: https://data.jrc.ec.europa.eu/dataset/5a431f38-1e2c-449a-898e-34f2a3234c3b&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): RapidAPI - RapidAPI is a collection of predefined APIs that are free to test, specifically updated for 2021. https://rapidapi.com/collection/list-of-free-apis&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The API Catalogue Data Object ABB is salient for interoperability as it is a collection of software interfaces that allows data consumption between solutions and services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/APICatalogueDataObject&#xA;&#xA;ABB name: eira:APICatalogueDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/APICatalogueDataObject&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/APICatalogueDataObject"/>
+  <properties
+      key="dct:type"
+      value="eira:APICatalogueDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="API Catalogue ABB is a Data Object that corresponds to a collection of (open) software interfaces that allow data consumption by a specific digital solution"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in JRC"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://data.jrc.ec.europa.eu/dataset/5a431f38-1e2c-449a-898e-34f2a3234c3b"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): RapidAPI - RapidAPI is a collection of predefined APIs that are free to test, specifically updated for 2021. https://rapidapi.com/collection/list-of-free-apis"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The API Catalogue Data Object ABB is salient for interoperability as it is a collection of software interfaces that allows data consumption between solutions and services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/APICatalogueDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:DataObject>

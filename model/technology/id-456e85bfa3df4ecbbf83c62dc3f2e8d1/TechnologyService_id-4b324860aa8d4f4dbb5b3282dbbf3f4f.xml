@@ -1,0 +1,52 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway"
+    id="id-4b324860aa8d4f4dbb5b3282dbbf3f4f"
+    documentation="Definition: API Gateway ABB is a Technology Service that implements the behaviour of acting as a single entry point for multiple APIs (Application Programming Interfaces)&#xA;&#xA;Source: Inspired in Joinup&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/api4dt/about&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): API Gateway Authentication Bundle. It authenticates requests from European Commission service API Gateway. https://joinup.ec.europa.eu/collection/ecphp/solution/api-gw-authentication-php/about&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: API Gateway ABB is salient for semantic interoperability due to its setting up the rules to share multiple public administration digital services to facilitate their accessibility, discovery and sharing across platforms (catalogue of APIs). These rules follow up existing standards and common practices in the API documentation and accessibility (Open APIs description).&#xA;&#xA;Identifier: http://data.europa.eu/dr8/APIGatewayTechnologyService&#xA;&#xA;ABB name: eira:APIGatewayTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/APIGatewayTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/APIGatewayTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:APIGatewayTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="API Gateway ABB is a Technology Service that implements the behaviour of acting as a single entry point for multiple APIs (Application Programming Interfaces)"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Joinup"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/api4dt/about"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): API Gateway Authentication Bundle. It authenticates requests from European Commission service API Gateway. https://joinup.ec.europa.eu/collection/ecphp/solution/api-gw-authentication-php/about"/>
+  <properties
+      key="eira:iopSaliency"
+      value="API Gateway ABB is salient for semantic interoperability due to its setting up the rules to share multiple public administration digital services to facilitate their accessibility, discovery and sharing across platforms (catalogue of APIs). These rules follow up existing standards and common practices in the API documentation and accessibility (Open APIs description)."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/APIGatewayTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

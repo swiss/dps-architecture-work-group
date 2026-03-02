@@ -1,0 +1,52 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Discovery and Registry"
+    id="id-72c0b3190e1347a5a43aec34064b5c46"
+    documentation="Definition: Service Discovery and Registry ABB is an Application Service that enables the process of automatically locating network services within distributed digital systems.&#xA;&#xA;Source: Inspired in INSPIRE&#xA;&#xA;Source reference: https://inspire.ec.europa.eu/glossary/DiscoveryService&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ZooKeeper - ZooKeeper is a centralized service registry for maintaining configuration information, naming, providing distributed synchronization, and providing group services. All of these kinds of services are used in some form or another by distributed applications. Each time they are implemented there is a lot of work that goes into fixing the bugs and race conditions that are inevitable. Because of the difficulty of implementing these kinds of services, applications initially usually skimp on them, which make them brittle in the presence of change and difficult to manage. Even when done correctly, different implementations of these services lead to management complexity when the applications are deployed. https://zookeeper.apache.org/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Key Interoperability Enablers viewpoint&#xA;&#xA;Interoperability Saliency: Service Discovery and Registry Service ABB is a key interoperability enabler (*) for structural and behavioural interoperability by enabling access rights for data that is necessary for accessing public administration components to target fast and easy communication and data exchange.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ServiceDiscoveryAndRegistryApplicationService&#xA;&#xA;ABB name: eira:ServiceDiscoveryAndRegistryApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ServiceDiscoveryAndRegistryApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ServiceDiscoveryAndRegistryApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:ServiceDiscoveryAndRegistryApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Service Discovery and Registry ABB is an Application Service that enables the process of automatically locating network services within distributed digital systems."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in INSPIRE"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://inspire.ec.europa.eu/glossary/DiscoveryService"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): ZooKeeper - ZooKeeper is a centralized service registry for maintaining configuration information, naming, providing distributed synchronization, and providing group services. All of these kinds of services are used in some form or another by distributed applications. Each time they are implemented there is a lot of work that goes into fixing the bugs and race conditions that are inevitable. Because of the difficulty of implementing these kinds of services, applications initially usually skimp on them, which make them brittle in the presence of change and difficult to manage. Even when done correctly, different implementations of these services lead to management complexity when the applications are deployed. https://zookeeper.apache.org/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Service Discovery and Registry Service ABB is a key interoperability enabler (*) for structural and behavioural interoperability by enabling access rights for data that is necessary for accessing public administration components to target fast and easy communication and data exchange."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ServiceDiscoveryAndRegistryApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

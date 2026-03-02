@@ -1,0 +1,48 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eNotification"
+    id="id-0289bd07a79143a0928dfdc1453757b8"
+    documentation="Definition: The eNotification Application service refers to a software application or component that enables the electronic delivery of notifications, alerts, and messages to individuals or organizations. It operates at the application layer in a software architecture, providing the necessary functionality to create, manage, and distribute notifications through various channels&#xA;&#xA;Source: International Journal of Engineering Research &amp; Technology&#xA;&#xA;Source reference: https://www.ijert.org/research/managing-user-notifications-in-enterprise-applications-IJERTV7IS010324.pdf&#xA;&#xA;LOST view: TVA-API Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ENotificationApplicationInterface&#xA;&#xA;ABB name: egovera:ENotificationApplicationInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ENotificationApplicationInterface&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="egovera:ENotificationApplicationInterface"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="The eNotification Application service refers to a software application or component that enables the electronic delivery of notifications, alerts, and messages to individuals or organizations. It operates at the application layer in a software architecture, providing the necessary functionality to create, manage, and distribute notifications through various channels"/>
+  <properties
+      key="eira:definitionSource"
+      value="International Journal of Engineering Research &amp; Technology"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.ijert.org/research/managing-user-notifications-in-enterprise-applications-IJERTV7IS010324.pdf"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ENotificationApplicationInterface"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ENotificationApplicationInterface"/>
+  <properties
+      key="eira:view"
+      value="TVA-API Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Management Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Application Integration Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationInterface>

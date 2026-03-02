@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Turtle"
+    id="id-3695cbf579bb426bbfde533df062d9ec"
+    documentation="Description: Turtle (Terse RDF Triple Language) is a human-readable serialization format for representing RDF (Resource Description Framework) data. It provides a concise and compact syntax to express triples, which consist of subject-predicate-object statements. Turtle is widely used for creating and sharing RDF data due to its simplicity and readability.&#xA;&#xA;Publisher: W3C&#xA;&#xA;Source: https://www.w3.org/TR/turtle/&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TurtleRepresentation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TurtleRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="W3C"/>
+  <properties
+      key="dct:description"
+      value="Turtle (Terse RDF Triple Language) is a human-readable serialization format for representing RDF (Resource Description Framework) data. It provides a concise and compact syntax to express triples, which consist of subject-predicate-object statements. Turtle is widely used for creating and sharing RDF data due to its simplicity and readability."/>
+  <properties
+      key="dct:source"
+      value="https://www.w3.org/TR/turtle/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/TurtleRepresentation"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/TurtleRepresentation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

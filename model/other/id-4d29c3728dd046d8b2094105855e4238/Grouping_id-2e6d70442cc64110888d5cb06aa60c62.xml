@@ -1,0 +1,47 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Space Policies and Contracts"
+    id="id-2e6d70442cc64110888d5cb06aa60c62"
+    documentation="Definition: Data Space Policies and Contracts ABB is a grouping that covers two primary elements: Data Policy and Data Contract. These elements are integral to the management and governance of data within an organization or system, outlining the rules, regulations, and agreements that dictate how data is handled, shared, and used.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Data Policy element within this grouping refers to the set of rules and guidelines established by an organization or system to manage its data, ensuring its quality, accessibility, and protection. This includes policies on data collection, storage, processing, distribution, and disposal. On the other hand, the Data Contract element refers to the formal agreement between parties on the terms and conditions of data sharing and usage. This includes the rights and responsibilities of each party, the scope of data to be shared, the purpose of data sharing, and the measures for data security and privacy. Together, these elements form the foundation of a robust data governance framework, enabling organizations to effectively manage their data assets while ensuring compliance with relevant laws and regulations.&#xA;&#xA;Example: An example of a Data Policy could be a company's policy on data privacy, which outlines the measures it takes to protect the personal data of its customers, such as encryption and anonymization techniques. An example of a Data Contract could be an agreement between a healthcare provider and a research institution, where the provider agrees to share patient data for research purposes, under the condition that the data is de-identified to protect patient privacy.&#xA;&#xA;LOST view: SV-Agnostic Data Policies and Contracts- Data Space&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataSpacePoliciesAndContractsGrouping&#xA;&#xA;ABB name: egovera:DataSpacePoliciesAndContractsGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataSpacePoliciesAndContractsGrouping&#xA;&#xA;Name: Data Space Policies And Contracts Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataSpacePoliciesAndContractsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataSpacePoliciesAndContractsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Data Space Policies And Contracts Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataSpacePoliciesAndContractsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Data Space Policies and Contracts ABB is a grouping that covers two primary elements: Data Policy and Data Contract. These elements are integral to the management and governance of data within an organization or system, outlining the rules, regulations, and agreements that dictate how data is handled, shared, and used."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of a Data Policy could be a company's policy on data privacy, which outlines the measures it takes to protect the personal data of its customers, such as encryption and anonymization techniques. An example of a Data Contract could be an agreement between a healthcare provider and a research institution, where the provider agrees to share patient data for research purposes, under the condition that the data is de-identified to protect patient privacy."/>
+  <properties
+      key="skos:note"
+      value="The Data Policy element within this grouping refers to the set of rules and guidelines established by an organization or system to manage its data, ensuring its quality, accessibility, and protection. This includes policies on data collection, storage, processing, distribution, and disposal. On the other hand, the Data Contract element refers to the formal agreement between parties on the terms and conditions of data sharing and usage. This includes the rights and responsibilities of each party, the scope of data to be shared, the purpose of data sharing, and the measures for data security and privacy. Together, these elements form the foundation of a robust data governance framework, enabling organizations to effectively manage their data assets while ensuring compliance with relevant laws and regulations."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Data Policies and Contracts- Data Space"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

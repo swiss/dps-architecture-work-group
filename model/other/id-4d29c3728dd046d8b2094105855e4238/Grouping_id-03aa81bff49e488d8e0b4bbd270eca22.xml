@@ -1,0 +1,63 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shared Application Content"
+    id="id-03aa81bff49e488d8e0b4bbd270eca22"
+    documentation="Definition: Shared Application Content ABB is a Grouping setting application (re)usable resources, with convergence power, in relation to public policy goals attainment, enabling to reuse and share software tools and services, fostering collaborative functionality within and across applications to support the attainment of public policy goals and the creation of interoperable digital public services.&#xA;&#xA;Source: Inspired in referent cloud service providers definitions&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Shared Application Content ABB is a key interoperability enabler (*) for governance, behavioural and structural interoperability. This ABB is salient for application interoperability with public policy goals convergence value by enabling i) the provision/consumption of data by public services, ii) the exchange of data, information, and knowledge between digital public services, and iii) collaboration between digital public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SharedApplicationContentGrouping&#xA;&#xA;ABB name: eira:SharedApplicationContentGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-06-10&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SharedApplicationContentGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SharedApplicationContentGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:SharedApplicationContentGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-06-10"/>
+  <properties
+      key="skos:definition"
+      value="Shared Application Content ABB is a Grouping setting application (re)usable resources, with convergence power, in relation to public policy goals attainment, enabling to reuse and share software tools and services, fostering collaborative functionality within and across applications to support the attainment of public policy goals and the creation of interoperable digital public services."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in referent cloud service providers definitions"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Shared Application Content ABB is a key interoperability enabler (*) for governance, behavioural and structural interoperability. This ABB is salient for application interoperability with public policy goals convergence value by enabling i) the provision/consumption of data by public services, ii) the exchange of data, information, and knowledge between digital public services, and iii) collaboration between digital public services."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="eira:view"
+      value="EIRA Ontology view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperable European Solution viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SharedApplicationContentGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

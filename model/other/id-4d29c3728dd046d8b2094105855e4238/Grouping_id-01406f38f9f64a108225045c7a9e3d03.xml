@@ -1,0 +1,66 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shared Knowledge Content"
+    id="id-01406f38f9f64a108225045c7a9e3d03"
+    documentation="Definition: Shared Knowledge Content ABB is a Grouping setting semantic (re)usable resources, with convergence power, in relation to public policy goals attainment, enabling to reuse and share a common understanding from existing data, information and services across public administrations across borders.&#xA;&#xA;Source: Atlassian &#xA;&#xA;Source reference: https://www.atlassian.com/itsm/knowledge-management/what-is-a-knowledge-base&#xA;&#xA;Additional information: This convergence power is based on the enabling sense-making nature of these resources influencing the enactment of common understanding from the existing organisational information. The degree of achievement could range from an ideal perfect shared knowledge base (i.e. no interoperability barriers from the semantic perspective) to an imperfect or even null shared knowledge base (i.e. some interoperability barriers from the semantic perspective). The level of semantic interoperability will constrain digital public services cross levels in a public administration, cross public administrations, and cross borders. The shared knowledge base enables: i) structural interoperability with semantic resources supporting reusing and/or sharing of digital public services (i.e. data set catalogue); ii) behavioural interoperability with semantic resources supporting exchanging capabilities of data, information or knowledge with internal/external peers (i.e. Metadata mappings); and iii) governance interoperability with semantic resources supporting the assurance and control of collaboration with internal/external peers exchanging data, information, and knowledge cross legal jurisdictions (i.e. Sematic Interoperability Agreements).&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Eur-Lex (stylized EUR-Lex) is an official website of European Union law and other public documents of the European Union (EU), published in 24 official languages of the EU. The Official Journal (OJ) of the European Union is also published on Eur-Lex. Users can access Eur-Lex free of charge and also register for a free account, which offers extra features. https://eur-lex.europa.eu/homepage.html?locale=en&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: The Shared Knowledge Content ABB is a key interoperability enabler (*) for governance, behavioural and structural interoperability. This ABB is salient for semantic interoperability with public policy goals convergence value by enabling i) the provision/consumption of data by public services, ii) the exchange of data, information, and knowledge between digital public services, and iii) collaboration between digital public services&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SharedKnowledgeContentGrouping&#xA;&#xA;ABB name: eira:SharedKnowledgeContentGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-06-10&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SharedKnowledgeContentGrouping&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SharedKnowledgeContentGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:SharedKnowledgeContentGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-06-10"/>
+  <properties
+      key="skos:definition"
+      value="Shared Knowledge Content ABB is a Grouping setting semantic (re)usable resources, with convergence power, in relation to public policy goals attainment, enabling to reuse and share a common understanding from existing data, information and services across public administrations across borders."/>
+  <properties
+      key="eira:definitionSource"
+      value="Atlassian "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.atlassian.com/itsm/knowledge-management/what-is-a-knowledge-base"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Eur-Lex (stylized EUR-Lex) is an official website of European Union law and other public documents of the European Union (EU), published in 24 official languages of the EU. The Official Journal (OJ) of the European Union is also published on Eur-Lex. Users can access Eur-Lex free of charge and also register for a free account, which offers extra features. https://eur-lex.europa.eu/homepage.html?locale=en"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Shared Knowledge Content ABB is a key interoperability enabler (*) for governance, behavioural and structural interoperability. This ABB is salient for semantic interoperability with public policy goals convergence value by enabling i) the provision/consumption of data by public services, ii) the exchange of data, information, and knowledge between digital public services, and iii) collaboration between digital public services"/>
+  <properties
+      key="skos:note"
+      value="This convergence power is based on the enabling sense-making nature of these resources influencing the enactment of common understanding from the existing organisational information. The degree of achievement could range from an ideal perfect shared knowledge base (i.e. no interoperability barriers from the semantic perspective) to an imperfect or even null shared knowledge base (i.e. some interoperability barriers from the semantic perspective). The level of semantic interoperability will constrain digital public services cross levels in a public administration, cross public administrations, and cross borders. The shared knowledge base enables: i) structural interoperability with semantic resources supporting reusing and/or sharing of digital public services (i.e. data set catalogue); ii) behavioural interoperability with semantic resources supporting exchanging capabilities of data, information or knowledge with internal/external peers (i.e. Metadata mappings); and iii) governance interoperability with semantic resources supporting the assurance and control of collaboration with internal/external peers exchanging data, information, and knowledge cross legal jurisdictions (i.e. Sematic Interoperability Agreements)."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="eira:view"
+      value="EIRA Ontology view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperable European Solution viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SharedKnowledgeContentGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

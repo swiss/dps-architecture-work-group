@@ -1,0 +1,42 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deployment fit (Cloud-first approach) "
+    id="id-3f49c10a346b43f88f885e528facf4c4"
+    documentation="Definition: Decide early on the type of deployment: On-premise, vs. Cloud-native and sourcing models IaaS, PaaS, SaaS, etc It is relevant for the success of Digital Public Services to select the deployment methodologies that fit the needs of the administration and stakeholders (citizens and businesses). Public administration needs to perform the proper benchmark analysis to select the proper methodology for the development of digital public services. This strategy needs to be present throughout the design process and the decision-making process to ensure the delivery of streamlined services according to the users needs.&#xA;&#xA;Source: EUROPEAN COMMISSION CLOUD STRATEGY Cloud as an enabler for the European Commission Digital Strategy&#xA;&#xA;Source reference: https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwj107ORv7v2AhX5gP0HHe4IBNwQFnoECBgQAQ&amp;url=https%3A%2F%2Fec.europa.eu%2Finfo%2Fsites%2Fdefault%2Ffiles%2Fec_cloud_strategy.pdf&amp;usg=AOvVaw09VDKvW8wCRo5ELg3gwH9C&#xA;&#xA;Additional information: It is relevant for the success of Digital Public Services to select the deployment methodologies that fit the needs of the administration and stakeholders (citizens and businesses). &#xA;European Commission cloud strategy: &quot;Cloud-first with a secure hybrid multi-cloud service offering&quot;. Cloud-first means that systems should rather be conceived in such a way that they can benefit from the advantages of cloud based delivery models, which exist both on premise and in the public cloud. The choice of architecture, especially of on premise and/or public cloud, will depend on the advantages, constraints and risks for a specific system. So it does not mean that all systems should go to the public cloud.&#xA;&#xA;LOST view: Architecture Principles view&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/deployment-fit-cloud-first-approach&#xA;&#xA;ABB name: elap:deployment-fit-cloud-first-approach&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Deployment fit (Cloud-first approach) &#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:deployment-fit-cloud-first-approach"/>
+  <properties
+      key="dct:title"
+      value="Deployment fit (Cloud-first approach) "/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/deployment-fit-cloud-first-approach"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="skos:note"
+      value="It is relevant for the success of Digital Public Services to select the deployment methodologies that fit the needs of the administration and stakeholders (citizens and businesses). &#xA;European Commission cloud strategy: &quot;Cloud-first with a secure hybrid multi-cloud service offering&quot;. Cloud-first means that systems should rather be conceived in such a way that they can benefit from the advantages of cloud based delivery models, which exist both on premise and in the public cloud. The choice of architecture, especially of on premise and/or public cloud, will depend on the advantages, constraints and risks for a specific system. So it does not mean that all systems should go to the public cloud."/>
+  <properties
+      key="eira:definitionSource"
+      value="EUROPEAN COMMISSION CLOUD STRATEGY Cloud as an enabler for the European Commission Digital Strategy"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwj107ORv7v2AhX5gP0HHe4IBNwQFnoECBgQAQ&amp;url=https%3A%2F%2Fec.europa.eu%2Finfo%2Fsites%2Fdefault%2Ffiles%2Fec_cloud_strategy.pdf&amp;usg=AOvVaw09VDKvW8wCRo5ELg3gwH9C"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:definition"
+      value="Decide early on the type of deployment: On-premise, vs. Cloud-native and sourcing models IaaS, PaaS, SaaS, etc It is relevant for the success of Digital Public Services to select the deployment methodologies that fit the needs of the administration and stakeholders (citizens and businesses). Public administration needs to perform the proper benchmark analysis to select the proper methodology for the development of digital public services. This strategy needs to be present throughout the design process and the decision-making process to ensure the delivery of streamlined services according to the users needs."/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

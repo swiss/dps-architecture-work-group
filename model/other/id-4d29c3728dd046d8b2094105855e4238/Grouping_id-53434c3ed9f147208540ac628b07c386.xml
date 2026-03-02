@@ -1,0 +1,23 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Functional content"
+    id="id-53434c3ed9f147208540ac628b07c386">
+  <properties
+      key="skos:definition"
+      value="Legal Functional Content ABB is a Grouping that refers to the aspects of legal documents or instruments that are related to the practical or operational functions they serve"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in EUR-LEX"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52014DC0158"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+</archimate:Grouping>

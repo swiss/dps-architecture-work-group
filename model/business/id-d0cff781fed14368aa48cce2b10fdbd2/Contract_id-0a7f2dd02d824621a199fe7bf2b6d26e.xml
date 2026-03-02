@@ -1,0 +1,51 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement on Interoperability Security"
+    id="id-0a7f2dd02d824621a199fe7bf2b6d26e"
+    documentation="Definition: Agreement on Interoperability Security ABB is a Contract formalizing governance rules and conditions to grant the identification, authorization, and transmission of the data, information and knowledge being exchanged between digital public services. &#xA;&#xA;Source: Inspired in the works by ISA2, and the EIF-related works&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/isa2_en&#xA;&#xA;Additional information: The interoperability security pays special attention  to the integrity of the data, the non-repudiation, and the verification of absence of malware or other malicious content in the exchanged information. Agreements on Interoperability Security are usually aggregated to more general security frameworks covering the security of the life cycle of the data, including the the secured disposition of the data and information (i.e., transfer or secured deletetion; cfr. MoReq retention policy and plan), etc.  &#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): New EU Cybersecurity Strategy and new rules to make physical and digital critical entities more resilient. https://ec.europa.eu/commission/presscorner/detail/en/IP_20_2391&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Interoperability Saliency: The Agreement on Interoperability Security ABB is salient for governance and behavioural interoperability because it (i) sets the conditions under which the collaboration between digital public services must take place in a secure and controlled way, and (ii) can define the security-related business capabilities of the digital public services that exchange data, information and knowledge.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgreementOnInteroperabilitySecurityContract&#xA;&#xA;ABB name: eira:AgreementOnInteroperabilitySecurityContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgreementOnInteroperabilitySecurityContract&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AgreementOnInteroperabilitySecurityContract"/>
+  <properties
+      key="dct:type"
+      value="eira:AgreementOnInteroperabilitySecurityContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Agreement on Interoperability Security ABB is a Contract formalizing governance rules and conditions to grant the identification, authorization, and transmission of the data, information and knowledge being exchanged between digital public services. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the works by ISA2, and the EIF-related works"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/isa2_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): New EU Cybersecurity Strategy and new rules to make physical and digital critical entities more resilient. https://ec.europa.eu/commission/presscorner/detail/en/IP_20_2391"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Agreement on Interoperability Security ABB is salient for governance and behavioural interoperability because it (i) sets the conditions under which the collaboration between digital public services must take place in a secure and controlled way, and (ii) can define the security-related business capabilities of the digital public services that exchange data, information and knowledge."/>
+  <properties
+      key="skos:note"
+      value="The interoperability security pays special attention  to the integrity of the data, the non-repudiation, and the verification of absence of malware or other malicious content in the exchanged information. Agreements on Interoperability Security are usually aggregated to more general security frameworks covering the security of the life cycle of the data, including the the secured disposition of the data and information (i.e., transfer or secured deletetion; cfr. MoReq retention policy and plan), etc.  "/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AgreementOnInteroperabilitySecurityContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Contract>

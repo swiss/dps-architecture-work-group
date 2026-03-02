@@ -1,0 +1,51 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Policy Objective"
+    id="id-814b3bad6ea64511b480f488da9948b0"
+    documentation="Definition: Public Policy Objective ABB is a Goal allowing public authorities to set the path towards the implementation of a public strategy.&#xA;&#xA;Source: EuroVoc &#xA;&#xA;Source reference: http://eurovoc.europa.eu/drupal/?q=request&amp;concepturi=http%3A%2F%2Feurovoc.europa.eu%2F8466&amp;termuri=http%3A%2F%2Feurovoc.europa.eu%2F209598&amp;language=en&amp;view=pt&amp;ifacelang=en&#xA;&#xA;Additional information: Public Policy Objectives are usually formalized in the legislation. Thus, the EU data strategy is supported by a catalogue of legislation comprising the Data Act (https://digital-strategy.ec.europa.eu/en/policies/data-act), the Data Governance Act (https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020PC0767), the Interoperable Europe Act (https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52022PC0720), and other ancillary binding legal instruments like the GDPR, eIDAS, the framework for the flow of non-personal data, as well as by non-binding instruments like the Communication of the Commission on a European data space (https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX%3A52018DC0232)&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): In 2021-2027 EU cohesion policy has set a shorter, modern menu of 5 policy objectives supporting growth for the period 2021-2027. The Joint Action Plan includes actions on: 1. a more competitive and smarter Europe; 2. a greener, low carbon transitioning towards a net zero carbon economy; 3. a more connected Europe by enhancing mobility; 4. a more social and inclusive Europe; 5. Europe closer to citizens by fostering the sustainable and integrated development of all types of territories (https://ec.europa.eu/regional_policy/2021-2027_en)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: Enterprise Architecture Framework alignment guidelines viewpoint&#xA;&#xA;Interoperability Saliency: The Public Policy Objective ABB is salient for the governance of interoperability because it sets the path toward the definition of courses of action and frameworks that facilitates data sharing across EU countries. This ABB also is salient for legal interoperability due to it will drive the specification of legal requirements for the enablement of interoperability.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicPolicyObjectiveGoal&#xA;&#xA;ABB name: eira:PublicPolicyObjectiveGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/PublicPolicyObjectiveGoal&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/PublicPolicyObjectiveGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:PublicPolicyObjectiveGoal"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Public Policy Objective ABB is a Goal allowing public authorities to set the path towards the implementation of a public strategy."/>
+  <properties
+      key="eira:definitionSource"
+      value="EuroVoc "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://eurovoc.europa.eu/drupal/?q=request&amp;concepturi=http%3A%2F%2Feurovoc.europa.eu%2F8466&amp;termuri=http%3A%2F%2Feurovoc.europa.eu%2F209598&amp;language=en&amp;view=pt&amp;ifacelang=en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): In 2021-2027 EU cohesion policy has set a shorter, modern menu of 5 policy objectives supporting growth for the period 2021-2027. The Joint Action Plan includes actions on: 1. a more competitive and smarter Europe; 2. a greener, low carbon transitioning towards a net zero carbon economy; 3. a more connected Europe by enhancing mobility; 4. a more social and inclusive Europe; 5. Europe closer to citizens by fostering the sustainable and integrated development of all types of territories (https://ec.europa.eu/regional_policy/2021-2027_en)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Public Policy Objective ABB is salient for the governance of interoperability because it sets the path toward the definition of courses of action and frameworks that facilitates data sharing across EU countries. This ABB also is salient for legal interoperability due to it will drive the specification of legal requirements for the enablement of interoperability."/>
+  <properties
+      key="skos:note"
+      value="Public Policy Objectives are usually formalized in the legislation. Thus, the EU data strategy is supported by a catalogue of legislation comprising the Data Act (https://digital-strategy.ec.europa.eu/en/policies/data-act), the Data Governance Act (https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020PC0767), the Interoperable Europe Act (https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52022PC0720), and other ancillary binding legal instruments like the GDPR, eIDAS, the framework for the flow of non-personal data, as well as by non-binding instruments like the Communication of the Commission on a European data space (https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX%3A52018DC0232)"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/PublicPolicyObjectiveGoal"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Goal>

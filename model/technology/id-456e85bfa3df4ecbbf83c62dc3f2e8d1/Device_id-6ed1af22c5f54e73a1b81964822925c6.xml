@@ -1,0 +1,46 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Desktop Computer"
+    id="id-6ed1af22c5f54e73a1b81964822925c6"
+    documentation="Definition: Desktop Computer ABB is a Device in which the main unit is in a permanent location and is not designed for portability and is designed for use with an external display and external peripherals such as a keyboard and mouse.&#xA;&#xA;Source: European Comission&#xA;&#xA;Source reference: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013R0617&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Desktop Computer ABB is salient for technical interoperability because it provides the physical element to communicate with public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DesktopComputerDevice&#xA;&#xA;ABB name: eira:DesktopComputerDevice&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DesktopComputerDevice&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DesktopComputerDevice"/>
+  <properties
+      key="dct:type"
+      value="eira:DesktopComputerDevice"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Desktop Computer ABB is a Device in which the main unit is in a permanent location and is not designed for portability and is designed for use with an external display and external peripherals such as a keyboard and mouse."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Comission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013R0617"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Desktop Computer ABB is salient for technical interoperability because it provides the physical element to communicate with public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DesktopComputerDevice"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Device>

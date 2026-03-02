@@ -1,0 +1,47 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Submission Service"
+    id="id-6ddc5e7204dc41248e20fce155e0aa11"
+    documentation="Definition: A Submission Service is a web-based application service that allows users to upload, validate, and publish their data for sharing and dissemination. It provides an intuitive web interface for users to submit their datasets, metadata, and related information in standard formats. The service verifies the submitted data against predefined standards and guidelines to ensure compliance. By enabling seamless data publication, it empowers users to contribute to data repositories or portals, making the data more discoverable and accessible to a wider audience. Additional features of the Submission Service may include data versioning, access control, and integration with metadata standards.&#xA;&#xA;Source: Research Data Alliance&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SubmissionServiceApplicationService&#xA;&#xA;ABB name: egovera:SubmissionServiceApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SubmissionServiceApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataPublicationApplicationService&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="A Submission Service is a web-based application service that allows users to upload, validate, and publish their data for sharing and dissemination. It provides an intuitive web interface for users to submit their datasets, metadata, and related information in standard formats. The service verifies the submitted data against predefined standards and guidelines to ensure compliance. By enabling seamless data publication, it empowers users to contribute to data repositories or portals, making the data more discoverable and accessible to a wider audience. Additional features of the Submission Service may include data versioning, access control, and integration with metadata standards."/>
+  <properties
+      key="eira:definitionSource"
+      value="Research Data Alliance"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/SubmissionServiceApplicationService"/>
+  <properties
+      key="dct:type"
+      value="egovera:SubmissionServiceApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Data Management and Knowledge Discovery Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Computing Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/SubmissionServiceApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataPublicationApplicationService"/>
+</archimate:ApplicationService>

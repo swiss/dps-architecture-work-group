@@ -1,0 +1,45 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Metadata Locator"
+    id="id-cdfca818f5194b939a5fab01bb922762"
+    documentation="Definition: A Service Metadata Locator is a digital service that enables the discovery and retrieval of metadata about other services within a distributed system or across the internet.&#xA;&#xA;Source: Techopedia&#xA;&#xA;Source reference: https://www.techopedia.com/definition/24559/service-metadata-locator&#xA;&#xA;Additional information: The Service Metadata Locator is a crucial component in service-oriented architectures (SOA) and microservices architectures, where services are loosely coupled and can be dynamically discovered and integrated. It acts as a directory or registry that holds information about the services available within a system, such as service endpoints, interfaces, protocols, and policies. This information is essential for service consumers to understand how to interact with the services. The locator often provides an API or interface through which services can register their metadata and through which consumers can query for services that meet certain criteria. This enables automation in service discovery and integration, which is vital for scalability and flexibility in complex systems.&#xA;&#xA;Example: Web Services Discovery&#xA;In a web services environment, a Service Metadata Locator can be used to store and provide access to WSDL (Web Services Description Language) files. Clients can query the locator to find the appropriate WSDL for a web service they wish to consume, enabling them to dynamically generate client stubs and interact with the service.&#xA;&#xA;Microservices Architecture&#xA;In a microservices architecture, a Service Metadata Locator can be used by individual microservices to register their availability and by others to discover these services. For example, when a new microservice is deployed, it registers its metadata with the locator. Other microservices or service gateways can query the locator to route requests or compose services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ServiceMetadataLocatorApplicationService&#xA;&#xA;ABB name: egovera:ServiceMetadataLocatorApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ServiceMetadataLocatorApplicationService&#xA;&#xA;Name: Service Metadata Locator Application Service&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionApplicationService&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ServiceMetadataLocatorApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ServiceMetadataLocatorApplicationService"/>
+  <properties
+      key="dct:title"
+      value="Service Metadata Locator Application Service"/>
+  <properties
+      key="dct:type"
+      value="egovera:ServiceMetadataLocatorApplicationService"/>
+  <properties
+      key="skos:definition"
+      value="A Service Metadata Locator is a digital service that enables the discovery and retrieval of metadata about other services within a distributed system or across the internet."/>
+  <properties
+      key="eira:definitionSource"
+      value="Techopedia"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.techopedia.com/definition/24559/service-metadata-locator"/>
+  <properties
+      key="skos:example"
+      value="Web Services Discovery&#xA;In a web services environment, a Service Metadata Locator can be used to store and provide access to WSDL (Web Services Description Language) files. Clients can query the locator to find the appropriate WSDL for a web service they wish to consume, enabling them to dynamically generate client stubs and interact with the service.&#xA;&#xA;Microservices Architecture&#xA;In a microservices architecture, a Service Metadata Locator can be used by individual microservices to register their availability and by others to discover these services. For example, when a new microservice is deployed, it registers its metadata with the locator. Other microservices or service gateways can query the locator to route requests or compose services."/>
+  <properties
+      key="skos:note"
+      value="The Service Metadata Locator is a crucial component in service-oriented architectures (SOA) and microservices architectures, where services are loosely coupled and can be dynamically discovered and integrated. It acts as a directory or registry that holds information about the services available within a system, such as service endpoints, interfaces, protocols, and policies. This information is essential for service consumers to understand how to interact with the services. The locator often provides an API or interface through which services can register their metadata and through which consumers can query for services that meet certain criteria. This enables automation in service discovery and integration, which is vital for scalability and flexibility in complex systems."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionApplicationService"/>
+</archimate:ApplicationService>

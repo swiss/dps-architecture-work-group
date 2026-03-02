@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Router"
+    id="id-2ec448ba22a94e8e95425ceee58c7966"
+    documentation="Definition: Router ABB is a Technology Service that enables the implementation of a component to connect multiple networks and directs traffic between them&#xA;&#xA;Source: ISO 35.110&#xA;&#xA;Source reference: https://www.iso.org/ics/35.110/x/&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Turris Omnia Open Source Router, https://opensource.com/article/22/1/turris-omnia-open-source-router&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Router ABB is salient for technical interoperability due to it physically establishes the rules for distributing the information into a network.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/RouterTechnologyService&#xA;&#xA;ABB name: eira:RouterTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/RouterTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/RouterTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:RouterTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Router ABB is a Technology Service that enables the implementation of a component to connect multiple networks and directs traffic between them"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO 35.110"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/ics/35.110/x/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Turris Omnia Open Source Router, https://opensource.com/article/22/1/turris-omnia-open-source-router"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Router ABB is salient for technical interoperability due to it physically establishes the rules for distributing the information into a network."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/RouterTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

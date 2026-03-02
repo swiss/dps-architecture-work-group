@@ -1,0 +1,53 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Metadata Catalogue Solutions"
+    id="id-368b4b8e3ce9468fbd719c7ca9f18385"
+    documentation="Definition: NARRATIVE:The 'Business Agnostic Metadata Catalogue' in ArchiMate is a grouping that organizes various elements based on their concerns or responsibilities. In the provided JSON, there are three main elements: [JRC Data Catalogue], [SV-Metadata Catalogue], and [Smart Data Models]. 1. [JRC Data Catalogue]: This is a Data Object SBB type element. It represents the Joint Research Center (JRC) Data Catalogue, which is a collection of metadata records providing information about datasets produced by the JRC. The JRC, as the European Commission's in-house science service, conducts research to provide independent scientific advice and support to the policies of the European Union. This element does not contain any sub-elements.2. [SV-Metadata Catalogue]: This is an Archimate Diagram-model ABB type element. The description is not provided in the JSON, but based on its type, it can be inferred that this element represents a metadata catalogue in the form of an ArchiMate diagram model. This element also does not contain any sub-elements.3. [Smart Data Models]: This is another Data Object SBB type element. It represents a smart data model, which includes three elements: the schema (technical representation of the model defining the technical data types and structure), the specification (a written document for human readers), and the examples of the payloads for NGSIv2 and NGSI-LD versions. This element also does not contain any sub-elements.In the context of ArchiMate's grouping, these elements are catalogued in the 'Business Agnostic Metadata Catalogue' based on their responsibilities or concerns, which revolve around data and metadata management, research, and policy support.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The BAMS catalogue includes the JRC Data Catalogue, a collection of metadata records detailing datasets produced by the Joint Research Centre (JRC) in line with its Data Policy. The JRC, the European Commission's in-house science service, conducts research to provide independent scientific advice and support to EU policies. Another key element in the catalogue is Smart Data Models. These models include a schema (technical representation of the model defining the technical data types and structure), a specification (written document for human readers), and examples of the payloads for NGSIv2 and NGSI-LD versions. These models are 'smart' because they are designed to be easily understood and used by both humans and machines, facilitating more effective data management and utilization.&#xA;&#xA;Example: An example of the application of the JRC Data Catalogue could be a research institution using the catalogue to access and utilize JRC's datasets for a study on EU policy impact. Similarly, a tech company could use the Smart Data Models in the development of a new software product, leveraging the models to ensure that their data is structured and managed in a standardized, efficient manner.&#xA;&#xA;LOST view: SV-Metadata Catalogue&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticMetadataCatalogueSolutionsGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticMetadataCatalogueSolutionsGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticMetadataCatalogueSolutionsGrouping&#xA;&#xA;Name: Business Agnostic Metadata Solutions Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticMetadataCatalogueSolutionsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticMetadataCatalogueSolutionsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Metadata Solutions Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticMetadataCatalogueSolutionsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="NARRATIVE:The 'Business Agnostic Metadata Catalogue' in ArchiMate is a grouping that organizes various elements based on their concerns or responsibilities. In the provided JSON, there are three main elements: [JRC Data Catalogue], [SV-Metadata Catalogue], and [Smart Data Models]. 1. [JRC Data Catalogue]: This is a Data Object SBB type element. It represents the Joint Research Center (JRC) Data Catalogue, which is a collection of metadata records providing information about datasets produced by the JRC. The JRC, as the European Commission's in-house science service, conducts research to provide independent scientific advice and support to the policies of the European Union. This element does not contain any sub-elements.2. [SV-Metadata Catalogue]: This is an Archimate Diagram-model ABB type element. The description is not provided in the JSON, but based on its type, it can be inferred that this element represents a metadata catalogue in the form of an ArchiMate diagram model. This element also does not contain any sub-elements.3. [Smart Data Models]: This is another Data Object SBB type element. It represents a smart data model, which includes three elements: the schema (technical representation of the model defining the technical data types and structure), the specification (a written document for human readers), and the examples of the payloads for NGSIv2 and NGSI-LD versions. This element also does not contain any sub-elements.In the context of ArchiMate's grouping, these elements are catalogued in the 'Business Agnostic Metadata Catalogue' based on their responsibilities or concerns, which revolve around data and metadata management, research, and policy support."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of the application of the JRC Data Catalogue could be a research institution using the catalogue to access and utilize JRC's datasets for a study on EU policy impact. Similarly, a tech company could use the Smart Data Models in the development of a new software product, leveraging the models to ensure that their data is structured and managed in a standardized, efficient manner."/>
+  <properties
+      key="skos:note"
+      value="The BAMS catalogue includes the JRC Data Catalogue, a collection of metadata records detailing datasets produced by the Joint Research Centre (JRC) in line with its Data Policy. The JRC, the European Commission's in-house science service, conducts research to provide independent scientific advice and support to EU policies. Another key element in the catalogue is Smart Data Models. These models include a schema (technical representation of the model defining the technical data types and structure), a specification (written document for human readers), and examples of the payloads for NGSIv2 and NGSI-LD versions. These models are 'smart' because they are designed to be easily understood and used by both humans and machines, facilitating more effective data management and utilization."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Metadata Catalogue"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

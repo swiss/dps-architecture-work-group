@@ -1,0 +1,51 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Framework"
+    id="id-e7aabcb0682f4483aa2630972a25ea7a"
+    documentation="Definition: Security Framework ABB is a Business Object that enables the protection of various aspects of data, information and knowledge assets and the organizational resources handling them.&#xA;&#xA;Source: Inspired in the works by ISA2, and the EIF-related works &#xA;&#xA;Source reference: https://ec.europa.eu/isa2/isa2_en&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The EU cybersecurity certification framework - The European Commission puts forward the creation of a EU certification framework for ICT security products in its 2017 proposal for a regulation. - On 13 September 2017 the Commission issued a proposal for a regulation on ENISA, the &quot;&quot;EU Cybersecurity Agency&quot;&quot;, and on Information and Communication Technology cybersecurity certification (''Cybersecurity Act''). Certification plays a critical role in increasing trust and security in products and services that are crucial for the digital single market. At the moment, a number of different security certification schemes for ICT products exist in the EU. Without a common framework for EU-wide valid cybersecurity certificates, there is an increasing risk of fragmentation and barriers in the single market. The proposed certification framework will provide EU-wide certification schemes as a comprehensive set of rules, technical requirements, standards and procedures. This will be based on agreement at EU level for the evaluation of the security properties of a specific ICT-based product or service e.g. smart cards. The certification will attest that ICT products and services that have been certified in accordance with such a scheme comply with specified cybersecurity requirements. The resulting certificate will be recognized in all Member States, making it easier for businesses to trade across borders and for purchasers to understand the security features of the product or service. The schemes proposed in the future European framework will rely as much as possible on international standards as a way to avoid creating trade barriers and ensuring coherence with international initiatives.&quot;&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Security Framework ABB is salient for legal and organizational interoperability due to it permits the establishment of security and privacy procedures and rules to determine the provision of public services. This framework will provide secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SecurityFrameworkBusinessObject&#xA;&#xA;ABB name: eira:SecurityFrameworkBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SecurityFrameworkBusinessObject&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SecurityFrameworkBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="eira:SecurityFrameworkBusinessObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Security Framework ABB is a Business Object that enables the protection of various aspects of data, information and knowledge assets and the organizational resources handling them."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the works by ISA2, and the EIF-related works "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/isa2_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): The EU cybersecurity certification framework - The European Commission puts forward the creation of a EU certification framework for ICT security products in its 2017 proposal for a regulation. - On 13 September 2017 the Commission issued a proposal for a regulation on ENISA, the &quot;&quot;EU Cybersecurity Agency&quot;&quot;, and on Information and Communication Technology cybersecurity certification (''Cybersecurity Act''). Certification plays a critical role in increasing trust and security in products and services that are crucial for the digital single market. At the moment, a number of different security certification schemes for ICT products exist in the EU. Without a common framework for EU-wide valid cybersecurity certificates, there is an increasing risk of fragmentation and barriers in the single market. The proposed certification framework will provide EU-wide certification schemes as a comprehensive set of rules, technical requirements, standards and procedures. This will be based on agreement at EU level for the evaluation of the security properties of a specific ICT-based product or service e.g. smart cards. The certification will attest that ICT products and services that have been certified in accordance with such a scheme comply with specified cybersecurity requirements. The resulting certificate will be recognized in all Member States, making it easier for businesses to trade across borders and for purchasers to understand the security features of the product or service. The schemes proposed in the future European framework will rely as much as possible on international standards as a way to avoid creating trade barriers and ensuring coherence with international initiatives.&quot;"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Security Framework ABB is salient for legal and organizational interoperability due to it permits the establishment of security and privacy procedures and rules to determine the provision of public services. This framework will provide secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SecurityFrameworkBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessObject>

@@ -1,0 +1,49 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement on Privacy"
+    id="id-a376d399b91040b2b38a878bab1407c8"
+    documentation="Definition: Agreement on Privacy ABB is a Contract that enables a set of rules for the personal data of individuals' collection, processing and transference by public administrations.&#xA;&#xA;Source: Inspired in Data Protection Law by European Comission&#xA;&#xA;Source reference: https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_en&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU-U.S. Data Privacy Framework. https://ec.europa.eu/commission/presscorner/detail/en/qanda_22_6045&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Interoperability Saliency: Agreement on Privacy ABB is salient for governance interoperability because it represents the specific rules established to establish the privacy and security framework. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgreementOnPrivacyContract&#xA;&#xA;ABB name: eira:AgreementOnPrivacyContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AgreementOnPrivacyContract&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AgreementOnPrivacyContract"/>
+  <properties
+      key="dct:type"
+      value="eira:AgreementOnPrivacyContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Agreement on Privacy ABB is a Contract that enables a set of rules for the personal data of individuals' collection, processing and transference by public administrations."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Data Protection Law by European Comission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://commission.europa.eu/law/law-topic/data-protection/data-protection-eu_en"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): EU-U.S. Data Privacy Framework. https://ec.europa.eu/commission/presscorner/detail/en/qanda_22_6045"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Agreement on Privacy ABB is salient for governance interoperability because it represents the specific rules established to establish the privacy and security framework. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AgreementOnPrivacyContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Contract>

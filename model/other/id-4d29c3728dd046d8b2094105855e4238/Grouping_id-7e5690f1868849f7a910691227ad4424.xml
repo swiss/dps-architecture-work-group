@@ -1,0 +1,49 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Experience Management Enablers"
+    id="id-7e5690f1868849f7a910691227ad4424"
+    documentation="Definition: User Experience Management Enablers ABB is a Grouping that refers to components and services that track, measure, analyze and improve any interaction people have with the organization&#xA;&#xA;Source: Inpired in referece business and cloud provider compabies&#xA;&#xA;Source reference: https://www.vmware.com/topics/glossary/content/experience-management.html&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Mi Carpeta Ciudadana Carpeta Ciudadana is a personal online space that facilitates your relationship with public administrations. https://carpetaciudadana.gob.es/carpeta/clave.htm&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability Saliency: The User Experience Management Enablers Grouping ABB is salient for technical interoperability because it comprises services and components that allow different parties involved in the use and delivery o public services, to exchange and provide data or information.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/UserExperienceManagementEnablersGrouping&#xA;&#xA;ABB name: eira:UserExperienceManagementEnablersGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/UserExperienceManagementEnablersGrouping&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="eira:UserExperienceManagementEnablersGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="User Experience Management Enablers ABB is a Grouping that refers to components and services that track, measure, analyze and improve any interaction people have with the organization"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inpired in referece business and cloud provider compabies"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.vmware.com/topics/glossary/content/experience-management.html"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Mi Carpeta Ciudadana Carpeta Ciudadana is a personal online space that facilitates your relationship with public administrations. https://carpetaciudadana.gob.es/carpeta/clave.htm"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The User Experience Management Enablers Grouping ABB is salient for technical interoperability because it comprises services and components that allow different parties involved in the use and delivery o public services, to exchange and provide data or information."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/UserExperienceManagementEnablersGrouping"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/UserExperienceManagementEnablersGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:Grouping>

@@ -1,0 +1,52 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Quality"
+    id="id-fbfbe375317e40beb245e37eaf074602"
+    documentation="Definition: Data Quality Component ABB is an Application Component that enables the implementation of verifying that the value of a data item comes from a given set of acceptable values. Data validation may be followed by corrective actions, such as data editing or data imputation. In statistics, imputation is the process of replacing missing data with substituted values.&#xA;&#xA;Source: Eurostat Data Validation&#xA;&#xA;Source reference:  http://ec.europa.eu/eurostat/data/data-validation&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Hibernate Validator - Express validation rules in a standardized way using annotation-based constraints and benefit from transparent integration with a wide variety of frameworks. Application layer agnostic validation: Hibernate Validator allows to express and validate application constraints. The default metadata source are annotations, with the ability to override and extend through the use of XML. It is not tied to a specific application tier or programming model and is available for both server and client application programming. Hibernate Validator presents the following characteristics: •&#x9;Extendable: Hibernate Validator offers a configurable bootstrap API as well as a range of built-in constraints. The latter can easily be extended by creating custom constraints; •&#x9;Rich metadata API: Hibernate Validator gives access to constraint configuration via a metadata API facilitating, for example, tooling integration; •&#x9;Reference implementation: Hibernate Validator 6.x is the reference implementation Bean Validation 2.0; •&#x9;Added value: Hibernate Validator offers additional value on top of the features required by Bean Validation. For example, a programmatic constraint configuration API as well as an annotation processor which plugs into the build process and raises compilation errors whenever constraint annotations are incorrectly used. http://hibernate.org/validator/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Privacy viewpoint&#xA;&#xA;Interoperability Saliency: The Data Quality Component ABB  is salient for technical interoperability because it allows the implementation of the functionality to validate if data received (or to be sent) is compliant with common and agreed interoperable formats as stated in the EIF recommendation n° 41: &quot;Establish procedures and processes to integrate the opening of data in your common business processes, working routines, and in the development of new information systems.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataQualityApplicationComponent&#xA;&#xA;ABB name: eira:DataQualityApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataQualityApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataQualityApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:DataQualityApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Quality Component ABB is an Application Component that enables the implementation of verifying that the value of a data item comes from a given set of acceptable values. Data validation may be followed by corrective actions, such as data editing or data imputation. In statistics, imputation is the process of replacing missing data with substituted values."/>
+  <properties
+      key="eira:definitionSource"
+      value="Eurostat Data Validation"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value=" http://ec.europa.eu/eurostat/data/data-validation"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Hibernate Validator - Express validation rules in a standardized way using annotation-based constraints and benefit from transparent integration with a wide variety of frameworks. Application layer agnostic validation: Hibernate Validator allows to express and validate application constraints. The default metadata source are annotations, with the ability to override and extend through the use of XML. It is not tied to a specific application tier or programming model and is available for both server and client application programming. Hibernate Validator presents the following characteristics: •&#x9;Extendable: Hibernate Validator offers a configurable bootstrap API as well as a range of built-in constraints. The latter can easily be extended by creating custom constraints; •&#x9;Rich metadata API: Hibernate Validator gives access to constraint configuration via a metadata API facilitating, for example, tooling integration; •&#x9;Reference implementation: Hibernate Validator 6.x is the reference implementation Bean Validation 2.0; •&#x9;Added value: Hibernate Validator offers additional value on top of the features required by Bean Validation. For example, a programmatic constraint configuration API as well as an annotation processor which plugs into the build process and raises compilation errors whenever constraint annotations are incorrectly used. http://hibernate.org/validator/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Quality Component ABB  is salient for technical interoperability because it allows the implementation of the functionality to validate if data received (or to be sent) is compliant with common and agreed interoperable formats as stated in the EIF recommendation n° 41: &quot;Establish procedures and processes to integrate the opening of data in your common business processes, working routines, and in the development of new information systems.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataQualityApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

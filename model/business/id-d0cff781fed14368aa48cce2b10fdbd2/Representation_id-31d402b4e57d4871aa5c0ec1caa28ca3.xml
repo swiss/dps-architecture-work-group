@@ -1,0 +1,41 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISO 8601"
+    id="id-31d402b4e57d4871aa5c0ec1caa28ca3"
+    documentation="Description: ISO 8601 is an international standard that specifies the representation of dates, times, and durations. It provides a standardized format for expressing and exchanging date and time-related information in a universally accepted way. The ISO 8601 format follows the YYYY-MM-DD (year-month-day) pattern for dates and the HH:MM:SS (hour-minute-second) pattern for times. It also allows for additional elements such as time zone offsets and durations. ISO 8601 ensures consistency and interoperability in date and time representations, facilitating accurate data exchange, international communication, and proper handling of date and time-related operations across different systems and applications.&#xA;&#xA;Publisher: ISO&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ISO8601Representation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ISO8601Representation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="ISO"/>
+  <properties
+      key="dct:description"
+      value="ISO 8601 is an international standard that specifies the representation of dates, times, and durations. It provides a standardized format for expressing and exchanging date and time-related information in a universally accepted way. The ISO 8601 format follows the YYYY-MM-DD (year-month-day) pattern for dates and the HH:MM:SS (hour-minute-second) pattern for times. It also allows for additional elements such as time zone offsets and durations. ISO 8601 ensures consistency and interoperability in date and time representations, facilitating accurate data exchange, international communication, and proper handling of date and time-related operations across different systems and applications."/>
+  <properties
+      key="dct:source"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ISO8601Representation"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ISO8601Representation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

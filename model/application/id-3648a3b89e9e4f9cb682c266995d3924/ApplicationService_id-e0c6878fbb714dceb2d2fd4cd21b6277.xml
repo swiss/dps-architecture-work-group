@@ -1,0 +1,52 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integrity Verification"
+    id="id-e0c6878fbb714dceb2d2fd4cd21b6277"
+    documentation="Definition: Integrity Verification ABB is an Application Service that enables the procedures to ensure that information has not been altered in an unauthorized manner since it was created, transmitted or stored.&#xA;&#xA;Source: CSRC &#xA;&#xA;Source reference: https://csrc.nist.gov/glossary/term/integrity_verification&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): WITDOM’s Integrity and Consistency Verification component protects the integrity and consistency of data outsourced to an untrusted remote storage. https://www.cyberwatching.eu/projects/1006/witdom/products/witdom-integrity-and-consistency-verification&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Integrity Verification Application Service ABB is salient for interoperability because is a key service to ensure data integrity, it can perform checks on: changes on the data, if changes are authorised or not, and when those changes have been performed. By ensuring this, digital public services can provide additional trust in the data and information provided to stakeholders. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/IntegrityVerificationApplicationService&#xA;&#xA;ABB name: eira:IntegrityVerificationApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/IntegrityVerificationApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/IntegrityVerificationApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:IntegrityVerificationApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Integrity Verification ABB is an Application Service that enables the procedures to ensure that information has not been altered in an unauthorized manner since it was created, transmitted or stored."/>
+  <properties
+      key="eira:definitionSource"
+      value="CSRC "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://csrc.nist.gov/glossary/term/integrity_verification"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): WITDOM’s Integrity and Consistency Verification component protects the integrity and consistency of data outsourced to an untrusted remote storage. https://www.cyberwatching.eu/projects/1006/witdom/products/witdom-integrity-and-consistency-verification"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Integrity Verification Application Service ABB is salient for interoperability because is a key service to ensure data integrity, it can perform checks on: changes on the data, if changes are authorised or not, and when those changes have been performed. By ensuring this, digital public services can provide additional trust in the data and information provided to stakeholders. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/IntegrityVerificationApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="adds granularity"
+    id="id-65961db4e73a47d4890bcc8ec016db07"
+    directed="true">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-4b08630600ca45d2bd3b60440f5f3294.xml#id-4b08630600ca45d2bd3b60440f5f3294"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-64699ae9cf3b403880b867c27908f0d5.xml#id-64699ae9cf3b403880b867c27908f0d5"/>
+</archimate:AssociationRelationship>

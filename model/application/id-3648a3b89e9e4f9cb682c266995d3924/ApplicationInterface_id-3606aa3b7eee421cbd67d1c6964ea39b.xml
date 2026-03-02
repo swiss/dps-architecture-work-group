@@ -1,0 +1,47 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supply Chain Management"
+    id="id-3606aa3b7eee421cbd67d1c6964ea39b"
+    documentation="Definition: The Supply Chain Management Application Service refers to a digital service that facilitates the planning, coordination, and optimization of activities involved in the end-to-end management of the supply chain. It encompasses the integration of various functions, including procurement, production, inventory management, logistics, and distribution, to ensure efficient and effective movement of goods or services from suppliers to customers. The application service provides functionalities such as demand forecasting, inventory tracking, order management, supplier collaboration, logistics optimization, and performance analytics. It aims to enhance visibility, transparency, and collaboration across the supply chain, enabling organizations to streamline operations, reduce costs, and improve customer satisfaction.&#xA;&#xA;Source: European Supply Chain Institute (ESCI)&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SupplyChainManagementApplicationInterface&#xA;&#xA;ABB name: egovera:SupplyChainManagementApplicationInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SupplyChainManagementApplicationInterface&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/WebServiceApplicationInterface&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="The Supply Chain Management Application Service refers to a digital service that facilitates the planning, coordination, and optimization of activities involved in the end-to-end management of the supply chain. It encompasses the integration of various functions, including procurement, production, inventory management, logistics, and distribution, to ensure efficient and effective movement of goods or services from suppliers to customers. The application service provides functionalities such as demand forecasting, inventory tracking, order management, supplier collaboration, logistics optimization, and performance analytics. It aims to enhance visibility, transparency, and collaboration across the supply chain, enabling organizations to streamline operations, reduce costs, and improve customer satisfaction."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Supply Chain Institute (ESCI)"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/SupplyChainManagementApplicationInterface"/>
+  <properties
+      key="dct:type"
+      value="egovera:SupplyChainManagementApplicationInterface"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Management Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Application Integration Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/SupplyChainManagementApplicationInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/WebServiceApplicationInterface"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,48 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exchange Item metadata"
+    id="id-86fbd8fb2c734b0aa66bb366165a44b2"
+    documentation="Definition: Exchange Item Metadata refers to the structured information that provides descriptive and contextual details about an exchange item in a data exchange or integration process. It includes attributes such as the item's name, description, format, source, destination, and any additional metadata that helps define its characteristics and usage. Exchange Item Metadata serves as a standardized representation of the item's properties, enabling effective data integration, interoperability, and understanding across different systems and applications.&#xA;&#xA;Source: W3C&#xA;&#xA;Source reference: https://www.w3.org/standards/&#xA;&#xA;LOST view: SV-Business Agnostic Metadata&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ExchangeItemMetadataDataObject&#xA;&#xA;ABB name: egovera:ExchangeItemMetadataDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/ExchangeItemMetadataDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataSetDataObject&#xA;&#xA;">
+  <properties
+      key="skos:definition"
+      value="Exchange Item Metadata refers to the structured information that provides descriptive and contextual details about an exchange item in a data exchange or integration process. It includes attributes such as the item's name, description, format, source, destination, and any additional metadata that helps define its characteristics and usage. Exchange Item Metadata serves as a standardized representation of the item's properties, enabling effective data integration, interoperability, and understanding across different systems and applications."/>
+  <properties
+      key="eira:definitionSource"
+      value="W3C"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.w3.org/standards/"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/ExchangeItemMetadataDataObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:ExchangeItemMetadataDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic Metadata"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/ExchangeItemMetadataDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataSetDataObject"/>
+</archimate:DataObject>

@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relational Database Manager"
+    id="id-4b570d5206ea472a98e05be264062c39"
+    documentation="Definition: Relational Database Manager ABB is a Technology Service that implements the behaviour of a software system that provides access to and management of relational databases&#xA;&#xA;Source: Inspired in Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/rdbms-relational-database-management-system&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): MySQL manager, an SQL for MySQL.  https://www.sqlmanager.net/products/mysql/manager&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Relational Database Manager ABB is salient for semantic interoperability because it establishes a common mechanism to query structured data and share the information using common data exchange models&#xA;&#xA;Identifier: http://data.europa.eu/dr8/RelationalDatabaseManagerTechnologyService&#xA;&#xA;ABB name: eira:RelationalDatabaseManagerTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/RelationalDatabaseManagerTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/RelationalDatabaseManagerTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:RelationalDatabaseManagerTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Relational Database Manager ABB is a Technology Service that implements the behaviour of a software system that provides access to and management of relational databases"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/rdbms-relational-database-management-system"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): MySQL manager, an SQL for MySQL.  https://www.sqlmanager.net/products/mysql/manager"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Relational Database Manager ABB is salient for semantic interoperability because it establishes a common mechanism to query structured data and share the information using common data exchange models"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/RelationalDatabaseManagerTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

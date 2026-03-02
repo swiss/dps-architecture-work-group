@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="N3"
+    id="id-6f0a25641a6241b281f4977cdeb053e6"
+    documentation="Description: N3 is a serialization format for representing RDF (Resource Description Framework) data. It is an extension of Turtle (Terse RDF Triple Language) and provides additional features for expressing rules, formulas, and logical statements within RDF graphs. N3 aims to provide a more expressive and flexible syntax for representing RDF data compared to other serialization formats.&#xA;&#xA;Publisher: W3C&#xA;&#xA;Source: https://www.w3.org/TeamSubmission/n3/&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/N3Representation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/N3Representation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="W3C"/>
+  <properties
+      key="dct:description"
+      value="N3 is a serialization format for representing RDF (Resource Description Framework) data. It is an extension of Turtle (Terse RDF Triple Language) and provides additional features for expressing rules, formulas, and logical statements within RDF graphs. N3 aims to provide a more expressive and flexible syntax for representing RDF data compared to other serialization formats."/>
+  <properties
+      key="dct:source"
+      value="https://www.w3.org/TeamSubmission/n3/"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/N3Representation"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/N3Representation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

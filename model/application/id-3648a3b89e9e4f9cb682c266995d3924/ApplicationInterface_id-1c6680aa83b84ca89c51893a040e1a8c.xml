@@ -1,0 +1,51 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ePayment"
+    id="id-1c6680aa83b84ca89c51893a040e1a8c"
+    documentation="Definition: The ePayment Application service refers to a digital payment solution that enables secure and convenient electronic transactions between buyers and sellers. It encompasses the electronic processing of financial transactions, such as online purchases, bill payments, and fund transfers, using digital payment methods and platforms.&#xA;&#xA;Source: International Journal of Computer Science and Network Security (IJCSNS)&#xA;&#xA;Source reference: https://ijcsns.org/&#xA;&#xA;LOST view: TVA-API Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EPaymentApplicationInterface&#xA;&#xA;ABB name: egovera:EPaymentApplicationInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EPaymentApplicationInterface&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/WebServiceApplicationInterface&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="The ePayment Application service refers to a digital payment solution that enables secure and convenient electronic transactions between buyers and sellers. It encompasses the electronic processing of financial transactions, such as online purchases, bill payments, and fund transfers, using digital payment methods and platforms."/>
+  <properties
+      key="eira:definitionSource"
+      value="International Journal of Computer Science and Network Security (IJCSNS)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ijcsns.org/"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/EPaymentApplicationInterface"/>
+  <properties
+      key="dct:type"
+      value="egovera:EPaymentApplicationInterface"/>
+  <properties
+      key="eira:view"
+      value="TVA-API Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Management Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Application Integration Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/EPaymentApplicationInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/WebServiceApplicationInterface"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,45 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Training and learning management"
+    id="id-3a7c475d1b044d488d81aa45eabeac8c"
+    documentation="Definition: The Training and Learning Management building block is an application service that helps organizations efficiently plan, administer, deliver, and track training and learning activities. It provides a comprehensive platform for managing courses, registrations, content delivery, assessments, certifications, and reporting. This application service supports both traditional and online training, offering features like content authoring, learner management, progress tracking, assessments, and analytics. It plays a vital role in promoting employee development, knowledge acquisition, and skill enhancement, allowing organizations to deliver effective training programs in a scalable and streamlined manner.&#xA;&#xA;Source: Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/documents/3985042&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TrainingAndLearningManagementApplicationService&#xA;&#xA;ABB name: egovera:TrainingAndLearningManagementApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TrainingAndLearningManagementApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalWorkplaceApplicationService&#xA;&#xA;">
+  <properties
+      key="skos:definition"
+      value="The Training and Learning Management building block is an application service that helps organizations efficiently plan, administer, deliver, and track training and learning activities. It provides a comprehensive platform for managing courses, registrations, content delivery, assessments, certifications, and reporting. This application service supports both traditional and online training, offering features like content authoring, learner management, progress tracking, assessments, and analytics. It plays a vital role in promoting employee development, knowledge acquisition, and skill enhancement, allowing organizations to deliver effective training programs in a scalable and streamlined manner."/>
+  <properties
+      key="eira:definitionSource"
+      value="Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/documents/3985042"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/TrainingAndLearningManagementApplicationService"/>
+  <properties
+      key="dct:type"
+      value="egovera:TrainingAndLearningManagementApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Digital Workplace Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/TrainingAndLearningManagementApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalWorkplaceApplicationService"/>
+</archimate:ApplicationService>

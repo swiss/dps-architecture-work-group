@@ -1,0 +1,48 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital First"
+    id="id-e1ace390d0154b9598a2560242f6a2bb"
+    documentation="Definition: Public services are transformed into digital public services Making public services digital makes them more accessible, reduces administrative burdens and time and allows faster responses to individuals and organizations. The European Commission has also set out a strategy for the digital transformation of its own services. Digital channels are also the Commission’s preferred way to communicate. Laws and regulations are adapted to enable digital services when they lead to barriers to digital transformation.Public administrations seek to transform existing public services into digital public services.Digital public services can easily be found and accessed by users on the web sites of public administrations.Digital public services that are focused on government-to-business are made accessible through automated systems interfaces, such as API.&quot;&quot;&#xA;&#xA;Source: C(2022) 4388 final COMMUNICATION TO THE COMMISSION European Commission digital strategy Next generation digital Commission&#xA;&#xA;Source reference: https://commission.europa.eu/publications/european-commission-digital-strategy_en&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/digital-first&#xA;&#xA;ABB name: elap:digital-first&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Digital First&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:digital-first"/>
+  <properties
+      key="dct:title"
+      value="Digital First"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/digital-first"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="C(2022) 4388 final COMMUNICATION TO THE COMMISSION European Commission digital strategy Next generation digital Commission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://commission.europa.eu/publications/european-commission-digital-strategy_en"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="OV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="LV-Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:definition"
+      value="Public services are transformed into digital public services Making public services digital makes them more accessible, reduces administrative burdens and time and allows faster responses to individuals and organizations. The European Commission has also set out a strategy for the digital transformation of its own services. Digital channels are also the Commission’s preferred way to communicate. Laws and regulations are adapted to enable digital services when they lead to barriers to digital transformation.Public administrations seek to transform existing public services into digital public services.Digital public services can easily be found and accessed by users on the web sites of public administrations.Digital public services that are focused on government-to-business are made accessible through automated systems interfaces, such as API.&quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

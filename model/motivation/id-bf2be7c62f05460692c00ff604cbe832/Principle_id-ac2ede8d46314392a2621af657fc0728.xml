@@ -1,0 +1,48 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Interoperability"
+    id="id-ac2ede8d46314392a2621af657fc0728"
+    documentation="Definition: Datasets metadata machine-readable format, vocabularies reused, and reference to other datasets and their metadata.  Data format should be readable for machines without the need for specialised or ad hoc algorithms, translators, or mappings. Data does not exist in isolation but is highly dependent upon other data that is available from other parties. Data should also be reused, when possible, to prevent collecting the same data twice and introducing duplication, with the risk of inconsistency. Controlled vocabularies define the terms in a specific domain, standardising their interpretation. These concepts are the foundation for data, providing definitions and meaning to them. It is important for users of data to have access to these definitions, so they can correctly interpret the data. The usage of standardised methods for the representation of metadata (RDF,  OWL, DAM+OIL, JSON LD). In the metadata of datasets, references are made to the metadata of other datasets that the dataset depends upon. The data model of the dataset refers to the data model and the specific data elements and definitions that are reused from other datasets. The data itself includes identifiers to data in other datasets that the data depends upon.Relevant controlled vocabularies that exist for the domain that is covered by a specific dataset are determined. Important terms that are not defined by existing controlled vocabularies are defined in a new controlled vocabulary.  The controlled vocabulary is published in a standardized format in a location that can easly be found by the target audience. The controlled vocabulary and the concepts that it describes have globally unique and persistent identifiers, so they can easily be referred to.&quot;&quot;&#xA;&#xA;Source: FAIR principles&#xA;&#xA;Source reference: https://www.go-fair.org/fair-principles/&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/data-interoperability&#xA;&#xA;ABB name: elap:data-interoperability&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Data Interoperability&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:data-interoperability"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/data-interoperability"/>
+  <properties
+      key="dct:title"
+      value="Data Interoperability"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="FAIR principles"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.go-fair.org/fair-principles/"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="SV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:definition"
+      value="Datasets metadata machine-readable format, vocabularies reused, and reference to other datasets and their metadata.  Data format should be readable for machines without the need for specialised or ad hoc algorithms, translators, or mappings. Data does not exist in isolation but is highly dependent upon other data that is available from other parties. Data should also be reused, when possible, to prevent collecting the same data twice and introducing duplication, with the risk of inconsistency. Controlled vocabularies define the terms in a specific domain, standardising their interpretation. These concepts are the foundation for data, providing definitions and meaning to them. It is important for users of data to have access to these definitions, so they can correctly interpret the data. The usage of standardised methods for the representation of metadata (RDF,  OWL, DAM+OIL, JSON LD). In the metadata of datasets, references are made to the metadata of other datasets that the dataset depends upon. The data model of the dataset refers to the data model and the specific data elements and definitions that are reused from other datasets. The data itself includes identifiers to data in other datasets that the data depends upon.Relevant controlled vocabularies that exist for the domain that is covered by a specific dataset are determined. Important terms that are not defined by existing controlled vocabularies are defined in a new controlled vocabulary.  The controlled vocabulary is published in a standardized format in a location that can easly be found by the target audience. The controlled vocabulary and the concepts that it describes have globally unique and persistent identifiers, so they can easily be referred to.&quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

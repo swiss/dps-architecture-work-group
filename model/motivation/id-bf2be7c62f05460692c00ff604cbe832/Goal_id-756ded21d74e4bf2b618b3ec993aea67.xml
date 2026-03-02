@@ -1,0 +1,48 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Strategy"
+    id="id-756ded21d74e4bf2b618b3ec993aea67"
+    documentation="Definition: Interoperability Strategy ABB is a Goal that enables the ability of disparate and diverse organisations to interact towards mutually beneficial and agreed common goals, involving the sharing of information and knowledge between the organisations, through the business processes they support, by means of the exchange of data between their respective ICT systems.&#xA;&#xA;Source: EIF&#xA;&#xA;Source reference: http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):  The vision laying down in the Interoperable Europe Act (see recitals) and additional information in https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52022PC0720, and in https://www.europarl.europa.eu/legislative-train/theme-a-europe-fit-for-the-digital-age/file-eu-digital-interoperabilioty-strategy.&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Interoperability Governance viewpoint&#xA;&#xA;Interoperability Saliency: The Interoperability Strategy ABB is salient for governance interoperability because it helps governments and public administrations to cooperate, share information and deliver public services seamlessly across borders, sectors and organizational boundaries. Thus, for example, the Interoperable Europe Act supports public sector innovation and public-private 'GovTech' projects. It sets up a new cooperation framework for interoperability in the public sector.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/InteroperabilityStrategyGoal&#xA;&#xA;ABB name: eira:InteroperabilityStrategyGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/InteroperabilityStrategyGoal&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/InteroperabilityStrategyGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperabilityStrategyGoal"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Interoperability Strategy ABB is a Goal that enables the ability of disparate and diverse organisations to interact towards mutually beneficial and agreed common goals, involving the sharing of information and knowledge between the organisations, through the business processes they support, by means of the exchange of data between their respective ICT systems."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):  The vision laying down in the Interoperable Europe Act (see recitals) and additional information in https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52022PC0720, and in https://www.europarl.europa.eu/legislative-train/theme-a-europe-fit-for-the-digital-age/file-eu-digital-interoperabilioty-strategy."/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Interoperability Strategy ABB is salient for governance interoperability because it helps governments and public administrations to cooperate, share information and deliver public services seamlessly across borders, sectors and organizational boundaries. Thus, for example, the Interoperable Europe Act supports public sector innovation and public-private 'GovTech' projects. It sets up a new cooperation framework for interoperability in the public sector."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/InteroperabilityStrategyGoal"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:Goal>

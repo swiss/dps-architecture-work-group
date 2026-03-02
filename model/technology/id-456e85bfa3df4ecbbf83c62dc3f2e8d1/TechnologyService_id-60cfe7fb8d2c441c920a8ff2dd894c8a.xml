@@ -1,0 +1,51 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Block Storage "
+    id="id-60cfe7fb8d2c441c920a8ff2dd894c8a"
+    documentation="Definition: Block Storage ABB is an Application Component that enables the behaviour of breaking data into separate pieces (blocks) and storing them with a unique identifier.&#xA;&#xA;Source: Inspired in referent cloud service providers &#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Kibana at EU. https://big-data-test-infrastructure.ec.europa.eu/service-offering/kibana_en&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Block Storage ABB is salient for technical interoperability because it set up data storage and integration in fixed-sized blocks under a hierarchical infrastructure that permits ensuring their integrity through time.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/BlockStorageTechnologyService&#xA;&#xA;ABB name: eira:BlockStorageTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/BlockStorageTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/BlockStorageTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:BlockStorageTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Block Storage ABB is an Application Component that enables the behaviour of breaking data into separate pieces (blocks) and storing them with a unique identifier."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in referent cloud service providers "/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Kibana at EU. https://big-data-test-infrastructure.ec.europa.eu/service-offering/kibana_en"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Block Storage ABB is salient for technical interoperability because it set up data storage and integration in fixed-sized blocks under a hierarchical infrastructure that permits ensuring their integrity through time."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/BlockStorageTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

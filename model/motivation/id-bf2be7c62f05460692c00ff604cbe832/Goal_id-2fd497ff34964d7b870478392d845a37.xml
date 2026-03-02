@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" Cross-Border Semantic Data Management"
+    id="id-2fd497ff34964d7b870478392d845a37"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the  Cross-Border Semantic Data Management&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: Cross-border Semantic Data Management is a concept that refers to the management of data across different countries or regions, with a focus on ensuring that the data is consistent and understandable across all borders. This involves the use of semantic technologies, which allow for the creation of a common language or vocabulary that can be used to describe data in a way that is easily understood by all parties involved. The goal of cross-border semantic data management is to improve the efficiency and effectiveness of data sharing and collaboration across different regions, while also ensuring that the data remains secure and protected. This concept is particularly important in today's globalized economy, where businesses and organizations often need to work together across borders to achieve their goals.&#xA;&#xA;Example: Decision: Data provider discovery and (semantic) data management capabilities  are both operated by the same entity, with the role of Cross-Border Data Exchange.&#xA;Consequence: Cross-Border Data Management is a new business role.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/Cross-BorderSemanticDataManagementGoal&#xA;&#xA;ABB name: eira:Cross-BorderSemanticDataManagementGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947395&#xA;&#xA;Name: Architecture Decision Record about  Cross-Border Semantic Data Management&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947395"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about  Cross-Border Semantic Data Management"/>
+  <properties
+      key="skos:example"
+      value="Decision: Data provider discovery and (semantic) data management capabilities  are both operated by the same entity, with the role of Cross-Border Data Exchange.&#xA;Consequence: Cross-Border Data Management is a new business role."/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="Cross-border Semantic Data Management is a concept that refers to the management of data across different countries or regions, with a focus on ensuring that the data is consistent and understandable across all borders. This involves the use of semantic technologies, which allow for the creation of a common language or vocabulary that can be used to describe data in a way that is easily understood by all parties involved. The goal of cross-border semantic data management is to improve the efficiency and effectiveness of data sharing and collaboration across different regions, while also ensuring that the data remains secure and protected. This concept is particularly important in today's globalized economy, where businesses and organizations often need to work together across borders to achieve their goals."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/Cross-BorderSemanticDataManagementGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:Cross-BorderSemanticDataManagementGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the  Cross-Border Semantic Data Management"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

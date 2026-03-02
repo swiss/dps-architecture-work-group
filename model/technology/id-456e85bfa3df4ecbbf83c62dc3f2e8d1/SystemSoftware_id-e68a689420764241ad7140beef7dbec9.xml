@@ -1,0 +1,48 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Container"
+    id="id-e68a689420764241ad7140beef7dbec9"
+    documentation="Definition: Container ABB is a Technology Service that implements an executable unit of software in which application code is packaged, along with its libraries and dependencies, in common ways so that it can be run anywhere, whether it be on a desktop, traditional IT, or the cloud&#xA;&#xA;Source: Inspired in referent cloud service providers &#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Docker. Docker is a containerization technology that works with the Kubernetes platform, with many adopting it to create an app that runs across multiple containers. https://www.docker.com/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Container ABB is salient for technical interoperability because it provides the packaged software that contains or nurtures the functionalities of public services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ContainerSystemSoftware&#xA;&#xA;ABB name: eira:ContainerSystemSoftware&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ContainerSystemSoftware&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ContainerSystemSoftware"/>
+  <properties
+      key="dct:type"
+      value="eira:ContainerSystemSoftware"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Container ABB is a Technology Service that implements an executable unit of software in which application code is packaged, along with its libraries and dependencies, in common ways so that it can be run anywhere, whether it be on a desktop, traditional IT, or the cloud"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in referent cloud service providers "/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Docker. Docker is a containerization technology that works with the Kubernetes platform, with many adopting it to create an app that runs across multiple containers. https://www.docker.com/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Container ABB is salient for technical interoperability because it provides the packaged software that contains or nurtures the functionalities of public services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ContainerSystemSoftware"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:SystemSoftware>

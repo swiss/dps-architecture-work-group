@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticity"
+    id="id-9c9e3755deb44dd7a0abaa29061c5c2d"
+    documentation="Definition: Authenticity is an IT non-functional requirement that ensures that the information or data presented is genuine and trustworthy. It is essential to maintain the integrity of the system and prevent unauthorized access or tampering of data. Authenticity can be achieved through various methods such as encryption, digital signatures, and access control mechanisms. It is crucial for systems that handle sensitive information, such as financial transactions, medical records, or legal documents, to ensure authenticity to maintain the trust of users and stakeholders.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, Authenticity is a non-functional requirement that refers to the ability of a system to ensure that the information or data being processed or transmitted is genuine and has not been tampered with or altered in any way. This requirement is essential for systems that deal with sensitive or confidential information, such as financial transactions, personal data, or medical records.&#xA;&#xA;To meet the Authenticity requirement, the system must implement appropriate security measures, such as encryption, digital signatures, or access controls, to prevent unauthorized access, modification, or deletion of data. The system must also ensure that the data is accurate, complete, and consistent, and that it can be traced back to its original source.&#xA;&#xA;Furthermore, the system must provide mechanisms for detecting and reporting any attempts to tamper with the data, such as intrusion detection systems or audit logs. It must also have procedures in place for responding to security incidents, such as notifying the appropriate authorities or taking corrective actions to prevent further damage.&#xA;&#xA;Overall, the Authenticity requirement is critical for ensuring the integrity and trustworthiness of the system and the data it processes. It is a key component of a comprehensive security strategy and must be carefully considered and implemented to meet the needs of the organization and its stakeholders.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Authenticity' could be ensuring that only authorized users have access to sensitive data or systems. This can be achieved through various authentication methods such as passwords, biometrics, or two-factor authentication. The system should also be able to detect and prevent unauthorized access attempts.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuthenticityRequirement&#xA;&#xA;ABB name: eira:AuthenticityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuthenticityRequirement&#xA;&#xA;Name: Authenticity Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AuthenticityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Authenticity Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Authenticity' could be ensuring that only authorized users have access to sensitive data or systems. This can be achieved through various authentication methods such as passwords, biometrics, or two-factor authentication. The system should also be able to detect and prevent unauthorized access attempts."/>
+  <properties
+      key="skos:definition"
+      value="Authenticity is an IT non-functional requirement that ensures that the information or data presented is genuine and trustworthy. It is essential to maintain the integrity of the system and prevent unauthorized access or tampering of data. Authenticity can be achieved through various methods such as encryption, digital signatures, and access control mechanisms. It is crucial for systems that handle sensitive information, such as financial transactions, medical records, or legal documents, to ensure authenticity to maintain the trust of users and stakeholders."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, Authenticity is a non-functional requirement that refers to the ability of a system to ensure that the information or data being processed or transmitted is genuine and has not been tampered with or altered in any way. This requirement is essential for systems that deal with sensitive or confidential information, such as financial transactions, personal data, or medical records.&#xA;&#xA;To meet the Authenticity requirement, the system must implement appropriate security measures, such as encryption, digital signatures, or access controls, to prevent unauthorized access, modification, or deletion of data. The system must also ensure that the data is accurate, complete, and consistent, and that it can be traced back to its original source.&#xA;&#xA;Furthermore, the system must provide mechanisms for detecting and reporting any attempts to tamper with the data, such as intrusion detection systems or audit logs. It must also have procedures in place for responding to security incidents, such as notifying the appropriate authorities or taking corrective actions to prevent further damage.&#xA;&#xA;Overall, the Authenticity requirement is critical for ensuring the integrity and trustworthiness of the system and the data it processes. It is a key component of a comprehensive security strategy and must be carefully considered and implemented to meet the needs of the organization and its stakeholders."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AuthenticityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:AuthenticityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

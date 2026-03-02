@@ -1,0 +1,53 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trust Service Provisioning"
+    id="id-1e047893b4494f59a054665caf4f7510"
+    documentation="Definition: Trust Service Provisioning ABB is an Application Component that enables the creation, verification, or validation of electronic signatures, time stamps, seals, electronically registered delivery services, and certificates. &#xA;&#xA;Source: eIDAS&#xA;&#xA;Source reference: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG&#xA;&#xA;Additional information: A ‘trust service’ means an electronic service normally provided for remuneration which consists of these functionalities: i) the creation, verification, and validation of electronic signatures, electronic seals or electronic time stamps, electronic registered delivery services and certificates related to those services, or; ii) the creation, verification and validation of certificates for website authentication; or; iii) the preservation of electronic signatures, seals or certificates related to those services.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): e-TrustEx - Open e-TrustEx is a platform offered by the Directorate-General for Informatics of the European Commission to Public Administrations at European, national and regional level to set up secure exchange of natively digital documents from system to system via standardized interfaces. Open e-TrustEx provides a set of generic web services, which Public Administrations can use to connect heterogeneous applications, removing the need for complex point-to-point connections. http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A52016SC0279&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Trust Service Provisioning Component ABB  is salient for technical interoperability  because it provides the implementation of the functionalities of information exchange between between administrations, businesses and citizens (e-signature and e-seal creation, verification,validation and preservation, timestamping  creation, verification and validation, identity management, etc.) as stated in the EIF recommendation n°47: &quot;Use trust services according to the Regulation on eID and Trust Services as mechanisms that ensure secure and protected data exchange in public services.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TrustServiceProvisioningApplicationComponent&#xA;&#xA;ABB name: eira:TrustServiceProvisioningApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/TrustServiceProvisioningApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/TrustServiceProvisioningApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:TrustServiceProvisioningApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Trust Service Provisioning ABB is an Application Component that enables the creation, verification, or validation of electronic signatures, time stamps, seals, electronically registered delivery services, and certificates. "/>
+  <properties
+      key="eira:definitionSource"
+      value="eIDAS"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): e-TrustEx - Open e-TrustEx is a platform offered by the Directorate-General for Informatics of the European Commission to Public Administrations at European, national and regional level to set up secure exchange of natively digital documents from system to system via standardized interfaces. Open e-TrustEx provides a set of generic web services, which Public Administrations can use to connect heterogeneous applications, removing the need for complex point-to-point connections. http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A52016SC0279"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Trust Service Provisioning Component ABB  is salient for technical interoperability  because it provides the implementation of the functionalities of information exchange between between administrations, businesses and citizens (e-signature and e-seal creation, verification,validation and preservation, timestamping  creation, verification and validation, identity management, etc.) as stated in the EIF recommendation n°47: &quot;Use trust services according to the Regulation on eID and Trust Services as mechanisms that ensure secure and protected data exchange in public services.&quot;"/>
+  <properties
+      key="skos:note"
+      value="A ‘trust service’ means an electronic service normally provided for remuneration which consists of these functionalities: i) the creation, verification, and validation of electronic signatures, electronic seals or electronic time stamps, electronic registered delivery services and certificates related to those services, or; ii) the creation, verification and validation of certificates for website authentication; or; iii) the preservation of electronic signatures, seals or certificates related to those services."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/TrustServiceProvisioningApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>

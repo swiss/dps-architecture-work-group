@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSV"
+    id="id-3c876bb54e2a45ab93acf657377eed15"
+    documentation="Description: CSV serves as a convenient and widely adopted data representation method due to its simplicity and compatibility with various applications and programming languages. It allows data to be easily imported, exported, and exchanged between different systems, making it a popular choice for data interchange. By using CSV as a data representation method, one can efficiently represent structured information such as database records, spreadsheets, and tables in a human-readable and machine-readable format. It provides a standardized and flexible approach to store and transmit data, enabling seamless integration and interoperability among different software and platforms.&#xA;&#xA;Publisher: IETF&#xA;&#xA;Source: https://www.rfc-editor.org/rfc/rfc4180&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/CSVRepresentation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/CSVRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="IETF"/>
+  <properties
+      key="dct:description"
+      value="CSV serves as a convenient and widely adopted data representation method due to its simplicity and compatibility with various applications and programming languages. It allows data to be easily imported, exported, and exchanged between different systems, making it a popular choice for data interchange. By using CSV as a data representation method, one can efficiently represent structured information such as database records, spreadsheets, and tables in a human-readable and machine-readable format. It provides a standardized and flexible approach to store and transmit data, enabling seamless integration and interoperability among different software and platforms."/>
+  <properties
+      key="dct:source"
+      value="https://www.rfc-editor.org/rfc/rfc4180"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/CSVRepresentation"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/CSVRepresentation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

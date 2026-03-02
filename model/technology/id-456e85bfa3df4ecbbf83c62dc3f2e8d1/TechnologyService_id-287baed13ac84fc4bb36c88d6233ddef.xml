@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Intelligence"
+    id="id-287baed13ac84fc4bb36c88d6233ddef"
+    documentation="Definition: Business Intelligence ABB is a Technology Service that enables the procedure of collecting, storing, and analysing the data produced by the public administration to improve and optimise decisions and performance.&#xA;&#xA;Source: Inspired in Gartner&#xA;&#xA;Source reference: https://www.gartner.com/en/information-technology/glossary/business-intelligence-bi&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Central banks increasingly need to use business intelligence (BI) systems to collect, manage and analyse data in order to inform policy decisions. This report presents the results of a survey conducted by the BIS’s Irving Fisher Committee on Central Bank Statistics (IFC) in 2019. The following link gives access to a report on the use of BI in Central Banks. https://www.bis.org/ifc/publ/ifc_report_bi_1910.pdf&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Business Intelligence ABB is salient for semantic interoperability because it provides visual and data understanding functionalities to be provided to the users in form of reports and other king of visual diagrams.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/BusinessIntelligenceTechnologyService&#xA;&#xA;ABB name: eira:BusinessIntelligenceTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/BusinessIntelligenceTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/BusinessIntelligenceTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:BusinessIntelligenceTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Business Intelligence ABB is a Technology Service that enables the procedure of collecting, storing, and analysing the data produced by the public administration to improve and optimise decisions and performance."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/en/information-technology/glossary/business-intelligence-bi"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Central banks increasingly need to use business intelligence (BI) systems to collect, manage and analyse data in order to inform policy decisions. This report presents the results of a survey conducted by the BIS’s Irving Fisher Committee on Central Bank Statistics (IFC) in 2019. The following link gives access to a report on the use of BI in Central Banks. https://www.bis.org/ifc/publ/ifc_report_bi_1910.pdf"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Business Intelligence ABB is salient for semantic interoperability because it provides visual and data understanding functionalities to be provided to the users in form of reports and other king of visual diagrams."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/BusinessIntelligenceTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

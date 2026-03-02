@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Convergence control on public policy goals attainment"
+    id="id-5ff8daf3cf3d4cd88c94cfa495aa1c52"
+    documentation="Definition: The design and implementation of sufficient mechanisms to attain full visibility on the effective realisation of public services, based on public policies, by putting in place processes and procedures that provide accountability to stakeholders. Digital public services are based on public policies, their context and constraints. Bounded on that fact, organisations develop their strategies and roadmaps accordingly, which implies the provision of funds and efforts to develop effective and efficient public services. The economic and technical efforts need to be monitored and tracked to ensure that policies are implemented without additional effort. At that point is where public administrations need to put mechanisms to follow-up on implementations and the attainment of public policy objectives.  Evaluate the effectiveness and efficiency of different interoperabilitysolutions and technological options considering user needs, proportionality and balance between costs and benefits&quot;&quot;&#xA;&#xA;Source: Assessment of Effectiveness and Efficiency Underlying Principle (12) of the European Interoperability Framework (EIF)&#xA;&#xA;Source reference: https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/assessment-effectiveness-and-efficiency&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/convergence-control-public-policy-goals-attainment&#xA;&#xA;ABB name: elap:ConvergenceControlOnPublicPolicyGoalsAttainmentPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Convergence control on public policy goals attainment&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:ConvergenceControlOnPublicPolicyGoalsAttainmentPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Convergence control on public policy goals attainment"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/convergence-control-public-policy-goals-attainment"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="Assessment of Effectiveness and Efficiency Underlying Principle (12) of the European Interoperability Framework (EIF)"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://joinup.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/glossary/term/assessment-effectiveness-and-efficiency"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="The design and implementation of sufficient mechanisms to attain full visibility on the effective realisation of public services, based on public policies, by putting in place processes and procedures that provide accountability to stakeholders. Digital public services are based on public policies, their context and constraints. Bounded on that fact, organisations develop their strategies and roadmaps accordingly, which implies the provision of funds and efforts to develop effective and efficient public services. The economic and technical efforts need to be monitored and tracked to ensure that policies are implemented without additional effort. At that point is where public administrations need to put mechanisms to follow-up on implementations and the attainment of public policy objectives.  Evaluate the effectiveness and efficiency of different interoperabilitysolutions and technological options considering user needs, proportionality and balance between costs and benefits&quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

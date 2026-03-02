@@ -1,0 +1,51 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NoSQL Database Manager"
+    id="id-4f461d05b0414b5ea6a8135431290801"
+    documentation="Definition: NoSQL Database Manager ABB is a Technology Service that enables the behaviour of a system that provides access to non-relational databases. &#xA;&#xA;Source: Inspired in the definition provided by relebant noSQL vendors&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): NoSQL Manager by mongodb. User friendly interface and Shell power. Intuitive interface and high performance of the desktop application save time for beginners and professional database  developers and administrators. https://www.mongodbmanager.com/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: NoSQL Database Manager ABB is salient for semantic interoperability due to its implements mechanism to manipulate NoSQL databases and share data using common data exchange models (e.g. JSON)&#xA;&#xA;Identifier: http://data.europa.eu/dr8/NoSQLDatabaseManagerTechnologyService&#xA;&#xA;ABB name: eira:NoSQLDatabaseManagerTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/NoSQLDatabaseManagerTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/NoSQLDatabaseManagerTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:NoSQLDatabaseManagerTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="NoSQL Database Manager ABB is a Technology Service that enables the behaviour of a system that provides access to non-relational databases. "/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the definition provided by relebant noSQL vendors"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): NoSQL Manager by mongodb. User friendly interface and Shell power. Intuitive interface and high performance of the desktop application save time for beginners and professional database  developers and administrators. https://www.mongodbmanager.com/"/>
+  <properties
+      key="eira:iopSaliency"
+      value="NoSQL Database Manager ABB is salient for semantic interoperability due to its implements mechanism to manipulate NoSQL databases and share data using common data exchange models (e.g. JSON)"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/NoSQLDatabaseManagerTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

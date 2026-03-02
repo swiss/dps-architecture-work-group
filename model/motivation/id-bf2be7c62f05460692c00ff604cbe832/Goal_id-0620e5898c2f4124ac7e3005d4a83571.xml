@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retention and Data Deletion"
+    id="id-0620e5898c2f4124ac7e3005d4a83571"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Retention and Data Deletion&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: Retention and Data Deletion is a critical concept in IT architecture that deals with the management of data throughout its lifecycle. It involves the decision-making process of how long data should be kept, where it should be stored, and when it should be deleted. The concept is essential for organizations to comply with legal and regulatory requirements, protect sensitive information, and optimize storage resources. The retention and data deletion policy should be well-defined, communicated, and enforced to ensure data is managed effectively and efficiently. The policy should also consider the potential risks associated with data breaches, data loss, and unauthorized access.&#xA;&#xA;Example: Retention and Data Deletion:&#xA;Decision: Implementing data retention policies and mechanisms for secure data deletion when no longer required.&#xA;Rationale: Data retention and deletion policies ensure compliance with regulations governing the storage and retention of data, minimizing the risk of unauthorized access to obsolete or unnecessary data.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/RetentionAndDataDeletionGoal&#xA;&#xA;ABB name: eira:RetentionAndDataDeletionGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947804&#xA;&#xA;Name: Architecture Decision Record about Retention and Data Deletion&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947804"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Retention and Data Deletion"/>
+  <properties
+      key="skos:example"
+      value="Retention and Data Deletion:&#xA;Decision: Implementing data retention policies and mechanisms for secure data deletion when no longer required.&#xA;Rationale: Data retention and deletion policies ensure compliance with regulations governing the storage and retention of data, minimizing the risk of unauthorized access to obsolete or unnecessary data."/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="Retention and Data Deletion is a critical concept in IT architecture that deals with the management of data throughout its lifecycle. It involves the decision-making process of how long data should be kept, where it should be stored, and when it should be deleted. The concept is essential for organizations to comply with legal and regulatory requirements, protect sensitive information, and optimize storage resources. The retention and data deletion policy should be well-defined, communicated, and enforced to ensure data is managed effectively and efficiently. The policy should also consider the potential risks associated with data breaches, data loss, and unauthorized access."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/RetentionAndDataDeletionGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:RetentionAndDataDeletionGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Retention and Data Deletion"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

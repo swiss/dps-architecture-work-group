@@ -1,0 +1,53 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic Organisational Agreement Catalogue"
+    id="id-15cd0c5ce9e94aee96cece65e2b987de"
+    documentation="Definition: Business Agnostic Organisational Agreement Catalogue ABB is a grouping that refers to the actual catalogue of specifications, agreements and/or contracts that facilitates the establishment and implementation of national governance models. It serves as a repository of the necessary documents that guide the coordination and collaboration among various government agencies, departments, and stakeholders in developing and implementing common standards, policies, and guidelines for IT interoperability within the European Union.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Business Agnostic Organisational Agreement Catalogue ABB is a critical tool in promoting seamless interoperability, data security, and efficient digital services within a country. It contains the necessary specifications, agreements, and contracts that define the framework and processes for IT interoperability. This includes the roles and responsibilities of different stakeholders, the standards and policies to be followed, and the guidelines for data exchange and sharing. The catalogue is 'business agnostic', meaning it is applicable regardless of the specific business or industry involved. It aligns with the broader European IT interoperability framework, facilitating cross-border data exchange and cooperation.&#xA;&#xA;Example: An example of the application of the Business Agnostic Organisational Agreement Catalogue ABB could be a country developing its National Governance Model for IT interoperability. The country would refer to the catalogue to understand the necessary specifications, agreements, and contracts to be established. This could include agreements on data sharing between government departments, contracts with IT service providers to ensure they adhere to the required standards, and specifications for the IT systems to be used. The catalogue would guide the country in ensuring its National Governance Model aligns with the broader European IT interoperability framework.&#xA;&#xA;LOST view: OV-Governance Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticOrganisationalAgreementCatalogueGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticOrganisationalAgreementCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticOrganisationalAgreementCatalogueGrouping&#xA;&#xA;Name: Business Agnostic Organisational Agreement Catalogue Catalogue&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;Specialises: http://data.europa.eu/dr8/TechnicalAgreementContract&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticOrganisationalAgreementCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticOrganisationalAgreementCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic Organisational Agreement Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticOrganisationalAgreementCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic Organisational Agreement Catalogue ABB is a grouping that refers to the actual catalogue of specifications, agreements and/or contracts that facilitates the establishment and implementation of national governance models. It serves as a repository of the necessary documents that guide the coordination and collaboration among various government agencies, departments, and stakeholders in developing and implementing common standards, policies, and guidelines for IT interoperability within the European Union."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of the application of the Business Agnostic Organisational Agreement Catalogue ABB could be a country developing its National Governance Model for IT interoperability. The country would refer to the catalogue to understand the necessary specifications, agreements, and contracts to be established. This could include agreements on data sharing between government departments, contracts with IT service providers to ensure they adhere to the required standards, and specifications for the IT systems to be used. The catalogue would guide the country in ensuring its National Governance Model aligns with the broader European IT interoperability framework."/>
+  <properties
+      key="skos:note"
+      value="The Business Agnostic Organisational Agreement Catalogue ABB is a critical tool in promoting seamless interoperability, data security, and efficient digital services within a country. It contains the necessary specifications, agreements, and contracts that define the framework and processes for IT interoperability. This includes the roles and responsibilities of different stakeholders, the standards and policies to be followed, and the guidelines for data exchange and sharing. The catalogue is 'business agnostic', meaning it is applicable regardless of the specific business or industry involved. It aligns with the broader European IT interoperability framework, facilitating cross-border data exchange and cooperation."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="OV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="OV-Data Spaces"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/TechnicalAgreementContract"/>
+</archimate:Grouping>

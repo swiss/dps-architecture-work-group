@@ -1,0 +1,47 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trusted Digital Repositories"
+    id="id-9727881fe7e940d18c853b09f60957cf"
+    documentation="Definition: Trusted Digital Repositories refer to specialized eArchiving application services that are designed to preserve and provide long-term access to digital objects, such as documents, datasets, multimedia files, and other forms of digital content. These repositories follow established standards, best practices, and guidelines to ensure the integrity, authenticity, and usability of the archived materials over time. They employ robust storage, metadata management, and preservation strategies to safeguard the long-term viability and accessibility of digital assets. Trusted Digital Repositories play a crucial role in the preservation and curation of digital heritage, research data, and other valuable digital resources.&#xA;&#xA;Source: ISO&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TrustedDigitalRepositoriesApplicationService&#xA;&#xA;ABB name: egovera:TrustedDigitalRepositoriesApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TrustedDigitalRepositoriesApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/E-ArchivingApplicationService&#xA;&#xA;">
+  <properties
+      key="skos:definition"
+      value="Trusted Digital Repositories refer to specialized eArchiving application services that are designed to preserve and provide long-term access to digital objects, such as documents, datasets, multimedia files, and other forms of digital content. These repositories follow established standards, best practices, and guidelines to ensure the integrity, authenticity, and usability of the archived materials over time. They employ robust storage, metadata management, and preservation strategies to safeguard the long-term viability and accessibility of digital assets. Trusted Digital Repositories play a crucial role in the preservation and curation of digital heritage, research data, and other valuable digital resources."/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/TrustedDigitalRepositoriesApplicationService"/>
+  <properties
+      key="dct:type"
+      value="egovera:TrustedDigitalRepositoriesApplicationService"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Data Management and Knowledge Discovery Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Computing Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/TrustedDigitalRepositoriesApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/E-ArchivingApplicationService"/>
+</archimate:ApplicationService>

@@ -1,0 +1,42 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Genericode"
+    id="id-130510dfef80437b832f5e752ea1e670"
+    documentation="Description: Genericode is a standardized format for defining and exchanging code lists and reference data. It provides a structured and machine-readable representation of code lists, which are collections of codes and their corresponding meanings or descriptions. Genericode is designed to facilitate interoperability and data exchange between different information systems.&#xA;&#xA;Publisher: Advancement of Structured Information Standards (OASIS)&#xA;&#xA;Source: https://docs.oasis-open.org/codelist/genericode/v1.0/cs02/genericode-v1.0-cs02.html&#xA;&#xA;LOST view: SV-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/GenericodeRepresentation&#xA;&#xA;EIRA concept: eira:SolutionBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/GenericodeRepresentation&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Realises: http://data.europa.eu/dr8/DataRepresentation&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:publisher"
+      value="Advancement of Structured Information Standards (OASIS)"/>
+  <properties
+      key="dct:description"
+      value="Genericode is a standardized format for defining and exchanging code lists and reference data. It provides a structured and machine-readable representation of code lists, which are collections of codes and their corresponding meanings or descriptions. Genericode is designed to facilitate interoperability and data exchange between different information systems."/>
+  <properties
+      key="dct:source"
+      value="https://docs.oasis-open.org/codelist/genericode/v1.0/cs02/genericode-v1.0-cs02.html"/>
+  <properties
+      key="eira:concept"
+      value="eira:SolutionBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/GenericodeRepresentation"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/GenericodeRepresentation"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:implementedBy"
+      value="http://data.europa.eu/dr8/DataRepresentation"/>
+</archimate:Representation>

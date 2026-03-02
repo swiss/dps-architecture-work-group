@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resiliency Requirements Catalogue"
+    id="id-2303b2e3bd6e4f3e950ae9e79bd81009"
+    documentation="Definition: Resiliency Requirements Catalogue ABB is a grouping that covers a set of non-functional IT requirements that are designed to ensure that a system can withstand and recover from various types of disruptions, including catastrophic events, system failures, and errors. The catalogue includes elements such as 'Disaster Recovery' and 'Recoverability', which outline the strategies and mechanisms needed to minimize the impact of such events on system functionality and data, and to ensure system availability and business continuity.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Resiliency Requirements Catalogue ABB is a comprehensive collection of non-functional IT requirements that focus on the system's ability to bounce back from disruptions. The 'Disaster Recovery' element refers to the strategies and procedures that need to be in place to recover from catastrophic events, such as natural disasters, power outages, or cyber-attacks. This includes backup and recovery procedures, redundant systems, and failover mechanisms. The 'Recoverability' element, on the other hand, refers to the system's ability to recover from failures or errors and return to its normal functioning. This involves implementing backup and recovery mechanisms, such as data replication, redundancy, and failover.&#xA;&#xA;Example: An example of the application of the Resiliency Requirements Catalogue ABB could be in the development of a cloud-based data storage system. The 'Disaster Recovery' element would involve creating a detailed plan for how the system would recover from a catastrophic event, such as a major power outage or a cyber-attack. This could include strategies such as regular data backups, the use of redundant systems, and the implementation of failover mechanisms. The 'Recoverability' element would involve ensuring that the system has the ability to recover data, configurations, and settings after a system crash or other disruptions. This could involve the use of data replication, redundancy, and failover mechanisms.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ResiliencyRequirementsCatalogueGrouping&#xA;&#xA;ABB name: eira:ResiliencyRequirementsCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ResiliencyRequirementsCatalogueGrouping&#xA;&#xA;Name: Resiliency Requirements Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ResiliencyRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ResiliencyRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Resiliency Requirements Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:ResiliencyRequirementsCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Resiliency Requirements Catalogue ABB is a grouping that covers a set of non-functional IT requirements that are designed to ensure that a system can withstand and recover from various types of disruptions, including catastrophic events, system failures, and errors. The catalogue includes elements such as 'Disaster Recovery' and 'Recoverability', which outline the strategies and mechanisms needed to minimize the impact of such events on system functionality and data, and to ensure system availability and business continuity."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of the application of the Resiliency Requirements Catalogue ABB could be in the development of a cloud-based data storage system. The 'Disaster Recovery' element would involve creating a detailed plan for how the system would recover from a catastrophic event, such as a major power outage or a cyber-attack. This could include strategies such as regular data backups, the use of redundant systems, and the implementation of failover mechanisms. The 'Recoverability' element would involve ensuring that the system has the ability to recover data, configurations, and settings after a system crash or other disruptions. This could involve the use of data replication, redundancy, and failover mechanisms."/>
+  <properties
+      key="skos:note"
+      value="The Resiliency Requirements Catalogue ABB is a comprehensive collection of non-functional IT requirements that focus on the system's ability to bounce back from disruptions. The 'Disaster Recovery' element refers to the strategies and procedures that need to be in place to recover from catastrophic events, such as natural disasters, power outages, or cyber-attacks. This includes backup and recovery procedures, redundant systems, and failover mechanisms. The 'Recoverability' element, on the other hand, refers to the system's ability to recover from failures or errors and return to its normal functioning. This involves implementing backup and recovery mechanisms, such as data replication, redundancy, and failover."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

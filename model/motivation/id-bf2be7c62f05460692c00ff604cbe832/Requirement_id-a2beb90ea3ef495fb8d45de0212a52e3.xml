@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scalability"
+    id="id-a2beb90ea3ef495fb8d45de0212a52e3"
+    documentation="Definition: Scalability is an important non-functional requirement for any IT system, which refers to the ability of the system to handle increasing amounts of workload or users without compromising its performance or stability. A scalable system should be able to accommodate growth in data volume, traffic, and user base, by adding more resources or nodes to the system, without causing any downtime or degradation in response time. Scalability is critical for ensuring that the system can meet the demands of the business, adapt to changing requirements, and provide a seamless user experience.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, scalability is a non-functional requirement that refers to the ability of a system to handle increasing amounts of work or traffic without experiencing a decrease in performance or stability. This requirement is important for systems that are expected to grow or expand over time, as it ensures that the system can handle the increased workload without compromising its functionality or reliability.&#xA;&#xA;Scalability can be achieved through a variety of techniques, including horizontal scaling (adding more servers or nodes to distribute the workload), vertical scaling (adding more resources to a single server or node), and load balancing (distributing the workload across multiple servers or nodes). It is important to consider scalability early in the design process, as it can impact the overall architecture and infrastructure of the system.&#xA;&#xA;To ensure that scalability is achieved, it is important to establish performance metrics and benchmarks, and to regularly test and monitor the system to identify any bottlenecks or areas for improvement. Additionally, the system should be designed with modularity and flexibility in mind, so that it can be easily adapted and expanded as needed.&#xA;&#xA;Overall, scalability is a critical non-functional requirement for any system that is expected to grow or evolve over time, and should be carefully considered and addressed in the design and implementation phases of the system development lifecycle.&#xA;&#xA;Example: An example of the IT non-functional requirement 'Scalability' could be a web application that needs to handle a large number of concurrent users. The application should be able to scale up or down based on the number of users accessing it at any given time. This means that the application should be able to handle a sudden surge in traffic without crashing or slowing down. Additionally, the application should be able to add more resources such as servers or storage as needed to accommodate the increased traffic.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ScalabilityRequirement&#xA;&#xA;ABB name: eira:ScalabilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ScalabilityRequirement&#xA;&#xA;Name: Scalability Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ScalabilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Scalability Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="An example of the IT non-functional requirement 'Scalability' could be a web application that needs to handle a large number of concurrent users. The application should be able to scale up or down based on the number of users accessing it at any given time. This means that the application should be able to handle a sudden surge in traffic without crashing or slowing down. Additionally, the application should be able to add more resources such as servers or storage as needed to accommodate the increased traffic."/>
+  <properties
+      key="skos:definition"
+      value="Scalability is an important non-functional requirement for any IT system, which refers to the ability of the system to handle increasing amounts of workload or users without compromising its performance or stability. A scalable system should be able to accommodate growth in data volume, traffic, and user base, by adding more resources or nodes to the system, without causing any downtime or degradation in response time. Scalability is critical for ensuring that the system can meet the demands of the business, adapt to changing requirements, and provide a seamless user experience."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, scalability is a non-functional requirement that refers to the ability of a system to handle increasing amounts of work or traffic without experiencing a decrease in performance or stability. This requirement is important for systems that are expected to grow or expand over time, as it ensures that the system can handle the increased workload without compromising its functionality or reliability.&#xA;&#xA;Scalability can be achieved through a variety of techniques, including horizontal scaling (adding more servers or nodes to distribute the workload), vertical scaling (adding more resources to a single server or node), and load balancing (distributing the workload across multiple servers or nodes). It is important to consider scalability early in the design process, as it can impact the overall architecture and infrastructure of the system.&#xA;&#xA;To ensure that scalability is achieved, it is important to establish performance metrics and benchmarks, and to regularly test and monitor the system to identify any bottlenecks or areas for improvement. Additionally, the system should be designed with modularity and flexibility in mind, so that it can be easily adapted and expanded as needed.&#xA;&#xA;Overall, scalability is a critical non-functional requirement for any system that is expected to grow or evolve over time, and should be carefully considered and addressed in the design and implementation phases of the system development lifecycle."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ScalabilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:ScalabilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

@@ -1,0 +1,53 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Agnostic EU Vocabularies Reference Data Solutions"
+    id="id-1b1f623906f7482787168061bae862d8"
+    documentation="Definition: Business Agnostic EU Vocabularies Reference Data Solutions (BAEUV RDS) is a grouping that covers a range of information entities designed to support and enhance the efficiency of the Single Market. It includes elements such as NUTS, Reference Data Asset, Authority Tables, and the Digital Europe Thesaurus. These elements aim to standardize and harmonize codes, labels, and other forms of data across various platforms and systems, facilitating effective communication and data exchange.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The BAEUV RDS is a comprehensive catalogue of information entities that serve a critical role in the functioning of the Single Market. 'NUTS' is an element that encourages the use of electronic communication and information technology in public procurement to ensure value for money. 'Reference Data Asset' refers to distinct reference data assets like authority tables, taxonomies, thesauri, ontologies, etc., maintained by organizations like the EU vocabularies. 'Authority Tables' or Named Authority Lists (NALs) are used to standardize and harmonize the codes and labels used across various platforms and systems, facilitating data exchanges. 'Digital Europe Thesaurus' is a multilingual thesaurus covering the main subject matters of the European Commission public communications.&#xA;&#xA;Example: An example of the application of BAEUV RDS could be in the public procurement process where NUTS is used to provide relevant information electronically to ensure best value for money. Another example could be the use of the Digital Europe Thesaurus in the European Commission's public communications to ensure consistency and clarity of information across different languages.&#xA;&#xA;LOST view: SV-Agnostic Reference Data&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticEUVocabulariesReferenceDataSolutionsGrouping&#xA;&#xA;ABB name: egovera:BusinessAgnosticEUVocabulariesReferenceDataSolutionsGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/BusinessAgnosticEUVocabulariesReferenceDataSolutionsGrouping&#xA;&#xA;Name: Business Agnostic EU Vocabularies Reference Data Solutions Catalogue&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticEUVocabulariesReferenceDataSolutionsGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/BusinessAgnosticEUVocabulariesReferenceDataSolutionsGrouping"/>
+  <properties
+      key="dct:title"
+      value="Business Agnostic EU Vocabularies Reference Data Solutions Catalogue"/>
+  <properties
+      key="dct:type"
+      value="egovera:BusinessAgnosticEUVocabulariesReferenceDataSolutionsGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Business Agnostic EU Vocabularies Reference Data Solutions (BAEUV RDS) is a grouping that covers a range of information entities designed to support and enhance the efficiency of the Single Market. It includes elements such as NUTS, Reference Data Asset, Authority Tables, and the Digital Europe Thesaurus. These elements aim to standardize and harmonize codes, labels, and other forms of data across various platforms and systems, facilitating effective communication and data exchange."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of the application of BAEUV RDS could be in the public procurement process where NUTS is used to provide relevant information electronically to ensure best value for money. Another example could be the use of the Digital Europe Thesaurus in the European Commission's public communications to ensure consistency and clarity of information across different languages."/>
+  <properties
+      key="skos:note"
+      value="The BAEUV RDS is a comprehensive catalogue of information entities that serve a critical role in the functioning of the Single Market. 'NUTS' is an element that encourages the use of electronic communication and information technology in public procurement to ensure value for money. 'Reference Data Asset' refers to distinct reference data assets like authority tables, taxonomies, thesauri, ontologies, etc., maintained by organizations like the EU vocabularies. 'Authority Tables' or Named Authority Lists (NALs) are used to standardize and harmonize the codes and labels used across various platforms and systems, facilitating data exchanges. 'Digital Europe Thesaurus' is a multilingual thesaurus covering the main subject matters of the European Commission public communications."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="SV-Agnostic Reference Data"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

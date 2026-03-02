@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Availability Requirements Catalogue"
+    id="id-dc7aab4e66f742578de6614f667038eb"
+    documentation="Definition: Availability Requirements Catalogue ABB is a grouping that covers a range of non-functional requirements that are critical for the operation, maintenance, and usability of a system. This includes elements such as 'Deployment Stamps' and 'Geodes', which refer to the need for a system to have a timestamp or version number associated with each deployment, and the ability of a system to accurately determine the location of a user or device, respectively.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The Availability Requirements Catalogue ABB is a comprehensive collection of non-functional requirements that are essential for the effective operation and maintenance of a system. 'Deployment Stamps' are crucial for tracking and identifying different versions of the system, enabling easy rollback to a previous version if necessary, and ensuring system stability and reliability. 'Geodes', on the other hand, refers to the system's ability to accurately pinpoint the location of a user or device, which is critical for systems that rely on location-based services. The accuracy and reliability of geodes can significantly impact the functionality and usability of the system, and in certain applications, can have serious consequences.&#xA;&#xA;Example: Examples of application for the elements in the Availability Requirements Catalogue ABB include software development projects where 'Deployment Stamps' would be used to track different versions of the software, and navigation or emergency response systems where 'Geodes' would be used to provide precise location data.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AvailabilityRequirementsCatalogueGrouping&#xA;&#xA;ABB name: eira:AvailabilityRequirementsCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AvailabilityRequirementsCatalogueGrouping&#xA;&#xA;Name: Availability Requirements Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AvailabilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AvailabilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Availability Requirements Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:AvailabilityRequirementsCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Availability Requirements Catalogue ABB is a grouping that covers a range of non-functional requirements that are critical for the operation, maintenance, and usability of a system. This includes elements such as 'Deployment Stamps' and 'Geodes', which refer to the need for a system to have a timestamp or version number associated with each deployment, and the ability of a system to accurately determine the location of a user or device, respectively."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="Examples of application for the elements in the Availability Requirements Catalogue ABB include software development projects where 'Deployment Stamps' would be used to track different versions of the software, and navigation or emergency response systems where 'Geodes' would be used to provide precise location data."/>
+  <properties
+      key="skos:note"
+      value="The Availability Requirements Catalogue ABB is a comprehensive collection of non-functional requirements that are essential for the effective operation and maintenance of a system. 'Deployment Stamps' are crucial for tracking and identifying different versions of the system, enabling easy rollback to a previous version if necessary, and ensuring system stability and reliability. 'Geodes', on the other hand, refers to the system's ability to accurately pinpoint the location of a user or device, which is critical for systems that rely on location-based services. The accuracy and reliability of geodes can significantly impact the functionality and usability of the system, and in certain applications, can have serious consequences."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

@@ -1,0 +1,51 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Smart Device"
+    id="id-a2389b83eb9b4754b445eafd7314194c"
+    documentation="Definition: Smart Device ABB is a Device that can operate interactively and autonomously, connected to other devices or networks through different communication protocols. &#xA;&#xA;Source: European Comission&#xA;&#xA;Source reference: https://digital-strategy.ec.europa.eu/en/policies/internet-things-policy&#xA;&#xA;Synonym:  &#xA;&#xA;Additional information: Smart devices typically incorporate sensors, processors, and connectivity technology, such as Wi-Fi or Bluetooth, that allow them to collect and exchange data&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Smart Device ABB is salient for technical interoperability because it provides the physical element to exchange information and events with the public administration digital services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SmartDeviceDevice&#xA;&#xA;ABB name: eira:SmartDeviceDevice&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SmartDeviceDevice&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SmartDeviceDevice"/>
+  <properties
+      key="dct:type"
+      value="eira:SmartDeviceDevice"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"
+      value=" "/>
+  <properties
+      key="skos:definition"
+      value="Smart Device ABB is a Device that can operate interactively and autonomously, connected to other devices or networks through different communication protocols. "/>
+  <properties
+      key="eira:definitionSource"
+      value="European Comission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://digital-strategy.ec.europa.eu/en/policies/internet-things-policy"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Smart Device ABB is salient for technical interoperability because it provides the physical element to exchange information and events with the public administration digital services."/>
+  <properties
+      key="skos:note"
+      value="Smart devices typically incorporate sensors, processors, and connectivity technology, such as Wi-Fi or Bluetooth, that allow them to collect and exchange data"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SmartDeviceDevice"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Device>

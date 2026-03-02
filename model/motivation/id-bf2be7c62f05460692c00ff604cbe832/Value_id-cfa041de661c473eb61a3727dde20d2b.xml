@@ -1,0 +1,45 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Coordination Capacity"
+    id="id-cfa041de661c473eb61a3727dde20d2b"
+    documentation="Definition: The Coordination Capacity Value ABB refers to mediating and bringing different administrative units and dispersed actors to work together to achieve joint actions. It is not only about vertical coordination by hierarchy but also about facilitating horizontal coordination across policy areas and organizations at the same administrative level.&#xA;&#xA;Source: Administrative coordination capacity; does the wickedness of policy areas matter?&#xA;&#xA;Source reference: https://www.duo.uio.no/bitstream/handle/10852/76072/10-108014494035-2019-1584147.pdf?sequence=4&amp;isAllowed=y&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;Viewpoint: Enterprise Architecture Framework alignment guidelines viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/CoordinationCapacityValue&#xA;&#xA;ABB name: eira:CoordinationCapacityValue&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/CoordinationCapacityValue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/CoordinationCapacityValue"/>
+  <properties
+      key="dct:type"
+      value="eira:CoordinationCapacityValue"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="The Coordination Capacity Value ABB refers to mediating and bringing different administrative units and dispersed actors to work together to achieve joint actions. It is not only about vertical coordination by hierarchy but also about facilitating horizontal coordination across policy areas and organizations at the same administrative level."/>
+  <properties
+      key="eira:definitionSource"
+      value="Administrative coordination capacity; does the wickedness of policy areas matter?"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.duo.uio.no/bitstream/handle/10852/76072/10-108014494035-2019-1584147.pdf?sequence=4&amp;isAllowed=y"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/CoordinationCapacityValue"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Value>

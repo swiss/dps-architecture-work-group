@@ -1,0 +1,51 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distributed File System"
+    id="id-225d180d8d69434980de3f251eafd748"
+    documentation="Definition: Distributed File System is a Technology Service that implements the behaviour of a software tool that allows access to files from multiple computers in a distributed network&#xA;&#xA;Source: Inspired in Gartner&#xA;&#xA;Source reference: https://www.gartner.com/reviews/market/distributed-file-systems-and-object-storage&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): MooseFS is a Fault-tolerant, Highly available, Highly performing, Scaling-out, Network distributed file system. It spreads data over several physical commodity servers, which are visible to the user as one virtual disk. It is POSIX compliant and acts like any other Unix-like file system supporting: -Hierarchical structure: Files and Folders, -File attributes, -Special files: Pipes, Sockets, Block and Character devices, -Symbolic and Hard links, -Security attributes and ACLs. https://moosefs.com/&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DistributedFileSystemTechnologyService&#xA;&#xA;ABB name: eira:DistributedFileSystemTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DistributedFileSystemTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DistributedFileSystemTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:DistributedFileSystemTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Distributed File System is a Technology Service that implements the behaviour of a software tool that allows access to files from multiple computers in a distributed network"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Gartner"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.gartner.com/reviews/market/distributed-file-systems-and-object-storage"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): MooseFS is a Fault-tolerant, Highly available, Highly performing, Scaling-out, Network distributed file system. It spreads data over several physical commodity servers, which are visible to the user as one virtual disk. It is POSIX compliant and acts like any other Unix-like file system supporting: -Hierarchical structure: Files and Folders, -File attributes, -Special files: Pipes, Sockets, Block and Character devices, -Symbolic and Hard links, -Security attributes and ACLs. https://moosefs.com/"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DistributedFileSystemTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

@@ -1,0 +1,48 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inclusion"
+    id="id-f2df80e1329f46dc8d81dc9d4231083d"
+    documentation="Definition: The European Data Sharing principle of Inclusion emphasizes the importance of ensuring that all individuals and organizations have equal access to shared data resources. It promotes the idea that data should be made available to a wide range of stakeholders, including citizens, businesses, researchers, and public sector entities, without any discrimination or exclusion based on factors such as nationality, location, or organizational affiliation.&#xA;&#xA;Source: European Commission&#xA;&#xA;Source reference: https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en&#xA;&#xA;Additional information: Inclusion in data sharing is crucial for fostering innovation, enabling fair competition, and driving societal benefits. It ensures that data is not monopolized by a few entities and encourages collaboration and participation from diverse stakeholders. By promoting inclusivity, the European Data Sharing principle aims to create a level playing field and empower all actors to leverage data for economic growth, scientific advancements, and evidence-based decision-making.&#xA;&#xA;Example: An example of the application of the Inclusion principle is the creation of open data portals by governments, where they make various datasets available to the public, researchers, and businesses. These portals ensure that data is accessible to anyone interested, enabling the development of innovative applications, research studies, and informed policy-making. Additionally, initiatives promoting data sharing among different organizations, such as public-private partnerships, adhere to the principle of inclusion by allowing equal participation and access to shared data resources.&#xA;&#xA;LOST view: Architecture Principles view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/InclusionPrinciple&#xA;&#xA;ABB name: eira:InclusionPrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-03-17&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/InclusionPrinciple&#xA;&#xA;Name: Inclusion&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/ArchitecturePrinciple&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/InclusionPrinciple"/>
+  <properties
+      key="dct:modified"
+      value="2024-03-17"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/InclusionPrinciple"/>
+  <properties
+      key="dct:title"
+      value="Inclusion"/>
+  <properties
+      key="dct:type"
+      value="eira:InclusionPrinciple"/>
+  <properties
+      key="skos:example"
+      value="An example of the application of the Inclusion principle is the creation of open data portals by governments, where they make various datasets available to the public, researchers, and businesses. These portals ensure that data is accessible to anyone interested, enabling the development of innovative applications, research studies, and informed policy-making. Additionally, initiatives promoting data sharing among different organizations, such as public-private partnerships, adhere to the principle of inclusion by allowing equal participation and access to shared data resources."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:note"
+      value="Inclusion in data sharing is crucial for fostering innovation, enabling fair competition, and driving societal benefits. It ensures that data is not monopolized by a few entities and encourages collaboration and participation from diverse stakeholders. By promoting inclusivity, the European Data Sharing principle aims to create a level playing field and empower all actors to leverage data for economic growth, scientific advancements, and evidence-based decision-making."/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en"/>
+  <properties
+      key="eira:definitionSource"
+      value="European Commission"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:definition"
+      value="The European Data Sharing principle of Inclusion emphasizes the importance of ensuring that all individuals and organizations have equal access to shared data resources. It promotes the idea that data should be made available to a wide range of stakeholders, including citizens, businesses, researchers, and public sector entities, without any discrimination or exclusion based on factors such as nationality, location, or organizational affiliation."/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/ArchitecturePrinciple"/>
+</archimate:Principle>

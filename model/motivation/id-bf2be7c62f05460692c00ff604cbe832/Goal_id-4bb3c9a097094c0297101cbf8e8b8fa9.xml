@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Control Policy"
+    id="id-4bb3c9a097094c0297101cbf8e8b8fa9"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Access Control Policy&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: Access Control Policy is a critical concept in IT architecture that defines the rules and guidelines for controlling access to resources and data within an organization's network. It outlines the procedures and protocols that must be followed to ensure that only authorized users can access sensitive information and resources. The policy includes guidelines for user authentication, authorization, and access management, and it helps organizations to maintain the confidentiality, integrity, and availability of their data. The Access Control Policy is a crucial component of any IT security program, and it is essential for protecting against unauthorized access, data breaches, and cyber attacks.&#xA;&#xA;Example: Access Control Policies:&#xA;Decision: Enforcing role-based access control (RBAC) and implementing strict access control policies for government systems.&#xA;Rationale: RBAC provides a structured approach to managing user access based on predefined roles and responsibilities, reducing the risk of unauthorized access to sensitive information.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AccessControlPolicyGoal&#xA;&#xA;ABB name: eira:AccessControlPolicyGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947653&#xA;&#xA;Name: Architecture Decision Record about Access Control Policy&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947653"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Access Control Policy"/>
+  <properties
+      key="skos:example"
+      value="Access Control Policies:&#xA;Decision: Enforcing role-based access control (RBAC) and implementing strict access control policies for government systems.&#xA;Rationale: RBAC provides a structured approach to managing user access based on predefined roles and responsibilities, reducing the risk of unauthorized access to sensitive information."/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="Access Control Policy is a critical concept in IT architecture that defines the rules and guidelines for controlling access to resources and data within an organization's network. It outlines the procedures and protocols that must be followed to ensure that only authorized users can access sensitive information and resources. The policy includes guidelines for user authentication, authorization, and access management, and it helps organizations to maintain the confidentiality, integrity, and availability of their data. The Access Control Policy is a crucial component of any IT security program, and it is essential for protecting against unauthorized access, data breaches, and cyber attacks."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AccessControlPolicyGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:AccessControlPolicyGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Access Control Policy"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

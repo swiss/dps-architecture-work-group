@@ -1,0 +1,49 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Desktop App"
+    id="id-d0535713481d43dda1557c5bbe7214b1"
+    documentation="Definition: Desktop APP ABB is a Business Interface that corresponds to a computer program designed to run on a desktop or laptop computer, typically with a graphical user interface (GUI)&#xA;&#xA;Source: Inspired in &quot;Information Technology and Computer Applications in Public Administration&quot; book&#xA;&#xA;Source reference: ISBN 978-81-317-3309-7&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Electronic Invoice Management Desktop Application, The Electronic Invoice Management desktop application developed by the Ministry of Industry, Energy and Tourism is used to create electronic invoices in the Facturae format (Order PRE/2971/2007) in an easy and simple way. Developed with open-source software, this application is targeted at micro-, small- and medium-sized enterprises (SMEs) and freelance workers, solving the problems associated with the storage of paper invoices. https://joinup.ec.europa.eu/collection/spain-center-technology-transfer/solution/electronic-invoice-management-desktop-application/about&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Interoperability Saliency: Desktop App ABB is salient for organizational, semantic and technical interoperability because it offers (i) a visual environment to interact with the public service procedures and data; (ii) an understanding of the information to be represented; and (iii) an elaborate mechanism to exchange data with public services. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/DesktopAppBusinessInterface&#xA;&#xA;ABB name: eira:DesktopAppBusinessInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DesktopAppBusinessInterface&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DesktopAppBusinessInterface"/>
+  <properties
+      key="dct:type"
+      value="eira:DesktopAppBusinessInterface"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Desktop APP ABB is a Business Interface that corresponds to a computer program designed to run on a desktop or laptop computer, typically with a graphical user interface (GUI)"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in &quot;Information Technology and Computer Applications in Public Administration&quot; book"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="ISBN 978-81-317-3309-7"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Electronic Invoice Management Desktop Application, The Electronic Invoice Management desktop application developed by the Ministry of Industry, Energy and Tourism is used to create electronic invoices in the Facturae format (Order PRE/2971/2007) in an easy and simple way. Developed with open-source software, this application is targeted at micro-, small- and medium-sized enterprises (SMEs) and freelance workers, solving the problems associated with the storage of paper invoices. https://joinup.ec.europa.eu/collection/spain-center-technology-transfer/solution/electronic-invoice-management-desktop-application/about"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Desktop App ABB is salient for organizational, semantic and technical interoperability because it offers (i) a visual environment to interact with the public service procedures and data; (ii) an understanding of the information to be represented; and (iii) an elaborate mechanism to exchange data with public services. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DesktopAppBusinessInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessInterface>

@@ -1,0 +1,36 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EU Legislation Compliance"
+    id="id-6f0541c3f9e04e19975f6c54cc69597c"
+    documentation="Definition: EU Legislation Compliance is the property of (national/local) legislation to be coherent or to implement European legislation. Member States play a key role in ensuring EU law is implemented correctly and in a timely manner. This is essential for people and businesses to optimally benefit from commonly agreed rules. A compliance assessment of EU Directives must be carried out in two stages:(1) timely and systematic check whether Member States have transposed Union law;(2) a timely and systematic conformity check of national transposing measures against the relevant Union legislation (correct transposition). While Member States are responsible for the timely and accurate transposition of directives as well as the correct application of the entire acquis, the Commission has to monitor the Member States’ efforts and ensure that their legislation complies with Union law.&quot;&quot;&#xA;&#xA;Source: COM(2017) 134 final ANNEX 2 COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS European Interoperability Framework - Implementation Strategy&#xA;&#xA;Source reference: https://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/eu-legislation-compliance&#xA;&#xA;ABB name: elap:EULegislationCompliancePrinciple&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: EU Legislation Compliance&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:EULegislationCompliancePrinciple"/>
+  <properties
+      key="dct:title"
+      value="EU Legislation Compliance"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/eu-legislation-compliance"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="eira:definitionSource"
+      value="COM(2017) 134 final ANNEX 2 COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS European Interoperability Framework - Implementation Strategy"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/resource.html?uri=cellar:2c2f2554-0faf-11e7-8a35-01aa75ed71a1.0017.02/DOC_3&amp;format=PDF"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:definition"
+      value="EU Legislation Compliance is the property of (national/local) legislation to be coherent or to implement European legislation. Member States play a key role in ensuring EU law is implemented correctly and in a timely manner. This is essential for people and businesses to optimally benefit from commonly agreed rules. A compliance assessment of EU Directives must be carried out in two stages:(1) timely and systematic check whether Member States have transposed Union law;(2) a timely and systematic conformity check of national transposing measures against the relevant Union legislation (correct transposition). While Member States are responsible for the timely and accurate transposition of directives as well as the correct application of the entire acquis, the Commission has to monitor the Member States’ efforts and ensure that their legislation complies with Union law.&quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

@@ -1,0 +1,47 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction metadata"
+    id="id-568ecdfee74849f4af00a82d83632516"
+    documentation="Definition: Transaction Metadata refers to structured information that captures details and contextual information about a specific transaction. It includes attributes such as transaction ID, date and time, parties involved, transaction type, transaction status, and any additional metadata relevant to the transaction. Transaction Metadata provides a comprehensive view of the transaction, enabling data analysis, auditing, tracking, and reporting.&#xA;&#xA;Source: ISO&#xA;&#xA;LOST view: SV-Business Agnostic Metadata&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TransactionMetadataDataObject&#xA;&#xA;ABB name: egovera:TransactionMetadataDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TransactionMetadataDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataSetDataObject&#xA;&#xA;">
+  <properties
+      key="skos:definition"
+      value="Transaction Metadata refers to structured information that captures details and contextual information about a specific transaction. It includes attributes such as transaction ID, date and time, parties involved, transaction type, transaction status, and any additional metadata relevant to the transaction. Transaction Metadata provides a comprehensive view of the transaction, enabling data analysis, auditing, tracking, and reporting."/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/TransactionMetadataDataObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:TransactionMetadataDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic Metadata"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/TransactionMetadataDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataSetDataObject"/>
+</archimate:DataObject>

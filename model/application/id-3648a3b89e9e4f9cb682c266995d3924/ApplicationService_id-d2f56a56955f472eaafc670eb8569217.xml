@@ -1,0 +1,58 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Exchange"
+    id="id-d2f56a56955f472eaafc670eb8569217"
+    documentation="Definition: Data Exchange ABB is an Application Service enabling the secure exchange of messages, records, forms and other kinds of data between different individuals, organizations or systems. This includes data routing, except endpoint discovery.&#xA;&#xA;Source: EIFv2 &#xA;&#xA;Source reference: http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): XMLGate - XMLGate is a Web service application used to validate an XML instance against a well-defined schema. The XML flow is submitted either via a PDF form or by uploading the XML file.(https://webgate.ec.europa.eu/sanco-xmlgate/Login.jsp;jsessionid=2MPn_N5Wg9Dar4_W2-yVL_Xg-VlW3kn47PLVbNise9X5Kycx1yLI!-25226473)&#xA;&#xA;Interoperability Dimension: Behavioral IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Data Exchange Service ABB is a key interoperability enabler (*) for behavioural and technical interoperability because it provides secure and trustworthy data exchange between different ICT systems as stated in the EIF: &quot;Define a common security and privacy framework and establish processes for public services to ensure secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&quot;&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataExchangeApplicationService&#xA;&#xA;ABB name: eira:DataExchangeApplicationService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DataExchangeApplicationService&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DataExchangeApplicationService"/>
+  <properties
+      key="dct:type"
+      value="eira:DataExchangeApplicationService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Data Exchange ABB is an Application Service enabling the secure exchange of messages, records, forms and other kinds of data between different individuals, organizations or systems. This includes data routing, except endpoint discovery."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIFv2 "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="http://ec.europa.eu/isa/documents/isa_annex_ii_eif_en.pdf"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): XMLGate - XMLGate is a Web service application used to validate an XML instance against a well-defined schema. The XML flow is submitted either via a PDF form or by uploading the XML file.(https://webgate.ec.europa.eu/sanco-xmlgate/Login.jsp;jsessionid=2MPn_N5Wg9Dar4_W2-yVL_Xg-VlW3kn47PLVbNise9X5Kycx1yLI!-25226473)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Data Exchange Service ABB is a key interoperability enabler (*) for behavioural and technical interoperability because it provides secure and trustworthy data exchange between different ICT systems as stated in the EIF: &quot;Define a common security and privacy framework and establish processes for public services to ensure secure and trustworthy data exchange between public administrations and in interactions with citizens and businesses.&quot;"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Privacy viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Key Interoperability Enablers viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DataExchangeApplicationService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationService>

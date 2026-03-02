@@ -1,0 +1,41 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Quality Framework"
+    id="id-9480481a764347d0bd39e4b0b9d6c575"
+    documentation="Definition: A Data Quality Framework refers to a structured approach or set of guidelines that organizations use to assess, measure, and improve the quality of their data. It provides a systematic framework for managing data quality throughout its lifecycle, from data collection to data analysis and decision-making.&#xA;&#xA;Source: European Commission&#xA;&#xA;LOST view: SV-Governance Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataQualityFrameworkBusinessObject&#xA;&#xA;ABB name: egovera:DataQualityFrameworkBusinessObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataQualityFrameworkBusinessObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataPolicy&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="A Data Quality Framework refers to a structured approach or set of guidelines that organizations use to assess, measure, and improve the quality of their data. It provides a systematic framework for managing data quality throughout its lifecycle, from data collection to data analysis and decision-making."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Commission"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataQualityFrameworkBusinessObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataQualityFrameworkBusinessObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataQualityFrameworkBusinessObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataPolicy"/>
+</archimate:BusinessObject>

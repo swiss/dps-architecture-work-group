@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archivability"
+    id="id-58b162870b9a4279af9a0585aa30c070"
+    documentation="Definition: Archivability is an IT non-functional requirement that refers to the ability of a system to store and retrieve data or information over a long period of time. This requirement is important for systems that deal with critical data or information that needs to be preserved for legal, regulatory, or historical purposes. Archivability ensures that data is stored in a format that can be accessed and retrieved easily, even after a long period of time, and that the data remains accurate and complete. It also ensures that the system can handle large amounts of data and that the data is stored securely to prevent unauthorized access or tampering.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: Archivability is a non-functional requirement that pertains to the ability of a system to store and preserve data for future reference or use. According to the TOGAF specification, guidelines, and documentation, archivability is a critical aspect of enterprise architecture, particularly in the context of data management and governance.&#xA;&#xA;The archivability non-functional requirement is closely related to other requirements such as data retention, data integrity, and data security. It involves ensuring that data is stored in a format that is easily retrievable and accessible, and that it remains intact and uncorrupted over time. This requirement is particularly important for organizations that are required to comply with regulatory or legal requirements, as it ensures that data can be retrieved and presented as evidence if necessary.&#xA;&#xA;To meet the archivability non-functional requirement, enterprise architects must consider a range of factors, including the type of data being stored, the format in which it is stored, the storage medium used, and the length of time for which the data needs to be retained. They must also consider the potential risks associated with data loss or corruption, and implement appropriate measures to mitigate these risks.&#xA;&#xA;In practice, meeting the archivability non-functional requirement may involve implementing a range of technologies and processes, such as data backup and recovery systems, data archiving solutions, and data retention policies. It may also involve working closely with stakeholders across the organization to ensure that data is managed and stored in a way that meets their needs and requirements.&#xA;&#xA;Overall, the archivability non-functional requirement is a critical aspect of enterprise architecture, and one that must be carefully considered and managed to ensure the long-term viability and success of an organization.&#xA;&#xA;Example: Archivability: The system must be able to store and retrieve data for a minimum of 10 years, with the ability to export data in a standard format for long-term storage and retrieval.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ArchivabilityRequirement&#xA;&#xA;ABB name: eira:ArchivabilityRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ArchivabilityRequirement&#xA;&#xA;Name: Archivability Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ArchivabilityRequirement"/>
+  <properties
+      key="dct:title"
+      value="Archivability Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="Archivability: The system must be able to store and retrieve data for a minimum of 10 years, with the ability to export data in a standard format for long-term storage and retrieval."/>
+  <properties
+      key="skos:definition"
+      value="Archivability is an IT non-functional requirement that refers to the ability of a system to store and retrieve data or information over a long period of time. This requirement is important for systems that deal with critical data or information that needs to be preserved for legal, regulatory, or historical purposes. Archivability ensures that data is stored in a format that can be accessed and retrieved easily, even after a long period of time, and that the data remains accurate and complete. It also ensures that the system can handle large amounts of data and that the data is stored securely to prevent unauthorized access or tampering."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="Archivability is a non-functional requirement that pertains to the ability of a system to store and preserve data for future reference or use. According to the TOGAF specification, guidelines, and documentation, archivability is a critical aspect of enterprise architecture, particularly in the context of data management and governance.&#xA;&#xA;The archivability non-functional requirement is closely related to other requirements such as data retention, data integrity, and data security. It involves ensuring that data is stored in a format that is easily retrievable and accessible, and that it remains intact and uncorrupted over time. This requirement is particularly important for organizations that are required to comply with regulatory or legal requirements, as it ensures that data can be retrieved and presented as evidence if necessary.&#xA;&#xA;To meet the archivability non-functional requirement, enterprise architects must consider a range of factors, including the type of data being stored, the format in which it is stored, the storage medium used, and the length of time for which the data needs to be retained. They must also consider the potential risks associated with data loss or corruption, and implement appropriate measures to mitigate these risks.&#xA;&#xA;In practice, meeting the archivability non-functional requirement may involve implementing a range of technologies and processes, such as data backup and recovery systems, data archiving solutions, and data retention policies. It may also involve working closely with stakeholders across the organization to ensure that data is managed and stored in a way that meets their needs and requirements.&#xA;&#xA;Overall, the archivability non-functional requirement is a critical aspect of enterprise architecture, and one that must be carefully considered and managed to ensure the long-term viability and success of an organization."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ArchivabilityRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:ArchivabilityRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

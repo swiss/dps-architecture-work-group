@@ -1,0 +1,42 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Contract"
+    id="id-c66cd4a50ada4357b7bb23da5d4ec019"
+    documentation="Definition: A Data Contract, within the realm of European tax regulations, refers to a formal agreement that stipulates the terms and conditions under which personal and financial data is collected, processed, shared, and stored by entities such as businesses, tax authorities, and financial institutions. This contract ensures compliance with data protection laws, such as the General Data Protection Regulation (GDPR), by establishing clear guidelines on data handling practices, the rights of individuals whose data is being processed, and the obligations of the data processors and controllers. The aim is to safeguard taxpayer information, maintain privacy, and ensure the integrity and security of data exchanges, particularly in cross-border transactions where multiple jurisdictions are involved.&#xA;&#xA;Source: EIRA team&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataContractDataObject&#xA;&#xA;ABB name: egovera:DataContractDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/DataContractDataObject&#xA;&#xA;Name: Data Contract Data-object&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataPolicyBusinessObject&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DataContractDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/DataContractDataObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:DataContractDataObject"/>
+  <properties
+      key="dct:title"
+      value="Data Contract Data-object"/>
+  <properties
+      key="skos:definition"
+      value="A Data Contract, within the realm of European tax regulations, refers to a formal agreement that stipulates the terms and conditions under which personal and financial data is collected, processed, shared, and stored by entities such as businesses, tax authorities, and financial institutions. This contract ensures compliance with data protection laws, such as the General Data Protection Regulation (GDPR), by establishing clear guidelines on data handling practices, the rights of individuals whose data is being processed, and the obligations of the data processors and controllers. The aim is to safeguard taxpayer information, maintain privacy, and ensure the integrity and security of data exchanges, particularly in cross-border transactions where multiple jurisdictions are involved."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA team"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataPolicyBusinessObject"/>
+</archimate:DataObject>

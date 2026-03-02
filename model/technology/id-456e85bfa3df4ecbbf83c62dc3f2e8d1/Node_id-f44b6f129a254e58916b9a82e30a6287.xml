@@ -1,0 +1,52 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virtual Machine"
+    id="id-f44b6f129a254e58916b9a82e30a6287"
+    documentation="Definition: Virtual Machine ABB is a Node that enables the emulation of a physical computer to run programs and deploy applications.&#xA;&#xA;Source: Inspired in Redhat&#xA;&#xA;Source reference: https://www.redhat.com/en/topics/virtualization/what-is-a-virtual-machine&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Redhat Virtualization: Built on Red Hat Enterprise Linux® and KVM and fully maintained by Red Hat, Red Hat® Virtualization is an enterprise virtualization platform that supports core virtualization workloads, including resource-intensive and important applications. With a solid foundation for a cloud-native and containerized future, virtualize your resources, workflows, and software applications. Additionally compatible with platforms like Microsoft Exchange and the Oracle database is Red Hat Enterprise Virtualization. https://www.redhat.com/en/technologies/virtualization/enterprise-virtualization&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: The Virtual Machine ABB is salient for technical interoperability because it provides needed tools to emulate the public administration services under controlled environments. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/VirtualMachineNode&#xA;&#xA;ABB name: eira:VirtualMachineNode&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/VirtualMachineNode&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/VirtualMachineNode"/>
+  <properties
+      key="dct:type"
+      value="eira:VirtualMachineNode"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Virtual Machine ABB is a Node that enables the emulation of a physical computer to run programs and deploy applications."/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in Redhat"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.redhat.com/en/topics/virtualization/what-is-a-virtual-machine"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Redhat Virtualization: Built on Red Hat Enterprise Linux® and KVM and fully maintained by Red Hat, Red Hat® Virtualization is an enterprise virtualization platform that supports core virtualization workloads, including resource-intensive and important applications. With a solid foundation for a cloud-native and containerized future, virtualize your resources, workflows, and software applications. Additionally compatible with platforms like Microsoft Exchange and the Oracle database is Red Hat Enterprise Virtualization. https://www.redhat.com/en/technologies/virtualization/enterprise-virtualization"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Virtual Machine ABB is salient for technical interoperability because it provides needed tools to emulate the public administration services under controlled environments. "/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Behavioral IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/VirtualMachineNode"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:Node>

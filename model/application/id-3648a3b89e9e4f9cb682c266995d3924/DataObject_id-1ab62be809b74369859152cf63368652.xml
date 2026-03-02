@@ -1,0 +1,47 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tender Item Metadata"
+    id="id-1ab62be809b74369859152cf63368652"
+    documentation="Definition: Tender Item Metadata refers to structured information that provides details about specific items or products included in a tender or procurement process. It encompasses attributes such as item name, description, quantity, unit of measure, pricing, specifications, and any additional metadata relevant to the tender item. Tender Item Metadata helps in accurately describing and categorizing items, facilitating the procurement process, comparing bids, and ensuring transparency and fairness in tender evaluations.&#xA;&#xA;Source: European Single Procurement Document (ESPD)&#xA;&#xA;LOST view: SV-Business Agnostic Metadata&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TenderItemMetadataDataObject&#xA;&#xA;ABB name: egovera:TenderItemMetadataDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/TenderItemMetadataDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DataSetDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="Tender Item Metadata refers to structured information that provides details about specific items or products included in a tender or procurement process. It encompasses attributes such as item name, description, quantity, unit of measure, pricing, specifications, and any additional metadata relevant to the tender item. Tender Item Metadata helps in accurately describing and categorizing items, facilitating the procurement process, comparing bids, and ensuring transparency and fairness in tender evaluations."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Single Procurement Document (ESPD)"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/TenderItemMetadataDataObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:TenderItemMetadataDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Business Agnostic Metadata"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/TenderItemMetadataDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DataSetDataObject"/>
+</archimate:DataObject>

@@ -1,0 +1,51 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Agreement"
+    id="id-cf75b40e970d4175894d107afedd5922"
+    documentation="Definition: Legal Agreement ABB is a Contract enabling collaboration between digital public services cross legal jurisdictions.&#xA;&#xA;Source: EIF &#xA;&#xA;Source reference: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A12016E207&#xA;&#xA;Additional information: Generally speaking a Legal Agreement Contract t is of a generic not binding nature like the declarations of Tallinn and Berlin (typically involving many legal jurisdictions). Legal agreements of binding nature typically take the form of binding legal acts like the reference list of offences punishable in the European arrest warrant (2002/584/JHA: Council Framework Decision of 13 June 2002).&#xA;&#xA;Example: An example of a treaty that does have provisions for further binding agreements is the UN Charter. By signing and ratifying the Charter, countries agreed to be legally bound by resolutions passed by UN bodies such as the General Assembly and the Security Council. Thus, UN resolutions are legally binding on UN Member States, and no signature or ratification is necessary. https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiA3djvvbT2AhX1SPEDHdmuCqMQFnoECAYQAQ&amp;url=https%3A%2F%2Fwww.phe.gov%2Fs3%2Flaw%2FPages%2FInternational.aspx&amp;usg=AOvVaw23fJMEr0G7JOPyleNl2lrd&#xA;&#xA;Interoperability Dimension: Governance IoP&#xA;&#xA;LOST view: Legal view&#xA;&#xA;Viewpoint: Interoperability Governance viewpoint&#xA;&#xA;Interoperability Saliency: The Legal Agreement ABB is salient for the governance interoperability because it sets the foundations for the coordination or harmonization between different legislations. Also this ABB is salient for the legal governance in the way of establishing the required business rules facilitate data exchange between public services at lower level.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegalAgreementContract&#xA;&#xA;ABB name: eira:LegalAgreementContract&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/LegalAgreementContract&#xA;&#xA;Interoperability Layer: Legal&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/LegalAgreementContract"/>
+  <properties
+      key="dct:type"
+      value="eira:LegalAgreementContract"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="skos:definition"
+      value="Legal Agreement ABB is a Contract enabling collaboration between digital public services cross legal jurisdictions."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIF "/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A12016E207"/>
+  <properties
+      key="skos:example"
+      value="An example of a treaty that does have provisions for further binding agreements is the UN Charter. By signing and ratifying the Charter, countries agreed to be legally bound by resolutions passed by UN bodies such as the General Assembly and the Security Council. Thus, UN resolutions are legally binding on UN Member States, and no signature or ratification is necessary. https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiA3djvvbT2AhX1SPEDHdmuCqMQFnoECAYQAQ&amp;url=https%3A%2F%2Fwww.phe.gov%2Fs3%2Flaw%2FPages%2FInternational.aspx&amp;usg=AOvVaw23fJMEr0G7JOPyleNl2lrd"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Legal Agreement ABB is salient for the governance interoperability because it sets the foundations for the coordination or harmonization between different legislations. Also this ABB is salient for the legal governance in the way of establishing the required business rules facilitate data exchange between public services at lower level."/>
+  <properties
+      key="skos:note"
+      value="Generally speaking a Legal Agreement Contract t is of a generic not binding nature like the declarations of Tallinn and Berlin (typically involving many legal jurisdictions). Legal agreements of binding nature typically take the form of binding legal acts like the reference list of offences punishable in the European arrest warrant (2002/584/JHA: Council Framework Decision of 13 June 2002)."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/LegalAgreementContract"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
+</archimate:Contract>

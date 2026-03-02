@@ -1,0 +1,54 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Reusability"
+    id="id-e9d79628b1d44dbbaae91e90bc58f12c"
+    documentation="Definition: Metadata and data should be well-described so that they can be replicated and/or combined in different settings. Reusability is the central goal of FAIR and is usually the trigger for the introduction of data management and FAIR in companies. In principle, achieving F, A and I should achieve most of R - but there is another important aspect of the reusability principle that needs to be resolved. When designing data collection processes, reusability beyond the original purpose must be considered. It is usually extremely difficult to make data that is not FAIR reusable after the fact. Data reusability must be in place from the beginning, i.e. context and tacit knowledge must be built in from the start. Otherwise, there is a risk that datasets will be found and analysed under false assumptions, leading to a disruption of projects and sometimes a reluctance of researchers to share their data with others. Data reusability must be in place from the beginning, i.e. context and tacit knowledge must be built in from the start. Otherwise, there is a risk that datasets will be found and analysed under false assumptions, leading to a disruption of projects and sometimes a reluctance of researchers to share their data with others.Mechanisms that ensure the data can be reused by other stakeholders are relevant, for this, two aspects to take into account are well-documented and clear licence and provenance information. &quot;&quot;&#xA;&#xA;Source: FAIR Principles&#xA;&#xA;Source reference: https://www.go-fair.org/fair-principles/&#xA;&#xA;Publisher: ELAP&#xA;&#xA;LOST view: TVA-Functional Architecture Principles&#xA;&#xA;Identifier: http://data.europa.eu/2sa/elap/data-reusability&#xA;&#xA;ABB name: elap:data-reusability&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-17&#xA;&#xA;Name: Data Reusability&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: eira:EuropeanLibraryofArchitecturePrinciplesPrinciple&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="elap:data-reusability"/>
+  <properties
+      key="dct:title"
+      value="Data Reusability"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/2sa/elap/data-reusability"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-17"/>
+  <properties
+      key="dct:publisher"
+      value="ELAP"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="FAIR Principles"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.go-fair.org/fair-principles/"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="OV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="SV-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="SV-Governance Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="Architecture Principles view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:definition"
+      value="Metadata and data should be well-described so that they can be replicated and/or combined in different settings. Reusability is the central goal of FAIR and is usually the trigger for the introduction of data management and FAIR in companies. In principle, achieving F, A and I should achieve most of R - but there is another important aspect of the reusability principle that needs to be resolved. When designing data collection processes, reusability beyond the original purpose must be considered. It is usually extremely difficult to make data that is not FAIR reusable after the fact. Data reusability must be in place from the beginning, i.e. context and tacit knowledge must be built in from the start. Otherwise, there is a risk that datasets will be found and analysed under false assumptions, leading to a disruption of projects and sometimes a reluctance of researchers to share their data with others. Data reusability must be in place from the beginning, i.e. context and tacit knowledge must be built in from the start. Otherwise, there is a risk that datasets will be found and analysed under false assumptions, leading to a disruption of projects and sometimes a reluctance of researchers to share their data with others.Mechanisms that ensure the data can be reused by other stakeholders are relevant, for this, two aspects to take into account are well-documented and clear licence and provenance information. &quot;&quot;"/>
+  <properties
+      key="skos:broader"
+      value="eira:EuropeanLibraryofArchitecturePrinciplesPrinciple"/>
+</archimate:Principle>

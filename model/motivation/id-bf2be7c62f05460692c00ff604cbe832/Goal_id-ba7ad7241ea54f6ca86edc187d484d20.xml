@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Network Optimization"
+    id="id-ba7ad7241ea54f6ca86edc187d484d20"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Network Optimization&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: Network optimization is a concept in IT architecture that involves improving the performance and efficiency of a computer network. This can be achieved through various techniques such as reducing network congestion, optimizing routing protocols, improving bandwidth utilization, and implementing load balancing. The goal of network optimization is to ensure that the network can handle the increasing demands of data traffic and provide a seamless user experience. It is an important consideration for organizations that rely heavily on their network infrastructure to support their business operations.&#xA;&#xA;Example: Network Optimization:&#xA;Decision: Implementing network optimization techniques, such as compression, caching, and minimizing network round trips, to reduce latency and improve data transmission efficiency.&#xA;Rationale: Optimizing network communication improves system performance by reducing the time required to transfer data and improving the utilization of network resources.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/NetworkOptimizationGoal&#xA;&#xA;ABB name: eira:NetworkOptimizationGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947421&#xA;&#xA;Name: Architecture Decision Record about Network Optimization&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947421"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Network Optimization"/>
+  <properties
+      key="skos:example"
+      value="Network Optimization:&#xA;Decision: Implementing network optimization techniques, such as compression, caching, and minimizing network round trips, to reduce latency and improve data transmission efficiency.&#xA;Rationale: Optimizing network communication improves system performance by reducing the time required to transfer data and improving the utilization of network resources."/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="Network optimization is a concept in IT architecture that involves improving the performance and efficiency of a computer network. This can be achieved through various techniques such as reducing network congestion, optimizing routing protocols, improving bandwidth utilization, and implementing load balancing. The goal of network optimization is to ensure that the network can handle the increasing demands of data traffic and provide a seamless user experience. It is an important consideration for organizations that rely heavily on their network infrastructure to support their business operations."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/NetworkOptimizationGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:NetworkOptimizationGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Network Optimization"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

@@ -1,0 +1,42 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Survey Form"
+    id="id-9ff9362ea79847a9bbd1bc8032ab32c1"
+    documentation="Definition: The Survey Form is designed for conducting detailed surveys or polls. It can encompass a variety of question types, including multiple-choice, Likert scales, and open-ended responses. This form is used to gather data on customer preferences, market trends, or public opinions, providing valuable insights that can guide business strategies, marketing efforts, and product development.&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: SV-Forms Structure&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SurveyFormDataObject&#xA;&#xA;ABB name: egovera:SurveyFormDataObject&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/SurveyFormDataObject&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;Specialises: http://data.europa.eu/dr8/FormsStructureDataObject&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/SurveyFormDataObject"/>
+  <properties
+      key="dct:type"
+      value="egovera:SurveyFormDataObject"/>
+  <properties
+      key="eira:view"
+      value="SV-Forms Structure"/>
+  <properties
+      key="eira:view"
+      value="Semantic view - Motivation"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/SurveyFormDataObject"/>
+  <properties
+      key="skos:definition"
+      value="The Survey Form is designed for conducting detailed surveys or polls. It can encompass a variety of question types, including multiple-choice, Likert scales, and open-ended responses. This form is used to gather data on customer preferences, market trends, or public opinions, providing valuable insights that can guide business strategies, marketing efforts, and product development."/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/FormsStructureDataObject"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+</archimate:DataObject>

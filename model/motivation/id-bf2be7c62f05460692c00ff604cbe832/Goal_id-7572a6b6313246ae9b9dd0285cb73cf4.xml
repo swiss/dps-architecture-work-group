@@ -1,0 +1,60 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Role-Based Access Control"
+    id="id-7572a6b6313246ae9b9dd0285cb73cf4"
+    documentation="Definition: Architecture Decision Record from where you should specialise the ADR SBBs regarding the Role-Based Access Control (RBAC)&#xA;&#xA;Source: ISO/IEC/IEEE 42010:2022&#xA;&#xA;Source reference: https://www.iso.org/standard/74393.html&#xA;&#xA;Additional information: Role-Based Access Control (RBAC) is a concept in IT architecture that provides a method for controlling access to resources based on the roles of individual users within an organization. This approach is designed to simplify the process of managing access to sensitive data and systems by assigning permissions based on job responsibilities rather than individual identities. With RBAC, administrators can create roles that define specific access privileges and then assign those roles to users based on their job functions. This helps to ensure that users only have access to the resources they need to perform their duties, reducing the risk of unauthorized access and data breaches. RBAC is widely used in enterprise environments and is considered a best practice for access control in IT security.&#xA;&#xA;Example: Role-Based Access Control (RBAC):&#xA;Decision: Implementing RBAC to enforce fine-grained access controls based on user roles and permissions.&#xA;Rationale: RBAC provides a structured and manageable approach to access control, ensuring that users have appropriate privileges based on their roles within the system, minimizing the risk of unauthorized actions.&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/Role-BasedAccessControlGoal&#xA;&#xA;ABB name: eira:Role-BasedAccessControlGoal&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: ADR-20230515180947403&#xA;&#xA;Name: Architecture Decision Record about Role-Based Access Control (RBAC)&#xA;&#xA;eira:adr_context: The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons.&#xA;&#xA;eira:adr_decision: The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how.&#xA;&#xA;eira:adr_status: [Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]&#xA;&#xA;eira:adr_consecuences: The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture.&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="ADR-20230515180947403"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Role-Based Access Control (RBAC)"/>
+  <properties
+      key="skos:example"
+      value="Role-Based Access Control (RBAC):&#xA;Decision: Implementing RBAC to enforce fine-grained access controls based on user roles and permissions.&#xA;Rationale: RBAC provides a structured and manageable approach to access control, ensuring that users have appropriate privileges based on their roles within the system, minimizing the risk of unauthorized actions."/>
+  <properties
+      key="eira:adr_context"
+      value="The context explains why we need to make a decision. It also describes the alternatives along with the pros and cons."/>
+  <properties
+      key="eira:adr_decision"
+      value="The decision describes the justification for why the particular solution was accepted. It has more emphasis on the why rather than the how."/>
+  <properties
+      key="eira:adr_status"
+      value="[Proposed (under review)|Accepted (approved and ready for implementation)|Superseded (superseded by another decision)]"/>
+  <properties
+      key="eira:adr_consecuences"
+      value="The consequences section contains information about the overall impact of an architectural decision. Every decision has trade-offs. That’s why it’s crucial to include the analysis to provide a clear picture."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISO/IEC/IEEE 42010:2022"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.iso.org/standard/74393.html"/>
+  <properties
+      key="skos:note"
+      value="Role-Based Access Control (RBAC) is a concept in IT architecture that provides a method for controlling access to resources based on the roles of individual users within an organization. This approach is designed to simplify the process of managing access to sensitive data and systems by assigning permissions based on job responsibilities rather than individual identities. With RBAC, administrators can create roles that define specific access privileges and then assign those roles to users based on their job functions. This helps to ensure that users only have access to the resources they need to perform their duties, reducing the risk of unauthorized access and data breaches. RBAC is widely used in enterprise environments and is considered a best practice for access control in IT security."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/Role-BasedAccessControlGoal"/>
+  <properties
+      key="dct:type"
+      value="eira:Role-BasedAccessControlGoal"/>
+  <properties
+      key="skos:definition"
+      value="Architecture Decision Record from where you should specialise the ADR SBBs regarding the Role-Based Access Control (RBAC)"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionGoal"/>
+</archimate:Goal>

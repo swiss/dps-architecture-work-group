@@ -1,0 +1,44 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Solution Architecture Decision Catalogue"
+    id="id-c04fe039a2164ca8b462038c76b314fb"
+    documentation="Definition: Digital Solution Architecture Decision Catalogue ABB is a Grouping that covers a comprehensive collection of architecture decisions related to digital solutions. It includes decisions about technical architecture, business architecture, security, privacy and compliance, high availability and resilience, scalability, portability, maintainability, quality, and usability. Each decision is documented in an Architecture Decision Record (ADR) that describes the context, decision, and consequences.&#xA;&#xA;Source: EIRA Team Research&#xA;&#xA;Additional information: The catalogue is divided into several categories, each focusing on a specific aspect of digital solution architecture. For example, the 'Digital Solution Technical Architecture Decision Catalogue' includes decisions about technology stack selection, API design, event-driven architecture, database schema design, and more. Similarly, the 'Digital Solution Business Architecture Decision Catalogue' includes decisions about cross-border identification business, dynamic location of data provider, data notification deployment, and others. Each decision is documented in an ADR, providing a record of why and how decisions were made, aiding in future understanding and decision-making.&#xA;&#xA;Example: An example of an element in the catalogue is 'Technology Stack Selection'. This is an ADR that documents the decision-making process for selecting the technology stack for a digital solution. It would include the context (why the decision was needed), the decision (what was decided), and the consequences (the impact of the decision).&#xA;&#xA;LOST view: Digital Solution Architecture Decisions Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionCatalogueGrouping&#xA;&#xA;ABB name: eira:DigitalSolutionArchitectureDecisionCatalogueGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionCatalogueGrouping&#xA;&#xA;Name: Digital Solution Architecture Decision Catalogue Catalogue&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalSolutionArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="dct:title"
+      value="Digital Solution Architecture Decision Catalogue Catalogue"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalSolutionArchitectureDecisionCatalogueGrouping"/>
+  <properties
+      key="skos:definition"
+      value="Digital Solution Architecture Decision Catalogue ABB is a Grouping that covers a comprehensive collection of architecture decisions related to digital solutions. It includes decisions about technical architecture, business architecture, security, privacy and compliance, high availability and resilience, scalability, portability, maintainability, quality, and usability. Each decision is documented in an Architecture Decision Record (ADR) that describes the context, decision, and consequences."/>
+  <properties
+      key="eira:definitionSource"
+      value="EIRA Team Research"/>
+  <properties
+      key="eira:definitionSourceReference"/>
+  <properties
+      key="skos:example"
+      value="An example of an element in the catalogue is 'Technology Stack Selection'. This is an ADR that documents the decision-making process for selecting the technology stack for a digital solution. It would include the context (why the decision was needed), the decision (what was decided), and the consequences (the impact of the decision)."/>
+  <properties
+      key="skos:note"
+      value="The catalogue is divided into several categories, each focusing on a specific aspect of digital solution architecture. For example, the 'Digital Solution Technical Architecture Decision Catalogue' includes decisions about technology stack selection, API design, event-driven architecture, database schema design, and more. Similarly, the 'Digital Solution Business Architecture Decision Catalogue' includes decisions about cross-border identification business, dynamic location of data provider, data notification deployment, and others. Each decision is documented in an ADR, providing a record of why and how decisions were made, aiding in future understanding and decision-making."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Architecture Decisions Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Grouping>

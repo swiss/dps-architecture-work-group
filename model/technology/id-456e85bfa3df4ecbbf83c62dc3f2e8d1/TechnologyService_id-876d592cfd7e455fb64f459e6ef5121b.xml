@@ -1,0 +1,49 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virtual Private Network"
+    id="id-876d592cfd7e455fb64f459e6ef5121b"
+    documentation="Definition: Virtual Private Network ABB is a Technology Service that enables the procedures to implement a protected information system link utilizing tunnelling, security controls, and endpoint address translation giving the impression of a dedicated line&#xA;&#xA;Source: NIST&#xA;&#xA;Source reference: https://csrc.nist.gov/glossary/term/virtual_private_network&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Virtual Private Network service for accessing European Commission servers out of the Commission. https://wikis.ec.europa.eu/display/WEBGUIDE/01.+Access+to+servers+from+outside+the+European+Commission&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - infrastructure&#xA;&#xA;Interoperability Saliency: Virtual Private Network ABB is salient for technical interoperability because it implements standard methods to build a secure network to exchange information in public administration&#xA;&#xA;Identifier: http://data.europa.eu/dr8/VirtualPrivateNetworkTechnologyService&#xA;&#xA;ABB name: eira:VirtualPrivateNetworkTechnologyService&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/VirtualPrivateNetworkTechnologyService&#xA;&#xA;Interoperability Layer: TechnicalInfrastructure&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/VirtualPrivateNetworkTechnologyService"/>
+  <properties
+      key="dct:type"
+      value="eira:VirtualPrivateNetworkTechnologyService"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Virtual Private Network ABB is a Technology Service that enables the procedures to implement a protected information system link utilizing tunnelling, security controls, and endpoint address translation giving the impression of a dedicated line"/>
+  <properties
+      key="eira:definitionSource"
+      value="NIST"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://csrc.nist.gov/glossary/term/virtual_private_network"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): Virtual Private Network service for accessing European Commission servers out of the Commission. https://wikis.ec.europa.eu/display/WEBGUIDE/01.+Access+to+servers+from+outside+the+European+Commission"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Virtual Private Network ABB is salient for technical interoperability because it implements standard methods to build a secure network to exchange information in public administration"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - infrastructure"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/VirtualPrivateNetworkTechnologyService"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalInfrastructure"/>
+</archimate:TechnologyService>

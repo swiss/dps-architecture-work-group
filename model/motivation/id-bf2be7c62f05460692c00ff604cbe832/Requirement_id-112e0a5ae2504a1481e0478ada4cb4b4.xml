@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consistency"
+    id="id-112e0a5ae2504a1481e0478ada4cb4b4"
+    documentation="Definition: Consistency is an important non-functional requirement in IT systems that refers to the uniformity and coherence of data and processes across different components of the system. It ensures that the system behaves predictably and reliably, and that users can trust the accuracy and completeness of the information they receive. Consistency can be achieved through the use of standardized formats, protocols, and interfaces, as well as through rigorous testing and quality assurance procedures. It is particularly important in distributed systems, where data and processes may be spread across multiple servers or networks.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: According to the TOGAF specification, guidelines, and documentation, the non-functional requirement of 'Consistency' refers to the need for the IT system to maintain a uniform and coherent approach to its operations, data, and interfaces. This consistency should be maintained across all components of the system, including hardware, software, and network infrastructure.&#xA;&#xA;Consistency is essential for ensuring that the system operates smoothly and efficiently, without any unexpected or unpredictable behavior. It also helps to ensure that users can easily navigate and interact with the system, without encountering any confusing or conflicting information.&#xA;&#xA;To achieve consistency, the IT system should adhere to established standards and best practices, such as those defined by industry bodies or regulatory agencies. It should also use a common set of data definitions and formats, and ensure that all interfaces and interactions are designed and implemented in a consistent manner.&#xA;&#xA;In addition, the IT system should be designed and tested to ensure that it can maintain consistency even under varying conditions, such as changes in workload, network traffic, or hardware failures. This may involve implementing redundancy or failover mechanisms, or using load balancing techniques to distribute workload across multiple servers.&#xA;&#xA;Overall, the non-functional requirement of 'Consistency' is critical for ensuring that the IT system operates reliably and predictably, and provides a consistent and seamless experience for users.&#xA;&#xA;Example: One example of the IT non-functional requirement 'Consistency' could be ensuring that all user interfaces across a software application have a consistent look and feel, including font sizes, colors, and button placements. This can help to improve user experience and reduce confusion or frustration when navigating the application.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ConsistencyRequirement&#xA;&#xA;ABB name: eira:ConsistencyRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/ConsistencyRequirement&#xA;&#xA;Name: Consistency Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/ConsistencyRequirement"/>
+  <properties
+      key="dct:title"
+      value="Consistency Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of the IT non-functional requirement 'Consistency' could be ensuring that all user interfaces across a software application have a consistent look and feel, including font sizes, colors, and button placements. This can help to improve user experience and reduce confusion or frustration when navigating the application."/>
+  <properties
+      key="skos:definition"
+      value="Consistency is an important non-functional requirement in IT systems that refers to the uniformity and coherence of data and processes across different components of the system. It ensures that the system behaves predictably and reliably, and that users can trust the accuracy and completeness of the information they receive. Consistency can be achieved through the use of standardized formats, protocols, and interfaces, as well as through rigorous testing and quality assurance procedures. It is particularly important in distributed systems, where data and processes may be spread across multiple servers or networks."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="According to the TOGAF specification, guidelines, and documentation, the non-functional requirement of 'Consistency' refers to the need for the IT system to maintain a uniform and coherent approach to its operations, data, and interfaces. This consistency should be maintained across all components of the system, including hardware, software, and network infrastructure.&#xA;&#xA;Consistency is essential for ensuring that the system operates smoothly and efficiently, without any unexpected or unpredictable behavior. It also helps to ensure that users can easily navigate and interact with the system, without encountering any confusing or conflicting information.&#xA;&#xA;To achieve consistency, the IT system should adhere to established standards and best practices, such as those defined by industry bodies or regulatory agencies. It should also use a common set of data definitions and formats, and ensure that all interfaces and interactions are designed and implemented in a consistent manner.&#xA;&#xA;In addition, the IT system should be designed and tested to ensure that it can maintain consistency even under varying conditions, such as changes in workload, network traffic, or hardware failures. This may involve implementing redundancy or failover mechanisms, or using load balancing techniques to distribute workload across multiple servers.&#xA;&#xA;Overall, the non-functional requirement of 'Consistency' is critical for ensuring that the IT system operates reliably and predictably, and provides a consistent and seamless experience for users."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/ConsistencyRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:ConsistencyRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

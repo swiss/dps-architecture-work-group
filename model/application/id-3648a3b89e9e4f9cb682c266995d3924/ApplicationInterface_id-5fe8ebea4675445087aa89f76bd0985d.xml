@@ -1,0 +1,51 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eQualification"
+    id="id-5fe8ebea4675445087aa89f76bd0985d"
+    documentation="Definition: The eQualification Application Service refers to a digital service that enables the management and processing of qualifications and certifications in an electronic format. It facilitates the creation, verification, storage, and sharing of qualifications and related documentation electronically. The service provides a secure and efficient platform for individuals, educational institutions, employers, and certification bodies to manage qualifications, track progress, and validate credentials. It may include features such as online qualification submission, document verification, real-time qualification status updates, and integration with educational databases and certification authorities.&#xA;&#xA;Source: European Commission&#xA;&#xA;Source reference: https://ec.europa.eu/education/sites/education/files/2014-11-25-equal-recognition-foreign-qualifications_en.pdf&#xA;&#xA;LOST view: TVA-API Enablers [Motivation]&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EQualificationApplicationInterface&#xA;&#xA;ABB name: egovera:EQualificationApplicationInterface&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2023-11-20&#xA;&#xA;Identifier: http://data.europa.eu/dr8/egovera/EQualificationApplicationInterface&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;Specialises: http://data.europa.eu/dr8/WebServiceApplicationInterface&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="skos:definition"
+      value="The eQualification Application Service refers to a digital service that enables the management and processing of qualifications and certifications in an electronic format. It facilitates the creation, verification, storage, and sharing of qualifications and related documentation electronically. The service provides a secure and efficient platform for individuals, educational institutions, employers, and certification bodies to manage qualifications, track progress, and validate credentials. It may include features such as online qualification submission, document verification, real-time qualification status updates, and integration with educational databases and certification authorities."/>
+  <properties
+      key="eira:definitionSource"
+      value="European Commission"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/education/sites/education/files/2014-11-25-equal-recognition-foreign-qualifications_en.pdf"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/EQualificationApplicationInterface"/>
+  <properties
+      key="dct:type"
+      value="egovera:EQualificationApplicationInterface"/>
+  <properties
+      key="eira:view"
+      value="TVA-API Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVA-Functional Architecture Principles"/>
+  <properties
+      key="eira:view"
+      value="TVI-Management Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="TVI-Application Integration Infrastructure Enablers [Motivation]"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/egovera/EQualificationApplicationInterface"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/WebServiceApplicationInterface"/>
+</archimate:ApplicationInterface>

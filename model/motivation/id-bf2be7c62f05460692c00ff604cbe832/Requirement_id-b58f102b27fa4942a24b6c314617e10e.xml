@@ -1,0 +1,48 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authorization"
+    id="id-b58f102b27fa4942a24b6c314617e10e"
+    documentation="Definition: Authorization is a non-functional requirement in IT that refers to the process of granting or denying access to specific resources or functionalities within a system. It involves verifying the identity of a user and determining their level of access based on their role or permissions. Authorization is essential for ensuring the security and integrity of a system, as it prevents unauthorized users from accessing sensitive information or performing actions that could compromise the system. It also helps to maintain accountability by tracking user activity and ensuring that actions are performed by authorized individuals.&#xA;&#xA;Source: TOGAF&#xA;&#xA;Source reference: https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#xA;&#xA;Additional information: Authorization is a non-functional requirement that is related to the security aspect of an IT system. It refers to the process of granting or denying access to resources or functionalities based on the identity and privileges of the user or entity requesting access. &#xA;&#xA;According to the TOGAF specification, Authorization is a key aspect of security architecture and should be designed to ensure that only authorized users or entities can access the system or its resources. The authorization process should be based on a well-defined set of policies and rules that are consistent with the organization's security policies and regulatory requirements.&#xA;&#xA;The TOGAF guidelines recommend that the authorization process should be implemented using a combination of authentication, authorization, and access control mechanisms. Authentication is the process of verifying the identity of the user or entity requesting access, while authorization is the process of determining whether the user or entity has the necessary privileges to access the requested resource. Access control is the process of enforcing the authorization decisions by controlling the actual access to the resource.&#xA;&#xA;To ensure that the authorization process is effective, the TOGAF documentation recommends that the security architecture should include mechanisms for monitoring and auditing the authorization process. This will help to detect and prevent unauthorized access attempts and ensure that the system is compliant with the organization's security policies and regulatory requirements.&#xA;&#xA;In summary, Authorization is a non-functional requirement that is critical for ensuring the security of an IT system. It should be designed based on a well-defined set of policies and rules, and implemented using a combination of authentication, authorization, and access control mechanisms. The authorization process should be monitored and audited to ensure that it is effective and compliant with the organization's security policies and regulatory requirements.&#xA;&#xA;Example: One example of an IT non-functional requirement for Authorization could be that only users with specific roles or permissions are able to access certain features or data within a software application. This could include restrictions on who can create, edit, or delete certain types of content, or who can view sensitive information such as financial data or personal information. The authorization system should also be secure and reliable, ensuring that unauthorized users cannot gain access to restricted areas or data.&#xA;&#xA;LOST view: Digital Solution Non-Functional Requirements Catalogue view&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuthorizationRequirement&#xA;&#xA;ABB name: eira:AuthorizationRequirement&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/AuthorizationRequirement&#xA;&#xA;Name: Authorization Non-Functional Requirement&#xA;&#xA;Interoperability Layer: N/A&#xA;&#xA;Specialises: http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement&#xA;&#xA;">
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/AuthorizationRequirement"/>
+  <properties
+      key="dct:title"
+      value="Authorization Non-Functional Requirement"/>
+  <properties
+      key="skos:example"
+      value="One example of an IT non-functional requirement for Authorization could be that only users with specific roles or permissions are able to access certain features or data within a software application. This could include restrictions on who can create, edit, or delete certain types of content, or who can view sensitive information such as financial data or personal information. The authorization system should also be secure and reliable, ensuring that unauthorized users cannot gain access to restricted areas or data."/>
+  <properties
+      key="skos:definition"
+      value="Authorization is a non-functional requirement in IT that refers to the process of granting or denying access to specific resources or functionalities within a system. It involves verifying the identity of a user and determining their level of access based on their role or permissions. Authorization is essential for ensuring the security and integrity of a system, as it prevents unauthorized users from accessing sensitive information or performing actions that could compromise the system. It also helps to maintain accountability by tracking user activity and ensuring that actions are performed by authorized individuals."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:definitionSource"
+      value="TOGAF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html"/>
+  <properties
+      key="skos:note"
+      value="Authorization is a non-functional requirement that is related to the security aspect of an IT system. It refers to the process of granting or denying access to resources or functionalities based on the identity and privileges of the user or entity requesting access. &#xA;&#xA;According to the TOGAF specification, Authorization is a key aspect of security architecture and should be designed to ensure that only authorized users or entities can access the system or its resources. The authorization process should be based on a well-defined set of policies and rules that are consistent with the organization's security policies and regulatory requirements.&#xA;&#xA;The TOGAF guidelines recommend that the authorization process should be implemented using a combination of authentication, authorization, and access control mechanisms. Authentication is the process of verifying the identity of the user or entity requesting access, while authorization is the process of determining whether the user or entity has the necessary privileges to access the requested resource. Access control is the process of enforcing the authorization decisions by controlling the actual access to the resource.&#xA;&#xA;To ensure that the authorization process is effective, the TOGAF documentation recommends that the security architecture should include mechanisms for monitoring and auditing the authorization process. This will help to detect and prevent unauthorized access attempts and ensure that the system is compliant with the organization's security policies and regulatory requirements.&#xA;&#xA;In summary, Authorization is a non-functional requirement that is critical for ensuring the security of an IT system. It should be designed based on a well-defined set of policies and rules, and implemented using a combination of authentication, authorization, and access control mechanisms. The authorization process should be monitored and audited to ensure that it is effective and compliant with the organization's security policies and regulatory requirements."/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AuthorizationRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:AuthorizationRequirement"/>
+  <properties
+      key="eira:view"
+      value="Digital Solution Non-Functional Requirements Catalogue view"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+  <properties
+      key="skos:broader"
+      value="http://data.europa.eu/dr8/DigitalSolutionNonFunctionalRequirementRequirement"/>
+</archimate:Requirement>

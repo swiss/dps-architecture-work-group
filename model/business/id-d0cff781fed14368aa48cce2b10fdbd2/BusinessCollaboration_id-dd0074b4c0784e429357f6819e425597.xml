@@ -1,0 +1,55 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital Public Service Delivery Model"
+    id="id-dd0074b4c0784e429357f6819e425597"
+    documentation="Definition: Digital Public Service Delivery Model ABB is a Business Collaboration representing a collection of concepts related to the way in which the public sector delivers digital technologies to citizens and businesses.&#xA;&#xA;Source: OECD&#xA;&#xA;Source reference: https://www.oecd-ilibrary.org/docserver/gov_glance-2017-72-en.pdf?expires=1649771036&amp;id=id&amp;accname=guest&amp;checksum=15BFD2F7E916921236CCF160605A6430&#xA;&#xA;Example: The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OECD Public service design and delivery in the digital age (https://www.oecd-ilibrary.org/sites/3252a73a-en/index.html?itemId=/content/component/3252a73a-en)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Organisational view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Interoperability Saliency: Digital Public Service Delivery Model ABB is salient for organizational and behavioural interoperability due to it permits to (i) reuse and share common digital services across different public administrations to deploy and publish digital services, (ii) establish common business procedures to elaborate and form the digital services for public administration, (iii) the maintenance procedures to make available such digital services.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceDeliveryModelBusinessCollaboration&#xA;&#xA;ABB name: eira:DigitalPublicServiceDeliveryModelBusinessCollaboration&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/DigitalPublicServiceDeliveryModelBusinessCollaboration&#xA;&#xA;Interoperability Layer: Organisational&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceDeliveryModelBusinessCollaboration"/>
+  <properties
+      key="dct:type"
+      value="eira:DigitalPublicServiceDeliveryModelBusinessCollaboration"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Digital Public Service Delivery Model ABB is a Business Collaboration representing a collection of concepts related to the way in which the public sector delivers digital technologies to citizens and businesses."/>
+  <properties
+      key="eira:definitionSource"
+      value="OECD"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://www.oecd-ilibrary.org/docserver/gov_glance-2017-72-en.pdf?expires=1649771036&amp;id=id&amp;accname=guest&amp;checksum=15BFD2F7E916921236CCF160605A6430"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example of how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): OECD Public service design and delivery in the digital age (https://www.oecd-ilibrary.org/sites/3252a73a-en/index.html?itemId=/content/component/3252a73a-en)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="Digital Public Service Delivery Model ABB is salient for organizational and behavioural interoperability due to it permits to (i) reuse and share common digital services across different public administrations to deploy and publish digital services, (ii) establish common business procedures to elaborate and form the digital services for public administration, (iii) the maintenance procedures to make available such digital services."/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Organisational view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/DigitalPublicServiceDeliveryModelBusinessCollaboration"/>
+  <properties
+      key="eira:eifLayer"
+      value="Organisational"/>
+</archimate:BusinessCollaboration>
