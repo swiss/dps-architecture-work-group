@@ -1,7 +1,50 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Legal Governance content"
-    id="id-0ccdba9b820d4af284b9bba728ebafc0">
+    id="id-0c1f4531-ac3f-4748-bda6-eff56d7011ad"
+    documentation="&#xA;">
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Legal Governance Content ABB is a Groping that refers to  to the rules, regulations, and institutions that govern and regulate the behavior of individuals, organizations, and governments. It involves the application of laws and policies to ensure accountability, fairness, and transparency in decision-making"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in the Data Governance Act"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020PC0767"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="Legal view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Enterprise Architecture Framework alignment guidelines viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="eira:eifLayer"
+      value="Legal"/>
   <properties
       key="eira:synonym"/>
   <properties

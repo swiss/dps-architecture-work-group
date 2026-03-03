@@ -1,0 +1,44 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution Specification"
+    id="id-26f525505a954bcda9be84fa5890420d"
+    documentation="Definition: Solution Specification ABB is a Data Object that refers to detailed description of the requirements and functionality of a proposed solution to a specific problem or challenge&#xA;&#xA;Source: ISA2-EIF&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/eif_en/&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SolutionSpecificationDataObject&#xA;&#xA;eira:ID: ABB486&#xA;&#xA;ABB name: eira:SolutionSpecificationDataObject&#xA;&#xA;">
+  <properties
+      key="dct:type"
+      value="eira:SolutionSpecificationDataObject"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Solution Specification ABB is a Data Object that sets normative statement describing a SBB or describing how to implement a SBB"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2-EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/eif_en/"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SolutionSpecificationDataObject"/>
+  <properties
+      key="eira:view"
+      value="EIRA Ontology view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SolutionSpecificationDataObject"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:DataObject>

@@ -1,7 +1,45 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Technical Application Functional content"
-    id="id-08306e43592d4838acf8ba6f07d9047a">
+    id="id-b5dd2f73b1b547728896d86988394c26"
+    documentation="&#xA;">
+  <properties
+      key="dct:type"/>
+  <properties
+      key="dct:modified"
+      value="2023-11-20"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Technical Application Functional Content ABB is a Grouping that refers to the set of components and services that describe all technical procedures related to the conformation of a digital platform for the public administration"/>
+  <properties
+      key="eira:definitionSource"
+      value="Inspired in ISA2-EIF"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/eif_en/"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperable European Solution viewpoint"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
   <properties
       key="dct:type"/>
   <properties

@@ -1,0 +1,94 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantic Governance content"
+    id="id-a02eb74e-9757-4c34-ad63-650e60a31699"
+    documentation="Definition: Semantic Governance Content ABB is a Grouping that refers to the concepts and terms to support the elaboration of rules and mechanims to enhance the availability, integrity, interoperability and  security of data while respecting data protection and ethical rules&#xA;&#xA;Source: EUR-LEX&#xA;&#xA;Source reference: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020PC0767&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SemanticGovernanceContentGrouping&#xA;&#xA;eira:ID: http://data.europa.eu/dr8/SemanticGovernanceContentGrouping&#xA;&#xA;ABB name: eira:SemanticGovernanceContentGrouping&#xA;&#xA;&#xA;Definition: Semantic Governance Content ABB is a Grouping of the concepts and terms to support the elaboration of rules and mechanisms to enhance the availability, integrity, interoperability and  security of data while respecting data protection and ethical rules&#xA;&#xA;Source: EUR-LEX&#xA;&#xA;Source reference: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020PC0767&#xA;&#xA;LOST view: Semantic view&#xA;&#xA;Viewpoint: Highlevel viewpoint&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SemanticGovernanceContentGrouping&#xA;&#xA;ABB name: eira:SemanticGovernanceContentGrouping&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/SemanticGovernanceContentGrouping&#xA;&#xA;Interoperability Layer: Semantic&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SemanticGovernanceContentGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:SemanticGovernanceContentGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Semantic Governance Content ABB is a Grouping of the concepts and terms to support the elaboration of rules and mechanisms to enhance the availability, integrity, interoperability and  security of data while respecting data protection and ethical rules"/>
+  <properties
+      key="eira:definitionSource"
+      value="EUR-LEX"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020PC0767"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SemanticGovernanceContentGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/SemanticGovernanceContentGrouping"/>
+  <properties
+      key="dct:type"
+      value="eira:SemanticGovernanceContentGrouping"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Semantic Governance Content ABB is a Grouping of the concepts and terms to support the elaboration of rules and mechanisms to enhance the availability, integrity, interoperability and  security of data while respecting data protection and ethical rules"/>
+  <properties
+      key="eira:definitionSource"
+      value="EUR-LEX"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020PC0767"/>
+  <properties
+      key="skos:example"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:view"
+      value="Semantic view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Governance viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/SemanticGovernanceContentGrouping"/>
+  <properties
+      key="eira:eifLayer"
+      value="Semantic"/>
+</archimate:Grouping>

@@ -1,0 +1,51 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EIRA Architecture Building Block"
+    id="id-53a976c3fced4af1b44a9737c670e085"
+    documentation="Definition: EIRA Architecture Building Block ABB is a Requirement acting as a requirement of an intermediate  level of granularity, in alignment with at least one EIF principle, formulated as an agreed normative statement in functional terms on a legal, organisational, semantic, or technical attribute of a To-Be European Public Service. An EIRA ABB might encapsulate several interoperability aspects&#xA;&#xA;Source: Europa&#xA;&#xA;Source reference: (https://ec.europa.eu/digital-building-blocks/wikis/display/CEFDIGITAL/What+is+a+Building+Block)&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): A Legal Act is an EIRA Architecture Building Block from a Legal view perspective.&#xA;&#xA;Identifier: http://data.europa.eu/dr8/EIRAArchitectureBuildingBlockRequirement&#xA;&#xA;eira:ID: ABB607&#xA;&#xA;ABB name: eira:EIRAArchitectureBuildingBlockRequirement&#xA;&#xA;Last modification: 2022-23-01&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/EIRAArchitectureBuildingBlockRequirement"/>
+  <properties
+      key="dct:type"
+      value="eira:EIRAArchitectureBuildingBlockRequirement"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="EIRA Architecture Building Block ABB is a Requirement acting as a requirement of an intermediate  level of granularity, in alignment with at least one EIF principle, formulated as an agreed normative statement in functional terms on a legal, organisational, semantic, or technical attribute of a To-Be European Public Service. An EIRA ABB might encapsulate several interoperability aspects"/>
+  <properties
+      key="eira:definitionSource"
+      value="Europa"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): A Legal Act is an EIRA Architecture Building Block from a Legal view perspective."/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="(https://ec.europa.eu/digital-building-blocks/wikis/display/CEFDIGITAL/What+is+a+Building+Block)"/>
+  <properties
+      key="eira:iopSaliency"/>
+  <properties
+      key="skos:note"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:iopDimension"
+      value="Governance IoP"/>
+  <properties
+      key="eira:view"
+      value="EIRA Ontology view"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/EIRAArchitectureBuildingBlockRequirement"/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:eifLayer"
+      value="N/A"/>
+</archimate:Requirement>

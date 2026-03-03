@@ -1,0 +1,118 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperable Digital Solution"
+    id="id-46b86f894fcc42fe8cac1d2c71b35411"
+    documentation="Definition: Interoperable Digital Solution ABB is an Application Component that enables the cooperation between public services, systems and data across organisational and national boundaries&#xA;&#xA;Source: ISA2&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/eif_en/&#xA;&#xA;Additional information: This ABB also corresponds to the delivery of a digital public service, in fulfilment of a shared European legislation framework, being managed according a shared governance framework, accessing semantic assets in a shared knowledge base and using digital resources of a shared platform enabling cross-border/cross-organization exchange of data, information, and knowledge indistinctly between public administrations, businesses and citizens in support to the implementation and advancement of an EU, national or local public policy.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): eDelivery - Supporting secure and reliable exchange of data and documents - eDelivery is a network of nodes for digital communications. It is based on a distributed model where every participant becomes a node using standard transport protocols and security policies. eDelivery helps public administrations to exchange electronic data and documents with other public administrations, businesses and citizens, in an interoperable, secure, reliable and trusted way. eDelivery is one of the building blocks of the European Commission's Connecting Europe Facility (CEF). These building blocks are reusable specifications, software and services that will form part of a wide variety of IT systems in different policy domains of the EU. The CEF eDelivery building block is based on the AS4 messaging protocol, open and free for all, developed by the OASIS standards development organisation. To ease its adoption in Europe, eDelivery uses the AS4 implementation guidelines defined by the Member States in the e-SENS Large Scale Pilot. Organisations must install an Access Point, or use a Service Provider, to exchange information with the AS4 messaging protocol.(https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eDelivery)&#xA;&#xA;IoP Dimension: Structural IoP, Behavioral IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Interoperability saliency: The Interoperable Digital Solution Application Component ABB is salient for technical interoperability because it constitutes the digital public service interoperable with other digital public services, across organisations and national boundaries. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/InteroperableDigitalSolutionApplicationComponent&#xA;&#xA;ABB name: eira:InteroperableDigitalSolutionApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2022-18-01&#xA;&#xA;eiraID: ABB519&#xA;&#xA;&#xA;Definition: Interoperable Digital Solution ABB is an Application Component that enables the cooperation between public services, systems and data across organisational and national boundaries&#xA;&#xA;Source: ISA2&#xA;&#xA;Source reference: https://ec.europa.eu/isa2/eif_en/&#xA;&#xA;Additional information: This ABB also corresponds to the delivery of a digital public service, in fulfilment of a shared European legislation framework, being managed according a shared governance framework, accessing semantic assets in a shared knowledge base and using digital resources of a shared platform enabling cross-border/cross-organization exchange of data, information, and knowledge indistinctly between public administrations, businesses and citizens in support to the implementation and advancement of an EU, national or local public policy.&#xA;&#xA;Example: The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): eDelivery - Supporting secure and reliable exchange of data and documents - eDelivery is a network of nodes for digital communications. It is based on a distributed model where every participant becomes a node using standard transport protocols and security policies. eDelivery helps public administrations to exchange electronic data and documents with other public administrations, businesses and citizens, in an interoperable, secure, reliable and trusted way. eDelivery is one of the building blocks of the European Commission's Connecting Europe Facility (CEF). These building blocks are reusable specifications, software and services that will form part of a wide variety of IT systems in different policy domains of the EU. The CEF eDelivery building block is based on the AS4 messaging protocol, open and free for all, developed by the OASIS standards development organisation. To ease its adoption in Europe, eDelivery uses the AS4 implementation guidelines defined by the Member States in the e-SENS Large Scale Pilot. Organisations must install an Access Point, or use a Service Provider, to exchange information with the AS4 messaging protocol.(https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eDelivery)&#xA;&#xA;Interoperability Dimension: Structural IoP&#xA;&#xA;LOST view: Technical view - application&#xA;&#xA;Viewpoint: Interoperability Security viewpoint&#xA;&#xA;Interoperability Saliency: The Interoperable Digital Solution Application Component ABB is salient for technical interoperability because it constitutes the digital public service interoperable with other digital public services, across organisations and national boundaries. &#xA;&#xA;Identifier: http://data.europa.eu/dr8/InteroperableDigitalSolutionApplicationComponent&#xA;&#xA;ABB name: eira:InteroperableDigitalSolutionApplicationComponent&#xA;&#xA;EIRA concept: eira:ArchitectureBuildingBlock&#xA;&#xA;Last modification: 2024-01-28&#xA;&#xA;Identifier: http://data.europa.eu/dr8/InteroperableDigitalSolutionApplicationComponent&#xA;&#xA;Interoperability Layer: TechnicalApplication&#xA;&#xA;">
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/InteroperableDigitalSolutionApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperableDigitalSolutionApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Interoperable Digital Solution ABB is an Application Component that enables the cooperation between public services, systems and data across organisational and national boundaries"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/eif_en/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): eDelivery - Supporting secure and reliable exchange of data and documents - eDelivery is a network of nodes for digital communications. It is based on a distributed model where every participant becomes a node using standard transport protocols and security policies. eDelivery helps public administrations to exchange electronic data and documents with other public administrations, businesses and citizens, in an interoperable, secure, reliable and trusted way. eDelivery is one of the building blocks of the European Commission's Connecting Europe Facility (CEF). These building blocks are reusable specifications, software and services that will form part of a wide variety of IT systems in different policy domains of the EU. The CEF eDelivery building block is based on the AS4 messaging protocol, open and free for all, developed by the OASIS standards development organisation. To ease its adoption in Europe, eDelivery uses the AS4 implementation guidelines defined by the Member States in the e-SENS Large Scale Pilot. Organisations must install an Access Point, or use a Service Provider, to exchange information with the AS4 messaging protocol.(https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eDelivery)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Interoperable Digital Solution Application Component ABB is salient for technical interoperability because it constitutes the digital public service interoperable with other digital public services, across organisations and national boundaries. "/>
+  <properties
+      key="skos:note"
+      value="This ABB also corresponds to the delivery of a digital public service, in fulfilment of a shared European legislation framework, being managed according a shared governance framework, accessing semantic assets in a shared knowledge base and using digital resources of a shared platform enabling cross-border/cross-organization exchange of data, information, and knowledge indistinctly between public administrations, businesses and citizens in support to the implementation and advancement of an EU, national or local public policy."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:view"
+      value="EIRA Ontology view"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperable European Solution viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/InteroperableDigitalSolutionApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/InteroperableDigitalSolutionApplicationComponent"/>
+  <properties
+      key="dct:type"
+      value="eira:InteroperableDigitalSolutionApplicationComponent"/>
+  <properties
+      key="dct:modified"
+      value="2024-01-28"/>
+  <properties
+      key="eira:synonym"/>
+  <properties
+      key="skos:definition"
+      value="Interoperable Digital Solution ABB is an Application Component that enables the cooperation between public services, systems and data across organisational and national boundaries"/>
+  <properties
+      key="eira:definitionSource"
+      value="ISA2"/>
+  <properties
+      key="eira:definitionSourceReference"
+      value="https://ec.europa.eu/isa2/eif_en/"/>
+  <properties
+      key="skos:example"
+      value="The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB): eDelivery - Supporting secure and reliable exchange of data and documents - eDelivery is a network of nodes for digital communications. It is based on a distributed model where every participant becomes a node using standard transport protocols and security policies. eDelivery helps public administrations to exchange electronic data and documents with other public administrations, businesses and citizens, in an interoperable, secure, reliable and trusted way. eDelivery is one of the building blocks of the European Commission's Connecting Europe Facility (CEF). These building blocks are reusable specifications, software and services that will form part of a wide variety of IT systems in different policy domains of the EU. The CEF eDelivery building block is based on the AS4 messaging protocol, open and free for all, developed by the OASIS standards development organisation. To ease its adoption in Europe, eDelivery uses the AS4 implementation guidelines defined by the Member States in the e-SENS Large Scale Pilot. Organisations must install an Access Point, or use a Service Provider, to exchange information with the AS4 messaging protocol.(https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eDelivery)"/>
+  <properties
+      key="eira:iopSaliency"
+      value="The Interoperable Digital Solution Application Component ABB is salient for technical interoperability because it constitutes the digital public service interoperable with other digital public services, across organisations and national boundaries. "/>
+  <properties
+      key="skos:note"
+      value="This ABB also corresponds to the delivery of a digital public service, in fulfilment of a shared European legislation framework, being managed according a shared governance framework, accessing semantic assets in a shared knowledge base and using digital resources of a shared platform enabling cross-border/cross-organization exchange of data, information, and knowledge indistinctly between public administrations, businesses and citizens in support to the implementation and advancement of an EU, national or local public policy."/>
+  <properties
+      key="eira:concept"
+      value="eira:ArchitectureBuildingBlock"/>
+  <properties
+      key="eira:iopDimension"
+      value="Structural IoP"/>
+  <properties
+      key="eira:view"
+      value="Technical view - application"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperability Security viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Highlevel viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="EIRA Ontology viewpoint"/>
+  <properties
+      key="eira:viewpoint"
+      value="Interoperable European Solution viewpoint"/>
+  <properties
+      key="dct:identifier"
+      value="http://data.europa.eu/dr8/InteroperableDigitalSolutionApplicationComponent"/>
+  <properties
+      key="eira:eifLayer"
+      value="TechnicalApplication"/>
+</archimate:ApplicationComponent>
