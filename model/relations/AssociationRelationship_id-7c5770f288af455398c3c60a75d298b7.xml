@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eCH-0258 oder REST"
+    id="id-7c5770f288af455398c3c60a75d298b7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-fdfe1f4472fe49808cbf69dfd289b414.xml#id-fdfe1f4472fe49808cbf69dfd289b414"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-cff2abeba4354a25a79f21b8155c0fd9.xml#id-cff2abeba4354a25a79f21b8155c0fd9"/>
+</archimate:AssociationRelationship>
