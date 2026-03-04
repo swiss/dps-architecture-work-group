@@ -14,7 +14,7 @@
     <bounds
         x="108"
         y="936"
-        width="468"
+        width="553"
         height="31"/>
   </children>
   <children
@@ -819,9 +819,9 @@
           target="id-de84eac4710f492cbfe107c1657c7992">
         <bendpoints
             startX="-126"
-            startY="-3"
+            startY="9"
             endX="30"
-            endY="213"/>
+            endY="129"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-35c175ac07054fe893d4f5d4f4d44ce2.xml#id-35c175ac07054fe893d4f5d4f4d44ce2"/>
