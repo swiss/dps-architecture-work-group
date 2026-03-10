@@ -1164,6 +1164,20 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-c13171ad42ed415ba577e1cfebb974b1.xml#id-c13171ad42ed415ba577e1cfebb974b1"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-10f2179b4e1240e08c0e6f5208506ca4"
+      name="Legend"
+      textAlignment="1">
+    <features
+        name="legend"
+        value="display=3,rows=10,offset=0,color=1,sort=1"/>
+    <bounds
+        x="1116"
+        y="588"
+        width="349"
+        height="241"/>
+  </children>
   <properties
       key="ISO639_de:Documentation-Link"
       value="https://www.ech.ch/de/ech/ech-0287/1.0.0"/>

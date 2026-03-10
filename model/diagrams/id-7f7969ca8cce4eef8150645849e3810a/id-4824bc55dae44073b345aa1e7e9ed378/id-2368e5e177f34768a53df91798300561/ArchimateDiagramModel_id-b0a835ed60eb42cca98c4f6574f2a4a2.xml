@@ -1532,6 +1532,20 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-e62f350b4a1b47c1a926beba4794b68f.xml#id-e62f350b4a1b47c1a926beba4794b68f"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d84adc8df3864f43b879c61d4835f612"
+      name="Legend"
+      textAlignment="1">
+    <features
+        name="legend"
+        value="display=3,rows=10,offset=0,color=1,sort=1"/>
+    <bounds
+        x="1104"
+        y="732"
+        width="265"
+        height="241"/>
+  </children>
   <properties
       key="ISO639_en:Documentation-Link"
       value="https://swiyu-admin-ch.github.io/technology-stack/"/>

@@ -1692,6 +1692,20 @@
         xsi:type="archimate:Gap"
         href="Gap_id-f47ed23c455f42718c690ed74d6c51fb.xml#id-f47ed23c455f42718c690ed74d6c51fb"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-bd9f60e4b8824f4dbd3beeca4b129ae2"
+      name="Legend"
+      textAlignment="1">
+    <features
+        name="legend"
+        value="display=3,rows=10,offset=0,color=1,sort=1"/>
+    <bounds
+        x="1104"
+        y="732"
+        width="265"
+        height="241"/>
+  </children>
   <properties
       key="ISO639_de:Documentation-Link"
       value="https://www.ech.ch/de/ech/ech-0287/1.0.0"/>
