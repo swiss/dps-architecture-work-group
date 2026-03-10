@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6996fe9274cd49d4b383ba44a2f18457"
+    documentation="9c-10-11 DVS4u VC wird als Nachwies mit Bezug zum Register-Geschäftsobjekt im User-Wallet gespeichert, Dokumentation als Kundenfall">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-61dd925ebe4945969f2485b02b307d2c.xml#id-61dd925ebe4945969f2485b02b307d2c"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-8cf8d5b862494478ac0276e55cdd7f53.xml#id-8cf8d5b862494478ac0276e55cdd7f53"/>
+</archimate:FlowRelationship>

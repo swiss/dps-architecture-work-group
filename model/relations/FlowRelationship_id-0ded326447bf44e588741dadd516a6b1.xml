@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0ded326447bf44e588741dadd516a6b1"
+    documentation="1-2-3 DVS4u Bezug Leistung, Anmeldung, Auftrag erfassen, Dokumentation als Kundenfall">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-7291ec4f6fe64b6cb19c92e46fb4e7c5.xml#id-7291ec4f6fe64b6cb19c92e46fb4e7c5"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-61dd925ebe4945969f2485b02b307d2c.xml#id-61dd925ebe4945969f2485b02b307d2c"/>
+</archimate:FlowRelationship>

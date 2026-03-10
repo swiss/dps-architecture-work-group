@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-28af561a169148909791fa35de12ddf9"
+    documentation="9a Leistung verarbeitet das VC, Dokumentation im Geschäftsfall">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-4975e2dc9f1440c38dc4f2af6b766af9.xml#id-4975e2dc9f1440c38dc4f2af6b766af9"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-fa93676579814a26a19f3447122cc935.xml#id-fa93676579814a26a19f3447122cc935"/>
+</archimate:FlowRelationship>

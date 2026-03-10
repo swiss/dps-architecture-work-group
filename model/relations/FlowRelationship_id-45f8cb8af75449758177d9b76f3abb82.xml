@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-45f8cb8af75449758177d9b76f3abb82"
+    documentation="9b Leistung übergibt dem Kundenschalter (z.B. Portal) das VC, Dokumentation im Kundenfall">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-fa93676579814a26a19f3447122cc935.xml#id-fa93676579814a26a19f3447122cc935"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-61dd925ebe4945969f2485b02b307d2c.xml#id-61dd925ebe4945969f2485b02b307d2c"/>
+</archimate:FlowRelationship>
