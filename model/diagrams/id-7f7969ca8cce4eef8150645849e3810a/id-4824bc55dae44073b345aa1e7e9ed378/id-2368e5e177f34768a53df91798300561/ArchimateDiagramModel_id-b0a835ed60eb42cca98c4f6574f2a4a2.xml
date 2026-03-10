@@ -1403,7 +1403,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5e5bd9587ee14a23ade5cc1ecc0206c5"
-        targetConnections="id-320aa5006a134c9eb8014ac26c671767 id-a2543afd756f43c5b2bea6ddbec0d6cd id-f349879015ce4398a8c9bafb6ead1e8d">
+        targetConnections="id-320aa5006a134c9eb8014ac26c671767 id-a2543afd756f43c5b2bea6ddbec0d6cd">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-817a179beb3e43c8a9c6fa067d0fc586"
@@ -1486,25 +1486,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-521ae41b868e4d64a093548d53a3ea66"
         targetConnections="id-3217e0e88a0441b2a42d66c82bd3357d id-bb1271e16296403a9473f91ab16d76f9">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-f349879015ce4398a8c9bafb6ead1e8d"
-          source="id-521ae41b868e4d64a093548d53a3ea66"
-          target="id-5e5bd9587ee14a23ade5cc1ecc0206c5">
-        <bendpoints
-            startX="-47"
-            startY="-26"
-            endX="133"
-            endY="-26"/>
-        <bendpoints
-            startX="-131"
-            startY="-26"
-            endX="49"
-            endY="-26"/>
-        <archimateRelationship
-            xsi:type="archimate:FlowRelationship"
-            href="FlowRelationship_id-9fe1a6926835410589b80edbd532312c.xml#id-9fe1a6926835410589b80edbd532312c"/>
-      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-0ba28572f5d4496eb398ec3de16c903a"
