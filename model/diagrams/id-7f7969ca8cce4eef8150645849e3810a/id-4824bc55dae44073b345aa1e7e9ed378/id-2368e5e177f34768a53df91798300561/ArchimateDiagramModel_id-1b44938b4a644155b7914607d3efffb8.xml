@@ -378,4 +378,18 @@
         xsi:type="archimate:Representation"
         href="Representation_id-59ad22c519914a93a4fbed29e5756da7.xml#id-59ad22c519914a93a4fbed29e5756da7"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6b087a87e458458e9c45177695889b79"
+      name="Legend"
+      textAlignment="1">
+    <features
+        name="legend"
+        value="display=15,rows=15,offset=0,color=1,sort=1"/>
+    <bounds
+        x="516"
+        y="528"
+        width="210"
+        height="241"/>
+  </children>
 </archimate:ArchimateDiagramModel>
