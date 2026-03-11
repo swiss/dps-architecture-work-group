@@ -1,11 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-104bc1c07666407fbeec366bcaa0165d"
+    name="bedingt"
+    id="id-51640347c2c24ed4adef674f1149c0e1"
     directed="true">
   <source
-      xsi:type="archimate:BusinessActor"
-      href="BusinessActor_id-fb6f83135dbe4d79884b68231d7c6efa.xml#id-fb6f83135dbe4d79884b68231d7c6efa"/>
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-a7795d327b9144fa833b0024ace99ce6.xml#id-a7795d327b9144fa833b0024ace99ce6"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-11a17c43db9f4242a501d3784102cb62.xml#id-11a17c43db9f4242a501d3784102cb62"/>

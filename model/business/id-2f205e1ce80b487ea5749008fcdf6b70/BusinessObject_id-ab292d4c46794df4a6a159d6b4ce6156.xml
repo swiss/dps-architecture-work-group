@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ausgabewert des Authentifikators"
+    id="id-ab292d4c46794df4a6a159d6b4ce6156"
+    documentation="eCH-0107&#xA;Schnittstelle&#xA;Wird durch eine mathematische Funktion (Authentifikator oder Authentifizierungsfunktion) aus einem geheimen Wert (z. B. privater Schlüssel), einem oder mehreren optionalen Aktivierungswerten (z. B. PIN oder biometrischer Informationen), und einem oder mehreren optionalen Eingabewerten (z. B. Zufallswerten oder Challenges) generiert. &#xA;Der Ausgabewert des Authentifikators ist so stark wie das verwendete Verfahren bzw. dessen Implementation."/>

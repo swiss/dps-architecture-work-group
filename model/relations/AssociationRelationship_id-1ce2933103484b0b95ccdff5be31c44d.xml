@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LinkedID"
+    id="id-1ce2933103484b0b95ccdff5be31c44d"
+    documentation="Im organisationsübergreifenden Kontext erlaubt die Relation linkedID, E-Identities aus verschiedenen Domänen miteinander in Beziehung zu setzen. E-Identities können mit linkedIDs zu einem &#xA;beliebigen gerichteten Graphen verkettet werden. Die konkrete Umsetzung von eCH-0107 kann die Form zusätzlich einschränken (z. B. statt Graph nur Baumstruktur) und regelt entsprechend ihrer Fähigkeiten die Interpretation (Semantik) des Graphen.">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7f6a5384a298491793be6869dacdb7d3.xml#id-7f6a5384a298491793be6869dacdb7d3"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7f6a5384a298491793be6869dacdb7d3.xml#id-7f6a5384a298491793be6869dacdb7d3"/>
+</archimate:AssociationRelationship>

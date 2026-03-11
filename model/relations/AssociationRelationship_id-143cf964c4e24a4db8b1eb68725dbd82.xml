@@ -1,10 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-1b0ead1a55da4567b152b6266d9f4e74">
+    name="bindet"
+    id="id-143cf964c4e24a4db8b1eb68725dbd82"
+    directed="true">
   <source
-      xsi:type="archimate:BusinessActor"
-      href="BusinessActor_id-fb6f83135dbe4d79884b68231d7c6efa.xml#id-fb6f83135dbe4d79884b68231d7c6efa"/>
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-fda9a54411a14adaaff039714bc81668.xml#id-fda9a54411a14adaaff039714bc81668"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-7f6a5384a298491793be6869dacdb7d3.xml#id-7f6a5384a298491793be6869dacdb7d3"/>
