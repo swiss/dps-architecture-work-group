@@ -1,13 +1,13 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="repräsentiert"
-    id="id-01dce9702c234172930c7c14027b177c"
+    name="gehört zu"
+    id="id-170a6fe613d94ab396a162a3df52b915"
     directed="true">
   <source
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-cbe6798bca8a4893b9dca1715ca776de.xml#id-cbe6798bca8a4893b9dca1715ca776de"/>
+      href="BusinessObject_id-268c401c99e04315a263094da8f4b099.xml#id-268c401c99e04315a263094da8f4b099"/>
   <target
       xsi:type="archimate:BusinessActor"
-      href="BusinessActor_id-a61f417c2f154f6a85c48e07801b8048.xml#id-a61f417c2f154f6a85c48e07801b8048"/>
+      href="BusinessActor_id-1681ee6632e843ca8405883c008e7c50.xml#id-1681ee6632e843ca8405883c008e7c50"/>
 </archimate:AssociationRelationship>

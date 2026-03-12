@@ -1,13 +1,12 @@
-<archimate:AssociationRelationship
+<archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="agiert als"
-    id="id-d70c2b56b2594f5e977f7645e7010e6d"
-    directed="true">
+    name="Subjekt entsteht aus Objekt"
+    id="id-9f47921da63d47db8b1e9b0ee7de2a0d">
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-a61f417c2f154f6a85c48e07801b8048.xml#id-a61f417c2f154f6a85c48e07801b8048"/>
   <target
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-fb6f83135dbe4d79884b68231d7c6efa.xml#id-fb6f83135dbe4d79884b68231d7c6efa"/>
-</archimate:AssociationRelationship>
+</archimate:FlowRelationship>

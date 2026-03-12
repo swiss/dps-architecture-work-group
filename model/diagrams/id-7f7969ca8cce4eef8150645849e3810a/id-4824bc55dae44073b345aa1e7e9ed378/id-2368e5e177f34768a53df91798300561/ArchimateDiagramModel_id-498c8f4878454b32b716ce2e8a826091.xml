@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Subjekt und Objekt aus IAM-Glossar eCH-0219"
+    name="Subjekt und Identität aus IAM-Glossar eCH-0219"
     id="id-498c8f4878454b32b716ce2e8a826091"
-    documentation="Abbildung 4 und 7 eCH-0291-2">
+    documentation="Abbildung 4 eCH-0291-2">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-79c1d21fea3c48ed8f07a0c0de2d3071"
@@ -891,8 +891,8 @@
           source="id-6f9578f552324825a337391b1ff4e516"
           target="id-ec26c3e45e154fe1ac508671b0d420d9">
         <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-191ed5eeac9b42749308da969e0aea20.xml#id-191ed5eeac9b42749308da969e0aea20"/>
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-a6723a7803434b4dbb17d7d4063ea770.xml#id-a6723a7803434b4dbb17d7d4063ea770"/>
       </sourceConnections>
       <bounds
           x="36"
@@ -900,8 +900,8 @@
           width="120"
           height="33"/>
       <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-f70fe58122ff42bdab63f6f0b9820b41.xml#id-f70fe58122ff42bdab63f6f0b9820b41"/>
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-a61f417c2f154f6a85c48e07801b8048.xml#id-a61f417c2f154f6a85c48e07801b8048"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
