@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verifiable Credential (VC)"
+    id="id-85dbaceb214a48d3a94427c44622b60f"
+    documentation="eCH-0219-2 Verifiable Credential (VC) - Synonym: überprüfbarer digitaler Nachweis&#xA;Semantik&#xA;Ein Verifiable Credential ist ein signiertes Datenpaket, das Claims über ein oder mehrere Subjekte und/oder Objekte enthält und von einem Issuer ausgestellt wird. Ein Verifiable Credential ist ein integritätsgeschützter Nachweis, dessen Urheberschaft idealerweise bewiesen werden kann. Ein Verifiable Credential kann direkt oder als Verifiable Presentation einem Verifier präsentiert werden. &#xA;Verifiable Credentials können Metadaten enthalten, welche die VCs beschreiben, wie z. B. Issuer oder Ablaufdatum. "/>
