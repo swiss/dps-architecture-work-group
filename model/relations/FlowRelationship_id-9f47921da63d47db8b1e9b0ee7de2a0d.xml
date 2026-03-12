@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Subjekt entsteht aus Objekt"
-    id="id-9f47921da63d47db8b1e9b0ee7de2a0d">
+    id="id-9f47921da63d47db8b1e9b0ee7de2a0d"
+    documentation="eCH-0219&#xA;Ein Objekt wird zu einem Subjekt, wenn es sich in diesem digitalen Prozess authentifiziert.">
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-a61f417c2f154f6a85c48e07801b8048.xml#id-a61f417c2f154f6a85c48e07801b8048"/>

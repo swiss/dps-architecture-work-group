@@ -1,7 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="User-Wallet"
-    id="id-8cf8d5b862494478ac0276e55cdd7f53">
+    id="id-8cf8d5b862494478ac0276e55cdd7f53"
+    documentation="eCH-0219-2 Wallet Synonym: Identity Wallet (engl.)&#xA;Ein Wallet ist eine digitale Anwendung, die es Subjekten ermöglicht, ihre kryptographischen Schlüssel, Verifiable Credentials o.ä. dezentral abzulegen, zu verwalten und zu nutzen. ">
   <properties
       key="ISO639_en:Documentation-Link"
       value="https://swiyu-admin-ch.github.io/introduction/#swiyu"/>
