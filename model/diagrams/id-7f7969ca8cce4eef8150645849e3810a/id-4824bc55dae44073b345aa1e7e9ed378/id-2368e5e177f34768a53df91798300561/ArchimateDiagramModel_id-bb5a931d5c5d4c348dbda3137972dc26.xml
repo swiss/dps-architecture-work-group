@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Portale Geschäftsarchitektur Kundenfall Eventstorming"
     id="id-bb5a931d5c5d4c348dbda3137972dc26"
-    documentation="Inspiriert von https://community.opengroup.org/archimate-community/home/-/issues/8&#xA;https://github.com/mariuszgil/awesome-eventstorming&#xA;https://www.eventstorming.com/resources/">
+    documentation="Entwurf eines Eventstormings, muss mit Experten vertieft werden&#xA;Inspiriert von https://community.opengroup.org/archimate-community/home/-/issues/8&#xA;https://github.com/mariuszgil/awesome-eventstorming&#xA;https://www.eventstorming.com/resources/">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bdab791360bd49138827794edd6ada4c"
@@ -513,8 +513,8 @@
         source="id-527052a967ef431c8d685b70c758e142"
         target="id-dec29e7a5f624efcac11e1364db96256">
       <bendpoints
-          startX="313"
-          endX="-7"
+          startX="217"
+          endX="5"
           endY="-96"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
@@ -526,7 +526,7 @@
         source="id-527052a967ef431c8d685b70c758e142"
         target="id-f7c486b364004fe3b58d7d3646bd0ca4">
       <bendpoints
-          startX="-119"
+          startX="-227"
           endX="1"
           endY="-96"/>
       <archimateRelationship
