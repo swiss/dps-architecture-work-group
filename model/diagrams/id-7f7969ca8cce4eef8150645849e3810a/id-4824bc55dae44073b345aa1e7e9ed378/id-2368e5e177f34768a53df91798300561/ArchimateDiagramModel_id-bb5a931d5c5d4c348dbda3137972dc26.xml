@@ -780,4 +780,17 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-313bc1568f3645fe8ec797118680a600.xml#id-313bc1568f3645fe8ec797118680a600"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-79b52833d2664f7aae135eaebf08e963"
+      textAlignment="1">
+    <features
+        name="labelExpression"
+        value="$vfolder{name} - $view{name}"/>
+    <bounds
+        x="71"
+        y="768"
+        width="494"
+        height="31"/>
+  </children>
 </archimate:ArchimateDiagramModel>

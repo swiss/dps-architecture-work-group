@@ -518,4 +518,16 @@
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-5b8713d5835847fa99bfc610c64f359b.xml#id-5b8713d5835847fa99bfc610c64f359b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-614f5ffc9fd44ed68a98841c2680f326"
+      textAlignment="1">
+    <features
+        name="labelExpression"
+        value="$vfolder{name} - $view{name}"/>
+    <bounds
+        y="576"
+        width="349"
+        height="31"/>
+  </children>
 </archimate:ArchimateDiagramModel>
