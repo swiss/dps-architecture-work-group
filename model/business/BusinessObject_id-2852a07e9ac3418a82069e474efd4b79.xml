@@ -2,4 +2,32 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aggregate"
     id="id-2852a07e9ac3418a82069e474efd4b79"
-    documentation="the data needed to make the system decision"/>
+    documentation="the data needed to make the system decision">
+  <properties
+      key="ISO639_de:Name"
+      value="Aggregat"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Agrégat"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Aggregate"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"
+      value="Die Daten, die für die Systementscheidung benötigt werden"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"
+      value="Les données nécessaires pour prendre une décision système"/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"
+      value="the data needed to make the system decision"/>
+</archimate:BusinessObject>

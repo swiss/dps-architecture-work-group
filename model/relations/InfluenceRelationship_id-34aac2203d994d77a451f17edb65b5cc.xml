@@ -2,7 +2,32 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="influences value generation"
-    id="id-34aac2203d994d77a451f17edb65b5cc">
+    id="id-34aac2203d994d77a451f17edb65b5cc"
+    strength="+">
+  <properties
+      key="ISO639_de:Name"
+      value="beeinflusst die Werterzeugung"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="influence la génération de valeur"/>
+  <properties
+      key="ISO639_en:Name"
+      value="influences value generation"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"/>
   <source
       xsi:type="archimate:BusinessEvent"
       href="BusinessEvent_id-64c50821330a4a7b87543c64c0d9ab78.xml#id-64c50821330a4a7b87543c64c0d9ab78"/>

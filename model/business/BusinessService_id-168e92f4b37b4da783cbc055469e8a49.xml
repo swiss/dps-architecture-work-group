@@ -1,4 +1,33 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="External System"
-    id="id-168e92f4b37b4da783cbc055469e8a49"/>
+    id="id-168e92f4b37b4da783cbc055469e8a49"
+    documentation="The external systems we have to deal with">
+  <properties
+      key="ISO639_de:Name"
+      value="Externes System"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Système externe"/>
+  <properties
+      key="ISO639_en:Name"
+      value="External System"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"
+      value="Die externen Systeme, mit denen wir interagieren müssen."/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"
+      value="Les systèmes externes avec lesquels nous devons interagir."/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"
+      value="The external systems we have to deal with"/>
+</archimate:BusinessService>

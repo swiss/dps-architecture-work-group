@@ -1,4 +1,33 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Policy (when ever)"
-    id="id-f7c46f4ca56049eeb038978d6a7a8bf3"/>
+    id="id-f7c46f4ca56049eeb038978d6a7a8bf3"
+    documentation="reactive logic that takes place right after an event and triggers one or more commands somewhere else">
+  <properties
+      key="ISO639_de:Name"
+      value="Richtlinie (wann immer)"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Règle (dès que)"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Policy (when ever)"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"
+      value="Reaktive Logik, die unmittelbar nach einem Ereignis abläuft und an anderer Stelle einen oder mehrere Befehle auslöst."/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"
+      value="Logique réactive qui se déclenche immédiatement après un événement et active une ou plusieurs commandes ailleurs."/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"
+      value="Reactive logic that takes place right after an event and triggers one or more commands somewhere else"/>
+</archimate:Constraint>

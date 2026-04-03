@@ -1,4 +1,32 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="User"
-    id="id-e6d493db3ffb417fa408400205b5d3db"/>
+    id="id-e6d493db3ffb417fa408400205b5d3db">
+  <properties
+      key="ISO639_de:Name"
+      value="Nutzer"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Utilisateur"/>
+  <properties
+      key="ISO639_en:Name"
+      value="User"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"
+      value="Nutzer "/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"
+      value="Utilisateur"/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"
+      value="User"/>
+</archimate:BusinessRole>

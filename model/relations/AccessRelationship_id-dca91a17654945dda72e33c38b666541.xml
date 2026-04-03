@@ -2,7 +2,32 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Access Readmodel"
-    id="id-dca91a17654945dda72e33c38b666541">
+    id="id-dca91a17654945dda72e33c38b666541"
+    accessType="1">
+  <properties
+      key="ISO639_de:Name"
+      value="Zugriff auf das LeseModell"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Accès au modèle de lecture"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Access Readmodel"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_id-e6d493db3ffb417fa408400205b5d3db.xml#id-e6d493db3ffb417fa408400205b5d3db"/>

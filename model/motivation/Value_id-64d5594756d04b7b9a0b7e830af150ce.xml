@@ -1,4 +1,33 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Value"
-    id="id-64d5594756d04b7b9a0b7e830af150ce"/>
+    name="Value delivered"
+    id="id-64d5594756d04b7b9a0b7e830af150ce"
+    documentation="When and where value is delivered (or destroyed)">
+  <properties
+      key="ISO639_de:Name"
+      value="Wert geschaffen"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Valeur livrée"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Value delivered"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"
+      value="Wann und wo Wert geschaffen (oder zerstört) wird."/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"
+      value="Quand et où la valeur est livrée (ou détruite)."/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"
+      value="When and where value is delivered (or destroyed)"/>
+</archimate:Value>

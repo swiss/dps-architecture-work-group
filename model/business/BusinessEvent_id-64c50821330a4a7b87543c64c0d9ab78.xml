@@ -2,4 +2,32 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Domain Event"
     id="id-64c50821330a4a7b87543c64c0d9ab78"
-    documentation="A state transition happend somewhere"/>
+    documentation="A state transition happend somewhere">
+  <properties
+      key="ISO639_de:Name"
+      value="Domänenereignis"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Événement de domaine"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Domain Event"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"
+      value="Irgendwo ist ein Zustandsübergang aufgetreten."/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"
+      value="Une transition d’état s’est produite quelque part."/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"
+      value="A state transition happend somewhere"/>
+</archimate:BusinessEvent>

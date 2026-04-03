@@ -565,8 +565,8 @@
           endX="-149"
           endY="-6"/>
       <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-765b87a3cd8340948c27fc35c1f76356.xml#id-765b87a3cd8340948c27fc35c1f76356"/>
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-f71da2f249314db5af37901c1034e6da.xml#id-f71da2f249314db5af37901c1034e6da"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"

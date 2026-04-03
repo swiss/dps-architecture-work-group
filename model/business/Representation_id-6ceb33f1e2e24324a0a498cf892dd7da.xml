@@ -2,4 +2,32 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ReadModel"
     id="id-6ceb33f1e2e24324a0a498cf892dd7da"
-    documentation="The data needed in order to make the decision by the user"/>
+    documentation="The data needed in order to make the decision by the user">
+  <properties
+      key="ISO639_de:Name"
+      value="LeseModell"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Modèle de lecture"/>
+  <properties
+      key="ISO639_en:Name"
+      value="ReadModel"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"
+      value="Die Daten, die der Nutzer benötigt, um eine Entscheidung zu treffen."/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"
+      value="Les données nécessaires à l'utilisateur pour prendre une décision."/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"
+      value="The data needed in order to make the decision by the user"/>
+</archimate:Representation>

@@ -1,37 +1,40 @@
-<archimate:AccessRelationship
+<archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="access"
-    id="id-25c1441d74cc4bcb946532efa9522f59"
-    accessType="3">
+    name="decides"
+    id="id-f71da2f249314db5af37901c1034e6da"
+    documentation="to issue a command">
   <properties
       key="ISO639_de:Name"
-      value="greift zu"/>
+      value="entscheidet"/>
   <properties
       key="ISO639_fr:Name"
-      value="accès"/>
+      value="décide"/>
   <properties
       key="ISO639_en:Name"
-      value="access"/>
+      value="decides"/>
   <properties
       key="ISO639_de:Documentation-Link"/>
   <properties
-      key="ISO639_de:Documentation"/>
+      key="ISO639_de:Documentation"
+      value="einen Befehl auszugeben"/>
   <properties
       key="ISO639_fr:Documentation-Link"/>
   <properties
       key="ISO639_en:Documentation-Link"/>
   <properties
-      key="ISO639_fr:Documentation"/>
+      key="ISO639_fr:Documentation"
+      value="d’émettre une commande"/>
   <properties
       key="Version"
       value="1.0.0"/>
   <properties
-      key="ISO639_en:Documentation"/>
+      key="ISO639_en:Documentation"
+      value="to issue a command"/>
   <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-e6d493db3ffb417fa408400205b5d3db.xml#id-e6d493db3ffb417fa408400205b5d3db"/>
+  <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-a4a4597cb7b44800b454b94d50493585.xml#id-a4a4597cb7b44800b454b94d50493585"/>
-  <target
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-2852a07e9ac3418a82069e474efd4b79.xml#id-2852a07e9ac3418a82069e474efd4b79"/>
-</archimate:AccessRelationship>
+</archimate:TriggeringRelationship>

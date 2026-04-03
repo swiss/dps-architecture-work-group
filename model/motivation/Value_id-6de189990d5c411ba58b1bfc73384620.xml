@@ -1,33 +1,33 @@
-<archimate:BusinessProcess
+<archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Command"
-    id="id-a4a4597cb7b44800b454b94d50493585"
-    documentation="Decision made by the User">
+    name="Value destroyed"
+    id="id-6de189990d5c411ba58b1bfc73384620"
+    documentation="When and where value is delivered (or destroyed)">
   <properties
       key="ISO639_de:Name"
-      value="Befehl"/>
+      value="Wert zerstört"/>
   <properties
       key="ISO639_fr:Name"
-      value="Commande"/>
+      value="Valeur détruite"/>
   <properties
       key="ISO639_en:Name"
-      value="Command"/>
+      value="Value destroyed"/>
   <properties
       key="ISO639_de:Documentation-Link"/>
   <properties
       key="ISO639_de:Documentation"
-      value="Entscheidung des Nutzers"/>
+      value="Wann und wo Wert geschaffen (oder zerstört) wird."/>
   <properties
       key="ISO639_fr:Documentation-Link"/>
   <properties
       key="ISO639_en:Documentation-Link"/>
   <properties
       key="ISO639_fr:Documentation"
-      value="Décision prise par l’utilisateur"/>
+      value="Quand et où la valeur est livrée (ou détruite)."/>
   <properties
       key="Version"
       value="1.0.0"/>
   <properties
       key="ISO639_en:Documentation"
-      value="Decision made by the User"/>
-</archimate:BusinessProcess>
+      value="When and where value is delivered (or destroyed)"/>
+</archimate:Value>

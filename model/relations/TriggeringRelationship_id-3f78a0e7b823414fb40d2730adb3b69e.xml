@@ -3,6 +3,30 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="External system initiated action"
     id="id-3f78a0e7b823414fb40d2730adb3b69e">
+  <properties
+      key="ISO639_de:Name"
+      value="Von einem externen System ausgelöste Aktion"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Action initiée par un système externe"/>
+  <properties
+      key="ISO639_en:Name"
+      value="External system initiated action"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"/>
   <source
       xsi:type="archimate:BusinessService"
       href="BusinessService_id-168e92f4b37b4da783cbc055469e8a49.xml#id-168e92f4b37b4da783cbc055469e8a49"/>

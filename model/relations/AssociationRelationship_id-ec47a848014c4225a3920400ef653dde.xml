@@ -2,7 +2,32 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="issues a command"
-    id="id-ec47a848014c4225a3920400ef653dde">
+    id="id-ec47a848014c4225a3920400ef653dde"
+    directed="true">
+  <properties
+      key="ISO639_de:Name"
+      value="gibt einen Befehl aus"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="émet une commande"/>
+  <properties
+      key="ISO639_en:Name"
+      value="issues a command"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"/>
   <source
       xsi:type="archimate:Constraint"
       href="Constraint_id-f7c46f4ca56049eeb038978d6a7a8bf3.xml#id-f7c46f4ca56049eeb038978d6a7a8bf3"/>

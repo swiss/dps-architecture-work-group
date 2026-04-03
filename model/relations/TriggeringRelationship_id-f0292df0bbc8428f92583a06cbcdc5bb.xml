@@ -3,6 +3,30 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="triggers"
     id="id-f0292df0bbc8428f92583a06cbcdc5bb">
+  <properties
+      key="ISO639_de:Name"
+      value="löst aus"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="déclenche"/>
+  <properties
+      key="ISO639_en:Name"
+      value="triggers"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-a4a4597cb7b44800b454b94d50493585.xml#id-a4a4597cb7b44800b454b94d50493585"/>

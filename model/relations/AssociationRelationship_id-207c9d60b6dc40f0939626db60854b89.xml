@@ -2,7 +2,32 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="activates a Policy"
-    id="id-207c9d60b6dc40f0939626db60854b89">
+    id="id-207c9d60b6dc40f0939626db60854b89"
+    directed="true">
+  <properties
+      key="ISO639_de:Name"
+      value="aktiviert eine Richtlinie"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="active une règle"/>
+  <properties
+      key="ISO639_en:Name"
+      value="activates a Policy"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"/>
   <source
       xsi:type="archimate:BusinessEvent"
       href="BusinessEvent_id-64c50821330a4a7b87543c64c0d9ab78.xml#id-64c50821330a4a7b87543c64c0d9ab78"/>
