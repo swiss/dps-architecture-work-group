@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Angebot Fischereipatent auswählen"
+    id="id-54c7f298c3184fae85829950f5ed6134"
+    documentation="Bei der Auswahl des Angebots wird ein Kundenfall eröffnet und dem Betroffenen zugewiesen. Die enthaltenen Leistungen werden im Kundenfall als Leistungsbezüge (BusinessProcesses gem. eCH-0058) instanziert und dem betroffenen zugewiesen.&#xD;&#xA;Damit ist der Kundenfall eröffnet.">
+  <properties
+      key="ISO639_fr:Documentation-Link"
+      value="https://egov.fr.ch/eservices/FishingLicence/#/fishing-licence/page02"/>
+</archimate:BusinessProcess>
