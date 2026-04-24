@@ -1125,4 +1125,32 @@
         xsi:type="archimate:Gap"
         href="Gap_id-2cb55af6f65f4aaba967566ce8f408a8.xml#id-2cb55af6f65f4aaba967566ce8f408a8"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2e30510a62074bdfba3a59c8a7347bbe">
+    <bounds
+        x="2568"
+        y="677"
+        width="120"
+        height="25"/>
+    <archimateElement
+        xsi:type="archimate:Representation"
+        href="Representation_id-5390ee12df9a449791e0d0c2b9752386.xml#id-5390ee12df9a449791e0d0c2b9752386"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-83951e476894410db6eab532448b17df"
+      font="1|Arial|7.0|0|COCOA|1|"
+      lineColor="#5c5c5c"
+      fillColor="#ff40ff"
+      alpha="127">
+    <bounds
+        x="2064"
+        y="432"
+        width="132"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-c283fcf936f34ac89cf7b40ad56bb77f.xml#id-c283fcf936f34ac89cf7b40ad56bb77f"/>
+  </children>
 </archimate:ArchimateDiagramModel>
