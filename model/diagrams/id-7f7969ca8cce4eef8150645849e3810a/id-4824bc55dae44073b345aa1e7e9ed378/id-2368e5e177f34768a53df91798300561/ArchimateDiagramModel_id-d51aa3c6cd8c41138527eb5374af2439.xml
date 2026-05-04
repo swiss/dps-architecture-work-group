@@ -1246,4 +1246,18 @@
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-aad81d652e2d45b98b4b194ae1915760.xml#id-aad81d652e2d45b98b4b194ae1915760"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a7226b983b2b48a7ab003e3135a1e81f"
+      fillColor="#932092"
+      alpha="127">
+    <bounds
+        x="1032"
+        y="579"
+        width="120"
+        height="31"/>
+    <archimateElement
+        xsi:type="archimate:Gap"
+        href="Gap_id-4b6fea67e4aa462cb68f024c39b33a4e.xml#id-4b6fea67e4aa462cb68f024c39b33a4e"/>
+  </children>
 </archimate:ArchimateDiagramModel>
