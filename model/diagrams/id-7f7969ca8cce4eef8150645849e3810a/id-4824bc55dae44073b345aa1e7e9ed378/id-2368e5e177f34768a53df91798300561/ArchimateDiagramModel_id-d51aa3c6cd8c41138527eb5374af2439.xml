@@ -1235,6 +1235,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1ba266c1cd574d29a83455ae83a6b427"
+      targetConnections="id-85ac1e9dd9344acebf20965b2120d19f"
       fillColor="#ff9200"
       alpha="127">
     <bounds
@@ -1251,6 +1252,15 @@
       id="id-a7226b983b2b48a7ab003e3135a1e81f"
       fillColor="#932092"
       alpha="127">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-85ac1e9dd9344acebf20965b2120d19f"
+        source="id-a7226b983b2b48a7ab003e3135a1e81f"
+        target="id-1ba266c1cd574d29a83455ae83a6b427">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-ecafc38bd88a496095968d05c4b87180.xml#id-ecafc38bd88a496095968d05c4b87180"/>
+    </sourceConnections>
     <bounds
         x="1032"
         y="579"
