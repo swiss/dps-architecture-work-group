@@ -1,0 +1,33 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Event wenn im Schalter nicht lesen auch benötigt?"
+    id="id-e0b93e8f52a440b09f653355ce9d7a35"
+    documentation="- Unterbruch zwischen Zustellplattform und Kundenschalter&#xA;- Profil ist nicht mehr gültig&#xA;- Abruch weil es eine unerwünschte Mitteilung ist&#xA;- weitere Gründe">
+  <properties
+      key="ISO639_de:Name"
+      value="Brennpunkt"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Point critique"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Hotspot"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"
+      value="Brennpunkt als Implementation Gap"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"
+      value="Point critique comme Implementation Gap"/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"
+      value="Hotspot, Problem as Implementation Gap"/>
+</archimate:Gap>
