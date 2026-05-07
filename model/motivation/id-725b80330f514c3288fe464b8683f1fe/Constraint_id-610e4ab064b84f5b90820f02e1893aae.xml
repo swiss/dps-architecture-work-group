@@ -1,8 +1,8 @@
-<archimate:Gap
+<archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Shared Store je Profil? je Leistung?"
-    id="id-0404501ede1845089b0e56a566758a7e"
-    documentation="Soll das Profil gemeinsame Daeten über Leistungen hinweg bewirtschaften können?&#xA;Wie viele Daten">
+    name="Lifecycle JP/NP"
+    id="id-610e4ab064b84f5b90820f02e1893aae"
+    documentation="Wie wird die Konsistenz bei LifeCycle Änderungen sichergestellt?">
   <properties
       key="ISO639_de:Name"
       value="Brennpunkt"/>
@@ -30,4 +30,4 @@
   <properties
       key="ISO639_en:Documentation"
       value="Hotspot, Problem as Implementation Gap"/>
-</archimate:Gap>
+</archimate:Constraint>

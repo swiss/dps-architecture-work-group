@@ -1,0 +1,33 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stammdaten Update Logik"
+    id="id-357ff4371e554d50bb333fba04b91fce"
+    documentation="Wie wird der Impact auf viele Prozesse/Verfahren koordiniert?">
+  <properties
+      key="ISO639_de:Name"
+      value="Brennpunkt"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Point critique"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Hotspot"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"
+      value="Brennpunkt als Implementation Gap"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"
+      value="Point critique comme Implementation Gap"/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"
+      value="Hotspot, Problem as Implementation Gap"/>
+</archimate:Constraint>

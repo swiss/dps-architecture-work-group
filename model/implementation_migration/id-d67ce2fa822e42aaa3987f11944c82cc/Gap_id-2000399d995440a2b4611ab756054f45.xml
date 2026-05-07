@@ -1,0 +1,33 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LoA (Vertrauenslevel der Informationen)"
+    id="id-2000399d995440a2b4611ab756054f45"
+    documentation="Bei welchen Informationsobjekten wird welche Güte, Vertrauenslevel, Bestätung benötigt&#xA;- Selbstdeklaration&#xA;- Amtlich geprüft&#xA;- Notariell geprüft&#xA;siehe auch eCH-0170 Qualitätsmodell zur Authentifizierung von Subjekten&#xA;- Vertrauenstufen 1-4 kein, gering, beträchtlich, hoch&#xA;&#x9;- Authentisierung VSA&#xA;&#x9;- Registrierung VSR&#xA;&#x9;- Steuerung VSS&#xA;&#x9;- Föderierung VSF&#xA;siehe auch eCH-0171 Qualitätsmodell der Attributwertbestätigung zur eID&#xA;- Attributwertbestätigung steuern S1-S4&#xA;- Attributwert definieren  D1-D4&#xA;- Attributwert bestätigen  B1-B4&#xA;- Attributwertbestätigung QA1-QA4">
+  <properties
+      key="ISO639_de:Name"
+      value="Brennpunkt"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Point critique"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Hotspot"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"
+      value="Brennpunkt als Implementation Gap"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"
+      value="Point critique comme Implementation Gap"/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"
+      value="Hotspot, Problem as Implementation Gap"/>
+</archimate:Gap>
