@@ -1,0 +1,33 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Register entlasten Portale, Fachanwendungen"
+    id="id-693e9272a29744f1b6734cc8d8cac3f7"
+    documentation="UID/BUR hat aktuell &#xA;- keine Vereine&#xA;- keine ÖRK&#xA;- keine Links auf die berechtigen Personen">
+  <properties
+      key="ISO639_de:Name"
+      value="Brennpunkt"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Point critique"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Hotspot"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"
+      value="Brennpunkt als Implementation Gap"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_en:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"
+      value="Point critique comme Implementation Gap"/>
+  <properties
+      key="Version"
+      value="1.0.0"/>
+  <properties
+      key="ISO639_en:Documentation"
+      value="Hotspot, Problem as Implementation Gap"/>
+</archimate:Gap>
