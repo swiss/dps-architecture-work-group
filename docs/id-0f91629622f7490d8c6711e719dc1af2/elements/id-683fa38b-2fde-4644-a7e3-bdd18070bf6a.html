@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Digital Signature</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Digital Signature</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessObject"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessObject" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Definition: Digital Signature is a mathematical scheme for verifying the authenticity of digital messages or documents.
+
+Source: WikiPedia
+
+Source reference: https://en.wikipedia.org/wiki/Digital_signature
+
+Additional information: A digital signature is a cryptographic technique used to verify the authenticity, integrity, and non-repudiation of digital information. It serves as an electronic equivalent of a handwritten signature in the digital world. In the European IT context, digital signatures are governed by the eIDAS Regulation (Regulation (EU) No 910/2014), which provides a legal framework for electronic identification and trust services.
+
+At its core, a digital signature is a mathematical algorithm that creates a unique digital fingerprint, also known as a hash, of a document or data. This hash is then encrypted using the private key of the signer, resulting in a digital signature. The private key is securely stored and known only to the signer, ensuring the confidentiality and integrity of the signature.
+
+To verify the digital signature, the recipient uses the corresponding public key, which is made available by the signer or a trusted certification authority. The recipient applies the same cryptographic algorithm to the received document or data, generating a new hash. By decrypting the digital signature using the public key, the recipient can compare the computed hash with the decrypted hash. If they match, it confirms that the document has not been tampered with and was indeed signed by the claimed signer.
+
+Digital signatures provide several benefits within the European IT context. Firstly, they establish the identity of the signer, ensuring that the signature is linked to a specific individual or entity. This helps prevent impersonation and fraud. Secondly, digital signatures guarantee the integrity of the signed information, as any modification to the document would result in a different hash value, rendering the signature invalid. Thirdly, digital signatures offer non-repudiation, meaning the signer cannot deny their involvement in signing the document, as the private key used for encryption is unique to them.
+
+In the European IT context, digital signatures hold legal significance. The eIDAS Regulation recognizes digital signatures as legally equivalent to handwritten signatures, ensuring their acceptance across European Union member states. This facilitates cross-border transactions, e-commerce, and other digital interactions, as digital signatures provide a high level of trust and legal certainty.
+
+Overall, digital signatures play a crucial role in ensuring the authenticity, integrity, and non-repudiation of digital information within the European IT context. They enable secure and legally binding electronic transactions, fostering trust and confidence in the digital economy.
+
+Example: Digital signatures are widely used in various applications within the European IT context to ensure the authenticity, integrity, and non-repudiation of electronic information. Here are a few examples:
+
+1. E-commerce: In online transactions, digital signatures are used to verify the identity of the parties involved and ensure the integrity of the exchanged data. For instance, when making a purchase online, a digital signature can be used to sign the transaction details, ensuring that they cannot be tampered with during transmission.
+
+2. Electronic Contracts: Digital signatures are employed to sign electronic contracts, making them legally binding. By digitally signing a contract, parties can authenticate their agreement and prevent any subsequent denial of their involvement. This is particularly crucial in the European IT context, where electronic contracts have legal recognition.
+
+3. Government Services: Digital signatures play a vital role in various government services, such as tax filings, license applications, and official document submissions. By digitally signing these documents, individuals and organizations can authenticate their identity and ensure the integrity of the information being submitted.
+
+4. Health Records: In the healthcare sector, digital signatures are used to sign and authenticate electronic health records (EHRs). This ensures that patient data remains confidential, unaltered, and traceable. Digital signatures also enable healthcare professionals to securely exchange medical information across different systems and organizations.
+
+5. Intellectual Property Protection: Digital signatures are used to protect intellectual property rights by providing proof of ownership and preventing unauthorized modifications. For example, digital signatures can be applied to digital content, such as software, music, or documents, to verify the authenticity and integrity of the content and protect it from unauthorized distribution or tampering.
+
+6. Secure Email Communication: Digital signatures are utilized to secure email communication, ensuring that the sender's identity is verified, and the content remains intact. By digitally signing an email, the recipient can be confident that the message has not been altered during transmission and that it originated from the claimed sender.
+
+Overall, digital signatures are a crucial component of information security within the European IT context, providing trust, integrity, and non-repudiation in various applications.
+
+LOST view: OV-Functional Architecture Principles
+
+Identifier: http://data.europa.eu/dr8/egovera/DigitalSignatureBusinessObject
+
+ABB name: egovera:DigitalSignatureBusinessObject
+
+EIRA concept: eira:ArchitectureBuildingBlock
+
+Last modification: 2023-11-20
+
+Identifier: http://data.europa.eu/dr8/egovera/DigitalSignatureBusinessObject
+
+Name: Digital Signature Information
+
+Interoperability Layer: Organisational
+
+Specialises: http://data.europa.eu/dr8/InformationBusinessObject
+
+</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr><td>eira:PURI</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/egovera/DigitalSignatureBusinessObject</td></tr><tr><td>dct:modified</td><td class="convertlinks no-margin" style="white-space:pre-wrap">2023-11-20</td></tr><tr><td>dct:identifier</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/egovera/DigitalSignatureBusinessObject</td></tr><tr><td>dct:type</td><td class="convertlinks no-margin" style="white-space:pre-wrap">egovera:DigitalSignatureBusinessObject</td></tr><tr><td>dct:title</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Digital Signature Information</td></tr><tr><td>eira:definitionSource</td><td class="convertlinks no-margin" style="white-space:pre-wrap">WikiPedia</td></tr><tr><td>eira:definitionSourceReference</td><td class="convertlinks no-margin" style="white-space:pre-wrap">https://en.wikipedia.org/wiki/Digital_signature</td></tr><tr><td>skos:example</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Digital signatures are widely used in various applications within the European IT context to ensure the authenticity, integrity, and non-repudiation of electronic information. Here are a few examples:
+
+								1. E-commerce: In online transactions, digital signatures are used to verify the identity of the parties involved and ensure the integrity of the exchanged data. For instance, when making a purchase online, a digital signature can be used to sign the transaction details, ensuring that they cannot be tampered with during transmission.
+
+								2. Electronic Contracts: Digital signatures are employed to sign electronic contracts, making them legally binding. By digitally signing a contract, parties can authenticate their agreement and prevent any subsequent denial of their involvement. This is particularly crucial in the European IT context, where electronic contracts have legal recognition.
+
+								3. Government Services: Digital signatures play a vital role in various government services, such as tax filings, license applications, and official document submissions. By digitally signing these documents, individuals and organizations can authenticate their identity and ensure the integrity of the information being submitted.
+
+								4. Health Records: In the healthcare sector, digital signatures are used to sign and authenticate electronic health records (EHRs). This ensures that patient data remains confidential, unaltered, and traceable. Digital signatures also enable healthcare professionals to securely exchange medical information across different systems and organizations.
+
+								5. Intellectual Property Protection: Digital signatures are used to protect intellectual property rights by providing proof of ownership and preventing unauthorized modifications. For example, digital signatures can be applied to digital content, such as software, music, or documents, to verify the authenticity and integrity of the content and protect it from unauthorized distribution or tampering.
+
+								6. Secure Email Communication: Digital signatures are utilized to secure email communication, ensuring that the sender's identity is verified, and the content remains intact. By digitally signing an email, the recipient can be confident that the message has not been altered during transmission and that it originated from the claimed sender.
+
+								Overall, digital signatures are a crucial component of information security within the European IT context, providing trust, integrity, and non-repudiation in various applications.</td></tr><tr><td>eira:concept</td><td class="convertlinks no-margin" style="white-space:pre-wrap">eira:ArchitectureBuildingBlock</td></tr><tr><td>skos:note</td><td class="convertlinks no-margin" style="white-space:pre-wrap">A digital signature is a cryptographic technique used to verify the authenticity, integrity, and non-repudiation of digital information. It serves as an electronic equivalent of a handwritten signature in the digital world. In the European IT context, digital signatures are governed by the eIDAS Regulation (Regulation (EU) No 910/2014), which provides a legal framework for electronic identification and trust services.
+
+								At its core, a digital signature is a mathematical algorithm that creates a unique digital fingerprint, also known as a hash, of a document or data. This hash is then encrypted using the private key of the signer, resulting in a digital signature. The private key is securely stored and known only to the signer, ensuring the confidentiality and integrity of the signature.
+
+								To verify the digital signature, the recipient uses the corresponding public key, which is made available by the signer or a trusted certification authority. The recipient applies the same cryptographic algorithm to the received document or data, generating a new hash. By decrypting the digital signature using the public key, the recipient can compare the computed hash with the decrypted hash. If they match, it confirms that the document has not been tampered with and was indeed signed by the claimed signer.
+
+								Digital signatures provide several benefits within the European IT context. Firstly, they establish the identity of the signer, ensuring that the signature is linked to a specific individual or entity. This helps prevent impersonation and fraud. Secondly, digital signatures guarantee the integrity of the signed information, as any modification to the document would result in a different hash value, rendering the signature invalid. Thirdly, digital signatures offer non-repudiation, meaning the signer cannot deny their involvement in signing the document, as the private key used for encryption is unique to them.
+
+								In the European IT context, digital signatures hold legal significance. The eIDAS Regulation recognizes digital signatures as legally equivalent to handwritten signatures, ensuring their acceptance across European Union member states. This facilitates cross-border transactions, e-commerce, and other digital interactions, as digital signatures provide a high level of trust and legal certainty.
+
+								Overall, digital signatures play a crucial role in ensuring the authenticity, integrity, and non-repudiation of digital information within the European IT context. They enable secure and legally binding electronic transactions, fostering trust and confidence in the digital economy.</td></tr><tr><td>skos:definition</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Digital Signature is a mathematical scheme for verifying the authenticity of digital messages or documents.</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">OV-Functional Architecture Principles</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational view [Motivation]</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">OV-Data Spaces [Motivation]</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">OV-Data Spaces</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational view</td></tr><tr><td>eira:eifLayer</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational</td></tr><tr><td>skos:broader</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/InformationBusinessObject</td></tr>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-56938555f761473994f7afc2a26e359c">
+																	<td><a href="../views/id-56938555f761473994f7afc2a26e359c.html" target="view" title="Organisational view"> Organisational view </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+											<td><a href="../elements/e3b5ace1-2ab3-4979-a21f-5d22c35d0aae.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-AggregationRelationship" /></td>
+											<td><a href="../elements/id-6c0de37c062e435e96040cb22c9b0d6c.html" target="element"> Business Agnostic Business Information Base</a></td>
+											<td><a href="../elements/id-683fa38b-2fde-4644-a7e3-bdd18070bf6a.html" target="element"> Digital Signature</a></td>
+										</tr>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

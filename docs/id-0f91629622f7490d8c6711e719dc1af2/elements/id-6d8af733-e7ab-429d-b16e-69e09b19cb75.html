@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Profile</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Profile</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessObject"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessObject" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Definition: A profile is information about a person or entity based on known traits or tendencies.
+
+Source: Bart Custers
+
+Source reference: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3186639
+
+Additional information: A profile, within the European IT context, refers to a structured representation of an individual or entity's information, characteristics, preferences, and behavior. It is a comprehensive collection of data that provides a detailed overview of a user, system, or organization, enabling personalized services, targeted advertising, and efficient decision-making.
+
+In the European IT context, a profile typically includes various types of information such as personal details (name, age, gender, contact information), demographic data (location, language, nationality), professional information (occupation, education, work history), and preferences (interests, hobbies, favorite products or services). It may also encompass behavioral data, including browsing history, purchase patterns, and interactions with digital platforms.
+
+Profiles are often created and maintained by organizations, such as online service providers, e-commerce platforms, social media networks, or government agencies, to better understand their users and deliver tailored experiences. These profiles are built through the collection of data from various sources, including user-provided information, tracking technologies (cookies, device identifiers), and data obtained from third-party sources (data brokers, public records).
+
+The European IT context emphasizes the importance of data protection and privacy. Therefore, the creation and use of profiles must comply with relevant regulations, such as the General Data Protection Regulation (GDPR). This means that individuals have the right to access, rectify, and delete their profile data, as well as the right to be informed about the purposes and legal basis for processing their information.
+
+Profiles play a crucial role in enabling personalized services and experiences. For instance, online retailers can utilize customer profiles to recommend products based on past purchases and browsing behavior. Social media platforms leverage user profiles to display relevant content and advertisements tailored to individual interests. Additionally, profiles can assist organizations in making data-driven decisions, such as market segmentation, product development, and targeted marketing campaigns.
+
+In summary, within the European IT context, a profile is a comprehensive representation of an individual or entity's information, preferences, and behavior. It enables organizations to deliver personalized services, targeted advertising, and informed decision-making while adhering to data protection regulations.
+
+Example: The profile, as an element or component of information, finds various applications in the European IT context. Here are a few examples:
+
+1. User Profiles: In the European IT context, user profiles are widely used in various online platforms and applications. These profiles contain information about the user's preferences, interests, demographics, and behavior patterns. User profiles help personalize the user experience by providing tailored content, recommendations, and targeted advertisements.
+
+2. Customer Profiles: Many businesses in the European IT industry maintain customer profiles to understand their customers better. These profiles include information such as purchase history, preferences, feedback, and contact details. Customer profiles enable businesses to offer personalized services, improve customer support, and develop targeted marketing campaigns.
+
+3. Job Seeker Profiles: Online job portals and recruitment platforms in Europe often require users to create profiles detailing their skills, qualifications, work experience, and career objectives. These profiles help job seekers showcase their expertise and make it easier for employers to find suitable candidates. Job seeker profiles streamline the hiring process and facilitate efficient talent acquisition.
+
+4. Social Media Profiles: Social media platforms like Facebook, Instagram, and Twitter are widely used in Europe, and users create profiles to represent themselves online. These profiles contain personal information, photos, interests, and connections. Social media profiles enable individuals to connect with others, share content, and engage in online communities.
+
+5. Professional Profiles: In the European IT industry, professionals often create profiles on platforms like LinkedIn to showcase their skills, work experience, and educational background. These profiles serve as digital resumes and help professionals network, find job opportunities, and establish their professional reputation.
+
+6. Patient Profiles: In the healthcare sector, patient profiles are essential for managing medical records, treatment plans, and health information. Electronic Health Record (EHR) systems are widely used in Europe to create and maintain comprehensive patient profiles. These profiles assist healthcare providers in delivering personalized care, tracking medical history, and ensuring accurate diagnoses.
+
+Overall, profiles play a crucial role in the European IT context, facilitating personalized experiences, efficient recruitment processes, targeted marketing, and effective information management across various domains.
+
+LOST view: OV-Functional Architecture Principles
+
+Identifier: http://data.europa.eu/dr8/egovera/ProfileBusinessObject
+
+ABB name: egovera:ProfileBusinessObject
+
+EIRA concept: eira:ArchitectureBuildingBlock
+
+Last modification: 2023-11-20
+
+Identifier: http://data.europa.eu/dr8/egovera/ProfileBusinessObject
+
+Name: Profile Information
+
+Interoperability Layer: Organisational
+
+Specialises: http://data.europa.eu/dr8/InformationBusinessObject
+
+</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr><td>eira:PURI</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/egovera/ProfileBusinessObject</td></tr><tr><td>dct:modified</td><td class="convertlinks no-margin" style="white-space:pre-wrap">2023-11-20</td></tr><tr><td>dct:identifier</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/egovera/ProfileBusinessObject</td></tr><tr><td>dct:type</td><td class="convertlinks no-margin" style="white-space:pre-wrap">egovera:ProfileBusinessObject</td></tr><tr><td>dct:title</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Profile Information</td></tr><tr><td>eira:definitionSource</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Bart Custers</td></tr><tr><td>eira:definitionSourceReference</td><td class="convertlinks no-margin" style="white-space:pre-wrap">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3186639</td></tr><tr><td>skos:example</td><td class="convertlinks no-margin" style="white-space:pre-wrap">The profile, as an element or component of information, finds various applications in the European IT context. Here are a few examples:
+
+								1. User Profiles: In the European IT context, user profiles are widely used in various online platforms and applications. These profiles contain information about the user's preferences, interests, demographics, and behavior patterns. User profiles help personalize the user experience by providing tailored content, recommendations, and targeted advertisements.
+
+								2. Customer Profiles: Many businesses in the European IT industry maintain customer profiles to understand their customers better. These profiles include information such as purchase history, preferences, feedback, and contact details. Customer profiles enable businesses to offer personalized services, improve customer support, and develop targeted marketing campaigns.
+
+								3. Job Seeker Profiles: Online job portals and recruitment platforms in Europe often require users to create profiles detailing their skills, qualifications, work experience, and career objectives. These profiles help job seekers showcase their expertise and make it easier for employers to find suitable candidates. Job seeker profiles streamline the hiring process and facilitate efficient talent acquisition.
+
+								4. Social Media Profiles: Social media platforms like Facebook, Instagram, and Twitter are widely used in Europe, and users create profiles to represent themselves online. These profiles contain personal information, photos, interests, and connections. Social media profiles enable individuals to connect with others, share content, and engage in online communities.
+
+								5. Professional Profiles: In the European IT industry, professionals often create profiles on platforms like LinkedIn to showcase their skills, work experience, and educational background. These profiles serve as digital resumes and help professionals network, find job opportunities, and establish their professional reputation.
+
+								6. Patient Profiles: In the healthcare sector, patient profiles are essential for managing medical records, treatment plans, and health information. Electronic Health Record (EHR) systems are widely used in Europe to create and maintain comprehensive patient profiles. These profiles assist healthcare providers in delivering personalized care, tracking medical history, and ensuring accurate diagnoses.
+
+								Overall, profiles play a crucial role in the European IT context, facilitating personalized experiences, efficient recruitment processes, targeted marketing, and effective information management across various domains.</td></tr><tr><td>eira:concept</td><td class="convertlinks no-margin" style="white-space:pre-wrap">eira:ArchitectureBuildingBlock</td></tr><tr><td>skos:note</td><td class="convertlinks no-margin" style="white-space:pre-wrap">A profile, within the European IT context, refers to a structured representation of an individual or entity's information, characteristics, preferences, and behavior. It is a comprehensive collection of data that provides a detailed overview of a user, system, or organization, enabling personalized services, targeted advertising, and efficient decision-making.
+
+								In the European IT context, a profile typically includes various types of information such as personal details (name, age, gender, contact information), demographic data (location, language, nationality), professional information (occupation, education, work history), and preferences (interests, hobbies, favorite products or services). It may also encompass behavioral data, including browsing history, purchase patterns, and interactions with digital platforms.
+
+								Profiles are often created and maintained by organizations, such as online service providers, e-commerce platforms, social media networks, or government agencies, to better understand their users and deliver tailored experiences. These profiles are built through the collection of data from various sources, including user-provided information, tracking technologies (cookies, device identifiers), and data obtained from third-party sources (data brokers, public records).
+
+								The European IT context emphasizes the importance of data protection and privacy. Therefore, the creation and use of profiles must comply with relevant regulations, such as the General Data Protection Regulation (GDPR). This means that individuals have the right to access, rectify, and delete their profile data, as well as the right to be informed about the purposes and legal basis for processing their information.
+
+								Profiles play a crucial role in enabling personalized services and experiences. For instance, online retailers can utilize customer profiles to recommend products based on past purchases and browsing behavior. Social media platforms leverage user profiles to display relevant content and advertisements tailored to individual interests. Additionally, profiles can assist organizations in making data-driven decisions, such as market segmentation, product development, and targeted marketing campaigns.
+
+								In summary, within the European IT context, a profile is a comprehensive representation of an individual or entity's information, preferences, and behavior. It enables organizations to deliver personalized services, targeted advertising, and informed decision-making while adhering to data protection regulations.</td></tr><tr><td>skos:definition</td><td class="convertlinks no-margin" style="white-space:pre-wrap">A profile is information about a person or entity based on known traits or tendencies.</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">OV-Functional Architecture Principles</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational view [Motivation]</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">OV-Data Spaces [Motivation]</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">OV-Data Spaces</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational view</td></tr><tr><td>eira:eifLayer</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational</td></tr><tr><td>skos:broader</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/InformationBusinessObject</td></tr>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-56938555f761473994f7afc2a26e359c">
+																	<td><a href="../views/id-56938555f761473994f7afc2a26e359c.html" target="view" title="Organisational view"> Organisational view </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+											<td><a href="../elements/a5d3b43b-488d-4d9c-836c-861724c1d8ce.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-AggregationRelationship" /></td>
+											<td><a href="../elements/id-6c0de37c062e435e96040cb22c9b0d6c.html" target="element"> Business Agnostic Business Information Base</a></td>
+											<td><a href="../elements/id-6d8af733-e7ab-429d-b16e-69e09b19cb75.html" target="element"> Profile</a></td>
+										</tr>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

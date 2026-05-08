@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Workflow Management</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Workflow Management</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessService"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessService" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Definition: Workflow management within the context of IT interoperability in a digital public service at the European Commission refers to the systematic coordination and automation of tasks, activities, and processes involved in the delivery of public services. It involves the design, implementation, and monitoring of workflows to ensure efficient and effective collaboration between different systems, applications, and stakeholders. Workflow management enables seamless integration and exchange of data, information, and documents across various IT systems, ensuring smooth and streamlined operations, improved decision-making, and enhanced service delivery to citizens and businesses.
+
+Source: EIRA Team
+
+Additional information: Workflow management in the context of IT interoperability within a digital public service in the European Commission refers to the systematic and efficient coordination of tasks, activities, and processes involved in the delivery of services or the execution of projects. It involves the design, implementation, and monitoring of workflows to ensure smooth and streamlined operations while promoting collaboration and adherence to established standards and guidelines.
+
+The workflow management system (WMS) within this context serves as a central platform that enables the automation and orchestration of various tasks and activities across different systems, applications, and stakeholders involved in the delivery of digital public services. It provides a structured framework for defining, executing, and tracking workflows, ensuring that each step is performed in a timely and accurate manner.
+
+At its core, the workflow management system facilitates the flow of information, data, and documents between different actors involved in the digital public service, such as government agencies, departments, and external service providers. It ensures that the right information reaches the right people at the right time, enabling efficient decision-making and effective collaboration.
+
+The workflow management system typically includes several key components:
+
+1. Workflow Design: This involves the creation and configuration of workflows using a graphical interface or workflow modeling tools. Workflows are designed based on predefined templates or customized according to specific requirements. The design phase includes defining the sequence of tasks, assigning responsibilities, setting deadlines, and establishing dependencies between different steps.
+
+2. Workflow Execution: Once a workflow is designed, it can be executed by initiating the process through the workflow management system. The system automatically routes tasks and activities to the appropriate individuals or teams responsible for their completion. It ensures that tasks are performed in the correct order and that any required approvals or reviews are obtained before proceeding to the next step.
+
+3. Task Monitoring and Tracking: The workflow management system provides real-time visibility into the progress of tasks and activities. It allows stakeholders to monitor the status of ongoing workflows, track the time taken for each step, identify bottlenecks or delays, and take necessary actions to ensure timely completion. Notifications and alerts can be configured to inform relevant parties about pending tasks or approaching deadlines.
+
+4. Integration and Interoperability: In the context of IT interoperability, the workflow management system facilitates seamless integration with various systems, databases, and applications involved in the digital public service. It enables the exchange of data and information between different systems, ensuring interoperability and data consistency. This integration may involve APIs, data mapping, data transformation, and data validation to ensure smooth data flow across systems.
+
+5. Reporting and Analytics: The workflow management system generates comprehensive reports and analytics on the performance and efficiency of workflows. It provides insights into process bottlenecks, resource utilization, and compliance with predefined standards or service level agreements. These reports help in identifying areas for improvement, optimizing resource allocation, and enhancing the overall effectiveness of the digital public service.
+
+6. Security and Compliance: Given the sensitive nature of public services, the workflow management system incorporates robust security measures to protect data privacy and ensure compliance with relevant regulations and policies. It may include access controls, encryption, audit trails, and secure data transmission protocols to safeguard information throughout the workflow lifecycle.
+
+In summary, workflow management within the context of IT interoperability in a digital public service in the European Commission involves the systematic coordination, automation, and monitoring of tasks and activities to ensure efficient service delivery. It enables seamless collaboration, integration, and data exchange between different systems and stakeholders, while providing visibility, control, and analytics to optimize processes and enhance the overall effectiveness of the service.
+
+Example: One example of the application of Workflow Management in the context of IT interoperability within a digital public service in the European Commission is the management of data exchange between different systems and platforms. 
+
+In this scenario, Workflow Management can be used to automate and streamline the process of exchanging data between various IT systems, ensuring seamless interoperability. For instance, when a user submits a request for a specific service, the Workflow Management system can automatically trigger a series of actions and tasks to retrieve the necessary data from different systems, validate and process it, and then deliver the requested service to the user.
+
+Another example is the management of cross-border authentication and authorization processes. In the European Commission's digital public service, individuals from different member states may need to access various online services. Workflow Management can be employed to handle the authentication and authorization workflows, ensuring that users are granted appropriate access rights based on their identity and the services they require. This involves coordinating with different identity providers, verifying user credentials, and managing access permissions across multiple systems.
+
+Workflow Management can also be utilized for incident management and problem resolution within the digital public service. When an issue or incident is reported, the Workflow Management system can automatically assign the incident to the relevant team or department, track its progress, and ensure that it is resolved within the defined service level agreements. This involves coordinating with different IT teams, tracking the status of incidents, and facilitating communication and collaboration among stakeholders.
+
+Furthermore, Workflow Management can be applied to the management of digital document workflows within the European Commission's digital public service. For instance, when a document needs to go through various stages of review, approval, and publication, the Workflow Management system can automate the routing of the document to the appropriate individuals or departments, track its progress, and ensure that it follows the defined workflow. This involves managing document versions, notifying stakeholders of pending actions, and maintaining an audit trail of the document's lifecycle.
+
+Overall, Workflow Management plays a crucial role in ensuring efficient IT interoperability within the European Commission's digital public service by automating and orchestrating various processes, data exchanges, authentication and authorization workflows, incident management, problem resolution, and document workflows.
+
+LOST view: TVA-Orchestration Enablers [Motivation]
+
+Identifier: http://data.europa.eu/dr8/egovera/WorkflowManagementBusinessService
+
+ABB name: egovera:WorkflowManagementBusinessService
+
+EIRA concept: eira:ArchitectureBuildingBlock
+
+Last modification: 2023-11-20
+
+Identifier: http://data.europa.eu/dr8/egovera/WorkflowManagementBusinessService
+
+Name: Workflow Management Digital Public Service
+
+Interoperability Layer: Organisational
+
+Specialises: http://data.europa.eu/dr8/DigitalPublicBusinessService
+
+</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr><td>eira:PURI</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/egovera/WorkflowManagementBusinessService</td></tr><tr><td>dct:modified</td><td class="convertlinks no-margin" style="white-space:pre-wrap">2023-11-20</td></tr><tr><td>dct:identifier</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/egovera/WorkflowManagementBusinessService</td></tr><tr><td>dct:title</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Workflow Management Digital Public Service</td></tr><tr><td>dct:type</td><td class="convertlinks no-margin" style="white-space:pre-wrap">egovera:WorkflowManagementBusinessService</td></tr><tr><td>eira:definitionSource</td><td class="convertlinks no-margin" style="white-space:pre-wrap">EIRA Team</td></tr><tr><td>eira:definitionSourceReference</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>skos:example</td><td class="convertlinks no-margin" style="white-space:pre-wrap">One example of the application of Workflow Management in the context of IT interoperability within a digital public service in the European Commission is the management of data exchange between different systems and platforms. 
+
+								In this scenario, Workflow Management can be used to automate and streamline the process of exchanging data between various IT systems, ensuring seamless interoperability. For instance, when a user submits a request for a specific service, the Workflow Management system can automatically trigger a series of actions and tasks to retrieve the necessary data from different systems, validate and process it, and then deliver the requested service to the user.
+
+								Another example is the management of cross-border authentication and authorization processes. In the European Commission's digital public service, individuals from different member states may need to access various online services. Workflow Management can be employed to handle the authentication and authorization workflows, ensuring that users are granted appropriate access rights based on their identity and the services they require. This involves coordinating with different identity providers, verifying user credentials, and managing access permissions across multiple systems.
+
+								Workflow Management can also be utilized for incident management and problem resolution within the digital public service. When an issue or incident is reported, the Workflow Management system can automatically assign the incident to the relevant team or department, track its progress, and ensure that it is resolved within the defined service level agreements. This involves coordinating with different IT teams, tracking the status of incidents, and facilitating communication and collaboration among stakeholders.
+
+								Furthermore, Workflow Management can be applied to the management of digital document workflows within the European Commission's digital public service. For instance, when a document needs to go through various stages of review, approval, and publication, the Workflow Management system can automate the routing of the document to the appropriate individuals or departments, track its progress, and ensure that it follows the defined workflow. This involves managing document versions, notifying stakeholders of pending actions, and maintaining an audit trail of the document's lifecycle.
+
+								Overall, Workflow Management plays a crucial role in ensuring efficient IT interoperability within the European Commission's digital public service by automating and orchestrating various processes, data exchanges, authentication and authorization workflows, incident management, problem resolution, and document workflows.</td></tr><tr><td>eira:concept</td><td class="convertlinks no-margin" style="white-space:pre-wrap">eira:ArchitectureBuildingBlock</td></tr><tr><td>skos:note</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Workflow management in the context of IT interoperability within a digital public service in the European Commission refers to the systematic and efficient coordination of tasks, activities, and processes involved in the delivery of services or the execution of projects. It involves the design, implementation, and monitoring of workflows to ensure smooth and streamlined operations while promoting collaboration and adherence to established standards and guidelines.
+
+								The workflow management system (WMS) within this context serves as a central platform that enables the automation and orchestration of various tasks and activities across different systems, applications, and stakeholders involved in the delivery of digital public services. It provides a structured framework for defining, executing, and tracking workflows, ensuring that each step is performed in a timely and accurate manner.
+
+								At its core, the workflow management system facilitates the flow of information, data, and documents between different actors involved in the digital public service, such as government agencies, departments, and external service providers. It ensures that the right information reaches the right people at the right time, enabling efficient decision-making and effective collaboration.
+
+								The workflow management system typically includes several key components:
+
+								1. Workflow Design: This involves the creation and configuration of workflows using a graphical interface or workflow modeling tools. Workflows are designed based on predefined templates or customized according to specific requirements. The design phase includes defining the sequence of tasks, assigning responsibilities, setting deadlines, and establishing dependencies between different steps.
+
+								2. Workflow Execution: Once a workflow is designed, it can be executed by initiating the process through the workflow management system. The system automatically routes tasks and activities to the appropriate individuals or teams responsible for their completion. It ensures that tasks are performed in the correct order and that any required approvals or reviews are obtained before proceeding to the next step.
+
+								3. Task Monitoring and Tracking: The workflow management system provides real-time visibility into the progress of tasks and activities. It allows stakeholders to monitor the status of ongoing workflows, track the time taken for each step, identify bottlenecks or delays, and take necessary actions to ensure timely completion. Notifications and alerts can be configured to inform relevant parties about pending tasks or approaching deadlines.
+
+								4. Integration and Interoperability: In the context of IT interoperability, the workflow management system facilitates seamless integration with various systems, databases, and applications involved in the digital public service. It enables the exchange of data and information between different systems, ensuring interoperability and data consistency. This integration may involve APIs, data mapping, data transformation, and data validation to ensure smooth data flow across systems.
+
+								5. Reporting and Analytics: The workflow management system generates comprehensive reports and analytics on the performance and efficiency of workflows. It provides insights into process bottlenecks, resource utilization, and compliance with predefined standards or service level agreements. These reports help in identifying areas for improvement, optimizing resource allocation, and enhancing the overall effectiveness of the digital public service.
+
+								6. Security and Compliance: Given the sensitive nature of public services, the workflow management system incorporates robust security measures to protect data privacy and ensure compliance with relevant regulations and policies. It may include access controls, encryption, audit trails, and secure data transmission protocols to safeguard information throughout the workflow lifecycle.
+
+								In summary, workflow management within the context of IT interoperability in a digital public service in the European Commission involves the systematic coordination, automation, and monitoring of tasks and activities to ensure efficient service delivery. It enables seamless collaboration, integration, and data exchange between different systems and stakeholders, while providing visibility, control, and analytics to optimize processes and enhance the overall effectiveness of the service.</td></tr><tr><td>skos:definition</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Workflow management within the context of IT interoperability in a digital public service at the European Commission refers to the systematic coordination and automation of tasks, activities, and processes involved in the delivery of public services. It involves the design, implementation, and monitoring of workflows to ensure efficient and effective collaboration between different systems, applications, and stakeholders. Workflow management enables seamless integration and exchange of data, information, and documents across various IT systems, ensuring smooth and streamlined operations, improved decision-making, and enhanced service delivery to citizens and businesses.</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">TVA-Orchestration Enablers [Motivation]</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">OV-Functional Architecture Principles</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational view [Motivation]</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">OV-Data Spaces</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational view</td></tr><tr><td>eira:eifLayer</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational</td></tr><tr><td>skos:broader</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/DigitalPublicBusinessService</td></tr>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-56938555f761473994f7afc2a26e359c">
+																	<td><a href="../views/id-56938555f761473994f7afc2a26e359c.html" target="view" title="Organisational view"> Organisational view </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+											<td><a href="../elements/id-774ed72f5460488897dd18743d847ccd.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-AggregationRelationship" /></td>
+											<td><a href="../elements/id-e6ab5537e6b74b828956c4376d3871dd.html" target="element"> Business Agnostic Digital Public Services Catalogue</a></td>
+											<td><a href="../elements/id-e9d9a86485854b0b892383dd41980094.html" target="element"> Workflow Management</a></td>
+										</tr>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Secure Access Control</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Secure Access Control</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessService"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessService" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Definition: Secure Access Control within the context of IT interoperability in a digital public service of the European Commission refers to the mechanism that ensures authorized and secure access to digital resources and services. It involves the implementation of robust authentication and authorization protocols to verify the identity of users and grant them appropriate levels of access based on their roles and permissions. This ensures that only authorized individuals can access sensitive information and perform specific actions, thereby safeguarding the confidentiality, integrity, and availability of digital services and data.
+
+Source: EIRA Team
+
+Additional information: Secure Access Control is a crucial component within the realm of IT interoperability, particularly in the context of a digital public service provided by the European Commission. It encompasses a comprehensive set of mechanisms and protocols that ensure the protection and controlled access to sensitive information and resources.
+
+At its core, Secure Access Control aims to authenticate and authorize individuals or entities attempting to access digital services, systems, or data. It establishes a robust framework that guarantees only authorized users can gain entry, preventing unauthorized access and potential security breaches. This is of utmost importance in the European Commission's digital public service, as it deals with a vast amount of sensitive data and resources.
+
+Authentication is the initial step in the Secure Access Control process. It involves verifying the identity of users or entities attempting to access the system. Various authentication methods can be employed, such as passwords, biometrics, smart cards, or digital certificates. These methods ensure that only legitimate users with valid credentials can proceed further.
+
+Once authentication is successful, the authorization phase comes into play. Authorization determines the level of access and privileges granted to authenticated users based on their roles, responsibilities, and permissions. This step ensures that users can only access the resources and perform actions that are relevant to their designated roles, preventing unauthorized activities and potential misuse of sensitive information.
+
+To achieve a robust Secure Access Control system, the European Commission's digital public service may implement a variety of mechanisms. Role-based access control (RBAC) is commonly employed, where access rights are assigned based on predefined roles within the organization. This approach simplifies access management by grouping users with similar responsibilities and granting them appropriate permissions.
+
+Additionally, attribute-based access control (ABAC) can be utilized, which considers various attributes such as user attributes, resource attributes, and environmental attributes to make access control decisions. ABAC provides a more flexible and dynamic approach to access control, allowing for fine-grained control over resource access based on specific conditions.
+
+Furthermore, Secure Access Control may incorporate multi-factor authentication (MFA) to enhance security. MFA requires users to provide multiple pieces of evidence to prove their identity, such as a combination of passwords, biometrics, or one-time passwords. This adds an extra layer of protection, making it significantly more challenging for unauthorized individuals to gain access.
+
+In the European Commission's digital public service, Secure Access Control also encompasses the concept of access logging and auditing. This involves recording and monitoring all access attempts, including successful and unsuccessful ones, to establish an audit trail. This audit trail can be utilized for forensic analysis, compliance purposes, and identifying potential security incidents or breaches.
+
+Overall, Secure Access Control within the context of IT interoperability in the European Commission's digital public service is a comprehensive framework that ensures the protection of sensitive information and resources. By implementing robust authentication, authorization, and access management mechanisms, it guarantees that only authorized individuals can access the system, mitigating the risk of unauthorized access and potential security threats.
+
+Example: One example of the application of Secure Access Control within the context of IT interoperability in a digital public service within the European Commission could be the authentication and authorization process for accessing sensitive data or services.
+
+In this scenario, Secure Access Control ensures that only authorized individuals or entities can access specific resources or perform certain actions within the digital public service. It involves the use of various security mechanisms such as user authentication, role-based access control, and encryption to protect the confidentiality, integrity, and availability of the data.
+
+For instance, when a user wants to access a specific dataset or service provided by the European Commission, they would need to authenticate themselves using a secure login process. This could involve providing a username and password, along with an additional factor of authentication such as a one-time password or a biometric verification.
+
+Once authenticated, the user's access privileges are determined based on their assigned role or permissions within the system. For example, a user with the role of "data analyst" may have read-only access to certain datasets, while a user with the role of "data administrator" may have full access and the ability to modify the data.
+
+Secure Access Control also ensures that data is transmitted securely between different systems or components involved in the digital public service. This can be achieved through the use of encryption protocols such as SSL/TLS, which encrypts the data during transmission to prevent unauthorized interception or tampering.
+
+Furthermore, Secure Access Control can also enforce fine-grained access control policies based on various attributes such as user location, time of access, or the sensitivity of the data being accessed. This helps in ensuring that only authorized users with a legitimate need can access specific resources, thereby minimizing the risk of data breaches or unauthorized disclosures.
+
+Overall, the application of Secure Access Control within the context of IT interoperability in a digital public service within the European Commission plays a crucial role in safeguarding sensitive data, protecting user privacy, and ensuring the integrity and availability of the services provided.
+
+LOST view: OV-Functional Architecture Principles
+
+Identifier: http://data.europa.eu/dr8/egovera/SecureAccessControlBusinessService
+
+ABB name: egovera:SecureAccessControlBusinessService
+
+EIRA concept: eira:ArchitectureBuildingBlock
+
+Last modification: 2023-11-20
+
+Identifier: http://data.europa.eu/dr8/egovera/SecureAccessControlBusinessService
+
+Name: Secure Access Control Digital Public Service
+
+Interoperability Layer: Organisational
+
+Specialises: http://data.europa.eu/dr8/DigitalPublicBusinessService
+
+</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr><td>eira:PURI</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/egovera/SecureAccessControlBusinessService</td></tr><tr><td>dct:modified</td><td class="convertlinks no-margin" style="white-space:pre-wrap">2023-11-20</td></tr><tr><td>dct:identifier</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/egovera/SecureAccessControlBusinessService</td></tr><tr><td>dct:title</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Secure Access Control Digital Public Service</td></tr><tr><td>dct:type</td><td class="convertlinks no-margin" style="white-space:pre-wrap">egovera:SecureAccessControlBusinessService</td></tr><tr><td>eira:definitionSource</td><td class="convertlinks no-margin" style="white-space:pre-wrap">EIRA Team</td></tr><tr><td>eira:definitionSourceReference</td><td class="convertlinks no-margin" style="white-space:pre-wrap"></td></tr><tr><td>skos:example</td><td class="convertlinks no-margin" style="white-space:pre-wrap">One example of the application of Secure Access Control within the context of IT interoperability in a digital public service within the European Commission could be the authentication and authorization process for accessing sensitive data or services.
+
+								In this scenario, Secure Access Control ensures that only authorized individuals or entities can access specific resources or perform certain actions within the digital public service. It involves the use of various security mechanisms such as user authentication, role-based access control, and encryption to protect the confidentiality, integrity, and availability of the data.
+
+								For instance, when a user wants to access a specific dataset or service provided by the European Commission, they would need to authenticate themselves using a secure login process. This could involve providing a username and password, along with an additional factor of authentication such as a one-time password or a biometric verification.
+
+								Once authenticated, the user's access privileges are determined based on their assigned role or permissions within the system. For example, a user with the role of "data analyst" may have read-only access to certain datasets, while a user with the role of "data administrator" may have full access and the ability to modify the data.
+
+								Secure Access Control also ensures that data is transmitted securely between different systems or components involved in the digital public service. This can be achieved through the use of encryption protocols such as SSL/TLS, which encrypts the data during transmission to prevent unauthorized interception or tampering.
+
+								Furthermore, Secure Access Control can also enforce fine-grained access control policies based on various attributes such as user location, time of access, or the sensitivity of the data being accessed. This helps in ensuring that only authorized users with a legitimate need can access specific resources, thereby minimizing the risk of data breaches or unauthorized disclosures.
+
+								Overall, the application of Secure Access Control within the context of IT interoperability in a digital public service within the European Commission plays a crucial role in safeguarding sensitive data, protecting user privacy, and ensuring the integrity and availability of the services provided.</td></tr><tr><td>eira:concept</td><td class="convertlinks no-margin" style="white-space:pre-wrap">eira:ArchitectureBuildingBlock</td></tr><tr><td>skos:note</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Secure Access Control is a crucial component within the realm of IT interoperability, particularly in the context of a digital public service provided by the European Commission. It encompasses a comprehensive set of mechanisms and protocols that ensure the protection and controlled access to sensitive information and resources.
+
+								At its core, Secure Access Control aims to authenticate and authorize individuals or entities attempting to access digital services, systems, or data. It establishes a robust framework that guarantees only authorized users can gain entry, preventing unauthorized access and potential security breaches. This is of utmost importance in the European Commission's digital public service, as it deals with a vast amount of sensitive data and resources.
+
+								Authentication is the initial step in the Secure Access Control process. It involves verifying the identity of users or entities attempting to access the system. Various authentication methods can be employed, such as passwords, biometrics, smart cards, or digital certificates. These methods ensure that only legitimate users with valid credentials can proceed further.
+
+								Once authentication is successful, the authorization phase comes into play. Authorization determines the level of access and privileges granted to authenticated users based on their roles, responsibilities, and permissions. This step ensures that users can only access the resources and perform actions that are relevant to their designated roles, preventing unauthorized activities and potential misuse of sensitive information.
+
+								To achieve a robust Secure Access Control system, the European Commission's digital public service may implement a variety of mechanisms. Role-based access control (RBAC) is commonly employed, where access rights are assigned based on predefined roles within the organization. This approach simplifies access management by grouping users with similar responsibilities and granting them appropriate permissions.
+
+								Additionally, attribute-based access control (ABAC) can be utilized, which considers various attributes such as user attributes, resource attributes, and environmental attributes to make access control decisions. ABAC provides a more flexible and dynamic approach to access control, allowing for fine-grained control over resource access based on specific conditions.
+
+								Furthermore, Secure Access Control may incorporate multi-factor authentication (MFA) to enhance security. MFA requires users to provide multiple pieces of evidence to prove their identity, such as a combination of passwords, biometrics, or one-time passwords. This adds an extra layer of protection, making it significantly more challenging for unauthorized individuals to gain access.
+
+								In the European Commission's digital public service, Secure Access Control also encompasses the concept of access logging and auditing. This involves recording and monitoring all access attempts, including successful and unsuccessful ones, to establish an audit trail. This audit trail can be utilized for forensic analysis, compliance purposes, and identifying potential security incidents or breaches.
+
+								Overall, Secure Access Control within the context of IT interoperability in the European Commission's digital public service is a comprehensive framework that ensures the protection of sensitive information and resources. By implementing robust authentication, authorization, and access management mechanisms, it guarantees that only authorized individuals can access the system, mitigating the risk of unauthorized access and potential security threats.</td></tr><tr><td>skos:definition</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Secure Access Control within the context of IT interoperability in a digital public service of the European Commission refers to the mechanism that ensures authorized and secure access to digital resources and services. It involves the implementation of robust authentication and authorization protocols to verify the identity of users and grant them appropriate levels of access based on their roles and permissions. This ensures that only authorized individuals can access sensitive information and perform specific actions, thereby safeguarding the confidentiality, integrity, and availability of digital services and data.</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">OV-Functional Architecture Principles</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational view [Motivation]</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">OV-Data Spaces</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational view</td></tr><tr><td>eira:eifLayer</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational</td></tr><tr><td>skos:broader</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/DigitalPublicBusinessService</td></tr>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-56938555f761473994f7afc2a26e359c">
+																	<td><a href="../views/id-56938555f761473994f7afc2a26e359c.html" target="view" title="Organisational view"> Organisational view </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+											<td><a href="../elements/id-5a5b13811403491aaddfb18952a5fd11.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-AggregationRelationship" /></td>
+											<td><a href="../elements/id-e6ab5537e6b74b828956c4376d3871dd.html" target="element"> Business Agnostic Digital Public Services Catalogue</a></td>
+											<td><a href="../elements/id-3db195224b094f879fe657d7bea27dde.html" target="element"> Secure Access Control</a></td>
+										</tr>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

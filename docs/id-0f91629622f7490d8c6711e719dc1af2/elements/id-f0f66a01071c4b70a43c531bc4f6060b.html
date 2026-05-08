@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Data Quality</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Data Quality</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessObject"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessObject" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Definition: Data Quality is the state of qualitative or quantitative pieces of information.
+
+Source: WikiPedia
+
+Source reference: https://en.wikipedia.org/wiki/Data_quality
+
+Additional information: Data quality refers to the accuracy, completeness, consistency, timeliness, and relevance of data. It is a crucial element or component of information within the European IT context, where data plays a significant role in various industries and sectors. In this context, data quality is of utmost importance as it directly impacts decision-making, business operations, regulatory compliance, and overall organizational performance.
+
+Accuracy refers to the correctness and precision of data. High-quality data is free from errors, inconsistencies, and inaccuracies. It reflects the reality it represents and can be relied upon for analysis and decision-making. In the European IT context, accurate data is essential for ensuring compliance with regulations, such as the General Data Protection Regulation (GDPR), which requires organizations to maintain accurate and up-to-date personal data.
+
+Completeness refers to the extent to which data captures all relevant information. Complete data includes all necessary attributes, fields, and values required for a specific purpose or analysis. In the European IT context, complete data is crucial for activities such as customer profiling, risk assessment, and reporting, as it ensures that all relevant information is considered and analyzed.
+
+Consistency refers to the uniformity and coherence of data across different sources, systems, and time periods. Consistent data ensures that there are no contradictions or discrepancies when integrating or comparing data from various sources. In the European IT context, consistency is vital for data integration, data sharing, and data exchange between organizations, systems, and countries.
+
+Timeliness refers to the availability of data when needed. Timely data is up-to-date and reflects the most recent information. In the European IT context, timely data is crucial for real-time decision-making, monitoring, and reporting. For example, financial institutions require timely data for accurate risk assessment and regulatory reporting.
+
+Relevance refers to the suitability and applicability of data for a specific purpose or analysis. Relevant data is aligned with the objectives and requirements of the intended use. In the European IT context, relevant data ensures that organizations focus on collecting and analyzing the data that is necessary for their operations, compliance, and strategic decision-making.
+
+In summary, data quality in the European IT context encompasses accuracy, completeness, consistency, timeliness, and relevance. It is essential for organizations to ensure that their data meets these criteria to enable effective decision-making, regulatory compliance, and overall operational excellence.
+
+Example: Data Quality is a crucial element or component of information in various applications within the European IT context. Here are a few examples:
+
+1. Customer Relationship Management (CRM) Systems: In CRM systems, data quality ensures that customer information is accurate, complete, and up-to-date. This includes validating customer contact details, eliminating duplicate records, and ensuring data consistency across different modules or databases. High data quality in CRM systems enables businesses to provide personalized and targeted marketing campaigns, improve customer service, and make informed business decisions.
+
+2. Business Intelligence and Analytics: Data quality plays a vital role in business intelligence and analytics applications. It ensures that the data used for analysis is reliable, consistent, and accurate. This involves data cleansing, standardization, and validation processes to remove any inconsistencies, errors, or outliers. High data quality in these applications enables organizations to derive meaningful insights, make data-driven decisions, and identify trends or patterns that can drive business growth.
+
+3. Regulatory Compliance: Data quality is essential for organizations operating within the European IT context to comply with various regulations such as the General Data Protection Regulation (GDPR). GDPR requires organizations to ensure the accuracy, integrity, and confidentiality of personal data. Data quality processes help in identifying and rectifying any inaccuracies or inconsistencies in personal data, ensuring compliance with GDPR and avoiding potential penalties.
+
+4. E-commerce and Online Transactions: Data quality is critical in e-commerce applications to ensure smooth and secure online transactions. It involves validating customer payment information, verifying shipping addresses, and detecting fraudulent activities. High data quality in these applications helps in preventing errors, reducing transaction failures, and enhancing customer trust and satisfaction.
+
+5. Supply Chain Management: In supply chain management, data quality is essential for accurate inventory management, demand forecasting, and logistics planning. It involves validating and cleansing data related to product codes, quantities, suppliers, and delivery schedules. High data quality in supply chain management applications enables organizations to optimize their operations, reduce costs, and improve customer service by ensuring timely and accurate deliveries.
+
+Overall, data quality is a fundamental aspect of information management within the European IT context, enabling organizations to leverage accurate and reliable data for various applications, comply with regulations, and drive business success.
+
+LOST view: OV-Functional Architecture Principles
+
+Identifier: http://data.europa.eu/dr8/egovera/DataQualityBusinessObject
+
+ABB name: egovera:DataQualityBusinessObject
+
+EIRA concept: eira:ArchitectureBuildingBlock
+
+Last modification: 2023-11-20
+
+Identifier: http://data.europa.eu/dr8/egovera/DataQualityBusinessObject
+
+Name: Data Quality Information
+
+Interoperability Layer: Organisational
+
+Specialises: http://data.europa.eu/dr8/InformationBusinessObject
+
+</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr><td>eira:PURI</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/egovera/DataQualityBusinessObject</td></tr><tr><td>dct:modified</td><td class="convertlinks no-margin" style="white-space:pre-wrap">2023-11-20</td></tr><tr><td>dct:identifier</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/egovera/DataQualityBusinessObject</td></tr><tr><td>dct:type</td><td class="convertlinks no-margin" style="white-space:pre-wrap">egovera:DataQualityBusinessObject</td></tr><tr><td>dct:title</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Data Quality Information</td></tr><tr><td>eira:definitionSource</td><td class="convertlinks no-margin" style="white-space:pre-wrap">WikiPedia</td></tr><tr><td>eira:definitionSourceReference</td><td class="convertlinks no-margin" style="white-space:pre-wrap">https://en.wikipedia.org/wiki/Data_quality</td></tr><tr><td>skos:example</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Data Quality is a crucial element or component of information in various applications within the European IT context. Here are a few examples:
+
+								1. Customer Relationship Management (CRM) Systems: In CRM systems, data quality ensures that customer information is accurate, complete, and up-to-date. This includes validating customer contact details, eliminating duplicate records, and ensuring data consistency across different modules or databases. High data quality in CRM systems enables businesses to provide personalized and targeted marketing campaigns, improve customer service, and make informed business decisions.
+
+								2. Business Intelligence and Analytics: Data quality plays a vital role in business intelligence and analytics applications. It ensures that the data used for analysis is reliable, consistent, and accurate. This involves data cleansing, standardization, and validation processes to remove any inconsistencies, errors, or outliers. High data quality in these applications enables organizations to derive meaningful insights, make data-driven decisions, and identify trends or patterns that can drive business growth.
+
+								3. Regulatory Compliance: Data quality is essential for organizations operating within the European IT context to comply with various regulations such as the General Data Protection Regulation (GDPR). GDPR requires organizations to ensure the accuracy, integrity, and confidentiality of personal data. Data quality processes help in identifying and rectifying any inaccuracies or inconsistencies in personal data, ensuring compliance with GDPR and avoiding potential penalties.
+
+								4. E-commerce and Online Transactions: Data quality is critical in e-commerce applications to ensure smooth and secure online transactions. It involves validating customer payment information, verifying shipping addresses, and detecting fraudulent activities. High data quality in these applications helps in preventing errors, reducing transaction failures, and enhancing customer trust and satisfaction.
+
+								5. Supply Chain Management: In supply chain management, data quality is essential for accurate inventory management, demand forecasting, and logistics planning. It involves validating and cleansing data related to product codes, quantities, suppliers, and delivery schedules. High data quality in supply chain management applications enables organizations to optimize their operations, reduce costs, and improve customer service by ensuring timely and accurate deliveries.
+
+								Overall, data quality is a fundamental aspect of information management within the European IT context, enabling organizations to leverage accurate and reliable data for various applications, comply with regulations, and drive business success.</td></tr><tr><td>eira:concept</td><td class="convertlinks no-margin" style="white-space:pre-wrap">eira:ArchitectureBuildingBlock</td></tr><tr><td>skos:note</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Data quality refers to the accuracy, completeness, consistency, timeliness, and relevance of data. It is a crucial element or component of information within the European IT context, where data plays a significant role in various industries and sectors. In this context, data quality is of utmost importance as it directly impacts decision-making, business operations, regulatory compliance, and overall organizational performance.
+
+								Accuracy refers to the correctness and precision of data. High-quality data is free from errors, inconsistencies, and inaccuracies. It reflects the reality it represents and can be relied upon for analysis and decision-making. In the European IT context, accurate data is essential for ensuring compliance with regulations, such as the General Data Protection Regulation (GDPR), which requires organizations to maintain accurate and up-to-date personal data.
+
+								Completeness refers to the extent to which data captures all relevant information. Complete data includes all necessary attributes, fields, and values required for a specific purpose or analysis. In the European IT context, complete data is crucial for activities such as customer profiling, risk assessment, and reporting, as it ensures that all relevant information is considered and analyzed.
+
+								Consistency refers to the uniformity and coherence of data across different sources, systems, and time periods. Consistent data ensures that there are no contradictions or discrepancies when integrating or comparing data from various sources. In the European IT context, consistency is vital for data integration, data sharing, and data exchange between organizations, systems, and countries.
+
+								Timeliness refers to the availability of data when needed. Timely data is up-to-date and reflects the most recent information. In the European IT context, timely data is crucial for real-time decision-making, monitoring, and reporting. For example, financial institutions require timely data for accurate risk assessment and regulatory reporting.
+
+								Relevance refers to the suitability and applicability of data for a specific purpose or analysis. Relevant data is aligned with the objectives and requirements of the intended use. In the European IT context, relevant data ensures that organizations focus on collecting and analyzing the data that is necessary for their operations, compliance, and strategic decision-making.
+
+								In summary, data quality in the European IT context encompasses accuracy, completeness, consistency, timeliness, and relevance. It is essential for organizations to ensure that their data meets these criteria to enable effective decision-making, regulatory compliance, and overall operational excellence.</td></tr><tr><td>skos:definition</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Data Quality is the state of qualitative or quantitative pieces of information.</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">OV-Functional Architecture Principles</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational view [Motivation]</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">OV-Data Spaces [Motivation]</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">OV-Data Spaces</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">SV-Business Agnostic Metadata</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">SV-Business Agnostic High Value Dataset</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">SV-Agnostic Ontologies</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">SV-Agnostic Vocabularies</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">SV-Data Mapping</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">SV-Agnostic Reference Data</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">SV-Datasets Catalogue Solutions</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">SV-Business Agnostic Data Models</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Semantic view - Motivation</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational view</td></tr><tr><td>eira:eifLayer</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational</td></tr><tr><td>skos:broader</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/InformationBusinessObject</td></tr>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-56938555f761473994f7afc2a26e359c">
+																	<td><a href="../views/id-56938555f761473994f7afc2a26e359c.html" target="view" title="Organisational view"> Organisational view </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+											<td><a href="../elements/id-02b40cd26358409aab1ea01a0c5212f6.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-AggregationRelationship" /></td>
+											<td><a href="../elements/id-6c0de37c062e435e96040cb22c9b0d6c.html" target="element"> Business Agnostic Business Information Base</a></td>
+											<td><a href="../elements/id-f0f66a01071c4b70a43c531bc4f6060b.html" target="element"> Data Quality</a></td>
+										</tr>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
