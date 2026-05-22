@@ -9,6 +9,8 @@ The models are built by the working group or derived from open documentations, b
 
 :rotating_light: **Remember, all models are wrong but some are useful** (https://www.linkedin.com/posts/ghohpe_the-secret-to-software-architecture-is-knowing-activity-7401255011059625984-_fv0/ https://archive.learnwardleymapping.com/book.html)
 
+a read only view can be found at https://swiss.github.io/dps-architecture-work-group/
+
 ## How to collaborate with Archimate
 
 Install the recent version of Archi: https://www.archimatetool.com/download/
