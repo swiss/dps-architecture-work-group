@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omni-channel"
+    id="id-138a4ec3665b48c0b74f17a824876e28"
+    strength="+">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-8cf8d5b862494478ac0276e55cdd7f53.xml#id-8cf8d5b862494478ac0276e55cdd7f53"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-699efd97ae4348299d760da2e56413ea.xml#id-699efd97ae4348299d760da2e56413ea"/>
+</archimate:InfluenceRelationship>
