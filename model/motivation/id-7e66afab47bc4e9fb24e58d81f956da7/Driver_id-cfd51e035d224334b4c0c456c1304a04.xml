@@ -15,9 +15,15 @@
       key="ISO639_fr:Name"
       value="Capacité d’adaptation innovante"/>
   <properties
-      key="ISO639_en:Name"
-      value="Innovation, EIRA ELAP"/>
+      key="eCH-0279-Architekturvision-2050"
+      value="5.1"/>
   <properties
-      key="ISO639_en:Documentation-Link"
-      value="https://interoperable-europe.ec.europa.eu/collection/common-assessment-method-standards-and-specifications-camss/solution/elap/innovation"/>
+      key="Version"
+      value="eCH-0279"/>
+  <properties
+      key="dct:title"
+      value="Architecture Decision Record about Adaptability"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AdaptabilityGoal"/>
 </archimate:Driver>
