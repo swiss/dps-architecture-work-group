@@ -717,4 +717,17 @@
         width="121"
         height="22"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4230dff9cdce4f678d70c71f7b5a78c3"
+      textAlignment="1">
+    <bounds
+        x="141"
+        y="453"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-a4a8dff9e9334f4b8ad01eb11fbf1c3d.xml#id-a4a8dff9e9334f4b8ad01eb11fbf1c3d"/>
+  </children>
 </archimate:ArchimateDiagramModel>
