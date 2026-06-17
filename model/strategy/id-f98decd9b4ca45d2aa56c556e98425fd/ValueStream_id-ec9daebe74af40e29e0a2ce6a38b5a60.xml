@@ -5,5 +5,27 @@
     documentation="S78&#xA;">
   <properties
       key="Version"
-      value="eCH-0122-2"/>
+      value="eCH-0123-2-1"/>
+  <properties
+      key="Stereotyp"
+      value="StrategyValuestream"/>
+  <properties
+      key="ISO639_de:Name"
+      value="E-Gov-Arch-Fachlicher-Prozess Geschäftsabwicklung (Value Chain)"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Arch-Cyber-Admin-processus-métier traitement des affaires (Value Chain)"/>
+  <properties
+      key="ISO639_de:Documentation-Link"/>
+  <properties
+      key="ISO639_de:Documentation"
+      value="Das Verwaltungsverfahren wird als generischer Prozess resp. als generische Wertschöpfungskette abgebildet. Die Prozessschritte – jeweils aus Sicht der Leistungserbringer (Verwaltung bzw. Verwaltungseinheit) und Leistungsbezüger (Bevölkerung und Unternehmen) – sind bei der Wertschöpfung in fachliche Funktionen gegliedert. Der vorliegende Standard betrachtet die gesamte Wertschöpfungskette. "/>
+  <properties
+      key="ISO639_fr:Documentation-Link"/>
+  <properties
+      key="ISO639_fr:Documentation"
+      value="La procédure administrative est représentée comme un processus générique ou une chaîne de création de valeur générique. Les étapes de processus – toujours du point de vue du fournisseur de prestations (administration ou unité administrative) et du bénéficiaire de prestations (population et entreprises) – ont été divisées en fonctions techniques pour la création de valeur. La présente norme considère la chaîne de création de valeur dans son ensemble."/>
+  <properties
+      key="eCH-0123-2-1-E-Gov-Arch-Fachlicher-Prozess"
+      value="3."/>
 </archimate:ValueStream>
