@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Kundenfallverwaltung</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Kundenfallverwaltung</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessService"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessService" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-f0e95b238cfa484eae7b36ea62a7bbdd">
+																	<td><a href="../views/id-f0e95b238cfa484eae7b36ea62a7bbdd.html" target="view" title="Portale Gesch&#228;ftsarchitektur Kundenfall Eventstorming Ausstellung eines Fischereipatents"> Portale Gesch&#228;ftsarchitektur Kundenfall Eventstorming Ausstellung eines Fischereipatents </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-id-d14dc33cc2a149a48e5331e74d2b8e11">
+																	<td><a href="../views/id-d14dc33cc2a149a48e5331e74d2b8e11.html" target="view" title="Portale Gesch&#228;ftsarchitektur Kundenfall"> Portale Gesch&#228;ftsarchitektur Kundenfall </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-id-4f02e74871134401bcdcafe43de318a5">
+																	<td><a href="../views/id-4f02e74871134401bcdcafe43de318a5.html" target="view" title="Portale Gesch&#228;ftsarchitektur Kundenfall Eventstorming Ausstellung eines Fischereipatents (komplexe Darstellung)"> Portale Gesch&#228;ftsarchitektur Kundenfall Eventstorming Ausstellung eines Fischereipatents (komplexe Darstellung) </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr><tr id="used-in-views-id-bb5a931d5c5d4c348dbda3137972dc26">
+																	<td><a href="../views/id-bb5a931d5c5d4c348dbda3137972dc26.html" target="view" title="Portale Gesch&#228;ftsarchitektur Kundenfall Eventstorming"> Portale Gesch&#228;ftsarchitektur Kundenfall Eventstorming </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+											<td><a href="../elements/id-dc04c495b469479f85688dd8d117da79.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-TriggeringRelationship" /></td>
+											<td><a href="../elements/id-01e43c0c2ae646aa9299c99ac0767f11.html" target="element"> Kundenfallverwaltung</a></td>
+											<td><a href="../elements/id-1d8444cfe241405f8cab262145840eab.html" target="element"> Kundenfall er&#246;ffnet</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-d89a5e65739c423fbf26e582a049eda1.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-TriggeringRelationship" /></td>
+											<td><a href="../elements/id-01e43c0c2ae646aa9299c99ac0767f11.html" target="element"> Kundenfallverwaltung</a></td>
+											<td><a href="../elements/id-4f44cd760d034d04b9c7a1b1e82ac951.html" target="element"> Kundenfall Fischereipatent f&#252;r Fritz Fischer er&#246;ffnet</a></td>
+										</tr>
+									<tr>
+											<td><a href="../elements/id-356109e7f3e444158a618533d8ef3f6b.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-CompositionRelationship" /></td>
+											<td><a href="../elements/id-61dd925ebe4945969f2485b02b307d2c.html" target="element"> Kundenschalter</a></td>
+											<td><a href="../elements/id-01e43c0c2ae646aa9299c99ac0767f11.html" target="element"> Kundenfallverwaltung</a></td>
+										</tr><tr>
+											<td><a href="../elements/id-de2330a57a7043a78ac7b1072975f128.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-ServingRelationship" /></td>
+											<td><a href="../elements/id-1d8444cfe241405f8cab262145840eab.html" target="element"> Kundenfall er&#246;ffnet</a></td>
+											<td><a href="../elements/id-01e43c0c2ae646aa9299c99ac0767f11.html" target="element"> Kundenfallverwaltung</a></td>
+										</tr>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Compliance Testing</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Compliance Testing</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessService"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessService" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Definition: A business service focused on evaluating and verifying the compliance of digital solutions, applications, or systems with specified standards, regulations, or requirements. It involves conducting tests, assessments, or audits to ensure that the solution conforms to the defined criteria and meets the desired compliance objectives. This service helps to identify and mitigate potential risks, ensure regulatory compliance, and enhance the overall quality and trustworthiness of the solution.
+
+Source: National Institute of Standards and Technology (NIST)
+
+Source reference: https://www.nist.gov/itl/ssd/software-quality-group/conformance-testing
+
+Additional information: Compliance testing, within the context of IT interoperability in a digital public service in the European Commission, refers to the process of evaluating and verifying whether a system, software, or technology adheres to predefined standards, regulations, and specifications. It ensures that the digital service complies with the established guidelines and requirements set by the European Commission or other relevant regulatory bodies.
+
+The primary objective of compliance testing is to ensure that the digital public service operates seamlessly, securely, and efficiently within the larger ecosystem of interconnected systems and services. It aims to guarantee that the service can effectively communicate, exchange data, and interact with other systems, both within the European Commission and with external entities.
+
+Compliance testing involves a comprehensive assessment of various aspects of the digital public service, including its functionality, performance, security, and compatibility. It encompasses both technical and non-technical evaluations to ensure that the service meets the necessary standards and regulations.
+
+The process typically begins with the identification of applicable standards and regulations that the digital service must comply with. These may include legal requirements, technical specifications, industry standards, and interoperability frameworks established by the European Commission or other relevant authorities.
+
+Once the standards and regulations are identified, compliance testing involves conducting a series of tests and evaluations to assess the service's adherence to these requirements. This may involve functional testing to verify that the service performs its intended tasks correctly, performance testing to assess its responsiveness and scalability, security testing to identify vulnerabilities and ensure data protection, and compatibility testing to ensure seamless integration with other systems.
+
+Compliance testing may also involve conducting interoperability testing, which focuses on verifying the service's ability to exchange data and interact with other systems. This includes testing the service's compatibility with different platforms, protocols, data formats, and communication interfaces. Interoperability testing ensures that the digital service can effectively collaborate and interoperate with other systems, enabling seamless data exchange and communication.
+
+The compliance testing process is typically carried out by a dedicated team of experts who possess in-depth knowledge of the relevant standards, regulations, and technical aspects of the digital service. They employ a variety of testing techniques, tools, and methodologies to thoroughly assess the service's compliance.
+
+The results of compliance testing are documented in detailed reports, which highlight any non-compliance issues, vulnerabilities, or areas for improvement. These reports serve as a basis for remediation efforts, where necessary, to address any identified shortcomings and ensure that the digital public service meets the required standards and regulations.
+
+Overall, compliance testing plays a crucial role in ensuring the reliability, security, and interoperability of digital public services within the European Commission. By verifying adherence to established standards and regulations, it helps to build trust, enhance user experience, and promote seamless collaboration and data exchange within the digital ecosystem.
+
+Example: Compliance testing plays a crucial role in ensuring IT interoperability within digital public services in the European Commission. Here are a few examples of its application:
+
+1. Data Exchange Standards: Compliance testing is used to verify that data exchange standards, such as XML or JSON schemas, are correctly implemented across different systems. It ensures that data can be exchanged seamlessly between various components of the digital public service, promoting interoperability.
+
+2. API Compatibility: Compliance testing is employed to validate that application programming interfaces (APIs) adhere to predefined standards and specifications. It ensures that different software components can communicate effectively, enabling interoperability between various systems and services.
+
+3. Security and Privacy Compliance: Compliance testing is utilized to assess whether the digital public service complies with security and privacy regulations, such as the General Data Protection Regulation (GDPR). It verifies that the service handles personal data securely and respects individuals' privacy rights, promoting interoperability while maintaining data protection standards.
+
+4. Accessibility Compliance: Compliance testing is employed to ensure that the digital public service is accessible to all users, including those with disabilities. It verifies adherence to accessibility standards, such as the Web Content Accessibility Guidelines (WCAG), enabling interoperability by providing equal access to services for all individuals.
+
+5. Interoperability Framework Compliance: Compliance testing is used to validate adherence to the European Interoperability Framework (EIF). It ensures that the digital public service aligns with the principles and standards defined by the EIF, promoting interoperability across different systems and services within the European Commission.
+
+6. Cross-Border Interoperability: Compliance testing is applied to verify that the digital public service can seamlessly interact with similar services in other European Union member states. It ensures that cross-border interoperability is achieved, enabling the exchange of data and services between different countries while maintaining compliance with relevant regulations and standards.
+
+Overall, compliance testing within the context of IT interoperability in the European Commission's digital public service ensures that systems, data exchange, security, accessibility, and cross-border interactions adhere to predefined standards, promoting seamless interoperability and efficient service delivery.
+
+LOST view: TVA-Test Enablers [Motivation]
+
+Identifier: http://data.europa.eu/dr8/egovera/ComplianceTestingBusinessService
+
+ABB name: egovera:ComplianceTestingBusinessService
+
+EIRA concept: eira:ArchitectureBuildingBlock
+
+Last modification: 2023-11-20
+
+Identifier: http://data.europa.eu/dr8/egovera/ComplianceTestingBusinessService
+
+Name: Compliance Testing Digital Public Service
+
+Interoperability Layer: Organisational
+
+Specialises: http://data.europa.eu/dr8/DigitalPublicBusinessService
+
+</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr><td>eira:PURI</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/egovera/ComplianceTestingBusinessService</td></tr><tr><td>dct:modified</td><td class="convertlinks no-margin" style="white-space:pre-wrap">2023-11-20</td></tr><tr><td>dct:identifier</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/egovera/ComplianceTestingBusinessService</td></tr><tr><td>dct:title</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Compliance Testing Digital Public Service</td></tr><tr><td>dct:type</td><td class="convertlinks no-margin" style="white-space:pre-wrap">egovera:ComplianceTestingBusinessService</td></tr><tr><td>eira:definitionSource</td><td class="convertlinks no-margin" style="white-space:pre-wrap">National Institute of Standards and Technology (NIST)</td></tr><tr><td>eira:definitionSourceReference</td><td class="convertlinks no-margin" style="white-space:pre-wrap">https://www.nist.gov/itl/ssd/software-quality-group/conformance-testing</td></tr><tr><td>skos:example</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Compliance testing plays a crucial role in ensuring IT interoperability within digital public services in the European Commission. Here are a few examples of its application:
+
+								1. Data Exchange Standards: Compliance testing is used to verify that data exchange standards, such as XML or JSON schemas, are correctly implemented across different systems. It ensures that data can be exchanged seamlessly between various components of the digital public service, promoting interoperability.
+
+								2. API Compatibility: Compliance testing is employed to validate that application programming interfaces (APIs) adhere to predefined standards and specifications. It ensures that different software components can communicate effectively, enabling interoperability between various systems and services.
+
+								3. Security and Privacy Compliance: Compliance testing is utilized to assess whether the digital public service complies with security and privacy regulations, such as the General Data Protection Regulation (GDPR). It verifies that the service handles personal data securely and respects individuals' privacy rights, promoting interoperability while maintaining data protection standards.
+
+								4. Accessibility Compliance: Compliance testing is employed to ensure that the digital public service is accessible to all users, including those with disabilities. It verifies adherence to accessibility standards, such as the Web Content Accessibility Guidelines (WCAG), enabling interoperability by providing equal access to services for all individuals.
+
+								5. Interoperability Framework Compliance: Compliance testing is used to validate adherence to the European Interoperability Framework (EIF). It ensures that the digital public service aligns with the principles and standards defined by the EIF, promoting interoperability across different systems and services within the European Commission.
+
+								6. Cross-Border Interoperability: Compliance testing is applied to verify that the digital public service can seamlessly interact with similar services in other European Union member states. It ensures that cross-border interoperability is achieved, enabling the exchange of data and services between different countries while maintaining compliance with relevant regulations and standards.
+
+								Overall, compliance testing within the context of IT interoperability in the European Commission's digital public service ensures that systems, data exchange, security, accessibility, and cross-border interactions adhere to predefined standards, promoting seamless interoperability and efficient service delivery.</td></tr><tr><td>eira:concept</td><td class="convertlinks no-margin" style="white-space:pre-wrap">eira:ArchitectureBuildingBlock</td></tr><tr><td>skos:note</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Compliance testing, within the context of IT interoperability in a digital public service in the European Commission, refers to the process of evaluating and verifying whether a system, software, or technology adheres to predefined standards, regulations, and specifications. It ensures that the digital service complies with the established guidelines and requirements set by the European Commission or other relevant regulatory bodies.
+
+								The primary objective of compliance testing is to ensure that the digital public service operates seamlessly, securely, and efficiently within the larger ecosystem of interconnected systems and services. It aims to guarantee that the service can effectively communicate, exchange data, and interact with other systems, both within the European Commission and with external entities.
+
+								Compliance testing involves a comprehensive assessment of various aspects of the digital public service, including its functionality, performance, security, and compatibility. It encompasses both technical and non-technical evaluations to ensure that the service meets the necessary standards and regulations.
+
+								The process typically begins with the identification of applicable standards and regulations that the digital service must comply with. These may include legal requirements, technical specifications, industry standards, and interoperability frameworks established by the European Commission or other relevant authorities.
+
+								Once the standards and regulations are identified, compliance testing involves conducting a series of tests and evaluations to assess the service's adherence to these requirements. This may involve functional testing to verify that the service performs its intended tasks correctly, performance testing to assess its responsiveness and scalability, security testing to identify vulnerabilities and ensure data protection, and compatibility testing to ensure seamless integration with other systems.
+
+								Compliance testing may also involve conducting interoperability testing, which focuses on verifying the service's ability to exchange data and interact with other systems. This includes testing the service's compatibility with different platforms, protocols, data formats, and communication interfaces. Interoperability testing ensures that the digital service can effectively collaborate and interoperate with other systems, enabling seamless data exchange and communication.
+
+								The compliance testing process is typically carried out by a dedicated team of experts who possess in-depth knowledge of the relevant standards, regulations, and technical aspects of the digital service. They employ a variety of testing techniques, tools, and methodologies to thoroughly assess the service's compliance.
+
+								The results of compliance testing are documented in detailed reports, which highlight any non-compliance issues, vulnerabilities, or areas for improvement. These reports serve as a basis for remediation efforts, where necessary, to address any identified shortcomings and ensure that the digital public service meets the required standards and regulations.
+
+								Overall, compliance testing plays a crucial role in ensuring the reliability, security, and interoperability of digital public services within the European Commission. By verifying adherence to established standards and regulations, it helps to build trust, enhance user experience, and promote seamless collaboration and data exchange within the digital ecosystem.</td></tr><tr><td>skos:definition</td><td class="convertlinks no-margin" style="white-space:pre-wrap">A business service focused on evaluating and verifying the compliance of digital solutions, applications, or systems with specified standards, regulations, or requirements. It involves conducting tests, assessments, or audits to ensure that the solution conforms to the defined criteria and meets the desired compliance objectives. This service helps to identify and mitigate potential risks, ensure regulatory compliance, and enhance the overall quality and trustworthiness of the solution.</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">TVA-Test Enablers [Motivation]</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">OV-Functional Architecture Principles</td></tr><tr><td>eira:view</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational view</td></tr><tr><td>eira:eifLayer</td><td class="convertlinks no-margin" style="white-space:pre-wrap">Organisational</td></tr><tr><td>skos:broader</td><td class="convertlinks no-margin" style="white-space:pre-wrap">http://data.europa.eu/dr8/DigitalPublicBusinessService</td></tr>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-56938555f761473994f7afc2a26e359c">
+																	<td><a href="../views/id-56938555f761473994f7afc2a26e359c.html" target="view" title="Organisational view"> Organisational view </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+									<tr>
+											<td><a href="../elements/id-78f6d77fabb24e4eb19205867f5b0667.html" target="element" title=""></a></td>
+											<td><span class="i18n-elementtype-AggregationRelationship" /></td>
+											<td><a href="../elements/id-e6ab5537e6b74b828956c4376d3871dd.html" target="element"> Business Agnostic Digital Public Services Catalogue</a></td>
+											<td><a href="../elements/id-e69813dc0c5b4296a526703f26ccbbe5.html" target="element"> Compliance Testing</a></td>
+										</tr>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
