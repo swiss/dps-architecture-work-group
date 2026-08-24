@@ -4,20 +4,26 @@
     id="id-e634717bc11245b7b464e57f35ee79f8">
   <properties
       key="ISO639_de:Name"
-      value="Bedarfsgerechte und koordinierte Kommunikationskanäle (omni-channel)"/>
+      value="Information steht im Zentrum "/>
   <properties
       key="ISO639_de:Documentation-Link"
-      value="https://github.com/swiss/dps-architecture-work-group/wiki/WIPA_d_DEF_2024-04-12_eCH-0279_V1.0.0_Architekturvision_2050#bedarfsgerechte-und-koordinierte-kommunikationskan%C3%A4le-omni-channel-"/>
+      value="https://github.com/swiss/dps-architecture-work-group/wiki/WIPA_d_DEF_2024-04-12_eCH-0279_V1.0.0_Architekturvision_2050#information-steht-im-zentrum-"/>
   <properties
       key="ISO639_fr:Documentation-Link"
-      value="https://github.com/swiss/dps-architecture-work-group/wiki/WIPA_f_DEF_2024-04-12_eCH-0279_V1.0.0_Vision-de-l%E2%80%99architecture-2050#canaux-de-communication-coordonn%C3%A9s-et-adapt%C3%A9s-aux-besoins-omni-channel"/>
+      value="https://github.com/swiss/dps-architecture-work-group/wiki/WIPA_f_DEF_2024-04-12_eCH-0279_V1.0.0_Vision-de-l%E2%80%99architecture-2050#priorit%C3%A9-%C3%A0-linformation"/>
   <properties
       key="ISO639_fr:Name"
-      value="Canaux de communication coordonnés et adaptés aux besoins (omni-channel)"/>
+      value="Priorité à l’information"/>
   <properties
-      key="ISO639_en:Name"
-      value="omni-channel, EIRA Digital Exchange"/>
+      key="eCH-0279-Architekturvision-2050"
+      value="5.1"/>
   <properties
-      key="ISO639_en:Documentation-Link"
-      value="https://interoperable-europe.ec.europa.eu/taxonomy/term/18197"/>
+      key="Version"
+      value="eCH-0279"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/AchieveSemanticInteroperabilityGoal"/>
+  <properties
+      key="dct:title"
+      value="Achieve Semantic Interoperability"/>
 </archimate:Driver>

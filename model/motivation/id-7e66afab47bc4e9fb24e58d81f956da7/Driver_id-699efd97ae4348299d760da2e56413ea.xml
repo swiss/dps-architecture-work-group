@@ -15,9 +15,15 @@
       key="ISO639_fr:Name"
       value="Canaux de communication coordonnés et adaptés aux besoins (omni-channel)"/>
   <properties
-      key="ISO639_en:Name"
-      value="omni-channel, EIRA Digital Exchange"/>
+      key="eCH-0279-Architekturvision-2050"
+      value="5.1"/>
   <properties
-      key="ISO639_en:Documentation-Link"
-      value="https://interoperable-europe.ec.europa.eu/taxonomy/term/18197"/>
+      key="Version"
+      value="eCH-0279"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/egovera/DigitalExchangeCapability"/>
+  <properties
+      key="dct:title"
+      value="Digital Exchange Digital Business Capability"/>
 </archimate:Driver>

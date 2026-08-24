@@ -15,9 +15,15 @@
       key="ISO639_fr:Name"
       value="L’interopérabilité passe par la réglementation et la standardisation"/>
   <properties
-      key="ISO639_en:Name"
-      value="Interoperability Strategy, EIRA"/>
+      key="eCH-0279-Architekturvision-2050"
+      value="5.1"/>
   <properties
-      key="ISO639_en:Documentation-Link"
-      value="https://interoperable-europe.ec.europa.eu/taxonomy/term/10497"/>
+      key="Version"
+      value="eCH-0279"/>
+  <properties
+      key="eira:PURI"
+      value="http://data.europa.eu/dr8/InteroperabilityStrategyGoal"/>
+  <properties
+      key="dct:title"
+      value="Interoperability Strategy"/>
 </archimate:Driver>

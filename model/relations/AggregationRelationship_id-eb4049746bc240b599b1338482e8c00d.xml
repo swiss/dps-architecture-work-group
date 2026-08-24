@@ -1,0 +1,14 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-eb4049746bc240b599b1338482e8c00d">
+  <properties
+      key="Stereotyp"
+      value="AggregationMMB"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-f4564e0b679e4c08aeb326e6afa2d51e.xml#id-f4564e0b679e4c08aeb326e6afa2d51e"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-fd0c522e9a7246bfa564f2323dc07aa2.xml#id-fd0c522e9a7246bfa564f2323dc07aa2"/>
+</archimate:AggregationRelationship>
