@@ -110,7 +110,7 @@
         <bounds
             x="24"
             y="24"
-            width="109"
+            width="121"
             height="61"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -121,9 +121,9 @@
           id="id-e913d5a70e914186ac9ae95ed3dbd513"
           targetConnections="id-c5c13ef050e74851ace07f481b30bd26 id-6a8b7d8be2224101aeeb610f436f786e">
         <bounds
-            x="144"
+            x="156"
             y="24"
-            width="151"
+            width="139"
             height="25"/>
         <archimateElement
             xsi:type="archimate:Capability"
@@ -134,9 +134,9 @@
           id="id-1ba22b050f70484792773704e2667070"
           targetConnections="id-b2896a8f32c34167b794643863884f93 id-b65f5f09309c4ce8a1491b96266cea4a">
         <bounds
-            x="144"
+            x="156"
             y="60"
-            width="157"
+            width="145"
             height="25"/>
         <archimateElement
             xsi:type="archimate:Capability"
