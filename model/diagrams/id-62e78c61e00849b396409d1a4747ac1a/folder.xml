@@ -1,0 +1,14 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Abbildungen"
+    id="id-62e78c61e00849b396409d1a4747ac1a">
+  <features
+      name="labelExpression"
+      value="${if:$model{property:name_fr}:${property:name_fr}:${property:name_de}}"/>
+  <properties
+      key="name_fr"
+      value="Figures"/>
+  <properties
+      key="name_de"
+      value="Abbildungen"/>
+</archimate:Folder>
