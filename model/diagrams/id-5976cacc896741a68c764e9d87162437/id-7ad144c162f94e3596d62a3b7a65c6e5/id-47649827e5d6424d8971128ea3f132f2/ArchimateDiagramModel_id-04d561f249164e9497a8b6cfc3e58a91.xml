@@ -686,4 +686,16 @@
         xsi:type="archimate:Gap"
         href="Gap_id-641695a2b4cf47008f308e5a26fa905f.xml#id-641695a2b4cf47008f308e5a26fa905f"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-3e87b2ea62d640c48772cb0aa951d291">
+    <bounds
+        x="744"
+        y="-180"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-e05e77a1d62742948a1ffcfadd015e1d.xml#id-e05e77a1d62742948a1ffcfadd015e1d"/>
+  </children>
 </archimate:ArchimateDiagramModel>
