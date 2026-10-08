@@ -904,9 +904,21 @@
         x="493"
         y="348"
         width="120"
-        height="67"/>
+        height="81"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-d51aa3c6cd8c41138527eb5374af2439.xml#id-d51aa3c6cd8c41138527eb5374af2439"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-b40a3d8596434d0e9cc401b2301a2197">
+    <bounds
+        x="627"
+        y="348"
+        width="120"
+        height="81"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-3ad4cfc59f7d443498602db3adc0a385.xml#id-3ad4cfc59f7d443498602db3adc0a385"/>
   </children>
 </archimate:ArchimateDiagramModel>
