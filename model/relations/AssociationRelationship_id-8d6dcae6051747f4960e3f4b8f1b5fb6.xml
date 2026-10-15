@@ -1,0 +1,34 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="werden genuzt"
+    id="id-8d6dcae6051747f4960e3f4b8f1b5fb6"
+    directed="true">
+  <properties
+      key="name_fr"
+      value="sont utilisés"/>
+  <properties
+      key="eCH-0122-eGovernment-Architektur-Grundlagen"
+      value="Kap 3.5, Abbildung 7"/>
+  <properties
+      key="ISO639_de:Name"
+      value="werden genuzt"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="sont utilisés"/>
+  <properties
+      key="ISO639_de:Documentation-Link"
+      value="https://github.com/swiss/dps-architecture-work-group/wiki/STAN_d_DEF_2024-11-11_eCH-0122_V2.0.0_Architektur_E-Government_Schweiz_Grundlagen#generischer-prozess"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"
+      value="https://github.com/swiss/dps-architecture-work-group/wiki/STAN_f_DEF_2025-04-08_eCH-0122_V2_0_0_Architecture_cyberadministration_suisse_principes_fondamentaux#processus-g%C3%A9n%C3%A9rique"/>
+  <properties
+      key="Version"
+      value="eCH-0122-2-0-0"/>
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-7aa849c43f914cbfbed2320a4ca14803.xml#id-7aa849c43f914cbfbed2320a4ca14803"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-52982c2d58c64a6cb942a7c5db4aa11a.xml#id-52982c2d58c64a6cb942a7c5db4aa11a"/>
+</archimate:AssociationRelationship>

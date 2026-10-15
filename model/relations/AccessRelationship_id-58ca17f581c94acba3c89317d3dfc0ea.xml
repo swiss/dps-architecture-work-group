@@ -1,0 +1,33 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="erlässt"
+    id="id-58ca17f581c94acba3c89317d3dfc0ea">
+  <properties
+      key="name_fr"
+      value="statue"/>
+  <properties
+      key="eCH-0122-eGovernment-Architektur-Grundlagen"
+      value="Kap 3.5, Abbildung 7"/>
+  <properties
+      key="ISO639_de:Name"
+      value="erlässt"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="statue"/>
+  <properties
+      key="ISO639_de:Documentation-Link"
+      value="https://github.com/swiss/dps-architecture-work-group/wiki/STAN_d_DEF_2024-11-11_eCH-0122_V2.0.0_Architektur_E-Government_Schweiz_Grundlagen#generischer-prozess"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"
+      value="https://github.com/swiss/dps-architecture-work-group/wiki/STAN_f_DEF_2025-04-08_eCH-0122_V2_0_0_Architecture_cyberadministration_suisse_principes_fondamentaux#processus-g%C3%A9n%C3%A9rique"/>
+  <properties
+      key="Version"
+      value="eCH-0122-2-0-0"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-e88dcecc14b640bbad58baa8ed6a31b8.xml#id-e88dcecc14b640bbad58baa8ed6a31b8"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-9e1da98c1d3c4be08a41b90b6a50c4ef.xml#id-9e1da98c1d3c4be08a41b90b6a50c4ef"/>
+</archimate:AccessRelationship>

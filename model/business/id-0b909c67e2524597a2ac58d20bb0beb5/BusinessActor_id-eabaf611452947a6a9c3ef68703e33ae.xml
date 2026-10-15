@@ -1,0 +1,27 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behörde"
+    id="id-eabaf611452947a6a9c3ef68703e33ae"
+    documentation="&#xA;ech-0122&#xA;Eine rechtlich begründete Organisation, welche hoheitliche Staatsaufgaben der Schweiz wahrnimmt. Behörden können auf Ebene von Gemeinde, Kanton oder Bund existieren und zur Legislative, Exekutive oder Judikative gehören.">
+  <properties
+      key="name_fr"
+      value="Autorité"/>
+  <properties
+      key="eCH-0122-eGovernment-Architektur-Grundlagen"
+      value="Kap 3.5, Abbildung 7"/>
+  <properties
+      key="ISO639_de:Name"
+      value="Behörde"/>
+  <properties
+      key="ISO639_fr:Name"
+      value="Autorité"/>
+  <properties
+      key="ISO639_de:Documentation-Link"
+      value="https://github.com/swiss/dps-architecture-work-group/wiki/STAN_d_DEF_2024-11-11_eCH-0122_V2.0.0_Architektur_E-Government_Schweiz_Grundlagen#generischer-prozess"/>
+  <properties
+      key="ISO639_fr:Documentation-Link"
+      value="https://github.com/swiss/dps-architecture-work-group/wiki/STAN_f_DEF_2025-04-08_eCH-0122_V2_0_0_Architecture_cyberadministration_suisse_principes_fondamentaux#processus-g%C3%A9n%C3%A9rique"/>
+  <properties
+      key="Version"
+      value="eCH-0122-2-0-0"/>
+</archimate:BusinessActor>
