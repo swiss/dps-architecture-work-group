@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Actor Management"
+    id="id-cd344d5c9133429ab34425871f993d99">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-1233e5e389d0419585347219a6936937.xml#id-1233e5e389d0419585347219a6936937"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-4016ceb9ad59488986e8218187390045.xml#id-4016ceb9ad59488986e8218187390045"/>
+</archimate:FlowRelationship>

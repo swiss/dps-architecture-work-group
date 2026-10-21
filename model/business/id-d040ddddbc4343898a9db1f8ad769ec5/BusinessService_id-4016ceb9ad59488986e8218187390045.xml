@@ -1,14 +1,14 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="VC-Issuer"
-    id="id-4975e2dc9f1440c38dc4f2af6b766af9">
+    name="Shared Trust Services"
+    id="id-4016ceb9ad59488986e8218187390045">
   <properties
       key="ISO639_en:Documentation-Link"
-      value="https://swiyu-admin-ch.github.io/introduction/#swiyu-generic-issuer"/>
+      value="https://swiyu-admin-ch.github.io/introduction/#swiyu-base-registry"/>
   <properties
       key="ISO639_de:Name"
-      value="VC-Issuer"/>
+      value="Basis-Register"/>
   <properties
       key="ISO639_en:Name"
-      value="Issuing Component"/>
+      value="Base Registry"/>
 </archimate:BusinessService>

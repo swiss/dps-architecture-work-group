@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VC Issueing"
+    id="id-b89e029dd92b42b68da3d8b41d416f3d">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-4975e2dc9f1440c38dc4f2af6b766af9.xml#id-4975e2dc9f1440c38dc4f2af6b766af9"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-4016ceb9ad59488986e8218187390045.xml#id-4016ceb9ad59488986e8218187390045"/>
+</archimate:FlowRelationship>
