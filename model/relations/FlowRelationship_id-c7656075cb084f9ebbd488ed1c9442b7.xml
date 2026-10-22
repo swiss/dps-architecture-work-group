@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VC Verifing"
+    id="id-c7656075cb084f9ebbd488ed1c9442b7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-4016ceb9ad59488986e8218187390045.xml#id-4016ceb9ad59488986e8218187390045"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-b76d39cda5e24dfa8885e93864e412aa.xml#id-b76d39cda5e24dfa8885e93864e412aa"/>
+</archimate:FlowRelationship>

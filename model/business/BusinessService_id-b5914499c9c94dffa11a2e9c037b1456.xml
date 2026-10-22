@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shared Services (copy)"
+    id="id-b5914499c9c94dffa11a2e9c037b1456"
+    documentation="Core Business Service">
+  <properties
+      key="ISO639_en:Documentation-Link"
+      value="https://swiyu-admin-ch.github.io/introduction/#swiyu-base-registry"/>
+  <properties
+      key="ISO639_de:Name"
+      value="Basis-Register"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Base Registry"/>
+</archimate:BusinessService>

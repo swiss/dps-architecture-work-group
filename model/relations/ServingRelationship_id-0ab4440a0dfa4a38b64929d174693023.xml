@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-ID im Selfservice"
+    id="id-0ab4440a0dfa4a38b64929d174693023">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-70b6a24220d047adb03590ee442977bc.xml#id-70b6a24220d047adb03590ee442977bc"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-236b7d4a3c244241baa5bcdd41db9325.xml#id-236b7d4a3c244241baa5bcdd41db9325"/>
+</archimate:ServingRelationship>

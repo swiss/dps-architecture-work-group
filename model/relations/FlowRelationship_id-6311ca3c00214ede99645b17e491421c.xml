@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ausweisdaten"
+    id="id-6311ca3c00214ede99645b17e491421c">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-296e088b98c14a4c9a6387deeee2034b.xml#id-296e088b98c14a4c9a6387deeee2034b"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-177d3bd62d6948559bba64bdbedf26da.xml#id-177d3bd62d6948559bba64bdbedf26da"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,15 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-ID Online Schalter"
+    id="id-70b6a24220d047adb03590ee442977bc"
+    documentation="Auf Basis des swiyu Generic Issuer&#xA;Web und Mobile Channel">
+  <properties
+      key="ISO639_en:Documentation-Link"
+      value="https://swiyu-admin-ch.github.io/introduction/#swiyu-generic-issuer"/>
+  <properties
+      key="ISO639_de:Name"
+      value="VC-Issuer"/>
+  <properties
+      key="ISO639_en:Name"
+      value="Issuing Component"/>
+</archimate:BusinessService>

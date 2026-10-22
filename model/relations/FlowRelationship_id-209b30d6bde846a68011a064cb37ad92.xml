@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CheckApp Authenzität"
+    id="id-209b30d6bde846a68011a064cb37ad92">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-b76d39cda5e24dfa8885e93864e412aa.xml#id-b76d39cda5e24dfa8885e93864e412aa"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-8cf8d5b862494478ac0276e55cdd7f53.xml#id-8cf8d5b862494478ac0276e55cdd7f53"/>
+</archimate:FlowRelationship>

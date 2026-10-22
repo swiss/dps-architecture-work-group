@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-ID am Schalter"
+    id="id-c2def1a4a0c54cbead67e027f0afeee8">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-73a5989dca384ef7b2e26de7ab07ff5a.xml#id-73a5989dca384ef7b2e26de7ab07ff5a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-236b7d4a3c244241baa5bcdd41db9325.xml#id-236b7d4a3c244241baa5bcdd41db9325"/>
+</archimate:ServingRelationship>
