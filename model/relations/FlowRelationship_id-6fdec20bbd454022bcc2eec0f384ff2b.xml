@@ -1,9 +1,9 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Trust Statement der Actoren bewirtschaften"
+    name="Trust Statement der Actors bewirtschaften"
     id="id-6fdec20bbd454022bcc2eec0f384ff2b"
-    documentation="Aus dem Basisregister ins Vertrauensregister eintragen">
+    documentation="Entspricht logisch einen Actor vom Basisregister ins Vertrauensregister einzutragen">
   <source
       xsi:type="archimate:BusinessService"
       href="BusinessService_id-f7e6eca8fafc4d3ea34559c28b21a44b.xml#id-f7e6eca8fafc4d3ea34559c28b21a44b"/>
