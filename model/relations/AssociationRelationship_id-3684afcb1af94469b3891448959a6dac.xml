@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gesetz ist Policy"
+    id="id-3684afcb1af94469b3891448959a6dac">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-9e1da98c1d3c4be08a41b90b6a50c4ef.xml#id-9e1da98c1d3c4be08a41b90b6a50c4ef"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-f68d75ce4ec14ac5bb62a050a3941fdf.xml#id-f68d75ce4ec14ac5bb62a050a3941fdf"/>
+</archimate:AssociationRelationship>

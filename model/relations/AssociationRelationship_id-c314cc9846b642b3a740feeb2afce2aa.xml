@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leistung ist Produkt"
+    id="id-c314cc9846b642b3a740feeb2afce2aa">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-2a68f92cf6e6411da6d602100a890ee0.xml#id-2a68f92cf6e6411da6d602100a890ee0"/>
+  <target
+      xsi:type="archimate:Product"
+      href="Product_id-702def7bd7bc4acda7674bcedfd77b6c.xml#id-702def7bd7bc4acda7674bcedfd77b6c"/>
+</archimate:AssociationRelationship>
