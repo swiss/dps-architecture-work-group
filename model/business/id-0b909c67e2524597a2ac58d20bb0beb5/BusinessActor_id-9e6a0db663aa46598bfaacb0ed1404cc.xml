@@ -1,7 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Unternehmen"
-    id="id-9e6a0db663aa46598bfaacb0ed1404cc">
+    id="id-9e6a0db663aa46598bfaacb0ed1404cc"
+    documentation="&#xA;eCH-0122&#xA;Ein Unternehmen ist die kleinste Kombination rechtlicher Einheiten (Einheiten mit Rechten und Pflichten) zur Erzeugung von Waren und Dienstleistungen, die in Bezug auf die Verwendung der ihr zufliessenden Mittel über eine gewisse Entscheidungsfreiheit verfügt. &#xA;Ein Unternehmen führt demgemäss eine Tätigkeit aus. Die Unternehmen bestehen aus einer oder mehreren örtlichen Einheiten (Hauptbetrieb und Niederlassungen).">
   <properties
       key="name_fr"
       value="Entreprise"/>
@@ -10,10 +11,10 @@
       value="Kap 3.5, Abbildung 7"/>
   <properties
       key="ISO639_de:Name"
-      value="Gesetz"/>
+      value="Unternehmen"/>
   <properties
       key="ISO639_fr:Name"
-      value="Loi"/>
+      value="Entreprise"/>
   <properties
       key="ISO639_de:Documentation-Link"
       value="https://github.com/swiss/dps-architecture-work-group/wiki/STAN_d_DEF_2024-11-11_eCH-0122_V2.0.0_Architektur_E-Government_Schweiz_Grundlagen#generischer-prozess"/>
