@@ -841,6 +841,34 @@
         width="265"
         height="241"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-6f6f68a96c1540e48a84e4384493c30f"
+      targetConnections="id-aaf29579fa084a52adcf7308da055911">
+    <bounds
+        x="336"
+        y="84"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-08104aa6e7954da5aa01c532ea576f45.xml#id-08104aa6e7954da5aa01c532ea576f45"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2f8ffa709478472499967f9af2d720a4"
+      textAlignment="1"
+      content="Veraltete Darstellung, siehe Arbeitsversion">
+    <sourceConnections
+        id="id-aaf29579fa084a52adcf7308da055911"
+        source="id-2f8ffa709478472499967f9af2d720a4"
+        target="id-6f6f68a96c1540e48a84e4384493c30f"/>
+    <bounds
+        x="339"
+        y="37"
+        width="106"
+        height="36"/>
+  </children>
   <properties
       key="ISO639_en:Documentation-Link"
       value="https://swiyu-admin-ch.github.io/technology-stack/"/>

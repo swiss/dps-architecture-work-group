@@ -4,8 +4,8 @@
     name="E-ID Antrag"
     id="id-796ef31ac7f344ec8f6cc60f6945b9a4">
   <source
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_id-70b6a24220d047adb03590ee442977bc.xml#id-70b6a24220d047adb03590ee442977bc"/>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-236b7d4a3c244241baa5bcdd41db9325.xml#id-236b7d4a3c244241baa5bcdd41db9325"/>
   <target
       xsi:type="archimate:BusinessService"
       href="BusinessService_id-b166e32331984ea2a5c7897a79825f21.xml#id-b166e32331984ea2a5c7897a79825f21"/>

@@ -4,8 +4,8 @@
     name="VC Issuing"
     id="id-ec664e8ba7384d6cbd88f460bc531def">
   <source
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_id-70b6a24220d047adb03590ee442977bc.xml#id-70b6a24220d047adb03590ee442977bc"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-0a28f1a75d114fca845e6efede5e5a86.xml#id-0a28f1a75d114fca845e6efede5e5a86"/>
   <target
       xsi:type="archimate:BusinessService"
       href="BusinessService_id-4016ceb9ad59488986e8218187390045.xml#id-4016ceb9ad59488986e8218187390045"/>
